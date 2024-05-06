@@ -1,0 +1,12 @@
+= S2-terminology
+
+== Code systems
+
+The directory code_systems contains files providing standard meta-data about terminologies, incuding:
+
+* S2 namespace
+* URI identifying the terminology
+* URI pattern for creating a code URI in the terminology
+* (others in future)
+
+

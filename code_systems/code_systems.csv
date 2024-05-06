@@ -1,0 +1,5 @@
+loinc,http://loinc.org,http://loinc.org/
+snomed,http://snomed.info/sct,http://snomed.info/id/
+rxnorm,http://www.nlm.nih.gov/research/umls/rxnorm,http://www.nlm.nih.gov/research/umls/rxnorm/
+s2,http://s2health.org,http://s2health.org/id/
+openehr,http://openehr.org,http://openehr.org/id/
