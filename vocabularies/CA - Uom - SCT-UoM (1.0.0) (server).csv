@@ -1,0 +1,315 @@
+﻿SourceDescription,SNOMED ID,SNOMED Description,UCUMSyntax
+acre,282386006,acre (qualifier value),[acr_us]
+amp,278078000,Ampere (qualifier value),A
+Ångström,282282005,angstrom (qualifier value),Ao
+APL Unit,2711000175106,Arbitrary unit of immunoglobulin A isotype for phospholipid antigen (qualifier value),[APL'U]
+arbitrary unit,258766007,Arbitrary unit (qualifier value),[arb'U]
+Arbitrary Unit per Milliliter,418913000,Arbitrary unit per milliliter (qualifier value),[arb'U]/mL
+ATMOSPHERE,304607008,atmosphere (qualifier value),atm
+bar,428003006,Bar - unit of product usage (qualifier value),bar
+barrel,732983004,Barrel (unit of presentation),[bbl_us]
+becquerel,282141004,Becquerel (qualifier value),Bq
+Bethesda unit,258725007,Bethesda units (qualifier value),[beth'U]
+British thermal unit,283002006,British thermal unit (qualifier value),[Btu]
+calorie,258790008,calorie (qualifier value),cal
+candela,282254003,candela (qualifier value),cd
+CentiGram,396156008,Centigram (qualifier value),cg
+CentiLiter,258772007,Centiliter (qualifier value),cL
+centimeter,258672001,Centimeter (qualifier value),cm
+Centipoise,259040005,centipoise (qualifier value),cP
+centistoke,282284006,centistokes (qualifier value),cSt
+colony forming unit,258733008,colony-forming unit (qualifier value),[CFU]
+Colony Forming Unit Per Liter,258884002,Colony-forming units/liter (qualifier value),{CFU}/L
+colony forming unit per milliliter,258882003,Colony-forming units/milliliter (qualifier value),[CFU]/mL
+Copy Per MilliLiter,413913003,Copies/milliliter (qualifier value),{Copies}/mL
+Coulomb,284482008,coulomb (qualifier value),C
+count,258734002,counts (qualifier value),{count}
+cubic foot,282121009,cubic foot (qualifier value),[cft_i]
+cubic inch,282122002,cubic inch (qualifier value),[cin_i]
+Cubic Meter,396154006,Cubic meter (qualifier value),[m3]
+cubic millimeter,258774008,Microliter (qualifier value),[cmm]
+cubic yard,282123007,cubic yard (qualifier value),[cyd_i]
+cup,732991008,Cup (unit of presentation),[cup_us]
+Curie,282109005,Curie (qualifier value),Ci
+day,258703001,day (qualifier value),d
+decibel,259042002,decibel (qualifier value),dB
+decigram,396157004,Decigram (qualifier value),dg
+deciliter,258771000,Deciliter (qualifier value),dL
+DeciMeter,258671008,Decimeter (qualifier value),dm
+degree,259046004,degrees of arc (qualifier value),deg
+"degree, Celsius",258710007,Degrees Celsius (qualifier value),Cel
+"degree, fahrenheit",258712004,Degrees Fahrenheit (qualifier value),[degF]
+"degree, kelvin",258713009,Degrees Kelvin (qualifier value),K
+diopter,259047008,Diopters (qualifier value),[diop]
+drop,732994000,Drop (unit of presentation),[drp]
+dyne,282815007,dyne (qualifier value),dyn
+Dyne Second per Centimeter^5,277383001,dyne/s/cm5 (qualifier value),dyn.s/cm5
+Each per Low Power Field,415059001,Per low power field (qualifier value),{Each}/[LPF]
+Each per Second,288495006,per second (qualifier value),{Each}/s
+Ehrlich Unit,414081004,Ehrlich unit (qualifier value),[EU] 
+Ehrlich Unit Per DeciLiter,698100007,Ehrlich units per deciliter (qualifier value),[EU]/dL
+electronvolt,282252004,electronvolt (qualifier value),eV
+equivalent,258726008,equivalent - unit (qualifier value),eq
+farad,304610001,farad (qualifier value),F
+femtogram,258688001,femtogram (qualifier value),fg
+femtoliter,258775009,Femtoliter (qualifier value),fL
+femtomole,258722005,femtomole (qualifier value),fmol
+FemtoMole Per MilliLiter,258819003,Picomole/liter (qualifier value),fmol/mL
+fluid ounce,282118007,fluid ounce (qualifier value),[foz_us]
+foot,259051005,Foot (qualifier value),[ft_i]
+Gal,282120005,gallon (qualifier value),Gal
+gallon,282120005,gallon (qualifier value),[gal_us]
+Gigabecquerel,418931004,Gigabecquerel (qualifier value),GBq
+GPL Unit,420126000,Arbitrary unit of immunoglobulin G isotype for phospholipid antigen (qualifier value),[GPL'U]
+GPL Unit,420126000,Arbitrary unit of immunoglobulin G isotype for phospholipid antigen (qualifier value),[GPL'U]
+gram,258682000,gram (qualifier value),g
+gram per 24 hour,258830000,Gram/24 hours (qualifier value),g/[24]h
+gram per deciliter,258795003,Gram/deciliter (qualifier value),g/dL
+Gram Per Gram Creatinine,419800004,Grams per gram of creatinine (qualifier value),g/g{Cre}
+gram per kilogram,396167009,Gram/kilogram (qualifier value),g/kg
+gram per liter,258794004,Gram/liter (qualifier value),g/L
+Gram Per MilliLiter,396169007,Gram/milliliter (qualifier value),g/mL
+Gram Per Square Meter,396168004,Gram/square meter (qualifier value),g/m2
+Gram Per Total Weight,228919004,Gram/kilogram body weight (qualifier value),g/{TotalWeight}
+gram-force,259053008,Gram-force (qualifier value),gf
+GramMeter,277384007,Gram.meter (qualifier value),g.m
+GramMeter Per Heart beat Per Square Meter,414362004,Gram-meter/beat/meter2 (qualifier value),g.m/({H.B.}.m2)
+Gray,229029004,Gray (qualifier value),Gy
+Heart Beat/minute,258983007,Beats/minute (qualifier value),{H.B.}/min
+henry,304612009,henry (qualifier value),H
+hertz,259025008,Hertz (qualifier value),Hz
+high power field,259034003,per high power field (qualifier value),[HPF]
+horsepower,283000003,horsepower (qualifier value),[HP]
+hour,258702006,hour (qualifier value),h
+IgG Phospholipid Unit Per MilliLiter,258897000,Immunoglobulin G phospholipid unit/milliliter (qualifier value),{IgGPhospholipid}U/mL
+IgM Phospholipid Unit Per MilliLiter,258898005,Immunoglobulin M phospholipid unit/milliliter (qualifier value),{IgMPhospholipid}U/mL
+inch,258677007,Inch (qualifier value),[in_i]
+international table British thermal unit,283002006,British thermal unit (qualifier value),[Btu_IT]
+international table calorie,258790008,calorie (qualifier value),cal_IT
+international unit,258997004,international unit (qualifier value),[iU]
+international unit per deciliter,426110007,International unit/deciliter (qualifier value),[iU]/dL
+international unit per gram,408163000,International units per gram (qualifier value),[iU]/g
+international unit per gram hemoglobin,258900007,International unit/gram hemoglobin (qualifier value),[iU]/g{Hgb}
+international unit per kilogram,259007001,international units per kilogram (qualifier value),[iU]/kg
+international unit per liter,259001000,International unit/liter (qualifier value),[iU]/L
+international unit per milliliter,259002007,international unit/milliliter (qualifier value),[iU]/mL
+international unit per square meter,414524001,International units per square meter (qualifier value),[iU]/m2
+joule,258786006,Joule (qualifier value),J
+katal,258777001,Katal (qualifier value),kat
+Kelvin,258713009,Degrees Kelvin (qualifier value),K
+Kilo International Unit,258998009,Kilointernational unit (qualifier value),k[iU]
+kilocalorie,258791007,kilocalorie (qualifier value),kcal
+kilocalorie per kilogram,228910000,Kilocalorie/kilogram body weight (qualifier value),kcal/kg
+kilocalorie per milliliter,228902001,Kilocalorie/milliliter (qualifier value),kcal/mL
+kilogram,258683005,kilogram (qualifier value),kg
+KiloGram Per Cubic Meter,396153000,Kilogram/cubic meter (qualifier value),kg/m3
+KiloGram Per Liter,408162005,Kilogram/liter (qualifier value),kg/L
+KiloGram Per Square Meter,258896009,Kilogram/square meter (qualifier value),kg/m2
+kilometer,258670009,Kilometer (qualifier value),km
+knot,282136007,knot (qualifier value),[kn_i]
+liter,258770004,Liter (qualifier value),L
+liter per kilogram,419805009,Milliliter/gram (qualifier value),L/kg
+liter per second,258995007,Liter/second (qualifier value),L/s
+Log International Unit per Milliliter,418229004,Log international units per milliliter (qualifier value),{log_IU}/mL
+Log10,418543008,Log base 10 (qualifier value),[lg]
+low power field,415059001,Per low power field (qualifier value),[LPF]
+lux,282255002,lux (qualifier value),lx
+Megabecquerel,229034000,Megabecquerel (qualifier value),MBq
+meter,258669008,meter (qualifier value),m
+Meter per Second,272090007,Meter/second (qualifier value),m/s
+Micro International Unit,259000004,Microinternational unit (qualifier value),u[iU]
+Micro International Unit Per MilliLiter,259006005,Microinternational unit/milliliter (qualifier value),u[iU]/mL
+MicroCurie,282111001,Microcurie (qualifier value),uCi
+microequivalent,258728009,microequivalent (qualifier value),ueq
+MicroEquivalent Per Liter,419083003,Microequivalents/liter (qualifier value),ueq/L
+MicroEquivalent Per MilliLiter,414733002,Milliequivalents/milliliter (qualifier value),ueq/mL
+microgram,258685003,microgram (qualifier value),ug
+microgram per deciliter,258800008,Microgram/deciliter (qualifier value),ug/dL
+MicroGram Per DeciLiter Red Blood Cells,258911004,Microgram/deciliter erythrocytes (qualifier value),ug/dL{rbc}
+MicroGram Per Gram,258802000,Microgram/gram (qualifier value),ug/g
+MicroGram Per Gram Creatinine,258912006,Microgram per gram of creatinine (qualifier value),ug/g{Cre}
+MicroGram Per Gram Dry Weight,258914007,Microgram/gram dry weight tissue (qualifier value),ug/g{DryWeight}
+MicroGram Per Gram Hemoglobin,419350000,Micrograms per gram hemoglobin (qualifier value),ug/g{Hgb}
+MicroGram Per KiloGram,258803005,Microgram/kilogram (qualifier value),ug/kg
+microgram per liter,258799009,Microgram/liter (qualifier value),ug/L
+MicroGram Per MilliGram,414718005,Microgram/milligram (qualifier value),ug/mg
+MicroGram Per MilliGram Creatinine,258916009,Microgram per milligram of creatinine (qualifier value),ug/mg{Cre}
+microgram per milliliter,258801007,Microgram/milliliter (qualifier value),ug/mL
+MicroGram Per Specimen,419557001,Microgram per specimen (qualifier value),ug/{Specimen}
+MicroGram Per Square Meter,396177006,Mcg/m2 (qualifier value),ug/m2
+microkatal,258779003,Microkatal (qualifier value),ukat
+microliter,258774008,Microliter (qualifier value),uL
+micrometer,258674000,Micrometer (qualifier value),um
+micromole,258719008,micromole (qualifier value),umol
+MicroMole Per DeciLiter,258815009,Micromole/deciliter (qualifier value),umol/dL
+MicroMole Per Gram,258816005,Micromole/gram (qualifier value),umol/g
+MicroMole Per Gram Creatinine,258917000,Micromole per gram of creatinine (qualifier value),umol/g{Cre}
+MicroMole Per Gram Hemoglobin,258921007,Micromole/gram hemoglobin (qualifier value),umol/g{Hgb}
+micromole per liter,258814008,Micromole/liter (qualifier value),umol/L
+MicroMole Per MilliLiter,414719002,Micromole/milliliter (qualifier value),umol/mL
+MicroMole Per Mole,414720008,Micromole/mole (qualifier value),umol/mol
+MicroMole Per Mole Creatinine,258923005,Micromole per mole of creatinine (qualifier value),umol/mol{Cre}
+microsecond,258698007,Microsecond (qualifier value),us
+microunit,414721007,Microunit (qualifier value),uU
+microvolt,426342006,Microvolt (qualifier value),uV
+mile,258678002,Mile (qualifier value),[mi_us]
+Milli International Unit,258999001,milliinternational unit (qualifier value),mIU
+Milli International Unit Per MilliLiter,259005009,milliinternational unit/milliliter (qualifier value),m[iU]/mL
+milliequivalent,258727004,milliequivalent (qualifier value),meq
+MilliEquivalent Per DeciLiter,414727006,Milliequivalents/deciliter (qualifier value),meq/dL
+MilliEquivalent Per KiloGram,396178001,Milliequivalent/kilogram (qualifier value),meq/kg
+milliequivalent per liter,258865000,Milliequivalent/liter (qualifier value),meq/L
+MilliEquivalent Per MilliLiter,414733002,Milliequivalents/milliliter (qualifier value),meq/mL
+MilliEquivalent Per Square Meter,414732007,Milliequivalents/meter2 (qualifier value),meq/m2
+milligram,258684004,milligram (qualifier value),mg
+milligram per 24 hour,258836006,Milligrams/24 hours (qualifier value),mg/[24]h
+milligram per deciliter,258797006,Milligram/deciliter (qualifier value),mg/dL
+milligram per decilliter Red Blood Cells,419938001,Milligrams per deciliter erythrocytes (qualifier value),mg/dL{RBC}
+milligram per gram,408168009,Milligram/gram (qualifier value),mg/g
+MilliGram Per Gram Creatinine,258927006,Milligram per gram of creatinine (qualifier value),mg/g{Cre}
+milligram per kilogram,396163008,Milligram/kilogram (qualifier value),mg/kg
+milligram per liter,258796002,Milligram/liter (qualifier value),mg/L
+MilliGram Per MilliGram,408169001,Milligram/milligram (qualifier value),mg/mg
+Milligram Per Milligram Creatinine,258916009,Microgram per milligram of creatinine (qualifier value),mg/mg{Cre}
+MilliGram Per MilliLiter,258798001,Milligram/milliliter (qualifier value),mg/mL
+milligram per millimole,289944007,Milligram/millimole (qualifier value),mg/mmol
+milligram per square centimeter,418670008,Milligram/centimeter2 (qualifier value),mg/cm2
+MilliGram Per Square Meter,404216004,Milligram/square meter (qualifier value),mg/m2
+milli-international unit per liter,259004008,milliinternational unit/liter (qualifier value),m[iU]/L
+millikatal,258778006,Millikatal (qualifier value),mkat
+milliliter,258773002,Milliliter (qualifier value),mL
+milliliter per deciliter,258862002,Milliliter/deciliter (qualifier value),mL/dL
+milliliter per gram,419805009,Milliliter/gram (qualifier value),mL/g
+milliliter per heart beat,277386009,Milliliter/beat (qualifier value),mL/{H.B.}
+milliliter per hour,258989006,Milliliter/hour (qualifier value),mL/h
+milliLiter per kilogram,396180007,mL/kg (qualifier value),mL/kg
+milliliter per millliter,419346007,Milliliter/milliliter (qualifier value),mL/mL
+milliliter per square meter,414740001,Milliliter/meter2 (qualifier value),mL/m2
+millimeter,258673006,Millimeter (qualifier value),mm
+millimeter of mercury,259018001,Millimeter of mercury (qualifier value),mm[Hg]
+millimole,258718000,millimole (qualifier value),mmol
+MilliMole Per DeciLiter,414744005,Millimole per deciliter (qualifier value),mmol/dL
+MilliMole Per KiloGram,258826003,Millimole/kilogram (qualifier value),mmol/kg
+millimole per liter,258813002,Millimole/liter (qualifier value),mmol/L
+MilliMole Per Mole Creatinine,258935009,Millimole per mole of creatinine (qualifier value),mmol/mol{Cre}
+MilliMole Per Square Meter,414743004,Millimole/square meter (qualifier value),mmol/m2
+million,396186001,Million unit (qualifier value),10*6
+Million Unit,396186001,Million unit (qualifier value),10*6.U
+MilliOsmole,258730006,milliosmole (qualifier value),mosm
+MilliOsmole Per KiloGram,258870007,Milliosmole/kilogram (qualifier value),mosm/kg
+milliosmole per kilogram of water,419541001,Milliosmoles per kilogram H2O (qualifier value),mosm/kg[water]
+MilliOsmole Per Liter,258867008,Milliosmole/liter (qualifier value),mosm/L
+millisecond,258697002,Millisecond (qualifier value),ms
+Millisievert,282250007,Millisievert (qualifier value),mSv
+Milliunit,414746007,Milliunit (qualifier value),mU
+milliunit per gram,414747003,Milliunit/gram (qualifier value),mU/g
+MilliUnit Per Gram Hemoglobin,419171003,Milliunits per gram hemoglobin (qualifier value),mU/g{Hgb}
+milliunit per liter,258953003,Milliunit/liter (qualifier value),mU/l
+millivolt,473017002,millivolt (qualifier value),mV
+minute,1156209001,minute (qualifier value),min
+Minute per Day,229787008,Minutes/day (qualifier value),min/d
+mole,258717005,mole - unit (qualifier value),mol
+Mole Per Liter,258812007,Mole/liter (qualifier value),mol/L
+Mole per Mole,414758007,Moles per unit mole (qualifier value),mol/mol
+month,258706009,month (qualifier value),mo
+MPL Unit,418406009,Arbitrary unit of immunoglobulin M isotype for phospholipid antigen (qualifier value),[MPL'U]
+MPL Unit,418406009,Arbitrary unit of immunoglobulin M isotype for phospholipid antigen (qualifier value),[MPL'U]
+Nanocurie,282112008,Nanocurie (qualifier value),nCi
+nanogram,258686002,nanogram (qualifier value),ng
+nanogram per deciliter,258805003,Nanogram/deciliter (qualifier value),ng/dL
+NanoGram per Gram,418967006,Nanogram per gram (qualifier value),ng/g
+NanoGram Per KiloGram,418708009,Nanogram per kilogram (qualifier value),ng/kg
+nanogram per liter,258804004,Nanogram/liter (qualifier value),ng/L
+nanogram per milliliter,258806002,Nanogram/milliliter (qualifier value),ng/mL
+nanogram per milliliter per hour,414800002,Nanograms/milliliter/hour (qualifier value),ng/mL/hr
+NanoGram Per Square Meter,423519009,Nanogram/square meter (qualifier value),ng/m2
+nanoliter,282113003,Nanoliter (qualifier value),nL
+nanometer,258675004,Nanometer (qualifier value),nm
+NanoMole,258720002,nanomole (qualifier value),nmol
+NanoMole Per DeciLiter,414802005,Nanomole/deciliter (qualifier value),nmol/dL
+NanoMole Per Gram,258827007,Nanomole/gram (qualifier value),nmol/g
+nanomole per liter,258817001,Nanomole/liter (qualifier value),nmol/L
+NanoMole Per MilliLiter,414803000,Nanomole/milliliter (qualifier value),nmol/mL
+Nanomole per Milliliter per Minute,258981009,Nanomole/minute/milliliter (qualifier value),nmol/mL/min
+NanoMole Per MilliMole,414801003,Nanomole/millimole (qualifier value),nmol/mmol
+NanoMole Per MilliMole Creatinine,258942009,Nanomole per millimole of creatinine (qualifier value),nmol/mmol{Cre}
+nanosecond,258699004,Nanosecond (qualifier value),ns
+newton,278490008,newton (qualifier value),N
+number,258734002,counts (qualifier value),{#}
+Number of Days per Week,229784001,days/week (qualifier value),d/(7.d)
+Number per Week,259038000,per week (qualifier value),{#}/wk
+nutrition label Calorie,258790008,calorie (qualifier value),[Cal]
+ohm,282140003,ohm (qualifier value),Ohm
+osmole,258729001,osmole (qualifier value),osm
+Osmole Per KiloGram,258868003,Osmole/kilogram (qualifier value),osm/kg
+Osmole Per Liter,258866004,Osmole/liter (qualifier value),osm/L
+ounce,258692008,ounces (qualifier value),[oz_av]
+part per billion,282106003,Parts per billion (qualifier value),[ppb]
+part per million,258731005,Parts per million (qualifier value),[ppm]
+pascal,259016002,Pascal (qualifier value),Pa
+Per High Power Field,259034003,per high power field (qualifier value),/[HPF]
+Per MicroLiter,420167005,Per microliter (qualifier value),/uL
+Per MilliLiter,259035002,per milliliter (qualifier value),/mL
+per Year,259039008,per year (qualifier value),/a
+Percent Abnormal,258750005,Percentage abnormal forms (qualifier value),%{Abnormal}
+Percent Activity,258745004,Percentage activity (qualifier value),%{Activity}
+Percent Bound,418131003,Percentage bound (qualifier value),%{Bound}
+Percent Excretion,418678001,Percentage excreted (qualifier value),%{Excretion}
+Percent Hemoglobin,258762009,Percentage total hemoglobin (qualifier value),%{Hemoglobin}
+Percent Hemolysis,418983006,Percentage hemolysis (qualifier value),%{Hemolysis}
+Percent Inhibition,419495008,Percentage inhibition (qualifier value),%{Inhibition}
+Percent Normal,258744000,Percentage normal (qualifier value),%{Normal}
+Percent Positive,258758003,Percentage positive cells (qualifier value),%{Positive}
+Percent Total,258755000,Percentage of total (qualifier value),%{Total}
+Percent Total Protein,258757008,Percentage of total protein (qualifier value),%{TotalProtein}
+Percent Uptake,258763004,Percentage uptake (qualifier value),%{Uptake}
+picogram,258687006,picogram (qualifier value),pg
+PicoGram Per DeciLiter,258809009,Picogram/deciliter (qualifier value),pg/dL
+picogram per liter,258807006,Picogram/liter (qualifier value),pg/L
+picogram per milliliter,258808001,Picogram/milliliter (qualifier value),pg/mL
+picoliter,282114009,Picoliter (qualifier value),pL
+picomole,258721003,picomole (qualifier value),pmol
+PicoMole Per Liter,258819003,Picomole/liter (qualifier value),pmol/L
+pint,282119004,pint (qualifier value),[pt_us]
+pound,258693003,pounds (qualifier value),[lb_av]
+pound force,259014004,Pound-force (qualifier value),[lbf_av]
+pound per square inch,259015003,Pounds/square inch (qualifier value),[psi]
+prism diopter,259050006,prism diopters (qualifier value),[p'diop]
+radiation absorbed dose,229040007,rad (qualifier value),RAD
+radiation equivalent man,282251006,Radiation equivalent man (qualifier value),REM
+Red Blood Cell Per MicroLiter,258887009,Erythrocytes/microliter (qualifier value),{rbc}/uL
+Roentgen,282720000,roentgen (qualifier value),R
+Scoop,415505006,Scoop - unit of product usage (qualifier value),{Scoop}
+second,288495006,per second (qualifier value),s
+second of an arc,259082009,seconds of arc (qualifier value),""""
+Sievert,282249007,Sievert (qualifier value),Sv
+Spermatozoa Per MilliLiter,258956006,Sperms/mL (qualifier value),{Spermatozoa}/mL
+square centimeter,259022006,Square centimeter (qualifier value),cm2
+square foot,282384009,Square foot (qualifier value),[sft_i]
+square inch,282383003,Square inch (qualifier value),[sin_i]
+square meter,278077005,Square meter (qualifier value),m2
+Square MilliMeter,277472009,Square millimeter (qualifier value),mm2
+square yard,282385005,Square yard (qualifier value),[syd_i]
+tablespoon,415702006,Tablespoonful - unit of product usage (qualifier value),[tbs_us]
+tablet,732936001,Tablet (unit of presentation),{tbl}
+teaspoon,415703001,Teaspoonful - unit of product usage (qualifier value),[tsp_us]
+thousand,2011000175108,Thousand unit (qualifier value),10*3
+Thousand Per MicroLiter,1287856009,x10^3/microliter (qualifier value),10*3/uL
+tonne,258691001,tonne (qualifier value),t
+tuberculin unit,415758003,Tuberculin unit (qualifier value),[tb'U]
+Unit,767525000,Unit (qualifier value),U
+Unit Per Gram,415784009,Unit/gram (qualifier value),U/g
+Unit Per Gram Hemoglobin,427033001,Unit/gram hemoglobin (qualifier value),U/g{Hgb}
+unit per kilogram,415785005,Unit/kilogram (qualifier value),U/kg
+unit per liter,258947003,Unit/liter (qualifier value),U/L
+unit per milligram,418830004,Unit/milligram (qualifier value),U/mg
+unit per milliliter,258948008,Unit/milliliter (qualifier value),U/mL
+unit per square centimeter,419691006,Unit/centimeter2 (qualifier value),U/cm2
+unit per square meter,415789004,Unit/meter2 (qualifier value),U/m2
+volt,473019004,volt (qualifier value),V
+Volume Percent,419569009,Percentage volume (qualifier value),%{vol}
+watt,259087003,watt (qualifier value),W
+weber,304620006,weber (qualifier value),Wb
+week,258705008,week (qualifier value),wk
+yard,258679005,Yard (qualifier value),[yd_i]
+year,258707000,year (qualifier value),a

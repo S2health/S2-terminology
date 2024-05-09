@@ -1,0 +1,28 @@
+﻿The list of codes describing the functional role a participant plays during an interaction.,,,,,,,,,,
+,,,,,,,,,,
+Admitter,,,,,,133931009 | Infant (person),,,,246478007 | Analyte measured (attribute)
+Annotator,,,,,,70862002 | Contact person (person),,,,246075003 | Causative agent (attribute) 
+Attender,,,,,,58626002 | Legal guardian (person) ,,,,246062003 | Origin (attribute)
+Authenticator,,,,,,105461009 | Organ donor (person) ,,,,
+Beneficiary,,,,,,105468003 | Tissue donor (person) ,,,,
+Consultant,,,,,,40683002 | Parent (person) ,,,,
+Data entry person,,,,,,262043009 | Partner in relationship (person),,,,
+Discharger,,,,,,420158005 | Performer of method (person) ,,,,
+Distributor,,,,,,127848009 | Spouse (person) ,,,,
+Escort,,,,,,410604004 | Subject of record (person),,,,49062001 | Device (physical object) 
+Exposure Participant,,,,,,1187334000 | Emergency contact (person) ,,,,
+Guarantor,,,,,,,,,,5686001 | Remote (qualifier value)
+Informant,Catalyst,,,,,,,,,
+Information recipient,Consumable,,,,,,,,,123038009 | Specimen (specimen)
+Observer,Exposure Agent,,,,,,,,,
+Originator,Product,,,,,,,,,
+Recipient,Therapeutic agent,,,,,,,,,
+Referee,Record target,,,,,,,,,
+Referrer,,,,,,,,,,
+Responsible Party,Coverage target,,,,,,,,,
+Transcriber,Direct target,,,,,,,,,
+Verifier,Entry location,,,,,,,,,
+Witness,Exposure Source,,,,,,,,,
+,Exposure Target,,,,,,,,,
+,Indirect target,,,,,,,,,
+,Service destination,,,,,,,,,

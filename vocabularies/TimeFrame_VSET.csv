@@ -1,0 +1,61 @@
+﻿1287349009,Before dinner,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+1287350009,After breakfast,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+1290440006,Mid morning snack time,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+1290441005,Mid afternoon snack time,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+1296723006,Late evening snack time,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+1521000175104,After dinner,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+1541000175107,After lunch,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+1551000175109,With snack,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+1751000175104,Daily with breakfast,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+1761000175102,Daily with lunch,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+1771000175105,Daily with dinner,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+224943009,Night and day,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+225758001,After food,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+225762007,At the end of the day,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+225763002,During feed,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+24863003,Postprandial,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+2546009,Night time,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+255213009,During afternoon,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+255214003,After exercise,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+255270004,Overnight,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+272106006,Temporal periods of day,Time Frame,,SNOMED CT Extension,http://snomed.info/sct
+27814009,Midnight,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+28017001,Daytime,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+307143006,During day,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+307155000,Before sleeping,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+307156004,On waking,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+307157008,Temporal periods relating to activities,Time Frame,,SNOMED CT Extension,http://snomed.info/sct
+307160001,Breakfast time,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+307162009,Lunch time,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+307163004,Evening meal,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+307164005,Snack time,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+307165006,Before meal,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+307166007,Before exercise,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+3091000175105,Before lunch,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+309601007,Temporal periods relating to exercise,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+309602000,Temporal periods relating to feeding and eating,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+309603005,After feed,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+309604004,During exercise,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+309609009,Temporal periods relating to sleep,Time Frame,,SNOMED CT Extension,http://snomed.info/sct
+309610004,During sleep,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+309611000,Mealtimes,Time Frame,,SNOMED CT Extension,http://snomed.info/sct
+309612007,During meal,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+309613002,Between meals,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+309614008,Night and morning,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+311500009,Before food,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+311501008,Half to one hour before food,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+311502001,An hour before food or on an empty stomach,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+311503006,With or after meal,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+311504000,With or after food,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+3157002,Evening,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+424616004,Without regard to meals,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+71997007,Noon,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+722370002,During ambulation,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+73775008,Morning,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+769267001,After flossing,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+769556001,With largest meal,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+769557005,With meals,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+769558000,With supper,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+769559008,With dinner,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+769560003,With lunch,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
+769561004,With breakfast,Time Frame,SNOMED-CT,SNOMED CT,http://snomed.info/sct
