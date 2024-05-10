@@ -1,28 +1,53 @@
-﻿The list of codes describing the functional role a participant plays during an interaction.,,,,,,,,,,
-,,,,,,,,,,
-Admitter,,,,,,133931009 | Infant (person),,,,246478007 | Analyte measured (attribute)
-Annotator,,,,,,70862002 | Contact person (person),,,,246075003 | Causative agent (attribute) 
-Attender,,,,,,58626002 | Legal guardian (person) ,,,,246062003 | Origin (attribute)
-Authenticator,,,,,,105461009 | Organ donor (person) ,,,,
-Beneficiary,,,,,,105468003 | Tissue donor (person) ,,,,
-Consultant,,,,,,40683002 | Parent (person) ,,,,
-Data entry person,,,,,,262043009 | Partner in relationship (person),,,,
-Discharger,,,,,,420158005 | Performer of method (person) ,,,,
-Distributor,,,,,,127848009 | Spouse (person) ,,,,
-Escort,,,,,,410604004 | Subject of record (person),,,,49062001 | Device (physical object) 
-Exposure Participant,,,,,,1187334000 | Emergency contact (person) ,,,,
-Guarantor,,,,,,,,,,5686001 | Remote (qualifier value)
-Informant,Catalyst,,,,,,,,,
-Information recipient,Consumable,,,,,,,,,123038009 | Specimen (specimen)
-Observer,Exposure Agent,,,,,,,,,
-Originator,Product,,,,,,,,,
-Recipient,Therapeutic agent,,,,,,,,,
-Referee,Record target,,,,,,,,,
-Referrer,,,,,,,,,,
-Responsible Party,Coverage target,,,,,,,,,
-Transcriber,Direct target,,,,,,,,,
-Verifier,Entry location,,,,,,,,,
-Witness,Exposure Source,,,,,,,,,
-,Exposure Target,,,,,,,,,
-,Indirect target,,,,,,,,,
-,Service destination,,,,,,,,,
+﻿30221000205106,Admitter
+246478007,Analyte measured (attribute)
+30231000205108,Annotator
+30241000205103,Attender
+30251000205100,Authenticator
+30261000205102,Beneficiary
+30451000205101,Catalyst
+246075003,Causative agent (attribute) 
+30271000205105,Consultant
+30461000205103,Consumable
+70862002,Contact person (person)
+30511000205101,Coverage target
+30281000205107,Data entry person
+49062001,Device (physical object) 
+30521000205108,Direct target
+30291000205109,Discharger
+30301000205108,Distributor
+1187334000,Emergency contact (person) 
+30531000205105,Entry locatoin
+30311000205105,Escort
+30471000205106,Exposure agent
+30321000205103,Exposure participant
+30541000205100,Exposure source
+30551000205102,Exposure target
+30331000205101,Guarantor
+30561000205104,Indirect target
+133931009,Infant (person)
+30341000205106,Informant
+30351000205109,Information recipient
+58626002,Legal guardian (person) 
+30361000205107,Observer
+105461009,Organ donor (person) 
+246062003,Origin (attribute)
+30371000205104,Originator
+40683002,Parent (person) 
+262043009,Partner in relationship (person)
+420158005,Performer of method (person) 
+30481000205108,Product
+30381000205102,Recipient
+30501000205103,Record target
+30391000205100,Referee
+30401000205102,Referrer
+5686001,Remote (qualifier value)
+30411000205100,Responsible party
+30571000205107,Service destination
+123038009,Specimen (specimen)
+127848009,Spouse (person) 
+410604004,Subject of record (person)
+30491000205105,Therapeutic agent
+105468003,Tissue donor (person) 
+30421000205107,Transcriber
+30431000205109,Verifier
+30441000205104,Witness
