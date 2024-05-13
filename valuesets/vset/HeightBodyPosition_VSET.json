@@ -1,0 +1,24 @@
+{
+  "code" : "HeightBodyPosition_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Orthostatic body position",
+      "description" : "10904000",
+      "system" : "snomed"
+    }, {
+      "code" : "Prone body position",
+      "description" : "1240000",
+      "system" : "snomed"
+    }, {
+      "code" : "Sitting position",
+      "description" : "33586001",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

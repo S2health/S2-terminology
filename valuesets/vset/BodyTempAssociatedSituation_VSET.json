@@ -1,0 +1,16 @@
+{
+  "code" : "BodyTempAssociatedSituation_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Post-exercise state",
+      "description" : "128978002",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 1,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

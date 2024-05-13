@@ -1,0 +1,24 @@
+{
+  "code" : "HeightLengthMeasMethod_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Estimated",
+      "description" : "414135002",
+      "system" : "snomed"
+    }, {
+      "code" : "Measured",
+      "description" : "258104002",
+      "system" : "snomed"
+    }, {
+      "code" : "Reported",
+      "description" : "733985002",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

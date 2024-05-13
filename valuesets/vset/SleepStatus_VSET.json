@@ -1,0 +1,20 @@
+{
+  "code" : "SleepStatus_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Asleep",
+      "description" : "248220008",
+      "system" : "snomed"
+    }, {
+      "code" : "Awake",
+      "description" : "248218005",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 2,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

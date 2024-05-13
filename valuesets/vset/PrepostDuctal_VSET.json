@@ -1,0 +1,24 @@
+{
+  "code" : "PrepostDuctal_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Indeterminate",
+      "description" : "82334004",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of postductal region of aortic arch",
+      "description" : "60835009",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of preductal region of aortic arch",
+      "description" : "75397005",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

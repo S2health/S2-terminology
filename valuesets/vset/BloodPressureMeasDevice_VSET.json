@@ -1,0 +1,52 @@
+{
+  "code" : "BloodPressureMeasDevice_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Aneroid sphygmomanometer",
+      "description" : "309641003",
+      "system" : "snomed"
+    }, {
+      "code" : "Automatic-inflation electronic sphygmomanometer, non-portable",
+      "description" : "466093008",
+      "system" : "snomed"
+    }, {
+      "code" : "Automatic-inflation electronic sphygmomanometer, portable, arm/wrist",
+      "description" : "466086009",
+      "system" : "snomed"
+    }, {
+      "code" : "Automatic-inflation electronic sphygmomanometer, portable, finger",
+      "description" : "466139008",
+      "system" : "snomed"
+    }, {
+      "code" : "Doppler device",
+      "description" : "43770009",
+      "system" : "snomed"
+    }, {
+      "code" : "Invasive blood pressure monitor",
+      "description" : "469801002",
+      "system" : "snomed"
+    }, {
+      "code" : "Manual-inflation electronic sphygmomanometer, non-portable",
+      "description" : "469311001",
+      "system" : "snomed"
+    }, {
+      "code" : "Manual-inflation electronic sphygmomanometer, portable",
+      "description" : "469676006",
+      "system" : "snomed"
+    }, {
+      "code" : "Mercury sphygmomanometer",
+      "description" : "309642005",
+      "system" : "snomed"
+    }, {
+      "code" : "Non-invasive blood pressure monitor",
+      "description" : "258057004",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 10,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

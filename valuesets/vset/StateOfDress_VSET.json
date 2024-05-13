@@ -1,0 +1,84 @@
+{
+  "code" : "StateOfDress_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Adequately dressed",
+      "description" : "248165006",
+      "system" : "snomed"
+    }, {
+      "code" : "Appropriately dressed with shoes",
+      "description" : "1303297007",
+      "system" : "snomed"
+    }, {
+      "code" : "Appropriately dressed without shoes",
+      "description" : "1303299005",
+      "system" : "snomed"
+    }, {
+      "code" : "Barefoot",
+      "description" : "1156252001",
+      "system" : "snomed"
+    }, {
+      "code" : "Barefoot walking",
+      "description" : "111960003",
+      "system" : "snomed"
+    }, {
+      "code" : "Clothing dirty",
+      "description" : "248164005",
+      "system" : "snomed"
+    }, {
+      "code" : "Clothing disheveled",
+      "description" : "838447008",
+      "system" : "snomed"
+    }, {
+      "code" : "Disinhibited dress",
+      "description" : "21507006",
+      "system" : "snomed"
+    }, {
+      "code" : "Dressed - appearance",
+      "description" : "301306007",
+      "system" : "snomed"
+    }, {
+      "code" : "Inadequate clothing due to limited financial resources",
+      "description" : "1230283000",
+      "system" : "snomed"
+    }, {
+      "code" : "Inadequately dressed",
+      "description" : "248161002",
+      "system" : "snomed"
+    }, {
+      "code" : "Inappropriately dressed",
+      "description" : "248162009",
+      "system" : "snomed"
+    }, {
+      "code" : "Smartly dressed",
+      "description" : "248166007",
+      "system" : "snomed"
+    }, {
+      "code" : "Undressed",
+      "description" : "248160001",
+      "system" : "snomed"
+    }, {
+      "code" : "Wearing appropriate footwear",
+      "description" : "817000004",
+      "system" : "snomed"
+    }, {
+      "code" : "Wearing diaper only",
+      "description" : "1303436003",
+      "system" : "snomed"
+    }, {
+      "code" : "Wearing inappropriate footwear",
+      "description" : "817001000",
+      "system" : "snomed"
+    }, {
+      "code" : "Wearing only underwear",
+      "description" : "1303407003",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 18,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

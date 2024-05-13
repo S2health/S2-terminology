@@ -1,0 +1,20 @@
+{
+  "code" : "OxygenSaturationSensorDescription_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Pulse oximeter probe, reusable",
+      "description" : "462513001",
+      "system" : "snomed"
+    }, {
+      "code" : "Pulse oximeter probe, single-use",
+      "description" : "462664005",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 2,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

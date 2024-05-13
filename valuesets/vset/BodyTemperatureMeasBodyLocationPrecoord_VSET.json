@@ -1,0 +1,52 @@
+{
+  "code" : "BodyTemperatureMeasBodyLocationPrecoord_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Ear structure",
+      "description" : "117590005",
+      "system" : "snomed"
+    }, {
+      "code" : "Finger structure",
+      "description" : "7569003",
+      "system" : "snomed"
+    }, {
+      "code" : "Forehead structure",
+      "description" : "52795006",
+      "system" : "snomed"
+    }, {
+      "code" : "Nasopharyngeal structure",
+      "description" : "71836000",
+      "system" : "snomed"
+    }, {
+      "code" : "Oral cavity structure",
+      "description" : "74262004",
+      "system" : "snomed"
+    }, {
+      "code" : "Rectum structure",
+      "description" : "34402009",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of axillary fossa",
+      "description" : "422543003",
+      "system" : "snomed"
+    }, {
+      "code" : "Toe structure",
+      "description" : "29707007",
+      "system" : "snomed"
+    }, {
+      "code" : "Tympanic membrane structure",
+      "description" : "42859004",
+      "system" : "snomed"
+    }, {
+      "code" : "Urinary bladder structure",
+      "description" : "89837001",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 10,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

@@ -1,0 +1,64 @@
+{
+  "code" : "BodyPosition_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Fowler's position",
+      "description" : "30212006",
+      "system" : "snomed"
+    }, {
+      "code" : "Inverse Trendelenburg position",
+      "description" : "26527006",
+      "system" : "snomed"
+    }, {
+      "code" : "Left lateral decubitus position",
+      "description" : "102536004",
+      "system" : "snomed"
+    }, {
+      "code" : "Left lateral tilt",
+      "description" : "414585002",
+      "system" : "snomed"
+    }, {
+      "code" : "Orthostatic body position",
+      "description" : "10904000",
+      "system" : "snomed"
+    }, {
+      "code" : "Prone body position",
+      "description" : "1240000",
+      "system" : "snomed"
+    }, {
+      "code" : "Recumbent body position",
+      "description" : "102538003",
+      "system" : "snomed"
+    }, {
+      "code" : "Reverse trendelenburg positioning",
+      "description" : "423413008",
+      "system" : "snomed"
+    }, {
+      "code" : "Right lateral decubitus position",
+      "description" : "102535000",
+      "system" : "snomed"
+    }, {
+      "code" : "Right lateral tilt",
+      "description" : "415346000",
+      "system" : "snomed"
+    }, {
+      "code" : "Sitting position",
+      "description" : "33586001",
+      "system" : "snomed"
+    }, {
+      "code" : "Supine body position",
+      "description" : "40199007",
+      "system" : "snomed"
+    }, {
+      "code" : "Trendelenburg position",
+      "description" : "34106002",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 13,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

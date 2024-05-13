@@ -1,0 +1,24 @@
+{
+  "code" : "LevelOfExertion_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Exercise state",
+      "description" : "128976003",
+      "system" : "snomed"
+    }, {
+      "code" : "Post-exercise state",
+      "description" : "128978002",
+      "system" : "snomed"
+    }, {
+      "code" : "Resting state",
+      "description" : "128975004",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}
