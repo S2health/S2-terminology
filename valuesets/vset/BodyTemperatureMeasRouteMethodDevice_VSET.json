@@ -1,0 +1,64 @@
+{
+  "code" : "BodyTemperatureMeasRouteMethodDevice_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Capillary patient thermometer, mercury",
+      "description" : "467862000",
+      "system" : "snomed"
+    }, {
+      "code" : "Digital thermometer",
+      "description" : "1461000205102",
+      "system" : "snomed"
+    }, {
+      "code" : "Electronic patient thermometer",
+      "description" : "706158001",
+      "system" : "snomed"
+    }, {
+      "code" : "Forehead thermometer",
+      "description" : "448735006",
+      "system" : "snomed"
+    }, {
+      "code" : "Infrared patient thermometer, ear",
+      "description" : "700643004",
+      "system" : "snomed"
+    }, {
+      "code" : "Infrared patient thermometer, skin",
+      "description" : "700644005",
+      "system" : "snomed"
+    }, {
+      "code" : "Infrared thermometer for ear and skin",
+      "description" : "781472002",
+      "system" : "snomed"
+    }, {
+      "code" : "Liquid-crystal patient thermometer",
+      "description" : "462983001",
+      "system" : "snomed"
+    }, {
+      "code" : "Non-contact infrared thermometer - NCIT",
+      "description" : "2331000205106",
+      "system" : "snomed"
+    }, {
+      "code" : "Thermocouple",
+      "description" : "118376009",
+      "system" : "snomed"
+    }, {
+      "code" : "Thermographic camera",
+      "description" : "464210001",
+      "system" : "snomed"
+    }, {
+      "code" : "Thermoluminescent diode thermometer",
+      "description" : "24031000205108",
+      "system" : "snomed"
+    }, {
+      "code" : "Tympanic thermometer",
+      "description" : "448349000",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 13,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

@@ -1,0 +1,28 @@
+{
+  "code" : "OxygenSaturationBodyLocation_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Ear lobule structure",
+      "description" : "48800003",
+      "system" : "snomed"
+    }, {
+      "code" : "Finger structure",
+      "description" : "7569003",
+      "system" : "snomed"
+    }, {
+      "code" : "Forehead structure",
+      "description" : "52795006",
+      "system" : "snomed"
+    }, {
+      "code" : "Toe structure",
+      "description" : "29707007",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 4,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

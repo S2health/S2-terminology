@@ -1,0 +1,56 @@
+{
+  "code" : "HeartRateMeasDevice_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Automatic-inflation electronic sphygmomanometer, non-portable",
+      "description" : "466093008",
+      "system" : "snomed"
+    }, {
+      "code" : "Automatic-inflation electronic sphygmomanometer, portable, arm/wrist",
+      "description" : "466086009",
+      "system" : "snomed"
+    }, {
+      "code" : "Automatic-inflation electronic sphygmomanometer, portable, finger",
+      "description" : "466139008",
+      "system" : "snomed"
+    }, {
+      "code" : "Bedside heart rate monitor",
+      "description" : "467178001",
+      "system" : "snomed"
+    }, {
+      "code" : "Doppler device",
+      "description" : "43770009",
+      "system" : "snomed"
+    }, {
+      "code" : "Electrocardiographic monitor and recorder",
+      "description" : "86184003",
+      "system" : "snomed"
+    }, {
+      "code" : "Implantable pulmonary artery pressure monitoring system",
+      "description" : "711337005",
+      "system" : "snomed"
+    }, {
+      "code" : "Invasive blood pressure monitor",
+      "description" : "469801002",
+      "system" : "snomed"
+    }, {
+      "code" : "Non-invasive blood pressure monitor",
+      "description" : "258057004",
+      "system" : "snomed"
+    }, {
+      "code" : "Pulse oximeter",
+      "description" : "448703006",
+      "system" : "snomed"
+    }, {
+      "code" : "Wearable neonatal heart rate meter",
+      "description" : "774007007",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 11,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

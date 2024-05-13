@@ -1,0 +1,52 @@
+{
+  "code" : "BloodPressureCuffSize_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Ankle cuff",
+      "description" : "8741000205104",
+      "system" : "snomed"
+    }, {
+      "code" : "Blood pressure cuff, adult size large",
+      "description" : "720738005",
+      "system" : "snomed"
+    }, {
+      "code" : "Blood pressure cuff, adult size medium",
+      "description" : "24811000205108",
+      "system" : "snomed"
+    }, {
+      "code" : "Blood pressure cuff, adult size small",
+      "description" : "720739002",
+      "system" : "snomed"
+    }, {
+      "code" : "Blood pressure cuff, adult thigh type",
+      "description" : "720740000",
+      "system" : "snomed"
+    }, {
+      "code" : "Blood pressure cuff, neonatal size 3",
+      "description" : "8831000205102",
+      "system" : "snomed"
+    }, {
+      "code" : "Blood pressure cuff, pediatric size",
+      "description" : "720736009",
+      "system" : "snomed"
+    }, {
+      "code" : "Blood pressure cuff, upper arm, adult size universal",
+      "description" : "24821000205101",
+      "system" : "snomed"
+    }, {
+      "code" : "Extra large adult thigh cuff",
+      "description" : "8731000205109",
+      "system" : "snomed"
+    }, {
+      "code" : "Infant Cuff",
+      "description" : "8861000205108",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 10,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

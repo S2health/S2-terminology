@@ -1,0 +1,84 @@
+{
+  "code" : "BloodPressureMeasBodyLocationPrecoord_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Structure of brachial artery",
+      "description" : "17137000",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of dorsal digital artery of foot",
+      "description" : "49256001",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of dorsal digital artery of left foot",
+      "description" : "24601000205107",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of dorsal digital artery of right foot",
+      "description" : "24611000205109",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of femoral artery",
+      "description" : "7657000",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of left brachial artery",
+      "description" : "723961002",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of left femoral artery",
+      "description" : "113270003",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of left posterior tibial artery",
+      "description" : "214912001",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of left proper volar digital artery",
+      "description" : "24581000205102",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of left radial artery",
+      "description" : "368504007",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of posterior tibial artery",
+      "description" : "13363002",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of proper volar digital arteries",
+      "description" : "368469003",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of radial artery",
+      "description" : "45631007",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of right brachial artery",
+      "description" : "723962009",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of right femoral artery",
+      "description" : "69833005",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of right posterior tibial artery",
+      "description" : "214811007",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of right proper volar digital artery",
+      "description" : "24591000205100",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of right radial artery",
+      "description" : "368503001",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 18,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

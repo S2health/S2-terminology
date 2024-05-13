@@ -1,0 +1,24 @@
+{
+  "code" : "HeightLengthMeasDevice_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Measuring ruler",
+      "description" : "102304005",
+      "system" : "snomed"
+    }, {
+      "code" : "Measuring tape",
+      "description" : "51791000",
+      "system" : "snomed"
+    }, {
+      "code" : "Stadiometer",
+      "description" : "24311000205101",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

@@ -1,0 +1,128 @@
+{
+  "code" : "HeartRateMeasBodyLocationPrecoord_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Common carotid artery structure",
+      "description" : "32062004",
+      "system" : "snomed"
+    }, {
+      "code" : "Left common carotid artery structure",
+      "description" : "113263003",
+      "system" : "snomed"
+    }, {
+      "code" : "Left popliteal artery structure",
+      "description" : "25885001",
+      "system" : "snomed"
+    }, {
+      "code" : "Right common carotid artery structure",
+      "description" : "65355003",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of apex of heart",
+      "description" : "13383001",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of brachial artery",
+      "description" : "17137000",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of dorsalis pedis artery",
+      "description" : "86547008",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of femoral artery",
+      "description" : "7657000",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of left brachial artery",
+      "description" : "723961002",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of left dorsalis pedis artery",
+      "description" : "792817008",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of left femoral artery",
+      "description" : "113270003",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of left posterior tibial artery",
+      "description" : "214912001",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of left pulmonary artery",
+      "description" : "50408007",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of left radial artery",
+      "description" : "368504007",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of left superficial temporal artery",
+      "description" : "24781000205105",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of left ulnar artery",
+      "description" : "368506009",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of popliteal artery",
+      "description" : "43899006",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of posterior tibial artery",
+      "description" : "13363002",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of radial artery",
+      "description" : "45631007",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of right brachial artery",
+      "description" : "723962009",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of right dorsalis pedis artery",
+      "description" : "792816004",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of right femoral artery",
+      "description" : "69833005",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of right popliteal artery",
+      "description" : "57832007",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of right posterior tibial artery",
+      "description" : "214811007",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of right radial artery",
+      "description" : "368503001",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of right superficial temporal artery",
+      "description" : "24791000205107",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of right ulnar artery",
+      "description" : "368505008",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of superficial temporal artery",
+      "description" : "15672000",
+      "system" : "snomed"
+    }, {
+      "code" : "Structure of ulnar artery",
+      "description" : "44984001",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 29,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

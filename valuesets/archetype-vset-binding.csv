@@ -1,0 +1,24 @@
+s2-EHR-Node.level_of_exertion.v0.0.0,id12,Intensity,ac1,LevelOfExertion_VSET
+
+s2-EHR-Direct_observation.heart_rate.v1.0.0,id9,Position,ac1,BodyPosition_VSET
+s2-EHR-Direct_observation.heart_rate.v1.0.0,id1006,Sleep status,ac2,SleepStatus_VSET
+s2-EHR-Direct_observation.heart_rate.v1.0.0,id15,Location of measurement,ac4,BloodPressureMeasBodyLocationPrecoord_VSET
+s2-EHR-Direct_observation.heart_rate.v1.0.0,id1036,Method,ac5,BloodPressureMeasMethod_VSET
+
+s2-EHR-Direct_observation.blood_pressure.v2.0.8,id9,Position,ac1,BodyPosition_VSET
+s2-EHR-Direct_observation.blood_pressure.v2.0.8,id1054,Sleep status,ac2,SleepStatus_VSET
+s2-EHR-Direct_observation.blood_pressure.v2.0.8,id14,Cuff size,ac3,BloodPressureCuffSize_VSET
+s2-EHR-Direct_observation.blood_pressure.v2.0.8,id15,Location of measurement,ac4,BloodPressureMeasBodyLocationPrecoord_VSET
+s2-EHR-Direct_observation.blood_pressure.v2.0.8,id1036,Method,ac5,BloodPressureMeasMethod_VSET
+
+s2-EHR-Direct_observation.body_weight.v2.1.6,id10,State of dress,ac1,StateOfDress_VSET
+
+s2-EHR-Direct_observation.height.v2.0.8,id9,Position,ac1,BodyPosition_VSET
+
+s2-EHR-Direct_observation.pulse_oximetry.v1.1.3,id10,Sensor site,null,OxygenSaturationBodyLocation_VSET
+s2-EHR-Direct_observation.pulse_oximetry.v1.1.3,id62,Pre/post ductal,ac1,PrepostDuctal_VSET
+
+s2-EHR-Direct_observation.body_temperature.v2.0.8,id22,Location of measure,ac2,BodyTemperatureMeasBodyLocationPrecoord_VSET
+
+s2-EHR-Direct_observation.respiratory_rate.v1.0.0,id9,Position,ac1,BodyPosition_VSET
+s2-EHR-Direct_observation.respiratory_rate,id1036,Method,ac5,RespiratoryRateMeasMethod_VSET
