@@ -1,0 +1,40 @@
+{
+  "code" : "ConditionSeverity_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Fatal",
+      "description" : "399166001",
+      "system" : "snomed"
+    }, {
+      "code" : "Life threatening severity",
+      "description" : "442452003",
+      "system" : "snomed"
+    }, {
+      "code" : "Mild",
+      "description" : "255604002",
+      "system" : "snomed"
+    }, {
+      "code" : "Mild to moderate",
+      "description" : "371923003",
+      "system" : "snomed"
+    }, {
+      "code" : "Moderate severity",
+      "description" : "6736007",
+      "system" : "snomed"
+    }, {
+      "code" : "Moderate to severe",
+      "description" : "371924009",
+      "system" : "snomed"
+    }, {
+      "code" : "Severe",
+      "description" : "24484000",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 7,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

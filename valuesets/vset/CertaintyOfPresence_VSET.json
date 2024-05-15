@@ -1,0 +1,36 @@
+{
+  "code" : "CertaintyOfPresence_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "Confirmed present",
+      "description" : "410605003",
+      "system" : "snomed"
+    }, {
+      "code" : "Definitely present",
+      "description" : "410591008",
+      "system" : "snomed"
+    }, {
+      "code" : "Known present",
+      "description" : "410515003",
+      "system" : "snomed"
+    }, {
+      "code" : "Probably not present",
+      "description" : "410593006",
+      "system" : "snomed"
+    }, {
+      "code" : "Probably present",
+      "description" : "410592001",
+      "system" : "snomed"
+    }, {
+      "code" : "Suspected",
+      "description" : "415684004",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 6,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}
