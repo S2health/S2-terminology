@@ -3,56 +3,56 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Fowler's position",
-      "description" : "30212006",
+      "code" : "30212006",
+      "description" : "Fowler's position",
       "system" : "snomed"
     }, {
-      "code" : "Inverse Trendelenburg position",
-      "description" : "26527006",
+      "code" : "26527006",
+      "description" : "Inverse Trendelenburg position",
       "system" : "snomed"
     }, {
-      "code" : "Left lateral decubitus position",
-      "description" : "102536004",
+      "code" : "102536004",
+      "description" : "Left lateral decubitus position",
       "system" : "snomed"
     }, {
-      "code" : "Left lateral tilt",
-      "description" : "414585002",
+      "code" : "414585002",
+      "description" : "Left lateral tilt",
       "system" : "snomed"
     }, {
-      "code" : "Orthostatic body position",
-      "description" : "10904000",
+      "code" : "10904000",
+      "description" : "Orthostatic body position",
       "system" : "snomed"
     }, {
-      "code" : "Prone body position",
-      "description" : "1240000",
+      "code" : "1240000",
+      "description" : "Prone body position",
       "system" : "snomed"
     }, {
-      "code" : "Recumbent body position",
-      "description" : "102538003",
+      "code" : "102538003",
+      "description" : "Recumbent body position",
       "system" : "snomed"
     }, {
-      "code" : "Reverse trendelenburg positioning",
-      "description" : "423413008",
+      "code" : "423413008",
+      "description" : "Reverse trendelenburg positioning",
       "system" : "snomed"
     }, {
-      "code" : "Right lateral decubitus position",
-      "description" : "102535000",
+      "code" : "102535000",
+      "description" : "Right lateral decubitus position",
       "system" : "snomed"
     }, {
-      "code" : "Right lateral tilt",
-      "description" : "415346000",
+      "code" : "415346000",
+      "description" : "Right lateral tilt",
       "system" : "snomed"
     }, {
-      "code" : "Sitting position",
-      "description" : "33586001",
+      "code" : "33586001",
+      "description" : "Sitting position",
       "system" : "snomed"
     }, {
-      "code" : "Supine body position",
-      "description" : "40199007",
+      "code" : "40199007",
+      "description" : "Supine body position",
       "system" : "snomed"
     }, {
-      "code" : "Trendelenburg position",
-      "description" : "34106002",
+      "code" : "34106002",
+      "description" : "Trendelenburg position",
       "system" : "snomed"
     } ],
     "totalMembers" : 13,

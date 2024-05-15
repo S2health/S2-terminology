@@ -3,20 +3,20 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Ear lobule structure",
-      "description" : "48800003",
+      "code" : "48800003",
+      "description" : "Ear lobule structure",
       "system" : "snomed"
     }, {
-      "code" : "Finger structure",
-      "description" : "7569003",
+      "code" : "7569003",
+      "description" : "Finger structure",
       "system" : "snomed"
     }, {
-      "code" : "Forehead structure",
-      "description" : "52795006",
+      "code" : "52795006",
+      "description" : "Forehead structure",
       "system" : "snomed"
     }, {
-      "code" : "Toe structure",
-      "description" : "29707007",
+      "code" : "29707007",
+      "description" : "Toe structure",
       "system" : "snomed"
     } ],
     "totalMembers" : 4,

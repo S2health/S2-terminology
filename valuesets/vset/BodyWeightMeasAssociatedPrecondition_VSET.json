@@ -3,28 +3,28 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Adequately dressed",
-      "description" : "248165006",
+      "code" : "248165006",
+      "description" : "Adequately dressed",
       "system" : "snomed"
     }, {
-      "code" : "Barefoot",
-      "description" : "1156252001",
+      "code" : "1156252001",
+      "description" : "Barefoot",
       "system" : "snomed"
     }, {
-      "code" : "Cast",
-      "description" : "118643004",
+      "code" : "118643004",
+      "description" : "Cast",
       "system" : "snomed"
     }, {
-      "code" : "Oxygenator",
-      "description" : "257308009",
+      "code" : "257308009",
+      "description" : "Oxygenator",
       "system" : "snomed"
     }, {
-      "code" : "Prosthesis",
-      "description" : "53350007",
+      "code" : "53350007",
+      "description" : "Prosthesis",
       "system" : "snomed"
     }, {
-      "code" : "Undressed",
-      "description" : "248160001",
+      "code" : "248160001",
+      "description" : "Undressed",
       "system" : "snomed"
     } ],
     "totalMembers" : 6,

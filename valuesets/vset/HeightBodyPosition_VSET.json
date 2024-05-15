@@ -3,16 +3,16 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Orthostatic body position",
-      "description" : "10904000",
+      "code" : "10904000",
+      "description" : "Orthostatic body position",
       "system" : "snomed"
     }, {
-      "code" : "Prone body position",
-      "description" : "1240000",
+      "code" : "1240000",
+      "description" : "Prone body position",
       "system" : "snomed"
     }, {
-      "code" : "Sitting position",
-      "description" : "33586001",
+      "code" : "33586001",
+      "description" : "Sitting position",
       "system" : "snomed"
     } ],
     "totalMembers" : 3,

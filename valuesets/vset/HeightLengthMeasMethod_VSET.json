@@ -3,16 +3,16 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Estimated",
-      "description" : "414135002",
+      "code" : "414135002",
+      "description" : "Estimated",
       "system" : "snomed"
     }, {
-      "code" : "Measured",
-      "description" : "258104002",
+      "code" : "258104002",
+      "description" : "Measured",
       "system" : "snomed"
     }, {
-      "code" : "Reported",
-      "description" : "733985002",
+      "code" : "733985002",
+      "description" : "Reported",
       "system" : "snomed"
     } ],
     "totalMembers" : 3,

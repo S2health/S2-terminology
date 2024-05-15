@@ -3,16 +3,16 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Exercise state",
-      "description" : "128976003",
+      "code" : "128976003",
+      "description" : "Exercise state",
       "system" : "snomed"
     }, {
-      "code" : "Post-exercise state",
-      "description" : "128978002",
+      "code" : "128978002",
+      "description" : "Post-exercise state",
       "system" : "snomed"
     }, {
-      "code" : "Resting state",
-      "description" : "128975004",
+      "code" : "128975004",
+      "description" : "Resting state",
       "system" : "snomed"
     } ],
     "totalMembers" : 3,

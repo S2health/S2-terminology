@@ -3,12 +3,12 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Auscultation",
-      "description" : "37931006",
+      "code" : "37931006",
+      "description" : "Auscultation",
       "system" : "snomed"
     }, {
-      "code" : "Inspection",
-      "description" : "32750006",
+      "code" : "32750006",
+      "description" : "Inspection",
       "system" : "snomed"
     } ],
     "totalMembers" : 2,

@@ -3,44 +3,44 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Aneroid sphygmomanometer",
-      "description" : "309641003",
+      "code" : "309641003",
+      "description" : "Aneroid sphygmomanometer",
       "system" : "snomed"
     }, {
-      "code" : "Automatic-inflation electronic sphygmomanometer, non-portable",
-      "description" : "466093008",
+      "code" : "466093008",
+      "description" : "Automatic-inflation electronic sphygmomanometer, non-portable",
       "system" : "snomed"
     }, {
-      "code" : "Automatic-inflation electronic sphygmomanometer, portable, arm/wrist",
-      "description" : "466086009",
+      "code" : "466086009",
+      "description" : "Automatic-inflation electronic sphygmomanometer, portable, arm/wrist",
       "system" : "snomed"
     }, {
-      "code" : "Automatic-inflation electronic sphygmomanometer, portable, finger",
-      "description" : "466139008",
+      "code" : "466139008",
+      "description" : "Automatic-inflation electronic sphygmomanometer, portable, finger",
       "system" : "snomed"
     }, {
-      "code" : "Doppler device",
-      "description" : "43770009",
+      "code" : "43770009",
+      "description" : "Doppler device",
       "system" : "snomed"
     }, {
-      "code" : "Invasive blood pressure monitor",
-      "description" : "469801002",
+      "code" : "469801002",
+      "description" : "Invasive blood pressure monitor",
       "system" : "snomed"
     }, {
-      "code" : "Manual-inflation electronic sphygmomanometer, non-portable",
-      "description" : "469311001",
+      "code" : "469311001",
+      "description" : "Manual-inflation electronic sphygmomanometer, non-portable",
       "system" : "snomed"
     }, {
-      "code" : "Manual-inflation electronic sphygmomanometer, portable",
-      "description" : "469676006",
+      "code" : "469676006",
+      "description" : "Manual-inflation electronic sphygmomanometer, portable",
       "system" : "snomed"
     }, {
-      "code" : "Mercury sphygmomanometer",
-      "description" : "309642005",
+      "code" : "309642005",
+      "description" : "Mercury sphygmomanometer",
       "system" : "snomed"
     }, {
-      "code" : "Non-invasive blood pressure monitor",
-      "description" : "258057004",
+      "code" : "258057004",
+      "description" : "Non-invasive blood pressure monitor",
       "system" : "snomed"
     } ],
     "totalMembers" : 10,

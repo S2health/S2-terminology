@@ -3,32 +3,32 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Fatal",
-      "description" : "399166001",
+      "code" : "399166001",
+      "description" : "Fatal",
       "system" : "snomed"
     }, {
-      "code" : "Life threatening severity",
-      "description" : "442452003",
+      "code" : "442452003",
+      "description" : "Life threatening severity",
       "system" : "snomed"
     }, {
-      "code" : "Mild",
-      "description" : "255604002",
+      "code" : "255604002",
+      "description" : "Mild",
       "system" : "snomed"
     }, {
-      "code" : "Mild to moderate",
-      "description" : "371923003",
+      "code" : "371923003",
+      "description" : "Mild to moderate",
       "system" : "snomed"
     }, {
-      "code" : "Moderate severity",
-      "description" : "6736007",
+      "code" : "6736007",
+      "description" : "Moderate severity",
       "system" : "snomed"
     }, {
-      "code" : "Moderate to severe",
-      "description" : "371924009",
+      "code" : "371924009",
+      "description" : "Moderate to severe",
       "system" : "snomed"
     }, {
-      "code" : "Severe",
-      "description" : "24484000",
+      "code" : "24484000",
+      "description" : "Severe",
       "system" : "snomed"
     } ],
     "totalMembers" : 7,

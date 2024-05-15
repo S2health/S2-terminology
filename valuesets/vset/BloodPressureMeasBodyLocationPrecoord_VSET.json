@@ -3,76 +3,76 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Structure of brachial artery",
-      "description" : "17137000",
+      "code" : "17137000",
+      "description" : "Structure of brachial artery",
       "system" : "snomed"
     }, {
-      "code" : "Structure of dorsal digital artery of foot",
-      "description" : "49256001",
+      "code" : "49256001",
+      "description" : "Structure of dorsal digital artery of foot",
       "system" : "snomed"
     }, {
-      "code" : "Structure of dorsal digital artery of left foot",
-      "description" : "24601000205107",
+      "code" : "24601000205107",
+      "description" : "Structure of dorsal digital artery of left foot",
       "system" : "snomed"
     }, {
-      "code" : "Structure of dorsal digital artery of right foot",
-      "description" : "24611000205109",
+      "code" : "24611000205109",
+      "description" : "Structure of dorsal digital artery of right foot",
       "system" : "snomed"
     }, {
-      "code" : "Structure of femoral artery",
-      "description" : "7657000",
+      "code" : "7657000",
+      "description" : "Structure of femoral artery",
       "system" : "snomed"
     }, {
-      "code" : "Structure of left brachial artery",
-      "description" : "723961002",
+      "code" : "723961002",
+      "description" : "Structure of left brachial artery",
       "system" : "snomed"
     }, {
-      "code" : "Structure of left femoral artery",
-      "description" : "113270003",
+      "code" : "113270003",
+      "description" : "Structure of left femoral artery",
       "system" : "snomed"
     }, {
-      "code" : "Structure of left posterior tibial artery",
-      "description" : "214912001",
+      "code" : "214912001",
+      "description" : "Structure of left posterior tibial artery",
       "system" : "snomed"
     }, {
-      "code" : "Structure of left proper volar digital artery",
-      "description" : "24581000205102",
+      "code" : "24581000205102",
+      "description" : "Structure of left proper volar digital artery",
       "system" : "snomed"
     }, {
-      "code" : "Structure of left radial artery",
-      "description" : "368504007",
+      "code" : "368504007",
+      "description" : "Structure of left radial artery",
       "system" : "snomed"
     }, {
-      "code" : "Structure of posterior tibial artery",
-      "description" : "13363002",
+      "code" : "13363002",
+      "description" : "Structure of posterior tibial artery",
       "system" : "snomed"
     }, {
-      "code" : "Structure of proper volar digital arteries",
-      "description" : "368469003",
+      "code" : "368469003",
+      "description" : "Structure of proper volar digital arteries",
       "system" : "snomed"
     }, {
-      "code" : "Structure of radial artery",
-      "description" : "45631007",
+      "code" : "45631007",
+      "description" : "Structure of radial artery",
       "system" : "snomed"
     }, {
-      "code" : "Structure of right brachial artery",
-      "description" : "723962009",
+      "code" : "723962009",
+      "description" : "Structure of right brachial artery",
       "system" : "snomed"
     }, {
-      "code" : "Structure of right femoral artery",
-      "description" : "69833005",
+      "code" : "69833005",
+      "description" : "Structure of right femoral artery",
       "system" : "snomed"
     }, {
-      "code" : "Structure of right posterior tibial artery",
-      "description" : "214811007",
+      "code" : "214811007",
+      "description" : "Structure of right posterior tibial artery",
       "system" : "snomed"
     }, {
-      "code" : "Structure of right proper volar digital artery",
-      "description" : "24591000205100",
+      "code" : "24591000205100",
+      "description" : "Structure of right proper volar digital artery",
       "system" : "snomed"
     }, {
-      "code" : "Structure of right radial artery",
-      "description" : "368503001",
+      "code" : "368503001",
+      "description" : "Structure of right radial artery",
       "system" : "snomed"
     } ],
     "totalMembers" : 18,

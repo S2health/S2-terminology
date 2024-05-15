@@ -3,12 +3,12 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Pulse oximeter probe, reusable",
-      "description" : "462513001",
+      "code" : "462513001",
+      "description" : "Pulse oximeter probe, reusable",
       "system" : "snomed"
     }, {
-      "code" : "Pulse oximeter probe, single-use",
-      "description" : "462664005",
+      "code" : "462664005",
+      "description" : "Pulse oximeter probe, single-use",
       "system" : "snomed"
     } ],
     "totalMembers" : 2,

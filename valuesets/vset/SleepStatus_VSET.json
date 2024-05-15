@@ -3,12 +3,12 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Asleep",
-      "description" : "248220008",
+      "code" : "248220008",
+      "description" : "Asleep",
       "system" : "snomed"
     }, {
-      "code" : "Awake",
-      "description" : "248218005",
+      "code" : "248218005",
+      "description" : "Awake",
       "system" : "snomed"
     } ],
     "totalMembers" : 2,

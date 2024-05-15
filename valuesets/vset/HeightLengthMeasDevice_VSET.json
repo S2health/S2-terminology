@@ -3,16 +3,16 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Measuring ruler",
-      "description" : "102304005",
+      "code" : "102304005",
+      "description" : "Measuring ruler",
       "system" : "snomed"
     }, {
-      "code" : "Measuring tape",
-      "description" : "51791000",
+      "code" : "51791000",
+      "description" : "Measuring tape",
       "system" : "snomed"
     }, {
-      "code" : "Stadiometer",
-      "description" : "24311000205101",
+      "code" : "24311000205101",
+      "description" : "Stadiometer",
       "system" : "snomed"
     } ],
     "totalMembers" : 3,

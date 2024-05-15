@@ -3,44 +3,44 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Ankle cuff",
-      "description" : "8741000205104",
+      "code" : "8741000205104",
+      "description" : "Ankle cuff",
       "system" : "snomed"
     }, {
-      "code" : "Blood pressure cuff, adult size large",
-      "description" : "720738005",
+      "code" : "720738005",
+      "description" : "Blood pressure cuff, adult size large",
       "system" : "snomed"
     }, {
-      "code" : "Blood pressure cuff, adult size medium",
-      "description" : "24811000205108",
+      "code" : "24811000205108",
+      "description" : "Blood pressure cuff, adult size medium",
       "system" : "snomed"
     }, {
-      "code" : "Blood pressure cuff, adult size small",
-      "description" : "720739002",
+      "code" : "720739002",
+      "description" : "Blood pressure cuff, adult size small",
       "system" : "snomed"
     }, {
-      "code" : "Blood pressure cuff, adult thigh type",
-      "description" : "720740000",
+      "code" : "720740000",
+      "description" : "Blood pressure cuff, adult thigh type",
       "system" : "snomed"
     }, {
-      "code" : "Blood pressure cuff, neonatal size 3",
-      "description" : "8831000205102",
+      "code" : "8831000205102",
+      "description" : "Blood pressure cuff, neonatal size 3",
       "system" : "snomed"
     }, {
-      "code" : "Blood pressure cuff, pediatric size",
-      "description" : "720736009",
+      "code" : "720736009",
+      "description" : "Blood pressure cuff, pediatric size",
       "system" : "snomed"
     }, {
-      "code" : "Blood pressure cuff, upper arm, adult size universal",
-      "description" : "24821000205101",
+      "code" : "24821000205101",
+      "description" : "Blood pressure cuff, upper arm, adult size universal",
       "system" : "snomed"
     }, {
-      "code" : "Extra large adult thigh cuff",
-      "description" : "8731000205109",
+      "code" : "8731000205109",
+      "description" : "Extra large adult thigh cuff",
       "system" : "snomed"
     }, {
-      "code" : "Infant Cuff",
-      "description" : "8861000205108",
+      "code" : "8861000205108",
+      "description" : "Infant Cuff",
       "system" : "snomed"
     } ],
     "totalMembers" : 10,

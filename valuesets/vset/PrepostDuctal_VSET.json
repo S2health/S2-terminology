@@ -3,16 +3,16 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Indeterminate",
-      "description" : "82334004",
+      "code" : "82334004",
+      "description" : "Indeterminate",
       "system" : "snomed"
     }, {
-      "code" : "Structure of postductal region of aortic arch",
-      "description" : "60835009",
+      "code" : "60835009",
+      "description" : "Structure of postductal region of aortic arch",
       "system" : "snomed"
     }, {
-      "code" : "Structure of preductal region of aortic arch",
-      "description" : "75397005",
+      "code" : "75397005",
+      "description" : "Structure of preductal region of aortic arch",
       "system" : "snomed"
     } ],
     "totalMembers" : 3,

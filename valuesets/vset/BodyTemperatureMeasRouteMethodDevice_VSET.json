@@ -3,56 +3,56 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Capillary patient thermometer, mercury",
-      "description" : "467862000",
+      "code" : "467862000",
+      "description" : "Capillary patient thermometer, mercury",
       "system" : "snomed"
     }, {
-      "code" : "Digital thermometer",
-      "description" : "1461000205102",
+      "code" : "1461000205102",
+      "description" : "Digital thermometer",
       "system" : "snomed"
     }, {
-      "code" : "Electronic patient thermometer",
-      "description" : "706158001",
+      "code" : "706158001",
+      "description" : "Electronic patient thermometer",
       "system" : "snomed"
     }, {
-      "code" : "Forehead thermometer",
-      "description" : "448735006",
+      "code" : "448735006",
+      "description" : "Forehead thermometer",
       "system" : "snomed"
     }, {
-      "code" : "Infrared patient thermometer, ear",
-      "description" : "700643004",
+      "code" : "700643004",
+      "description" : "Infrared patient thermometer, ear",
       "system" : "snomed"
     }, {
-      "code" : "Infrared patient thermometer, skin",
-      "description" : "700644005",
+      "code" : "700644005",
+      "description" : "Infrared patient thermometer, skin",
       "system" : "snomed"
     }, {
-      "code" : "Infrared thermometer for ear and skin",
-      "description" : "781472002",
+      "code" : "781472002",
+      "description" : "Infrared thermometer for ear and skin",
       "system" : "snomed"
     }, {
-      "code" : "Liquid-crystal patient thermometer",
-      "description" : "462983001",
+      "code" : "462983001",
+      "description" : "Liquid-crystal patient thermometer",
       "system" : "snomed"
     }, {
-      "code" : "Non-contact infrared thermometer - NCIT",
-      "description" : "2331000205106",
+      "code" : "2331000205106",
+      "description" : "Non-contact infrared thermometer - NCIT",
       "system" : "snomed"
     }, {
-      "code" : "Thermocouple",
-      "description" : "118376009",
+      "code" : "118376009",
+      "description" : "Thermocouple",
       "system" : "snomed"
     }, {
-      "code" : "Thermographic camera",
-      "description" : "464210001",
+      "code" : "464210001",
+      "description" : "Thermographic camera",
       "system" : "snomed"
     }, {
-      "code" : "Thermoluminescent diode thermometer",
-      "description" : "24031000205108",
+      "code" : "24031000205108",
+      "description" : "Thermoluminescent diode thermometer",
       "system" : "snomed"
     }, {
-      "code" : "Tympanic thermometer",
-      "description" : "448349000",
+      "code" : "448349000",
+      "description" : "Tympanic thermometer",
       "system" : "snomed"
     } ],
     "totalMembers" : 13,

@@ -3,20 +3,20 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Capnograph sensor device",
-      "description" : "23861000205107",
+      "code" : "23861000205107",
+      "description" : "Capnograph sensor device",
       "system" : "snomed"
     }, {
-      "code" : "Impedance pneumography recording/analysis system",
-      "description" : "717730001",
+      "code" : "717730001",
+      "description" : "Impedance pneumography recording/analysis system",
       "system" : "snomed"
     }, {
-      "code" : "Peak flow meter",
-      "description" : "334990001",
+      "code" : "334990001",
+      "description" : "Peak flow meter",
       "system" : "snomed"
     }, {
-      "code" : "Respiration strain gauge",
-      "description" : "23921000205109",
+      "code" : "23921000205109",
+      "description" : "Respiration strain gauge",
       "system" : "snomed"
     } ],
     "totalMembers" : 4,

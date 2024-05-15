@@ -3,44 +3,44 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Ear structure",
-      "description" : "117590005",
+      "code" : "117590005",
+      "description" : "Ear structure",
       "system" : "snomed"
     }, {
-      "code" : "Finger structure",
-      "description" : "7569003",
+      "code" : "7569003",
+      "description" : "Finger structure",
       "system" : "snomed"
     }, {
-      "code" : "Forehead structure",
-      "description" : "52795006",
+      "code" : "52795006",
+      "description" : "Forehead structure",
       "system" : "snomed"
     }, {
-      "code" : "Nasopharyngeal structure",
-      "description" : "71836000",
+      "code" : "71836000",
+      "description" : "Nasopharyngeal structure",
       "system" : "snomed"
     }, {
-      "code" : "Oral cavity structure",
-      "description" : "74262004",
+      "code" : "74262004",
+      "description" : "Oral cavity structure",
       "system" : "snomed"
     }, {
-      "code" : "Rectum structure",
-      "description" : "34402009",
+      "code" : "34402009",
+      "description" : "Rectum structure",
       "system" : "snomed"
     }, {
-      "code" : "Structure of axillary fossa",
-      "description" : "422543003",
+      "code" : "422543003",
+      "description" : "Structure of axillary fossa",
       "system" : "snomed"
     }, {
-      "code" : "Toe structure",
-      "description" : "29707007",
+      "code" : "29707007",
+      "description" : "Toe structure",
       "system" : "snomed"
     }, {
-      "code" : "Tympanic membrane structure",
-      "description" : "42859004",
+      "code" : "42859004",
+      "description" : "Tympanic membrane structure",
       "system" : "snomed"
     }, {
-      "code" : "Urinary bladder structure",
-      "description" : "89837001",
+      "code" : "89837001",
+      "description" : "Urinary bladder structure",
       "system" : "snomed"
     } ],
     "totalMembers" : 10,

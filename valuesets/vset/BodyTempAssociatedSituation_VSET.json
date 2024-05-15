@@ -3,8 +3,8 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Post-exercise state",
-      "description" : "128978002",
+      "code" : "128978002",
+      "description" : "Post-exercise state",
       "system" : "snomed"
     } ],
     "totalMembers" : 1,

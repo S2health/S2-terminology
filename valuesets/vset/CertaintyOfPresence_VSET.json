@@ -3,28 +3,28 @@
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
-      "code" : "Confirmed present",
-      "description" : "410605003",
+      "code" : "410605003",
+      "description" : "Confirmed present",
       "system" : "snomed"
     }, {
-      "code" : "Definitely present",
-      "description" : "410591008",
+      "code" : "410591008",
+      "description" : "Definitely present",
       "system" : "snomed"
     }, {
-      "code" : "Known present",
-      "description" : "410515003",
+      "code" : "410515003",
+      "description" : "Known present",
       "system" : "snomed"
     }, {
-      "code" : "Probably not present",
-      "description" : "410593006",
+      "code" : "410593006",
+      "description" : "Probably not present",
       "system" : "snomed"
     }, {
-      "code" : "Probably present",
-      "description" : "410592001",
+      "code" : "410592001",
+      "description" : "Probably present",
       "system" : "snomed"
     }, {
-      "code" : "Suspected",
-      "description" : "415684004",
+      "code" : "415684004",
+      "description" : "Suspected",
       "system" : "snomed"
     } ],
     "totalMembers" : 6,
