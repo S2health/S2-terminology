@@ -1,0 +1,14 @@
+﻿Source Code,Term Original,Value Set Name,Value Set OID,Value Set Code,Value Set URL,Alternate,Alternate-1,Alternate-2,Alternate-3
+30581000205109,Via in-person communication,Communication Mode,CommunicationMode_VSET,,,,,,
+30591000205106,Via verbal interpreter,Communication Mode,CommunicationMode_VSET,,,,,,
+30601000205104,Via sign language interpreter,Communication Mode,CommunicationMode_VSET,,,,,,
+30611000205102,Via video conference,Communication Mode,CommunicationMode_VSET,,,,,,
+30621000205109,Via telephone,Communication Mode,CommunicationMode_VSET,,,,,,
+30631000205106,Via recorded video,Communication Mode,CommunicationMode_VSET,,,,,,
+30641000205101,Via recorded audio,Communication Mode,CommunicationMode_VSET,,,Voice mail,,,
+30651000205103,Via interactive written note,Communication Mode,CommunicationMode_VSET,,,Via SMS chat,Via SMS message,Via internet chat,Via text message
+30661000205100,Via handwritten note,Communication Mode,CommunicationMode_VSET,,,,,,
+30671000205108,Via letter,Communication Mode,CommunicationMode_VSET,,,,,,
+30681000205105,Via email,Communication Mode,CommunicationMode_VSET,,,,,,
+30691000205107,Via facsimile,Communication Mode,CommunicationMode_VSET,,,,,,
+30701000205107,Via teleconference,Communication Mode,CommunicationMode_VSET,,,,,,
