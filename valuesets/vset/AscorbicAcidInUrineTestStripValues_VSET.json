@@ -1,0 +1,24 @@
+{
+  "code" : "AscorbicAcidInUrineTestStripValues_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "260385009",
+      "description" : "Negative",
+      "system" : "snomed"
+    }, {
+      "code" : "441614007",
+      "description" : "Present one plus out of three plus",
+      "system" : "snomed"
+    }, {
+      "code" : "441517005",
+      "description" : "Present two plus out of three plus",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

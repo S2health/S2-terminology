@@ -1,0 +1,32 @@
+{
+  "code" : "GlucoseInUrineTestStripValues_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "260385009",
+      "description" : "Negative",
+      "system" : "snomed"
+    }, {
+      "code" : "144500000",
+      "description" : "Urine glucose test = +",
+      "system" : "snomed"
+    }, {
+      "code" : "144501001",
+      "description" : "Urine glucose test = ++",
+      "system" : "snomed"
+    }, {
+      "code" : "144502008",
+      "description" : "Urine glucose test = +++",
+      "system" : "snomed"
+    }, {
+      "code" : "167267003",
+      "description" : "Urine glucose test = ++++",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 5,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

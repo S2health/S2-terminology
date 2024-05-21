@@ -1,0 +1,60 @@
+{
+  "code" : "UrineCollectionMethod_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "698007008",
+      "description" : "Collection of early morning mid stream specimen of urine by clean catch",
+      "system" : "snomed"
+    }, {
+      "code" : "225111001",
+      "description" : "Collection of early morning urine specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "450874000",
+      "description" : "Collection of first stream urine specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "225271002",
+      "description" : "Collection of mid-stream specimen of urine",
+      "system" : "snomed"
+    }, {
+      "code" : "225109005",
+      "description" : "Collection of nephrostomy urine specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "24469009",
+      "description" : "Collection of routine urine specimen for laboratory",
+      "system" : "snomed"
+    }, {
+      "code" : "733481004",
+      "description" : "Collection of second void urine specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "225110000",
+      "description" : "Collection of ureterostomy urine specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "698087006",
+      "description" : "Collection of urine via indwelling suprapubic catheter",
+      "system" : "snomed"
+    }, {
+      "code" : "446775007",
+      "description" : "Collection of urine via indwelling urinary catheter",
+      "system" : "snomed"
+    }, {
+      "code" : "698086002",
+      "description" : "Collection of urine via pediatric urine collection bag",
+      "system" : "snomed"
+    }, {
+      "code" : "705156009",
+      "description" : "Collection of urine via straight catheter",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 12,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}
