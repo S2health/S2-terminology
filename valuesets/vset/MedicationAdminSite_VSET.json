@@ -1,6 +1,96 @@
 {
   "code" : "MedicationAdminSite_VSET",
-  "valueset" : null,
-  "errorMessage" : "No system found",
-  "error" : true
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "738904002",
+      "description" : "Cutaneous",
+      "system" : "snomed"
+    }, {
+      "code" : "738906000",
+      "description" : "Dental",
+      "system" : "snomed"
+    }, {
+      "code" : "738908004",
+      "description" : "Endocervical",
+      "system" : "snomed"
+    }, {
+      "code" : "764376008",
+      "description" : "Enteral",
+      "system" : "snomed"
+    }, {
+      "code" : "1231459002",
+      "description" : "Extracorporeal",
+      "system" : "snomed"
+    }, {
+      "code" : "738910002",
+      "description" : "Gastroenteral",
+      "system" : "snomed"
+    }, {
+      "code" : "1255345008",
+      "description" : "Intestinal",
+      "system" : "snomed"
+    }, {
+      "code" : "785909009",
+      "description" : "Intralesional",
+      "system" : "snomed"
+    }, {
+      "code" : "738945005",
+      "description" : "Intrauterine",
+      "system" : "snomed"
+    }, {
+      "code" : "738946006",
+      "description" : "Intravesical",
+      "system" : "snomed"
+    }, {
+      "code" : "738948007",
+      "description" : "Nasal",
+      "system" : "snomed"
+    }, {
+      "code" : "738952007",
+      "description" : "Ocular",
+      "system" : "snomed"
+    }, {
+      "code" : "738956005",
+      "description" : "Oral",
+      "system" : "snomed"
+    }, {
+      "code" : "738982001",
+      "description" : "Oromucosal",
+      "system" : "snomed"
+    }, {
+      "code" : "738983006",
+      "description" : "Otic",
+      "system" : "snomed"
+    }, {
+      "code" : "738984000",
+      "description" : "Parenteral",
+      "system" : "snomed"
+    }, {
+      "code" : "738985004",
+      "description" : "Pulmonary",
+      "system" : "snomed"
+    }, {
+      "code" : "738986003",
+      "description" : "Rectal",
+      "system" : "snomed"
+    }, {
+      "code" : "738987007",
+      "description" : "Transdermal",
+      "system" : "snomed"
+    }, {
+      "code" : "738988002",
+      "description" : "Urethral",
+      "system" : "snomed"
+    }, {
+      "code" : "738989005",
+      "description" : "Vaginal",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 21,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
 }

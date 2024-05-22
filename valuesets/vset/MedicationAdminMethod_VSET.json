@@ -1,6 +1,88 @@
 {
   "code" : "MedicationAdminMethod_VSET",
-  "valueset" : null,
-  "errorMessage" : "No system found",
-  "error" : true
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "738990001",
+      "description" : "Administer",
+      "system" : "snomed"
+    }, {
+      "code" : "738991002",
+      "description" : "Apply",
+      "system" : "snomed"
+    }, {
+      "code" : "58841000052102",
+      "description" : "Bathe",
+      "system" : "snomed"
+    }, {
+      "code" : "738992009",
+      "description" : "Chew",
+      "system" : "snomed"
+    }, {
+      "code" : "1231460007",
+      "description" : "Dialysis system",
+      "system" : "snomed"
+    }, {
+      "code" : "782168006",
+      "description" : "Gargle",
+      "system" : "snomed"
+    }, {
+      "code" : "827107003",
+      "description" : "Implantation",
+      "system" : "snomed"
+    }, {
+      "code" : "764794000",
+      "description" : "Infuse",
+      "system" : "snomed"
+    }, {
+      "code" : "740666001",
+      "description" : "Inhale",
+      "system" : "snomed"
+    }, {
+      "code" : "740685003",
+      "description" : "Inject",
+      "system" : "snomed"
+    }, {
+      "code" : "738993004",
+      "description" : "Insert",
+      "system" : "snomed"
+    }, {
+      "code" : "738994005",
+      "description" : "Instill",
+      "system" : "snomed"
+    }, {
+      "code" : "1010690008",
+      "description" : "Insufflate",
+      "system" : "snomed"
+    }, {
+      "code" : "823034001",
+      "description" : "Orodisperse",
+      "system" : "snomed"
+    }, {
+      "code" : "782155003",
+      "description" : "Rinse",
+      "system" : "snomed"
+    }, {
+      "code" : "785900008",
+      "description" : "Rinse or wash",
+      "system" : "snomed"
+    }, {
+      "code" : "738996007",
+      "description" : "Spray",
+      "system" : "snomed"
+    }, {
+      "code" : "764498003",
+      "description" : "Suck",
+      "system" : "snomed"
+    }, {
+      "code" : "738995006",
+      "description" : "Swallow",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 19,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
 }
