@@ -1,4 +1,5 @@
 s2_namespace,terminology_uri,terminology_code_uri_root
+iso,http://iso.org,http://iso.org/code_set/id/
 loinc,http://loinc.org,http://loinc.org/
 snomed,http://snomed.info/sct,http://snomed.info/id/
 rxnorm,http://www.nlm.nih.gov/research/umls/rxnorm,http://www.nlm.nih.gov/research/umls/rxnorm/
