@@ -1,0 +1,24 @@
+{
+  "code" : "Criticality_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "75540009",
+      "description" : "High",
+      "system" : "snomed"
+    }, {
+      "code" : "82334004",
+      "description" : "Indeterminate",
+      "system" : "snomed"
+    }, {
+      "code" : "62482003",
+      "description" : "Low",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}

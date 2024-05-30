@@ -1,0 +1,24 @@
+{
+  "code" : "Severity_VSET",
+  "valueset" : {
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "30171000205102",
+      "description" : " Moderate (qualifier value) ",
+      "system" : "snomed"
+    }, {
+      "code" : "255604002",
+      "description" : "Mild",
+      "system" : "snomed"
+    }, {
+      "code" : "24484000",
+      "description" : "Severe",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isEmpty" : false,
+    "isComplete" : true
+  },
+  "errorMessage" : null,
+  "error" : false
+}
