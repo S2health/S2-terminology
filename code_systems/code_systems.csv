@@ -1,5 +1,8 @@
-s2_namespace,terminology_uri,terminology_code_uri_root
-iso,http://iso.org,http://iso.org/code_set/id/
+code_namespace,terminology_uri,terminology_code_uri_root
+iso3166-1-alpha2,http://iso.org/code_sets/iso3166-1-alpha2,http://iso.org/code_sets/iso3166-1-alpha2/
+iso639-2,http://iso.org/code_sets/iso3166-1-alpha2,http://iso.org/code_sets/iso3166-1-alpha2/
+iana-media-types,http://iana.org/code_sets/media-types,http://iana.org/code_sets/media-types/
+iana-character-sets,http://iana.org/code_sets/character-sets,http://iana.org/code_sets/character-sets/
 loinc,http://loinc.org,http://loinc.org/
 snomed,http://snomed.info/sct,http://snomed.info/id/
 rxnorm,http://www.nlm.nih.gov/research/umls/rxnorm,http://www.nlm.nih.gov/research/umls/rxnorm/
