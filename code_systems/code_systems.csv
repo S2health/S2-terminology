@@ -3,7 +3,7 @@ iso,iso3166-1-alpha2,http://iso.org/code_sets/iso3166-1-alpha2,http://iso.org/co
 iso,iso639-2,http://iso.org/code_sets/iso3166-1-alpha2,http://iso.org/code_sets/iso3166-1-alpha2/
 iana,iana-media-types,http://iana.org/code_sets/media-types,http://iana.org/code_sets/media-types/
 iana,iana-character-sets,http://iana.org/code_sets/character-sets,http://iana.org/code_sets/character-sets/
-loimc,loinc,http://loinc.org,http://loinc.org/
+loinc,loinc,http://loinc.org,http://loinc.org/
 snomed,snomed,http://snomed.info/sct,http://snomed.info/id/
 rxnorm,rxnorm,http://www.nlm.nih.gov/research/umls/rxnorm,http://www.nlm.nih.gov/research/umls/rxnorm/
 s2,s2,http://s2health.org,http://s2health.org/id/
