@@ -1,5 +1,5 @@
 {
-  "code" : "ResultStatus_VSET",
+  "code" : "LabResultStatus_VSET",
   "valueset" : {
     "system" : "snomed",
     "members" : [ {
