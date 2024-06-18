@@ -1,0 +1,2279 @@
+{
+  "map" : {
+    "58450-8" : {
+      "source" : {
+        "code" : "58450-8",
+        "description" : "Bilirubin Urine PrThr Pt Ord Confirm",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "1977-8",
+        "description" : "Bilirubin Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BilirubinACncPtUrineOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703690001",
+          "description" : "Confirmatory technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "2340-8" : {
+      "source" : {
+        "code" : "2340-8",
+        "description" : "Glucose Bld MCnc Pt SemiQn Test strip.automated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2339-0",
+        "description" : "Glucose Bld MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.GlucoseMCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "737102004",
+          "description" : "Automated test strip technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "2341-6" : {
+      "source" : {
+        "code" : "2341-6",
+        "description" : "Glucose Bld MCnc Pt Qn Test strip manual",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2339-0",
+        "description" : "Glucose Bld MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.GlucoseMCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "737103009",
+          "description" : "Manual test strip technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "50553-7" : {
+      "source" : {
+        "code" : "50553-7",
+        "description" : "Color Urine Type Pt Nom Auto",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "5778-6",
+        "description" : "Color Urine Type Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.ColorTypePtUrineNomLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "8359006",
+          "description" : "Automated",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "777-3" : {
+      "source" : {
+        "code" : "777-3",
+        "description" : "Platelets Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26515-7",
+        "description" : "Platelets Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.PlateletsNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "49497-1" : {
+      "source" : {
+        "code" : "49497-1",
+        "description" : "Platelets Bld NCnc Pt Qn Estimate",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26515-7",
+        "description" : "Platelets Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.PlateletsNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "414135002",
+          "description" : "Estimated",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "19415-9" : {
+      "source" : {
+        "code" : "19415-9",
+        "description" : "Tetrahydrocannabinol Urine PrThr Pt Ord Screen",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3426-4",
+        "description" : "Tetrahydrocannabinol Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.TetrahydrocannabinolPrThrPtUrineOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1287497009",
+          "description" : "Screening technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "783-1" : {
+      "source" : {
+        "code" : "783-1",
+        "description" : "Promyelocytes/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26524-9",
+        "description" : "Promyelocytes/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Promyelocytes100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "4544-3" : {
+      "source" : {
+        "code" : "4544-3",
+        "description" : "Hematocrit Bld VFr Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "20570-8",
+        "description" : "Hematocrit Bld VFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.HematocritVFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "31100-1" : {
+      "source" : {
+        "code" : "31100-1",
+        "description" : "Hematocrit Bld VFr Pt Qn Impedance",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "20570-8",
+        "description" : "Hematocrit Bld VFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.HematocritVFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703452004",
+          "description" : "Electrical impedance technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "770-8" : {
+      "source" : {
+        "code" : "770-8",
+        "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26511-6",
+        "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Neutrophils100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "23761-0" : {
+      "source" : {
+        "code" : "23761-0",
+        "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26511-6",
+        "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Neutrophils100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "17780-8" : {
+      "source" : {
+        "code" : "17780-8",
+        "description" : "Helicobacter pylori Ag Stool PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "31843-6",
+        "description" : "Helicobacter pylori Ag Stool PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.HelicobacterPyloriAgACncPtStoolOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "10328-3" : {
+      "source" : {
+        "code" : "10328-3",
+        "description" : "Lymphocytes/100 leukocytes CSF NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26479-6",
+        "description" : "Lymphocytes/100 leukocytes CSF NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Lymphocytes100leukocytesNFrPtCSFQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "29950-3" : {
+      "source" : {
+        "code" : "29950-3",
+        "description" : "Nuclear Ab.IgG Ser PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "31545-7",
+        "description" : "Nuclear Ab.IgG Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.NuclearAbIgGACncPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "704-7" : {
+      "source" : {
+        "code" : "704-7",
+        "description" : "Basophils Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26444-0",
+        "description" : "Basophils Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BasophilsNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "705-4" : {
+      "source" : {
+        "code" : "705-4",
+        "description" : "Basophils Bld NCnc Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26444-0",
+        "description" : "Basophils Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BasophilsNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "5159-9" : {
+      "source" : {
+        "code" : "5159-9",
+        "description" : "Epstein Barr virus capsid Ab.IgM Ser ACnc Pt Qn IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "7886-5",
+        "description" : "Epstein Barr virus capsid Ab.IgM Ser ACnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.EpsteinBarrviruscapsidAbIgMACncPtSerQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "17856-6" : {
+      "source" : {
+        "code" : "17856-6",
+        "description" : "Hemoglobin A1c/Hemoglobin.total Bld MFr Pt Qn HPLC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "4548-4",
+        "description" : "Hemoglobin A1c/Hemoglobin.total Bld MFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.HemoglobinA1cHemoglobinTotalMFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "258035006",
+          "description" : "High pressure liquid chromatography",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "57845-0" : {
+      "source" : {
+        "code" : "57845-0",
+        "description" : "Leukocytes Body fld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26466-3",
+        "description" : "Leukocytes Body fld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.LeukocytesNCncPtBodyfldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "6743-9" : {
+      "source" : {
+        "code" : "6743-9",
+        "description" : "Leukocytes Body fld NCnc Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26466-3",
+        "description" : "Leukocytes Body fld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.LeukocytesNCncPtBodyfldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "789-8" : {
+      "source" : {
+        "code" : "789-8",
+        "description" : "Erythrocytes Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26453-1",
+        "description" : "Erythrocytes Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.ErythrocytesNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "735-1" : {
+      "source" : {
+        "code" : "735-1",
+        "description" : "Lymphocytes.variant/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "13046-8",
+        "description" : "Lymphocytes.variant/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Lymphocytesvariant100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "33256-9" : {
+      "source" : {
+        "code" : "33256-9",
+        "description" : "Leukocytes corrected for nucleated erythrocytes Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "12227-5",
+        "description" : "Leukocytes corrected for nucleated erythrocytes Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.LeukocytescorrectedfornucleatederythrocytesNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "707-0" : {
+      "source" : {
+        "code" : "707-0",
+        "description" : "Basophils/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30180-4",
+        "description" : "Basophils/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Basophils100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "706-2" : {
+      "source" : {
+        "code" : "706-2",
+        "description" : "Basophils/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30180-4",
+        "description" : "Basophils/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Basophils100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "25428-4" : {
+      "source" : {
+        "code" : "25428-4",
+        "description" : "Glucose Urine PrThr Pt Ord Test strip",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2349-9",
+        "description" : "Glucose Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.GlucoseACncPtUrineOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702660003",
+          "description" : "Test strip technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "20521-1" : {
+      "source" : {
+        "code" : "20521-1",
+        "description" : "Carboxy tetrahydrocannabinol Urine MCnc Pt Qn Confirm",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3436-3",
+        "description" : "Carboxy tetrahydrocannabinol Urine MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.CarboxytetrahydrocannabinolMCncPtUrineQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703690001",
+          "description" : "Confirmatory technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "10834-0" : {
+      "source" : {
+        "code" : "10834-0",
+        "description" : "Globulin Ser MCnc Pt Qn Calculated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2336-6",
+        "description" : "Globulin Ser MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.GlobulinMCncPtSerQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "117337005",
+          "description" : "Calculated laboratory test method",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "13458-5" : {
+      "source" : {
+        "code" : "13458-5",
+        "description" : "Cholesterol.in VLDL Ser/Plas MCnc Pt Qn Calculated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2091-7",
+        "description" : "Cholesterol.in VLDL Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.CholesterolinVLDLMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "117337005",
+          "description" : "Calculated laboratory test method",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "6864-3" : {
+      "source" : {
+        "code" : "6864-3",
+        "description" : "Hemoglobin S Bld PrThr Pt Ord Solubility test",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "4621-9",
+        "description" : "Hemoglobin S Bld PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.HemoglobinSACncPtBldOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708070006",
+          "description" : "Solubility test technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "30361-0" : {
+      "source" : {
+        "code" : "30361-0",
+        "description" : "HIV 2 Ab Ser/Plas PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "7919-4",
+        "description" : "HIV 2 Ab Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.HIV2AbACncPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "737-7" : {
+      "source" : {
+        "code" : "737-7",
+        "description" : "Lymphocytes/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26478-8",
+        "description" : "Lymphocytes/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Lymphocytes100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "736-9" : {
+      "source" : {
+        "code" : "736-9",
+        "description" : "Lymphocytes/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26478-8",
+        "description" : "Lymphocytes/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Lymphocytes100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "47383-5" : {
+      "source" : {
+        "code" : "47383-5",
+        "description" : "Nuclear Ab Ser PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8061-4",
+        "description" : "Nuclear Ab Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.NuclearAbACncPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "42254-3" : {
+      "source" : {
+        "code" : "42254-3",
+        "description" : "Nuclear Ab Ser PrThr Pt Ord IF",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8061-4",
+        "description" : "Nuclear Ab Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.NuclearAbACncPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "406867009",
+          "description" : "Immunofluorescent stain method",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "6771-0" : {
+      "source" : {
+        "code" : "6771-0",
+        "description" : "Alpha 1 antitrypsin Ser/Plas MCnc Pt Qn Nephelometry",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "1825-9",
+        "description" : "Alpha 1 antitrypsin Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Alpha1AntitrypsinMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "359838000",
+          "description" : "Nephelometry",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "32683-5" : {
+      "source" : {
+        "code" : "32683-5",
+        "description" : "Hemoglobin S/Hemoglobin.total Bld MFr Pt Qn Electrophoresis",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "4625-0",
+        "description" : "Hemoglobin S/Hemoglobin.total Bld MFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.HemoglobinSHemoglobinTotalMFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703450007",
+          "description" : "Electrophoresis technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "79426-3" : {
+      "source" : {
+        "code" : "79426-3",
+        "description" : "Plasma cells/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "13047-6",
+        "description" : "Plasma cells/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.PlasmaCells100LeukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "49041-7" : {
+      "source" : {
+        "code" : "49041-7",
+        "description" : "Testosterone Ser/Plas MCnc Pt Qn Detection limit <= 1.0 ng/dL",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2986-8",
+        "description" : "Testosterone Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.TestosteroneMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703439009",
+          "description" : "Measurement technique with detection limit equal to or less than 1.0 ng/dL",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "6879-1" : {
+      "source" : {
+        "code" : "6879-1",
+        "description" : "Corticotropin Plas MCnc Pt Qn RIA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2141-0",
+        "description" : "Corticotropin Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.CorticotropinMCncPtPlasQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708099001",
+          "description" : "Rapid immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "731-0" : {
+      "source" : {
+        "code" : "731-0",
+        "description" : "Lymphocytes Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26474-7",
+        "description" : "Lymphocytes Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.LymphocytesNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "732-8" : {
+      "source" : {
+        "code" : "732-8",
+        "description" : "Lymphocytes Bld NCnc Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26474-7",
+        "description" : "Lymphocytes Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.LymphocytesNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "17864-0" : {
+      "source" : {
+        "code" : "17864-0",
+        "description" : "Calcium.ionized Ser/Plas MCnc Pt Qn ISE",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "17863-2",
+        "description" : "Calcium.ionized Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.CalciumIonizedMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703445001",
+          "description" : "Ion selective electrode measurement technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "4552-6" : {
+      "source" : {
+        "code" : "4552-6",
+        "description" : "Hemoglobin A2/Hemoglobin.total Bld MFr Pt Qn Electrophoresis",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "4551-8",
+        "description" : "Hemoglobin A2/Hemoglobin.total Bld MFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.HemoglobinA2HemoglobinTotalMFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703450007",
+          "description" : "Electrophoresis technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "12238-2" : {
+      "source" : {
+        "code" : "12238-2",
+        "description" : "Neutrophils/100 leukocytes Body fld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26513-2",
+        "description" : "Neutrophils/100 leukocytes Body fld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Neutrophils100leukocytesNFrPtBodyfldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "24115-8" : {
+      "source" : {
+        "code" : "24115-8",
+        "description" : "Epstein Barr virus capsid Ab.IgM Ser PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30340-4",
+        "description" : "Epstein Barr virus capsid Ab.IgM Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.EpsteinBarrviruscapsidAbIgMPrThrPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "13522-8" : {
+      "source" : {
+        "code" : "13522-8",
+        "description" : "Blasts/100 leukocytes Body fld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26446-5",
+        "description" : "Blasts/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Blasts100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "709-6" : {
+      "source" : {
+        "code" : "709-6",
+        "description" : "Blasts/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26446-5",
+        "description" : "Blasts/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Blasts100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "41647-9" : {
+      "source" : {
+        "code" : "41647-9",
+        "description" : "Carbon dioxide BldA SCnc Pt Qn Calculated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2026-3",
+        "description" : "Carbon dioxide BldA SCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.CarbondioxideSCncPtBldAQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "117337005",
+          "description" : "Calculated laboratory test method",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "17849-1" : {
+      "source" : {
+        "code" : "17849-1",
+        "description" : "Reticulocytes/100 erythrocytes Bld NFr Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "4679-7",
+        "description" : "Reticulocytes/100 erythrocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Reticulocytes100erythrocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "31112-6" : {
+      "source" : {
+        "code" : "31112-6",
+        "description" : "Reticulocytes/100 erythrocytes Bld NFr Pt Qn Manual",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "4679-7",
+        "description" : "Reticulocytes/100 erythrocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Reticulocytes100erythrocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "362943005",
+          "description" : "Manual method",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "19554-5" : {
+      "source" : {
+        "code" : "19554-5",
+        "description" : "Methamphetamine Urine PrThr Pt Ord Screen",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3779-6",
+        "description" : "Methamphetamine Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.MethamphetaminePrThrPtUrineOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1287497009",
+          "description" : "Screening technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "6741-3" : {
+      "source" : {
+        "code" : "6741-3",
+        "description" : "Erythrocytes Body fld NCnc Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26455-6",
+        "description" : "Erythrocytes Body fld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.ErythrocytesNCncPtBodyfldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "23860-0" : {
+      "source" : {
+        "code" : "23860-0",
+        "description" : "Erythrocytes Body fld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26455-6",
+        "description" : "Erythrocytes Body fld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.ErythrocytesNCncPtBodyfldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "787-2" : {
+      "source" : {
+        "code" : "787-2",
+        "description" : "Erythrocyte mean corpuscular volume RBC EntVol Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30428-7",
+        "description" : "Erythrocyte mean corpuscular volume RBC EntVol Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.ErythrocytemeancorpuscularvolumeEntVolPtRBCQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "2713-6" : {
+      "source" : {
+        "code" : "2713-6",
+        "description" : "Oxygen saturation Bld MFr Pt Qn Calculated from oxygen partial pressure",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "20564-1",
+        "description" : "Oxygen saturation Bld MFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.OxygenSaturationMFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703463001",
+          "description" : "Calculation from oxygen partial pressure",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "748-4" : {
+      "source" : {
+        "code" : "748-4",
+        "description" : "Myelocytes Bld NCnc Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30446-9",
+        "description" : "Myelocytes Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.MyelocytesNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "751-8" : {
+      "source" : {
+        "code" : "751-8",
+        "description" : "Neutrophils Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26499-4",
+        "description" : "Neutrophils Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.NeutrophilsNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "753-4" : {
+      "source" : {
+        "code" : "753-4",
+        "description" : "Neutrophils Bld NCnc Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26499-4",
+        "description" : "Neutrophils Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.NeutrophilsNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "60474-4" : {
+      "source" : {
+        "code" : "60474-4",
+        "description" : "Reticulocytes Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "14196-0",
+        "description" : "Reticulocytes Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.ReticulocytesNCncPtRBCQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "24114-1" : {
+      "source" : {
+        "code" : "24114-1",
+        "description" : "Epstein Barr virus capsid Ab.IgG Ser PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30339-6",
+        "description" : "Epstein Barr virus capsid Ab.IgG Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.EpsteinBarrviruscapsidAbIgGPrThrPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "21394-2" : {
+      "source" : {
+        "code" : "21394-2",
+        "description" : "Monocytes+Macrophages/100 leukocytes Body fld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30437-8",
+        "description" : "Monocytes+Macrophages/100 leukocytes Body fld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.MonocytesMacrophages100leukocytesNFrPtBodyfldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "14959-1" : {
+      "source" : {
+        "code" : "14959-1",
+        "description" : "Albumin/Creatinine Urine MRto Pt Qn Detection limit <= 20 mg/L",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9318-7",
+        "description" : "Albumin/Creatinine Urine MRto Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.AlbuminCreatinineMCrtoPtUrineQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "118184002",
+          "description" : "Laboratory test with detection limit of <20mg/L",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "742-7" : {
+      "source" : {
+        "code" : "742-7",
+        "description" : "Monocytes Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26484-6",
+        "description" : "Monocytes Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.MonocytesNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "743-5" : {
+      "source" : {
+        "code" : "743-5",
+        "description" : "Monocytes Bld NCnc Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26484-6",
+        "description" : "Monocytes Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.MonocytesNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "30083-0" : {
+      "source" : {
+        "code" : "30083-0",
+        "description" : "Epstein Barr virus nuclear Ab.IgG Ser ACnc Pt Qn IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "31374-2",
+        "description" : "Epstein Barr virus nuclear Ab.IgG Ser ACnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.EpsteinBarrVirusNuclearAbIgGACncPtSerQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "12189-7" : {
+      "source" : {
+        "code" : "12189-7",
+        "description" : "Creatine kinase.MB/Creatine kinase.total Ser/Plas CFr Pt Qn Calculated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "20569-0",
+        "description" : "Creatine kinase.MB/Creatine kinase.total Ser/Plas CFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.CreatineKinaseMBCreatineKinaseTotalCFrPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "117337005",
+          "description" : "Calculated laboratory test method",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "40646-2" : {
+      "source" : {
+        "code" : "40646-2",
+        "description" : "Leukocytes other/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26471-3",
+        "description" : "Leukocytes other/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Leukocytesother100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "53115-2" : {
+      "source" : {
+        "code" : "53115-2",
+        "description" : "Granulocytes.immature Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "51584-1",
+        "description" : "Granulocytes.immature Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.GranulocytesImmatureNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "711-2" : {
+      "source" : {
+        "code" : "711-2",
+        "description" : "Eosinophils Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26449-9",
+        "description" : "Eosinophils Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.EosinophilsNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "712-0" : {
+      "source" : {
+        "code" : "712-0",
+        "description" : "Eosinophils Bld NCnc Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26449-9",
+        "description" : "Eosinophils Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.EosinophilsNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "6437-8" : {
+      "source" : {
+        "code" : "6437-8",
+        "description" : "Influenza virus A+B Ag PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "24015-0",
+        "description" : "Influenza virus A+B Ag PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.InfluenzaVirusABAgACncPtXXXOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "21612-7" : {
+      "source" : {
+        "code" : "21612-7",
+        "description" : "Age Patient Time Pt Qn Reported",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30525-0",
+        "description" : "Age Patient Time Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.AgeMeas.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "733985002",
+          "description" : "Reported",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "5157-3" : {
+      "source" : {
+        "code" : "5157-3",
+        "description" : "Epstein Barr virus capsid Ab.IgG Ser ACnc Pt Qn IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "7885-7",
+        "description" : "Epstein Barr virus capsid Ab.IgG Ser ACnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.EpsteinBarrVirusCapsidAbIgGACncPtSerQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "61152-5" : {
+      "source" : {
+        "code" : "61152-5",
+        "description" : "Albumin Ser/Plas MCnc Pt Qn BCP",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "1751-7",
+        "description" : "Albumin Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.AlbuminMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1303771002",
+          "description" : "Bromocresol purple dye binding technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "61151-7" : {
+      "source" : {
+        "code" : "61151-7",
+        "description" : "Albumin Ser/Plas MCnc Pt Qn BCG",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "1751-7",
+        "description" : "Albumin Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.AlbuminMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1303770001",
+          "description" : "Bromocresol green dye binding technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "2862-1" : {
+      "source" : {
+        "code" : "2862-1",
+        "description" : "Albumin Ser/Plas MCnc Pt Qn Electrophoresis",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "1751-7",
+        "description" : "Albumin Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.AlbuminMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703450007",
+          "description" : "Electrophoresis technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "51487-7" : {
+      "source" : {
+        "code" : "51487-7",
+        "description" : "Leukocytes Urine NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30405-5",
+        "description" : "Leukocytes Urine NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.LeukocytesNCncPtUrineQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "20408-1" : {
+      "source" : {
+        "code" : "20408-1",
+        "description" : "Leukocytes Urine NCnc Pt SemiQn Test strip",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30405-5",
+        "description" : "Leukocytes Urine NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.LeukocytesNCncPtUrineQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702660003",
+          "description" : "Test strip technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "58805-3" : {
+      "source" : {
+        "code" : "58805-3",
+        "description" : "Leukocytes Urine NCnc Pt SemiQn Test strip.automated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30405-5",
+        "description" : "Leukocytes Urine NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.LeukocytesNCncPtUrineQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "737102004",
+          "description" : "Automated test strip technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "20567-4" : {
+      "source" : {
+        "code" : "20567-4",
+        "description" : "Ferritin Ser/Plas MCnc Pt Qn IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2276-4",
+        "description" : "Ferritin Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.FerritinMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "749-2" : {
+      "source" : {
+        "code" : "749-2",
+        "description" : "Myelocytes/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26498-6",
+        "description" : "Myelocytes/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Myelocytes100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "764-1" : {
+      "source" : {
+        "code" : "764-1",
+        "description" : "Neutrophils.band form/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26508-2",
+        "description" : "Neutrophils.band form/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Neutrophilsbandform100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "35332-6" : {
+      "source" : {
+        "code" : "35332-6",
+        "description" : "Neutrophils.band form/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26508-2",
+        "description" : "Neutrophils.band form/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Neutrophilsbandform100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "13457-7" : {
+      "source" : {
+        "code" : "13457-7",
+        "description" : "Cholesterol.in LDL Ser/Plas MCnc Pt Qn Calculated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2089-1",
+        "description" : "Cholesterol.in LDL Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.CholesterolInLDLMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "117337005",
+          "description" : "Calculated laboratory test method",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "18262-6" : {
+      "source" : {
+        "code" : "18262-6",
+        "description" : "Cholesterol.in LDL Ser/Plas MCnc Pt Qn Direct assay",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2089-1",
+        "description" : "Cholesterol.in LDL Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.CholesterolInLDLMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702669002",
+          "description" : "Direct assay technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "744-3" : {
+      "source" : {
+        "code" : "744-3",
+        "description" : "Monocytes/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26485-3",
+        "description" : "Monocytes/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Monocytes100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "5905-5" : {
+      "source" : {
+        "code" : "5905-5",
+        "description" : "Monocytes/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26485-3",
+        "description" : "Monocytes/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Monocytes100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "714-6" : {
+      "source" : {
+        "code" : "714-6",
+        "description" : "Eosinophils/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26450-7",
+        "description" : "Eosinophils/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Eosinophils100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "713-8" : {
+      "source" : {
+        "code" : "713-8",
+        "description" : "Eosinophils/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26450-7",
+        "description" : "Eosinophils/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Eosinophils100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}
