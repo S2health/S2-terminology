@@ -1,0 +1,38 @@
+{
+  "id" : "s2.BodyWeightMeasAssociatedPrecondition.vset",
+  "creationDate" : "2024-06-20T14:02:01-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "name" : "BodyWeightMeasAssociatedPrecondition.vset",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "248165006",
+      "description" : "Adequately dressed",
+      "system" : "snomed"
+    }, {
+      "code" : "1156252001",
+      "description" : "Barefoot",
+      "system" : "snomed"
+    }, {
+      "code" : "118643004",
+      "description" : "Cast",
+      "system" : "snomed"
+    }, {
+      "code" : "257308009",
+      "description" : "Oxygenator",
+      "system" : "snomed"
+    }, {
+      "code" : "53350007",
+      "description" : "Prosthesis",
+      "system" : "snomed"
+    }, {
+      "code" : "248160001",
+      "description" : "Undressed",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 6,
+    "isComplete" : true
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id" : "s2.CommunicationMode.vset",
+  "creationDate" : "2024-06-20T14:02:12-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "name" : "CommunicationMode.vset",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "30681000205105",
+      "description" : "Via email",
+      "system" : "snomed"
+    }, {
+      "code" : "30691000205107",
+      "description" : "Via facsimile",
+      "system" : "snomed"
+    }, {
+      "code" : "30661000205100",
+      "description" : "Via handwritten note",
+      "system" : "snomed"
+    }, {
+      "code" : "30581000205109",
+      "description" : "Via in-person communication",
+      "system" : "snomed"
+    }, {
+      "code" : "30651000205103",
+      "description" : "Via interactive written note",
+      "system" : "snomed"
+    }, {
+      "code" : "30671000205108",
+      "description" : "Via letter",
+      "system" : "snomed"
+    }, {
+      "code" : "30641000205101",
+      "description" : "Via recorded audio",
+      "system" : "snomed"
+    }, {
+      "code" : "30631000205106",
+      "description" : "Via recorded video",
+      "system" : "snomed"
+    }, {
+      "code" : "30601000205104",
+      "description" : "Via sign language interpreter",
+      "system" : "snomed"
+    }, {
+      "code" : "30701000205107",
+      "description" : "Via teleconference",
+      "system" : "snomed"
+    }, {
+      "code" : "30621000205109",
+      "description" : "Via telephone",
+      "system" : "snomed"
+    }, {
+      "code" : "30591000205106",
+      "description" : "Via verbal interpreter",
+      "system" : "snomed"
+    }, {
+      "code" : "30611000205102",
+      "description" : "Via video conference",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 13,
+    "isComplete" : true
+  }
+}

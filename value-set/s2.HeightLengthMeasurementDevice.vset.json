@@ -1,0 +1,26 @@
+{
+  "id" : "s2.HeightLengthMeasurementDevice.vset",
+  "creationDate" : "2024-06-20T14:02:11-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "name" : "HeightLengthMeasurementDevice.vset",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "102304005",
+      "description" : "Measuring ruler",
+      "system" : "snomed"
+    }, {
+      "code" : "51791000",
+      "description" : "Measuring tape",
+      "system" : "snomed"
+    }, {
+      "code" : "24311000205101",
+      "description" : "Stadiometer",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}
