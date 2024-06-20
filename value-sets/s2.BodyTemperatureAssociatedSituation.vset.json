@@ -1,0 +1,18 @@
+{
+  "id" : "s2.BodyTemperatureAssociatedSituation.vset",
+  "creationDate" : "2024-06-20T14:02:00-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "name" : "BodyTemperatureAssociatedSituation.vset",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "128978002",
+      "description" : "Post-exercise state",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 1,
+    "isComplete" : true
+  }
+}

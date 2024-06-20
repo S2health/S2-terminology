@@ -1,0 +1,22 @@
+{
+  "id" : "s2.RespiratoryRateMeasMethod.vset",
+  "creationDate" : "2024-06-20T14:02:05-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "name" : "RespiratoryRateMeasMethod.vset",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "37931006",
+      "description" : "Auscultation",
+      "system" : "snomed"
+    }, {
+      "code" : "32750006",
+      "description" : "Inspection",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 2,
+    "isComplete" : true
+  }
+}

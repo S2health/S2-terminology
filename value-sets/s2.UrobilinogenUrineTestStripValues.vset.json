@@ -1,0 +1,42 @@
+{
+  "id" : "s2.UrobilinogenUrineTestStripValues.vset",
+  "creationDate" : "2024-06-20T14:02:11-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "name" : "UrobilinogenUrineTestStripValues.vset",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "17621005",
+      "description" : "Normal",
+      "system" : "snomed"
+    }, {
+      "code" : "167325005",
+      "description" : "Urine urobilinogen = +",
+      "system" : "snomed"
+    }, {
+      "code" : "167326006",
+      "description" : "Urine urobilinogen = ++",
+      "system" : "snomed"
+    }, {
+      "code" : "167327002",
+      "description" : "Urine urobilinogen = +++",
+      "system" : "snomed"
+    }, {
+      "code" : "167328007",
+      "description" : "Urine urobilinogen = ++++",
+      "system" : "snomed"
+    }, {
+      "code" : "167324009",
+      "description" : "Urine urobilinogen = trace",
+      "system" : "snomed"
+    }, {
+      "code" : "167323003",
+      "description" : "Urine urobilinogen not detected",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 7,
+    "isComplete" : true
+  }
+}

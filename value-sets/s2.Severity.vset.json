@@ -1,0 +1,26 @@
+{
+  "id" : "s2.Severity.vset",
+  "creationDate" : "2024-06-20T14:02:06-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "name" : "Severity.vset",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "30171000205102",
+      "description" : " Moderate (qualifier value) ",
+      "system" : "snomed"
+    }, {
+      "code" : "255604002",
+      "description" : "Mild",
+      "system" : "snomed"
+    }, {
+      "code" : "24484000",
+      "description" : "Severe",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}
