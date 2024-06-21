@@ -1,0 +1,23 @@
+{
+  "id" : "s2.NitriteInUrineTestStripValues",
+  "creationDate" : "2024-06-21T14:56:28-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "NitriteInUrineTestStripValues",
+    "description" : "Nitrite in urine test strip values",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "260385009",
+      "description" : "Negative",
+      "system" : "snomed"
+    }, {
+      "code" : "10828004",
+      "description" : "Positive",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 2,
+    "isComplete" : true
+  }
+}

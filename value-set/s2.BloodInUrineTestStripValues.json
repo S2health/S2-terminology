@@ -1,0 +1,31 @@
+{
+  "id" : "s2.BloodInUrineTestStripValues",
+  "creationDate" : "2024-06-21T14:56:17-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "BloodInUrineTestStripValues",
+    "description" : "Blood in urine test strip values",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "260385009",
+      "description" : "Negative",
+      "system" : "snomed"
+    }, {
+      "code" : "167300001",
+      "description" : "Urine blood test = +",
+      "system" : "snomed"
+    }, {
+      "code" : "167301002",
+      "description" : "Urine blood test = ++",
+      "system" : "snomed"
+    }, {
+      "code" : "167302009",
+      "description" : "Urine blood test = +++",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 4,
+    "isComplete" : true
+  }
+}

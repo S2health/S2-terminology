@@ -1,0 +1,51 @@
+{
+  "id" : "s2.BloodPressureMeasMethod",
+  "creationDate" : "2024-06-21T14:56:18-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "BloodPressureMeasMethod",
+    "description" : "Blood pressure meas method",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "77938009",
+      "description" : "Arterial pressure monitoring, invasive method",
+      "system" : "snomed"
+    }, {
+      "code" : "17146006",
+      "description" : "Arterial pressure monitoring, non-invasive method",
+      "system" : "snomed"
+    }, {
+      "code" : "37931006",
+      "description" : "Auscultation",
+      "system" : "snomed"
+    }, {
+      "code" : "641000205104",
+      "description" : "Auscultation - automatic",
+      "system" : "snomed"
+    }, {
+      "code" : "765172009",
+      "description" : "Doppler ultrasound",
+      "system" : "snomed"
+    }, {
+      "code" : "911000205109",
+      "description" : "Measurement of blood pressure using intravascular transducer",
+      "system" : "snomed"
+    }, {
+      "code" : "13385008",
+      "description" : "Mediate auscultation",
+      "system" : "snomed"
+    }, {
+      "code" : "113011001",
+      "description" : "Palpation",
+      "system" : "snomed"
+    }, {
+      "code" : "31813000",
+      "description" : "Vascular oscillometry",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 9,
+    "isComplete" : true
+  }
+}

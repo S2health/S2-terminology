@@ -1,0 +1,27 @@
+{
+  "id" : "s2.HeightLengthMeasMethod",
+  "creationDate" : "2024-06-21T14:56:26-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "HeightLengthMeasMethod",
+    "description" : "Height length meas method",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "414135002",
+      "description" : "Estimated",
+      "system" : "snomed"
+    }, {
+      "code" : "258104002",
+      "description" : "Measured",
+      "system" : "snomed"
+    }, {
+      "code" : "733985002",
+      "description" : "Reported",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}

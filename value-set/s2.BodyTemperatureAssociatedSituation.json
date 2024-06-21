@@ -1,0 +1,19 @@
+{
+  "id" : "s2.BodyTemperatureAssociatedSituation",
+  "creationDate" : "2024-06-21T14:56:24-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "BodyTemperatureAssociatedSituation",
+    "description" : "Body temperature associated situation",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "128978002",
+      "description" : "Post-exercise state",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 1,
+    "isComplete" : true
+  }
+}

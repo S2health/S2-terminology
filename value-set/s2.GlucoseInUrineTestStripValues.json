@@ -1,0 +1,35 @@
+{
+  "id" : "s2.GlucoseInUrineTestStripValues",
+  "creationDate" : "2024-06-21T14:56:25-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "GlucoseInUrineTestStripValues",
+    "description" : "Glucose in urine test strip values",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "260385009",
+      "description" : "Negative",
+      "system" : "snomed"
+    }, {
+      "code" : "144500000",
+      "description" : "Urine glucose test = +",
+      "system" : "snomed"
+    }, {
+      "code" : "144501001",
+      "description" : "Urine glucose test = ++",
+      "system" : "snomed"
+    }, {
+      "code" : "144502008",
+      "description" : "Urine glucose test = +++",
+      "system" : "snomed"
+    }, {
+      "code" : "167267003",
+      "description" : "Urine glucose test = ++++",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 5,
+    "isComplete" : true
+  }
+}

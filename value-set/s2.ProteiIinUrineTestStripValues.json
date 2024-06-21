@@ -1,0 +1,39 @@
+{
+  "id" : "s2.ProteiIinUrineTestStripValues",
+  "creationDate" : "2024-06-21T14:56:29-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "ProteiIinUrineTestStripValues",
+    "description" : "Protei iin urine test strip values",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "260385009",
+      "description" : "Negative",
+      "system" : "snomed"
+    }, {
+      "code" : "167275009",
+      "description" : "Urine protein test = +",
+      "system" : "snomed"
+    }, {
+      "code" : "167276005",
+      "description" : "Urine protein test = ++",
+      "system" : "snomed"
+    }, {
+      "code" : "167277001",
+      "description" : "Urine protein test = +++",
+      "system" : "snomed"
+    }, {
+      "code" : "167278006",
+      "description" : "Urine protein test = ++++",
+      "system" : "snomed"
+    }, {
+      "code" : "167274008",
+      "description" : "Urine protein test = trace",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 6,
+    "isComplete" : true
+  }
+}

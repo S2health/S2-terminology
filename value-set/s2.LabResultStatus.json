@@ -1,0 +1,35 @@
+{
+  "id" : "s2.LabResultStatus",
+  "creationDate" : "2024-06-21T14:56:35-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "LabResultStatus",
+    "description" : "Lab result status",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "89925002",
+      "description" : "Canceled",
+      "system" : "snomed"
+    }, {
+      "code" : "33714007",
+      "description" : "Corrected",
+      "system" : "snomed"
+    }, {
+      "code" : "723510000",
+      "description" : "Entered in error",
+      "system" : "snomed"
+    }, {
+      "code" : "24571000205104",
+      "description" : "Final",
+      "system" : "snomed"
+    }, {
+      "code" : "261420005",
+      "description" : "Preliminary",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 5,
+    "isComplete" : true
+  }
+}

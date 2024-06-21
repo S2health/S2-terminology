@@ -1,0 +1,959 @@
+{
+  "id" : "s2.FocalSubject",
+  "creationDate" : "2024-06-21T14:56:25-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "FocalSubject",
+    "description" : "Focal subject",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "105459000",
+      "description" : "Accepted donor",
+      "system" : "snomed"
+    }, {
+      "code" : "393547004",
+      "description" : "Adopted child",
+      "system" : "snomed"
+    }, {
+      "code" : "393549001",
+      "description" : "Adopted daughter",
+      "system" : "snomed"
+    }, {
+      "code" : "105431001",
+      "description" : "Adopted person",
+      "system" : "snomed"
+    }, {
+      "code" : "394560000",
+      "description" : "Adopted son",
+      "system" : "snomed"
+    }, {
+      "code" : "17925003",
+      "description" : "Adoptive brother",
+      "system" : "snomed"
+    }, {
+      "code" : "609005",
+      "description" : "Adoptive father",
+      "system" : "snomed"
+    }, {
+      "code" : "85058002",
+      "description" : "Adoptive grandfather",
+      "system" : "snomed"
+    }, {
+      "code" : "31656007",
+      "description" : "Adoptive grandmother",
+      "system" : "snomed"
+    }, {
+      "code" : "22609000",
+      "description" : "Adoptive grandparent",
+      "system" : "snomed"
+    }, {
+      "code" : "21464003",
+      "description" : "Adoptive mother",
+      "system" : "snomed"
+    }, {
+      "code" : "41953004",
+      "description" : "Adoptive parent",
+      "system" : "snomed"
+    }, {
+      "code" : "79508001",
+      "description" : "Adoptive sibling",
+      "system" : "snomed"
+    }, {
+      "code" : "76022008",
+      "description" : "Adoptive sister",
+      "system" : "snomed"
+    }, {
+      "code" : "25211005",
+      "description" : "Aunt",
+      "system" : "snomed"
+    }, {
+      "code" : "105470007",
+      "description" : "Blood donor",
+      "system" : "snomed"
+    }, {
+      "code" : "713184006",
+      "description" : "Blood product donor",
+      "system" : "snomed"
+    }, {
+      "code" : "125679009",
+      "description" : "Blood relative",
+      "system" : "snomed"
+    }, {
+      "code" : "105471006",
+      "description" : "Bone marrow donor",
+      "system" : "snomed"
+    }, {
+      "code" : "105469006",
+      "description" : "Bone tissue donor",
+      "system" : "snomed"
+    }, {
+      "code" : "70924004",
+      "description" : "Brother",
+      "system" : "snomed"
+    }, {
+      "code" : "1300179009",
+      "description" : "Brother-in-law",
+      "system" : "snomed"
+    }, {
+      "code" : "105457003",
+      "description" : "Cadaver donor",
+      "system" : "snomed"
+    }, {
+      "code" : "713179000",
+      "description" : "Cadaver donor for corneal transplant",
+      "system" : "snomed"
+    }, {
+      "code" : "713177003",
+      "description" : "Cadaver donor for heart transplant",
+      "system" : "snomed"
+    }, {
+      "code" : "713183000",
+      "description" : "Cadaver donor for kidney transplant",
+      "system" : "snomed"
+    }, {
+      "code" : "713178008",
+      "description" : "Cadaver donor for liver transplant",
+      "system" : "snomed"
+    }, {
+      "code" : "713176007",
+      "description" : "Cadaver donor for lung transplant",
+      "system" : "snomed"
+    }, {
+      "code" : "105458008",
+      "description" : "Candidate donor",
+      "system" : "snomed"
+    }, {
+      "code" : "67822003",
+      "description" : "Child",
+      "system" : "snomed"
+    }, {
+      "code" : "55538000",
+      "description" : "Cousin",
+      "system" : "snomed"
+    }, {
+      "code" : "66089001",
+      "description" : "Daughter",
+      "system" : "snomed"
+    }, {
+      "code" : "1258961002",
+      "description" : "Daughter-in-law",
+      "system" : "snomed"
+    }, {
+      "code" : "394860006",
+      "description" : "Distant relative",
+      "system" : "snomed"
+    }, {
+      "code" : "1187235001",
+      "description" : "Donor after circulatory death",
+      "system" : "snomed"
+    }, {
+      "code" : "1187236000",
+      "description" : "Donor after neurological death",
+      "system" : "snomed"
+    }, {
+      "code" : "105465000",
+      "description" : "Donor for heart transplant",
+      "system" : "snomed"
+    }, {
+      "code" : "105467008",
+      "description" : "Donor for heart-lung transplant",
+      "system" : "snomed"
+    }, {
+      "code" : "430098004",
+      "description" : "Donor for intestine transplant",
+      "system" : "snomed"
+    }, {
+      "code" : "105463007",
+      "description" : "Donor for liver transplant",
+      "system" : "snomed"
+    }, {
+      "code" : "105466004",
+      "description" : "Donor for lung transplant",
+      "system" : "snomed"
+    }, {
+      "code" : "105455006",
+      "description" : "Donor for medical or surgical procedure",
+      "system" : "snomed"
+    }, {
+      "code" : "116153009",
+      "description" : "Donor of control material",
+      "system" : "snomed"
+    }, {
+      "code" : "105462002",
+      "description" : "Donor of kidney for transplant",
+      "system" : "snomed"
+    }, {
+      "code" : "430882007",
+      "description" : "Egg donor",
+      "system" : "snomed"
+    }, {
+      "code" : "105429005",
+      "description" : "Elderly parents",
+      "system" : "snomed"
+    }, {
+      "code" : "34431000087102",
+      "description" : "Extended criteria donor for organ transplant",
+      "system" : "snomed"
+    }, {
+      "code" : "394568007",
+      "description" : "Extended family member",
+      "system" : "snomed"
+    }, {
+      "code" : "105464001",
+      "description" : "Eye donor for corneal transplant",
+      "system" : "snomed"
+    }, {
+      "code" : "66839005",
+      "description" : "Father",
+      "system" : "snomed"
+    }, {
+      "code" : "5171000124108",
+      "description" : "Father-in-law",
+      "system" : "snomed"
+    }, {
+      "code" : "431549007",
+      "description" : "Female child",
+      "system" : "snomed"
+    }, {
+      "code" : "2959006",
+      "description" : "Female cousin",
+      "system" : "snomed"
+    }, {
+      "code" : "270002",
+      "description" : "Female first cousin",
+      "system" : "snomed"
+    }, {
+      "code" : "21506002",
+      "description" : "Female second cousin",
+      "system" : "snomed"
+    }, {
+      "code" : "4577005",
+      "description" : "First cousin",
+      "system" : "snomed"
+    }, {
+      "code" : "125678001",
+      "description" : "First degree blood relative",
+      "system" : "snomed"
+    }, {
+      "code" : "29787005",
+      "description" : "Foster brother",
+      "system" : "snomed"
+    }, {
+      "code" : "39062003",
+      "description" : "Foster child",
+      "system" : "snomed"
+    }, {
+      "code" : "31831004",
+      "description" : "Foster daughter",
+      "system" : "snomed"
+    }, {
+      "code" : "8458002",
+      "description" : "Foster father",
+      "system" : "snomed"
+    }, {
+      "code" : "38265003",
+      "description" : "Foster mother",
+      "system" : "snomed"
+    }, {
+      "code" : "90921004",
+      "description" : "Foster parent",
+      "system" : "snomed"
+    }, {
+      "code" : "18906004",
+      "description" : "Foster sibling",
+      "system" : "snomed"
+    }, {
+      "code" : "58293006",
+      "description" : "Foster sister",
+      "system" : "snomed"
+    }, {
+      "code" : "12241003",
+      "description" : "Foster son",
+      "system" : "snomed"
+    }, {
+      "code" : "1269486006",
+      "description" : "Fourth degree blood relative",
+      "system" : "snomed"
+    }, {
+      "code" : "313416000",
+      "description" : "Fraternal twin",
+      "system" : "snomed"
+    }, {
+      "code" : "81467001",
+      "description" : "Fraternal twin brother",
+      "system" : "snomed"
+    }, {
+      "code" : "113158006",
+      "description" : "Fraternal twin sibling",
+      "system" : "snomed"
+    }, {
+      "code" : "29644004",
+      "description" : "Fraternal twin sister",
+      "system" : "snomed"
+    }, {
+      "code" : "86372007",
+      "description" : "Grandchild",
+      "system" : "snomed"
+    }, {
+      "code" : "44181008",
+      "description" : "Granddaughter",
+      "system" : "snomed"
+    }, {
+      "code" : "34871008",
+      "description" : "Grandfather",
+      "system" : "snomed"
+    }, {
+      "code" : "113157001",
+      "description" : "Grandmother",
+      "system" : "snomed"
+    }, {
+      "code" : "38312007",
+      "description" : "Grandparent",
+      "system" : "snomed"
+    }, {
+      "code" : "70578009",
+      "description" : "Grandson",
+      "system" : "snomed"
+    }, {
+      "code" : "394862003",
+      "description" : "Great aunt",
+      "system" : "snomed"
+    }, {
+      "code" : "72012000",
+      "description" : "Great grandchild",
+      "system" : "snomed"
+    }, {
+      "code" : "394567002",
+      "description" : "Great granddaughter",
+      "system" : "snomed"
+    }, {
+      "code" : "50261002",
+      "description" : "Great grandfather",
+      "system" : "snomed"
+    }, {
+      "code" : "78652007",
+      "description" : "Great grandmother",
+      "system" : "snomed"
+    }, {
+      "code" : "33969000",
+      "description" : "Great grandparent",
+      "system" : "snomed"
+    }, {
+      "code" : "394566006",
+      "description" : "Great grandson",
+      "system" : "snomed"
+    }, {
+      "code" : "11393001",
+      "description" : "Great great grandchild",
+      "system" : "snomed"
+    }, {
+      "code" : "80386000",
+      "description" : "Great great grandfather",
+      "system" : "snomed"
+    }, {
+      "code" : "2368000",
+      "description" : "Great great grandmother",
+      "system" : "snomed"
+    }, {
+      "code" : "68021009",
+      "description" : "Great great grandparent",
+      "system" : "snomed"
+    }, {
+      "code" : "1285596001",
+      "description" : "Great nephew",
+      "system" : "snomed"
+    }, {
+      "code" : "1285595002",
+      "description" : "Great niece",
+      "system" : "snomed"
+    }, {
+      "code" : "394861005",
+      "description" : "Great uncle",
+      "system" : "snomed"
+    }, {
+      "code" : "45929001",
+      "description" : "Half-brother",
+      "system" : "snomed"
+    }, {
+      "code" : "21093007",
+      "description" : "Half-sibling",
+      "system" : "snomed"
+    }, {
+      "code" : "2272004",
+      "description" : "Half-sister",
+      "system" : "snomed"
+    }, {
+      "code" : "105428002",
+      "description" : "Homosexual parents",
+      "system" : "snomed"
+    }, {
+      "code" : "433475001",
+      "description" : "Human oocyte donor, age 35 and older",
+      "system" : "snomed"
+    }, {
+      "code" : "127849001",
+      "description" : "Husband",
+      "system" : "snomed"
+    }, {
+      "code" : "105473009",
+      "description" : "Husband spermatozoa donor for artificial insemination",
+      "system" : "snomed"
+    }, {
+      "code" : "313415001",
+      "description" : "Identical twin",
+      "system" : "snomed"
+    }, {
+      "code" : "78194006",
+      "description" : "Identical twin brother",
+      "system" : "snomed"
+    }, {
+      "code" : "10896006",
+      "description" : "Identical twin sibling",
+      "system" : "snomed"
+    }, {
+      "code" : "50058005",
+      "description" : "Identical twin sister",
+      "system" : "snomed"
+    }, {
+      "code" : "394854006",
+      "description" : "Immediate family member",
+      "system" : "snomed"
+    }, {
+      "code" : "133931009",
+      "description" : "Infant",
+      "system" : "snomed"
+    }, {
+      "code" : "11773006",
+      "description" : "Legal brother",
+      "system" : "snomed"
+    }, {
+      "code" : "14469008",
+      "description" : "Legal child",
+      "system" : "snomed"
+    }, {
+      "code" : "113159003",
+      "description" : "Legal daughter",
+      "system" : "snomed"
+    }, {
+      "code" : "67147004",
+      "description" : "Legal father",
+      "system" : "snomed"
+    }, {
+      "code" : "62090008",
+      "description" : "Legal mother",
+      "system" : "snomed"
+    }, {
+      "code" : "9306000",
+      "description" : "Legal parent",
+      "system" : "snomed"
+    }, {
+      "code" : "444000",
+      "description" : "Legal sibling",
+      "system" : "snomed"
+    }, {
+      "code" : "22963000",
+      "description" : "Legal sister",
+      "system" : "snomed"
+    }, {
+      "code" : "41795004",
+      "description" : "Legal son",
+      "system" : "snomed"
+    }, {
+      "code" : "105456007",
+      "description" : "Live donor",
+      "system" : "snomed"
+    }, {
+      "code" : "1148563002",
+      "description" : "Live donor for lung transplant",
+      "system" : "snomed"
+    }, {
+      "code" : "718723009",
+      "description" : "Live donor of kidney",
+      "system" : "snomed"
+    }, {
+      "code" : "713369009",
+      "description" : "Live related kidney donor",
+      "system" : "snomed"
+    }, {
+      "code" : "713353002",
+      "description" : "Live related liver donor",
+      "system" : "snomed"
+    }, {
+      "code" : "433152004",
+      "description" : "Male child",
+      "system" : "snomed"
+    }, {
+      "code" : "47801002",
+      "description" : "Male cousin",
+      "system" : "snomed"
+    }, {
+      "code" : "11993008",
+      "description" : "Male first cousin",
+      "system" : "snomed"
+    }, {
+      "code" : "11434005",
+      "description" : "Male second cousin",
+      "system" : "snomed"
+    }, {
+      "code" : "736454006",
+      "description" : "Maternal aunt",
+      "system" : "snomed"
+    }, {
+      "code" : "719759007",
+      "description" : "Maternal cousin",
+      "system" : "snomed"
+    }, {
+      "code" : "736456008",
+      "description" : "Maternal first cousin",
+      "system" : "snomed"
+    }, {
+      "code" : "394857004",
+      "description" : "Maternal grandfather",
+      "system" : "snomed"
+    }, {
+      "code" : "394859001",
+      "description" : "Maternal grandmother",
+      "system" : "snomed"
+    }, {
+      "code" : "719771001",
+      "description" : "Maternal great grandfather",
+      "system" : "snomed"
+    }, {
+      "code" : "719769001",
+      "description" : "Maternal great grandmother",
+      "system" : "snomed"
+    }, {
+      "code" : "719766008",
+      "description" : "Maternal half brother",
+      "system" : "snomed"
+    }, {
+      "code" : "719765007",
+      "description" : "Maternal half sister",
+      "system" : "snomed"
+    }, {
+      "code" : "442031000124102",
+      "description" : "Maternal uncle",
+      "system" : "snomed"
+    }, {
+      "code" : "72705000",
+      "description" : "Mother",
+      "system" : "snomed"
+    }, {
+      "code" : "5181000124106",
+      "description" : "Mother-in-law",
+      "system" : "snomed"
+    }, {
+      "code" : "471000122100",
+      "description" : "Multi-organ donor",
+      "system" : "snomed"
+    }, {
+      "code" : "1285415004",
+      "description" : "Natural aunt",
+      "system" : "snomed"
+    }, {
+      "code" : "60614009",
+      "description" : "Natural brother",
+      "system" : "snomed"
+    }, {
+      "code" : "75226009",
+      "description" : "Natural child",
+      "system" : "snomed"
+    }, {
+      "code" : "83420006",
+      "description" : "Natural daughter",
+      "system" : "snomed"
+    }, {
+      "code" : "9947008",
+      "description" : "Natural father",
+      "system" : "snomed"
+    }, {
+      "code" : "1286885008",
+      "description" : "Natural first cousin",
+      "system" : "snomed"
+    }, {
+      "code" : "62296006",
+      "description" : "Natural grandfather",
+      "system" : "snomed"
+    }, {
+      "code" : "17945006",
+      "description" : "Natural grandmother",
+      "system" : "snomed"
+    }, {
+      "code" : "78272007",
+      "description" : "Natural grandparent",
+      "system" : "snomed"
+    }, {
+      "code" : "1285592004",
+      "description" : "Natural great aunt",
+      "system" : "snomed"
+    }, {
+      "code" : "1285625002",
+      "description" : "Natural great grandparent",
+      "system" : "snomed"
+    }, {
+      "code" : "1285593009",
+      "description" : "Natural great nephew",
+      "system" : "snomed"
+    }, {
+      "code" : "1285594003",
+      "description" : "Natural great niece",
+      "system" : "snomed"
+    }, {
+      "code" : "1285591006",
+      "description" : "Natural great uncle",
+      "system" : "snomed"
+    }, {
+      "code" : "65656005",
+      "description" : "Natural mother",
+      "system" : "snomed"
+    }, {
+      "code" : "1285411008",
+      "description" : "Natural nephew",
+      "system" : "snomed"
+    }, {
+      "code" : "1285432000",
+      "description" : "Natural niece",
+      "system" : "snomed"
+    }, {
+      "code" : "13646006",
+      "description" : "Natural parent",
+      "system" : "snomed"
+    }, {
+      "code" : "82101005",
+      "description" : "Natural sibling",
+      "system" : "snomed"
+    }, {
+      "code" : "73678001",
+      "description" : "Natural sister",
+      "system" : "snomed"
+    }, {
+      "code" : "113160008",
+      "description" : "Natural son",
+      "system" : "snomed"
+    }, {
+      "code" : "1285416003",
+      "description" : "Natural uncle",
+      "system" : "snomed"
+    }, {
+      "code" : "83559000",
+      "description" : "Nephew",
+      "system" : "snomed"
+    }, {
+      "code" : "133933007",
+      "description" : "Newborn",
+      "system" : "snomed"
+    }, {
+      "code" : "34581001",
+      "description" : "Niece",
+      "system" : "snomed"
+    }, {
+      "code" : "394855007",
+      "description" : "Non-immediate family member",
+      "system" : "snomed"
+    }, {
+      "code" : "13038009",
+      "description" : "Older brother",
+      "system" : "snomed"
+    }, {
+      "code" : "13157002",
+      "description" : "Older sibling",
+      "system" : "snomed"
+    }, {
+      "code" : "53201003",
+      "description" : "Older sister",
+      "system" : "snomed"
+    }, {
+      "code" : "3425009",
+      "description" : "Oldest daughter",
+      "system" : "snomed"
+    }, {
+      "code" : "38248007",
+      "description" : "Oldest son",
+      "system" : "snomed"
+    }, {
+      "code" : "34972000",
+      "description" : "Only daughter",
+      "system" : "snomed"
+    }, {
+      "code" : "81173009",
+      "description" : "Only son",
+      "system" : "snomed"
+    }, {
+      "code" : "105461009",
+      "description" : "Organ donor",
+      "system" : "snomed"
+    }, {
+      "code" : "40683002",
+      "description" : "Parent",
+      "system" : "snomed"
+    }, {
+      "code" : "5161000124101",
+      "description" : "Parent in-law",
+      "system" : "snomed"
+    }, {
+      "code" : "736455007",
+      "description" : "Paternal aunt",
+      "system" : "snomed"
+    }, {
+      "code" : "719760002",
+      "description" : "Paternal cousin",
+      "system" : "snomed"
+    }, {
+      "code" : "394856008",
+      "description" : "Paternal grandfather",
+      "system" : "snomed"
+    }, {
+      "code" : "394858009",
+      "description" : "Paternal grandmother",
+      "system" : "snomed"
+    }, {
+      "code" : "719770000",
+      "description" : "Paternal great grandfather",
+      "system" : "snomed"
+    }, {
+      "code" : "719768009",
+      "description" : "Paternal great grandmother",
+      "system" : "snomed"
+    }, {
+      "code" : "719762005",
+      "description" : "Paternal half brother",
+      "system" : "snomed"
+    }, {
+      "code" : "719764006",
+      "description" : "Paternal half sister",
+      "system" : "snomed"
+    }, {
+      "code" : "442041000124107",
+      "description" : "Paternal uncle",
+      "system" : "snomed"
+    }, {
+      "code" : "303071001",
+      "description" : "Person in the family",
+      "system" : "snomed"
+    }, {
+      "code" : "105460005",
+      "description" : "Rejected donor",
+      "system" : "snomed"
+    }, {
+      "code" : "105474003",
+      "description" : "Related spermatozoa donor for artificial insemination",
+      "system" : "snomed"
+    }, {
+      "code" : "125677006",
+      "description" : "Relative",
+      "system" : "snomed"
+    }, {
+      "code" : "13443008",
+      "description" : "Second cousin",
+      "system" : "snomed"
+    }, {
+      "code" : "699110007",
+      "description" : "Second degree blood relative",
+      "system" : "snomed"
+    }, {
+      "code" : "1236822007",
+      "description" : "Second degree female blood relative",
+      "system" : "snomed"
+    }, {
+      "code" : "1285414000",
+      "description" : "Second degree male blood relative",
+      "system" : "snomed"
+    }, {
+      "code" : "375005",
+      "description" : "Sibling",
+      "system" : "snomed"
+    }, {
+      "code" : "85683001",
+      "description" : "Single father",
+      "system" : "snomed"
+    }, {
+      "code" : "12629003",
+      "description" : "Single mother",
+      "system" : "snomed"
+    }, {
+      "code" : "266943008",
+      "description" : "Single parent",
+      "system" : "snomed"
+    }, {
+      "code" : "27733009",
+      "description" : "Sister",
+      "system" : "snomed"
+    }, {
+      "code" : "1300180007",
+      "description" : "Sister-in-law",
+      "system" : "snomed"
+    }, {
+      "code" : "713352007",
+      "description" : "Skin donor",
+      "system" : "snomed"
+    }, {
+      "code" : "65616008",
+      "description" : "Son",
+      "system" : "snomed"
+    }, {
+      "code" : "1258960001",
+      "description" : "Son-in-law",
+      "system" : "snomed"
+    }, {
+      "code" : "441463002",
+      "description" : "Spermatozoa donor",
+      "system" : "snomed"
+    }, {
+      "code" : "105472004",
+      "description" : "Spermatozoa donor for artificial insemination",
+      "system" : "snomed"
+    }, {
+      "code" : "127848009",
+      "description" : "Spouse",
+      "system" : "snomed"
+    }, {
+      "code" : "430792005",
+      "description" : "Stem cell donor",
+      "system" : "snomed"
+    }, {
+      "code" : "76087000",
+      "description" : "Stepbrother",
+      "system" : "snomed"
+    }, {
+      "code" : "86764008",
+      "description" : "Stepchild",
+      "system" : "snomed"
+    }, {
+      "code" : "22573006",
+      "description" : "Stepdaughter",
+      "system" : "snomed"
+    }, {
+      "code" : "30578000",
+      "description" : "Stepfather",
+      "system" : "snomed"
+    }, {
+      "code" : "65412001",
+      "description" : "Stepmother",
+      "system" : "snomed"
+    }, {
+      "code" : "74128007",
+      "description" : "Stepparent",
+      "system" : "snomed"
+    }, {
+      "code" : "88510002",
+      "description" : "Stepsibling",
+      "system" : "snomed"
+    }, {
+      "code" : "46363003",
+      "description" : "Stepsister",
+      "system" : "snomed"
+    }, {
+      "code" : "8674003",
+      "description" : "Stepson",
+      "system" : "snomed"
+    }, {
+      "code" : "410604004",
+      "description" : "Subject of record",
+      "system" : "snomed"
+    }, {
+      "code" : "22387007",
+      "description" : "Surrogate child",
+      "system" : "snomed"
+    }, {
+      "code" : "3851003",
+      "description" : "Surrogate daughter",
+      "system" : "snomed"
+    }, {
+      "code" : "75615008",
+      "description" : "Surrogate father",
+      "system" : "snomed"
+    }, {
+      "code" : "27508009",
+      "description" : "Surrogate mother",
+      "system" : "snomed"
+    }, {
+      "code" : "15130002",
+      "description" : "Surrogate parent",
+      "system" : "snomed"
+    }, {
+      "code" : "41057000",
+      "description" : "Surrogate son",
+      "system" : "snomed"
+    }, {
+      "code" : "1269487002",
+      "description" : "Third degree blood relative",
+      "system" : "snomed"
+    }, {
+      "code" : "105468003",
+      "description" : "Tissue donor",
+      "system" : "snomed"
+    }, {
+      "code" : "81276006",
+      "description" : "Twin brother",
+      "system" : "snomed"
+    }, {
+      "code" : "11286003",
+      "description" : "Twin sibling",
+      "system" : "snomed"
+    }, {
+      "code" : "19343003",
+      "description" : "Twin sister",
+      "system" : "snomed"
+    }, {
+      "code" : "38048003",
+      "description" : "Uncle",
+      "system" : "snomed"
+    }, {
+      "code" : "441465009",
+      "description" : "Unknown spermatozoa donor for artificial insemination",
+      "system" : "snomed"
+    }, {
+      "code" : "441468006",
+      "description" : "Unrelated known spermatozoa donor for artificial insemination",
+      "system" : "snomed"
+    }, {
+      "code" : "430101000",
+      "description" : "Whole blood donor",
+      "system" : "snomed"
+    }, {
+      "code" : "127850001",
+      "description" : "Wife",
+      "system" : "snomed"
+    }, {
+      "code" : "10960006",
+      "description" : "Working father",
+      "system" : "snomed"
+    }, {
+      "code" : "2481008",
+      "description" : "Working mother",
+      "system" : "snomed"
+    }, {
+      "code" : "83408003",
+      "description" : "Working parent",
+      "system" : "snomed"
+    }, {
+      "code" : "85411004",
+      "description" : "Younger brother",
+      "system" : "snomed"
+    }, {
+      "code" : "74489007",
+      "description" : "Younger child",
+      "system" : "snomed"
+    }, {
+      "code" : "29539002",
+      "description" : "Younger sibling",
+      "system" : "snomed"
+    }, {
+      "code" : "19686009",
+      "description" : "Younger sister",
+      "system" : "snomed"
+    }, {
+      "code" : "6676009",
+      "description" : "Youngest daughter",
+      "system" : "snomed"
+    }, {
+      "code" : "89681006",
+      "description" : "Youngest son",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 236,
+    "isComplete" : true
+  }
+}

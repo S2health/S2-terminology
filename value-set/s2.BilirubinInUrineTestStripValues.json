@@ -1,0 +1,31 @@
+{
+  "id" : "s2.BilirubinInUrineTestStripValues",
+  "creationDate" : "2024-06-21T14:56:17-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "BilirubinInUrineTestStripValues",
+    "description" : "Bilirubin in urine test strip values",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "260385009",
+      "description" : "Negative",
+      "system" : "snomed"
+    }, {
+      "code" : "441614007",
+      "description" : "Present one plus out of three plus",
+      "system" : "snomed"
+    }, {
+      "code" : "441521003",
+      "description" : "Present three plus out of three plus",
+      "system" : "snomed"
+    }, {
+      "code" : "441517005",
+      "description" : "Present two plus out of three plus",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 4,
+    "isComplete" : true
+  }
+}

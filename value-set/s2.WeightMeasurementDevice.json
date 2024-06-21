@@ -1,0 +1,47 @@
+{
+  "id" : "s2.WeightMeasurementDevice",
+  "creationDate" : "2024-06-21T14:56:36-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "WeightMeasurementDevice",
+    "description" : "Weight measurement device",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "466289007",
+      "description" : "Bed scale",
+      "system" : "snomed"
+    }, {
+      "code" : "444063009",
+      "description" : "Broselow Luten color coding system for pediatric weight estimation",
+      "system" : "snomed"
+    }, {
+      "code" : "720689000",
+      "description" : "Chair scale",
+      "system" : "snomed"
+    }, {
+      "code" : "469204003",
+      "description" : "Floor scale, electronic",
+      "system" : "snomed"
+    }, {
+      "code" : "469787007",
+      "description" : "Floor scale, mechanical",
+      "system" : "snomed"
+    }, {
+      "code" : "58514003",
+      "description" : "Infant scale",
+      "system" : "snomed"
+    }, {
+      "code" : "462242008",
+      "description" : "Patient sling scale",
+      "system" : "snomed"
+    }, {
+      "code" : "466532009",
+      "description" : "Wheelchair scale",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 8,
+    "isComplete" : true
+  }
+}

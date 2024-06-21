@@ -1,0 +1,227 @@
+{
+  "id" : "s2.ParticipantFunction",
+  "creationDate" : "2024-06-21T14:56:37-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "ParticipantFunction",
+    "description" : "Participant function",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "30221000205106",
+      "description" : "Admitter",
+      "system" : "snomed"
+    }, {
+      "code" : "246478007",
+      "description" : "Analyte measured",
+      "system" : "snomed"
+    }, {
+      "code" : "30231000205108",
+      "description" : "Annotator",
+      "system" : "snomed"
+    }, {
+      "code" : "30241000205103",
+      "description" : "Attender",
+      "system" : "snomed"
+    }, {
+      "code" : "30251000205100",
+      "description" : "Authenticator",
+      "system" : "snomed"
+    }, {
+      "code" : "30261000205102",
+      "description" : "Beneficiary",
+      "system" : "snomed"
+    }, {
+      "code" : "30451000205101",
+      "description" : "Catalyst",
+      "system" : "snomed"
+    }, {
+      "code" : "246075003",
+      "description" : "Causative agent",
+      "system" : "snomed"
+    }, {
+      "code" : "30271000205105",
+      "description" : "Consultant",
+      "system" : "snomed"
+    }, {
+      "code" : "30461000205103",
+      "description" : "Consumable",
+      "system" : "snomed"
+    }, {
+      "code" : "70862002",
+      "description" : "Contact person",
+      "system" : "snomed"
+    }, {
+      "code" : "30511000205101",
+      "description" : "Coverage target",
+      "system" : "snomed"
+    }, {
+      "code" : "30281000205107",
+      "description" : "Data entry person",
+      "system" : "snomed"
+    }, {
+      "code" : "49062001",
+      "description" : "Device",
+      "system" : "snomed"
+    }, {
+      "code" : "30521000205108",
+      "description" : "Direct target",
+      "system" : "snomed"
+    }, {
+      "code" : "30291000205109",
+      "description" : "Discharger",
+      "system" : "snomed"
+    }, {
+      "code" : "30301000205108",
+      "description" : "Distributor",
+      "system" : "snomed"
+    }, {
+      "code" : "1187334000",
+      "description" : "Emergency contact",
+      "system" : "snomed"
+    }, {
+      "code" : "30531000205105",
+      "description" : "Entry locatoin",
+      "system" : "snomed"
+    }, {
+      "code" : "30311000205105",
+      "description" : "Escort",
+      "system" : "snomed"
+    }, {
+      "code" : "30471000205106",
+      "description" : "Exposure agent",
+      "system" : "snomed"
+    }, {
+      "code" : "30321000205103",
+      "description" : "Exposure participant",
+      "system" : "snomed"
+    }, {
+      "code" : "30541000205100",
+      "description" : "Exposure source",
+      "system" : "snomed"
+    }, {
+      "code" : "30551000205102",
+      "description" : "Exposure target",
+      "system" : "snomed"
+    }, {
+      "code" : "30331000205101",
+      "description" : "Guarantor",
+      "system" : "snomed"
+    }, {
+      "code" : "30561000205104",
+      "description" : "Indirect target",
+      "system" : "snomed"
+    }, {
+      "code" : "133931009",
+      "description" : "Infant",
+      "system" : "snomed"
+    }, {
+      "code" : "30341000205106",
+      "description" : "Informant",
+      "system" : "snomed"
+    }, {
+      "code" : "30351000205109",
+      "description" : "Information recipient",
+      "system" : "snomed"
+    }, {
+      "code" : "58626002",
+      "description" : "Legal guardian",
+      "system" : "snomed"
+    }, {
+      "code" : "30361000205107",
+      "description" : "Observer",
+      "system" : "snomed"
+    }, {
+      "code" : "105461009",
+      "description" : "Organ donor",
+      "system" : "snomed"
+    }, {
+      "code" : "246062003",
+      "description" : "Origin",
+      "system" : "snomed"
+    }, {
+      "code" : "30371000205104",
+      "description" : "Originator",
+      "system" : "snomed"
+    }, {
+      "code" : "40683002",
+      "description" : "Parent",
+      "system" : "snomed"
+    }, {
+      "code" : "262043009",
+      "description" : "Partner in relationship",
+      "system" : "snomed"
+    }, {
+      "code" : "420158005",
+      "description" : "Performer of method",
+      "system" : "snomed"
+    }, {
+      "code" : "30481000205108",
+      "description" : "Product",
+      "system" : "snomed"
+    }, {
+      "code" : "30381000205102",
+      "description" : "Recipient",
+      "system" : "snomed"
+    }, {
+      "code" : "30501000205103",
+      "description" : "Record target",
+      "system" : "snomed"
+    }, {
+      "code" : "30391000205100",
+      "description" : "Referee",
+      "system" : "snomed"
+    }, {
+      "code" : "30401000205102",
+      "description" : "Referrer",
+      "system" : "snomed"
+    }, {
+      "code" : "5686001",
+      "description" : "Remote",
+      "system" : "snomed"
+    }, {
+      "code" : "30411000205100",
+      "description" : "Responsible party",
+      "system" : "snomed"
+    }, {
+      "code" : "30571000205107",
+      "description" : "Service destination",
+      "system" : "snomed"
+    }, {
+      "code" : "123038009",
+      "description" : "Specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "127848009",
+      "description" : "Spouse",
+      "system" : "snomed"
+    }, {
+      "code" : "410604004",
+      "description" : "Subject of record",
+      "system" : "snomed"
+    }, {
+      "code" : "30491000205105",
+      "description" : "Therapeutic agent",
+      "system" : "snomed"
+    }, {
+      "code" : "105468003",
+      "description" : "Tissue donor",
+      "system" : "snomed"
+    }, {
+      "code" : "30421000205107",
+      "description" : "Transcriber",
+      "system" : "snomed"
+    }, {
+      "code" : "30431000205109",
+      "description" : "Verifier",
+      "system" : "snomed"
+    }, {
+      "code" : "30441000205104",
+      "description" : "Witness",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 53,
+    "isComplete" : true
+  }
+}

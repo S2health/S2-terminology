@@ -1,0 +1,259 @@
+{
+  "id" : "s2.TimeFrame",
+  "creationDate" : "2024-06-21T14:56:37-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "TimeFrame",
+    "description" : "Time frame",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "1287350009",
+      "description" : "After breakfast",
+      "system" : "snomed"
+    }, {
+      "code" : "1521000175104",
+      "description" : "After dinner",
+      "system" : "snomed"
+    }, {
+      "code" : "255214003",
+      "description" : "After exercise",
+      "system" : "snomed"
+    }, {
+      "code" : "309603005",
+      "description" : "After feed",
+      "system" : "snomed"
+    }, {
+      "code" : "769267001",
+      "description" : "After flossing",
+      "system" : "snomed"
+    }, {
+      "code" : "225758001",
+      "description" : "After food",
+      "system" : "snomed"
+    }, {
+      "code" : "1541000175107",
+      "description" : "After lunch",
+      "system" : "snomed"
+    }, {
+      "code" : "311502001",
+      "description" : "An hour before food or on an empty stomach",
+      "system" : "snomed"
+    }, {
+      "code" : "225762007",
+      "description" : "At the end of the day",
+      "system" : "snomed"
+    }, {
+      "code" : "1287349009",
+      "description" : "Before dinner",
+      "system" : "snomed"
+    }, {
+      "code" : "307166007",
+      "description" : "Before exercise",
+      "system" : "snomed"
+    }, {
+      "code" : "311500009",
+      "description" : "Before food",
+      "system" : "snomed"
+    }, {
+      "code" : "3091000175105",
+      "description" : "Before lunch",
+      "system" : "snomed"
+    }, {
+      "code" : "307165006",
+      "description" : "Before meal",
+      "system" : "snomed"
+    }, {
+      "code" : "307155000",
+      "description" : "Before sleeping",
+      "system" : "snomed"
+    }, {
+      "code" : "309613002",
+      "description" : "Between meals",
+      "system" : "snomed"
+    }, {
+      "code" : "307160001",
+      "description" : "Breakfast time",
+      "system" : "snomed"
+    }, {
+      "code" : "1751000175104",
+      "description" : "Daily with breakfast",
+      "system" : "snomed"
+    }, {
+      "code" : "1771000175105",
+      "description" : "Daily with dinner",
+      "system" : "snomed"
+    }, {
+      "code" : "1761000175102",
+      "description" : "Daily with lunch",
+      "system" : "snomed"
+    }, {
+      "code" : "28017001",
+      "description" : "Daytime",
+      "system" : "snomed"
+    }, {
+      "code" : "255213009",
+      "description" : "During afternoon",
+      "system" : "snomed"
+    }, {
+      "code" : "722370002",
+      "description" : "During ambulation",
+      "system" : "snomed"
+    }, {
+      "code" : "307143006",
+      "description" : "During day",
+      "system" : "snomed"
+    }, {
+      "code" : "309604004",
+      "description" : "During exercise",
+      "system" : "snomed"
+    }, {
+      "code" : "225763002",
+      "description" : "During feed",
+      "system" : "snomed"
+    }, {
+      "code" : "309612007",
+      "description" : "During meal",
+      "system" : "snomed"
+    }, {
+      "code" : "309610004",
+      "description" : "During sleep",
+      "system" : "snomed"
+    }, {
+      "code" : "3157002",
+      "description" : "Evening",
+      "system" : "snomed"
+    }, {
+      "code" : "307163004",
+      "description" : "Evening meal",
+      "system" : "snomed"
+    }, {
+      "code" : "311501008",
+      "description" : "Half to one hour before food",
+      "system" : "snomed"
+    }, {
+      "code" : "1296723006",
+      "description" : "Late evening snack time",
+      "system" : "snomed"
+    }, {
+      "code" : "307162009",
+      "description" : "Lunch time",
+      "system" : "snomed"
+    }, {
+      "code" : "309611000",
+      "description" : "Mealtimes",
+      "system" : "snomed"
+    }, {
+      "code" : "1290441005",
+      "description" : "Mid afternoon snack time",
+      "system" : "snomed"
+    }, {
+      "code" : "1290440006",
+      "description" : "Mid morning snack time",
+      "system" : "snomed"
+    }, {
+      "code" : "27814009",
+      "description" : "Midnight",
+      "system" : "snomed"
+    }, {
+      "code" : "73775008",
+      "description" : "Morning",
+      "system" : "snomed"
+    }, {
+      "code" : "224943009",
+      "description" : "Night and day",
+      "system" : "snomed"
+    }, {
+      "code" : "309614008",
+      "description" : "Night and morning",
+      "system" : "snomed"
+    }, {
+      "code" : "2546009",
+      "description" : "Night time",
+      "system" : "snomed"
+    }, {
+      "code" : "71997007",
+      "description" : "Noon",
+      "system" : "snomed"
+    }, {
+      "code" : "307156004",
+      "description" : "On waking",
+      "system" : "snomed"
+    }, {
+      "code" : "255270004",
+      "description" : "Overnight",
+      "system" : "snomed"
+    }, {
+      "code" : "24863003",
+      "description" : "Postprandial",
+      "system" : "snomed"
+    }, {
+      "code" : "307164005",
+      "description" : "Snack time",
+      "system" : "snomed"
+    }, {
+      "code" : "272106006",
+      "description" : "Temporal periods of day",
+      "system" : "snomed"
+    }, {
+      "code" : "307157008",
+      "description" : "Temporal periods relating to activities",
+      "system" : "snomed"
+    }, {
+      "code" : "309601007",
+      "description" : "Temporal periods relating to exercise",
+      "system" : "snomed"
+    }, {
+      "code" : "309602000",
+      "description" : "Temporal periods relating to feeding and eating",
+      "system" : "snomed"
+    }, {
+      "code" : "309609009",
+      "description" : "Temporal periods relating to sleep",
+      "system" : "snomed"
+    }, {
+      "code" : "769561004",
+      "description" : "With breakfast",
+      "system" : "snomed"
+    }, {
+      "code" : "769559008",
+      "description" : "With dinner",
+      "system" : "snomed"
+    }, {
+      "code" : "769556001",
+      "description" : "With largest meal",
+      "system" : "snomed"
+    }, {
+      "code" : "769560003",
+      "description" : "With lunch",
+      "system" : "snomed"
+    }, {
+      "code" : "769557005",
+      "description" : "With meals",
+      "system" : "snomed"
+    }, {
+      "code" : "311504000",
+      "description" : "With or after food",
+      "system" : "snomed"
+    }, {
+      "code" : "311503006",
+      "description" : "With or after meal",
+      "system" : "snomed"
+    }, {
+      "code" : "1551000175109",
+      "description" : "With snack",
+      "system" : "snomed"
+    }, {
+      "code" : "769558000",
+      "description" : "With supper",
+      "system" : "snomed"
+    }, {
+      "code" : "424616004",
+      "description" : "Without regard to meals",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 61,
+    "isComplete" : true
+  }
+}
