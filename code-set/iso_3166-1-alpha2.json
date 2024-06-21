@@ -1,0 +1,1010 @@
+{
+  "id" : "iso_3166-1-alpha2",
+  "creationDate" : "2024-06-21T10:20:18-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "iso",
+    "description" : "Country codes - two character",
+    "type" : "cset",
+    "system" : "iso3166-1-alpha2",
+    "members" : [ {
+      "code" : "AF",
+      "description" : "Afghanistan",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "AX",
+      "description" : "Åland Islands",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "AL",
+      "description" : "Albania",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "DZ",
+      "description" : "Algeria",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "AS",
+      "description" : "American Samoa",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "AD",
+      "description" : "Andorra",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "AO",
+      "description" : "Angola",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "AI",
+      "description" : "Anguilla",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "AQ",
+      "description" : "Antarctica",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "AG",
+      "description" : "Antigua and Barbuda",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "AR",
+      "description" : "Argentina",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "AM",
+      "description" : "Armenia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "AW",
+      "description" : "Aruba",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "AU",
+      "description" : "Australia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "AT",
+      "description" : "Austria",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "AZ",
+      "description" : "Azerbaijan",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BS",
+      "description" : "Bahamas",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BH",
+      "description" : "Bahrain",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BD",
+      "description" : "Bangladesh",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BB",
+      "description" : "Barbados",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BY",
+      "description" : "Belarus",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BE",
+      "description" : "Belgium",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BZ",
+      "description" : "Belize",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BJ",
+      "description" : "Benin",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BM",
+      "description" : "Bermuda",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BT",
+      "description" : "Bhutan",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BO",
+      "description" : "Bolivia, Plurinational State of",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BQ",
+      "description" : "Bonaire, Sint Eustatius and Saba",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BA",
+      "description" : "Bosnia and Herzegovina",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BW",
+      "description" : "Botswana",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BV",
+      "description" : "Bouvet Island",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BR",
+      "description" : "Brazil",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "IO",
+      "description" : "British Indian Ocean Territory",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BN",
+      "description" : "Brunei Darussalam",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BG",
+      "description" : "Bulgaria",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BF",
+      "description" : "Burkina Faso",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BI",
+      "description" : "Burundi",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CV",
+      "description" : "Cabo Verde",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "KH",
+      "description" : "Cambodia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CM",
+      "description" : "Cameroon",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CA",
+      "description" : "Canada",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "KY",
+      "description" : "Cayman Islands",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CF",
+      "description" : "Central African Republic",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TD",
+      "description" : "Chad",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CL",
+      "description" : "Chile",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CN",
+      "description" : "China",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CX",
+      "description" : "Christmas Island",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CC",
+      "description" : "Cocos (Keeling) Islands",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CO",
+      "description" : "Colombia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "KM",
+      "description" : "Comoros",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CG",
+      "description" : "Congo",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CD",
+      "description" : "Congo, Democratic Republic of the",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CK",
+      "description" : "Cook Islands",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CR",
+      "description" : "Costa Rica",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CI",
+      "description" : "Côte d'Ivoire",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "HR",
+      "description" : "Croatia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CU",
+      "description" : "Cuba",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CW",
+      "description" : "Curaçao",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CY",
+      "description" : "Cyprus",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CZ",
+      "description" : "Czechia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "DK",
+      "description" : "Denmark",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "DJ",
+      "description" : "Djibouti",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "DM",
+      "description" : "Dominica",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "DO",
+      "description" : "Dominican Republic",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "EC",
+      "description" : "Ecuador",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "EG",
+      "description" : "Egypt",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SV",
+      "description" : "El Salvador",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GQ",
+      "description" : "Equatorial Guinea",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "ER",
+      "description" : "Eritrea",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "EE",
+      "description" : "Estonia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SZ",
+      "description" : "Eswatini",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "ET",
+      "description" : "Ethiopia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "FK",
+      "description" : "Falkland Islands (Malvinas)",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "FO",
+      "description" : "Faroe Islands",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "FJ",
+      "description" : "Fiji",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "FI",
+      "description" : "Finland",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "FR",
+      "description" : "France",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GF",
+      "description" : "French Guiana",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "PF",
+      "description" : "French Polynesia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TF",
+      "description" : "French Southern Territories",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GA",
+      "description" : "Gabon",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GM",
+      "description" : "Gambia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GE",
+      "description" : "Georgia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "DE",
+      "description" : "Germany",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GH",
+      "description" : "Ghana",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GI",
+      "description" : "Gibraltar",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GR",
+      "description" : "Greece",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GL",
+      "description" : "Greenland",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GD",
+      "description" : "Grenada",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GP",
+      "description" : "Guadeloupe",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GU",
+      "description" : "Guam",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GT",
+      "description" : "Guatemala",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GG",
+      "description" : "Guernsey",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GN",
+      "description" : "Guinea",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GW",
+      "description" : "Guinea-Bissau",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GY",
+      "description" : "Guyana",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "HT",
+      "description" : "Haiti",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "HM",
+      "description" : "Heard Island and McDonald Islands",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "VA",
+      "description" : "Holy See",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "HN",
+      "description" : "Honduras",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "HK",
+      "description" : "Hong Kong",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "HU",
+      "description" : "Hungary",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "IS",
+      "description" : "Iceland",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "IN",
+      "description" : "India",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "ID",
+      "description" : "Indonesia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "IR",
+      "description" : "Iran, Islamic Republic of",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "IQ",
+      "description" : "Iraq",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "IE",
+      "description" : "Ireland",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "IM",
+      "description" : "Isle of Man",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "IL",
+      "description" : "Israel",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "IT",
+      "description" : "Italy",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "JM",
+      "description" : "Jamaica",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "JP",
+      "description" : "Japan",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "JE",
+      "description" : "Jersey",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "JO",
+      "description" : "Jordan",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "KZ",
+      "description" : "Kazakhstan",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "KE",
+      "description" : "Kenya",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "KI",
+      "description" : "Kiribati",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "KP",
+      "description" : "Korea, Democratic People's Republic of",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "KR",
+      "description" : "Korea, Republic of",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "KW",
+      "description" : "Kuwait",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "KG",
+      "description" : "Kyrgyzstan",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "LA",
+      "description" : "Lao People's Democratic Republic",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "LV",
+      "description" : "Latvia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "LB",
+      "description" : "Lebanon",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "LS",
+      "description" : "Lesotho",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "LR",
+      "description" : "Liberia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "LY",
+      "description" : "Libya",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "LI",
+      "description" : "Liechtenstein",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "LT",
+      "description" : "Lithuania",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "LU",
+      "description" : "Luxembourg",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MO",
+      "description" : "Macao",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MG",
+      "description" : "Madagascar",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MW",
+      "description" : "Malawi",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MY",
+      "description" : "Malaysia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MV",
+      "description" : "Maldives",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "ML",
+      "description" : "Mali",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MT",
+      "description" : "Malta",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MH",
+      "description" : "Marshall Islands",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MQ",
+      "description" : "Martinique",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MR",
+      "description" : "Mauritania",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MU",
+      "description" : "Mauritius",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "YT",
+      "description" : "Mayotte",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MX",
+      "description" : "Mexico",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "FM",
+      "description" : "Micronesia, Federated States of",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MD",
+      "description" : "Moldova, Republic of",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MC",
+      "description" : "Monaco",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MN",
+      "description" : "Mongolia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "ME",
+      "description" : "Montenegro",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MS",
+      "description" : "Montserrat",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MA",
+      "description" : "Morocco",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MZ",
+      "description" : "Mozambique",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MM",
+      "description" : "Myanmar",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "NA",
+      "description" : "Namibia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "NR",
+      "description" : "Nauru",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "NP",
+      "description" : "Nepal",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "NL",
+      "description" : "Netherlands, Kingdom of the",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "NC",
+      "description" : "New Caledonia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "NZ",
+      "description" : "New Zealand",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "NI",
+      "description" : "Nicaragua",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "NE",
+      "description" : "Niger",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "NG",
+      "description" : "Nigeria",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "NU",
+      "description" : "Niue",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "NF",
+      "description" : "Norfolk Island",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MK",
+      "description" : "North Macedonia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MP",
+      "description" : "Northern Mariana Islands",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "NO",
+      "description" : "Norway",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "OM",
+      "description" : "Oman",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "PK",
+      "description" : "Pakistan",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "PW",
+      "description" : "Palau",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "PS",
+      "description" : "Palestine, State of",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "PA",
+      "description" : "Panama",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "PG",
+      "description" : "Papua New Guinea",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "PY",
+      "description" : "Paraguay",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "PE",
+      "description" : "Peru",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "PH",
+      "description" : "Philippines",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "PN",
+      "description" : "Pitcairn",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "PL",
+      "description" : "Poland",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "PT",
+      "description" : "Portugal",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "PR",
+      "description" : "Puerto Rico",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "QA",
+      "description" : "Qatar",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "RE",
+      "description" : "Réunion",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "RO",
+      "description" : "Romania",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "RU",
+      "description" : "Russian Federation",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "RW",
+      "description" : "Rwanda",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "BL",
+      "description" : "Saint Barthélemy",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SH",
+      "description" : "Saint Helena, Ascension and Tristan da Cunha",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "KN",
+      "description" : "Saint Kitts and Nevis",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "LC",
+      "description" : "Saint Lucia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "MF",
+      "description" : "Saint Martin (French part)",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "PM",
+      "description" : "Saint Pierre and Miquelon",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "VC",
+      "description" : "Saint Vincent and the Grenadines",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "WS",
+      "description" : "Samoa",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SM",
+      "description" : "San Marino",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "ST",
+      "description" : "Sao Tome and Principe",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SA",
+      "description" : "Saudi Arabia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SN",
+      "description" : "Senegal",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "RS",
+      "description" : "Serbia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SC",
+      "description" : "Seychelles",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SL",
+      "description" : "Sierra Leone",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SG",
+      "description" : "Singapore",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SX",
+      "description" : "Sint Maarten (Dutch part)",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SK",
+      "description" : "Slovakia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SI",
+      "description" : "Slovenia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SB",
+      "description" : "Solomon Islands",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SO",
+      "description" : "Somalia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "ZA",
+      "description" : "South Africa",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GS",
+      "description" : "South Georgia and the South Sandwich Islands",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SS",
+      "description" : "South Sudan",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "ES",
+      "description" : "Spain",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "LK",
+      "description" : "Sri Lanka",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SD",
+      "description" : "Sudan",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SR",
+      "description" : "Suriname",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SJ",
+      "description" : "Svalbard and Jan Mayen",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SE",
+      "description" : "Sweden",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "CH",
+      "description" : "Switzerland",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "SY",
+      "description" : "Syrian Arab Republic",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TW",
+      "description" : "Taiwan, Province of China",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TJ",
+      "description" : "Tajikistan",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TZ",
+      "description" : "Tanzania, United Republic of",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TH",
+      "description" : "Thailand",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TL",
+      "description" : "Timor-Leste",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TG",
+      "description" : "Togo",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TK",
+      "description" : "Tokelau",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TO",
+      "description" : "Tonga",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TT",
+      "description" : "Trinidad and Tobago",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TN",
+      "description" : "Tunisia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TR",
+      "description" : "Türkiye",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TM",
+      "description" : "Turkmenistan",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TC",
+      "description" : "Turks and Caicos Islands",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "TV",
+      "description" : "Tuvalu",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "UG",
+      "description" : "Uganda",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "UA",
+      "description" : "Ukraine",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "AE",
+      "description" : "United Arab Emirates",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "GB",
+      "description" : "United Kingdom of Great Britain and Northern Ireland",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "UM",
+      "description" : "United States Minor Outlying Islands",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "US",
+      "description" : "United States of America",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "UY",
+      "description" : "Uruguay",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "UZ",
+      "description" : "Uzbekistan",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "VU",
+      "description" : "Vanuatu",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "VE",
+      "description" : "Venezuela, Bolivarian Republic of",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "VN",
+      "description" : "Viet Nam",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "VG",
+      "description" : "Virgin Islands (British)",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "VI",
+      "description" : "Virgin Islands (U.S.)",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "WF",
+      "description" : "Wallis and Futuna",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "EH",
+      "description" : "Western Sahara",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "YE",
+      "description" : "Yemen",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "ZM",
+      "description" : "Zambia",
+      "system" : "iso3166-1-alpha2"
+    }, {
+      "code" : "ZW",
+      "description" : "Zimbabwe",
+      "system" : "iso3166-1-alpha2"
+    } ],
+    "totalMembers" : 249,
+    "isComplete" : true
+  }
+}
