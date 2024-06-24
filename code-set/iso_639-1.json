@@ -1,0 +1,750 @@
+{
+  "id" : "iso_639-1",
+  "creationDate" : "2024-06-24T15:12:01-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "iso",
+    "description" : "Languages - two character codes",
+    "type" : "cset",
+    "system" : "iso639-1",
+    "members" : [ {
+      "code" : "ab",
+      "description" : "Abkhazian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "aa",
+      "description" : "Afar",
+      "system" : "iso639-1"
+    }, {
+      "code" : "af",
+      "description" : "Afrikaans",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ak",
+      "description" : "Akan",
+      "system" : "iso639-1"
+    }, {
+      "code" : "sq",
+      "description" : "Albanian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "am",
+      "description" : "Amharic",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ar",
+      "description" : "Arabic",
+      "system" : "iso639-1"
+    }, {
+      "code" : "an",
+      "description" : "Aragonese",
+      "system" : "iso639-1"
+    }, {
+      "code" : "hy",
+      "description" : "Armenian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "as",
+      "description" : "Assamese",
+      "system" : "iso639-1"
+    }, {
+      "code" : "av",
+      "description" : "Avaric",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ae",
+      "description" : "Avestan",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ay",
+      "description" : "Aymara",
+      "system" : "iso639-1"
+    }, {
+      "code" : "az",
+      "description" : "Azerbaijani",
+      "system" : "iso639-1"
+    }, {
+      "code" : "bm",
+      "description" : "Bambara",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ba",
+      "description" : "Bashkir",
+      "system" : "iso639-1"
+    }, {
+      "code" : "eu",
+      "description" : "Basque",
+      "system" : "iso639-1"
+    }, {
+      "code" : "be",
+      "description" : "Belarusian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "bn",
+      "description" : "Bengali",
+      "system" : "iso639-1"
+    }, {
+      "code" : "bh",
+      "description" : "Bihari languages",
+      "system" : "iso639-1"
+    }, {
+      "code" : "bi",
+      "description" : "Bislama",
+      "system" : "iso639-1"
+    }, {
+      "code" : "nb",
+      "description" : "Bokmål, Norwegian |  Norwegian Bokmål",
+      "system" : "iso639-1"
+    }, {
+      "code" : "bs",
+      "description" : "Bosnian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "br",
+      "description" : "Breton",
+      "system" : "iso639-1"
+    }, {
+      "code" : "bg",
+      "description" : "Bulgarian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "my",
+      "description" : "Burmese",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ca",
+      "description" : "Catalan |  Valencian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "km",
+      "description" : "Central Khmer",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ch",
+      "description" : "Chamorro",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ce",
+      "description" : "Chechen",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ny",
+      "description" : "Chichewa |  Chewa |  Nyanja",
+      "system" : "iso639-1"
+    }, {
+      "code" : "zh",
+      "description" : "Chinese",
+      "system" : "iso639-1"
+    }, {
+      "code" : "cu",
+      "description" : "Church Slavic |  Old Slavonic |  Church Slavonic |  Old Bulgarian |  Old Church Slavonic",
+      "system" : "iso639-1"
+    }, {
+      "code" : "cv",
+      "description" : "Chuvash",
+      "system" : "iso639-1"
+    }, {
+      "code" : "kw",
+      "description" : "Cornish",
+      "system" : "iso639-1"
+    }, {
+      "code" : "co",
+      "description" : "Corsican",
+      "system" : "iso639-1"
+    }, {
+      "code" : "cr",
+      "description" : "Cree",
+      "system" : "iso639-1"
+    }, {
+      "code" : "hr",
+      "description" : "Croatian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "cs",
+      "description" : "Czech",
+      "system" : "iso639-1"
+    }, {
+      "code" : "da",
+      "description" : "Danish",
+      "system" : "iso639-1"
+    }, {
+      "code" : "dv",
+      "description" : "Divehi |  Dhivehi |  Maldivian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "nl",
+      "description" : "Dutch |  Flemish",
+      "system" : "iso639-1"
+    }, {
+      "code" : "dz",
+      "description" : "Dzongkha",
+      "system" : "iso639-1"
+    }, {
+      "code" : "en",
+      "description" : "English",
+      "system" : "iso639-1"
+    }, {
+      "code" : "eo",
+      "description" : "Esperanto",
+      "system" : "iso639-1"
+    }, {
+      "code" : "et",
+      "description" : "Estonian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ee",
+      "description" : "Ewe",
+      "system" : "iso639-1"
+    }, {
+      "code" : "fo",
+      "description" : "Faroese",
+      "system" : "iso639-1"
+    }, {
+      "code" : "fj",
+      "description" : "Fijian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "fi",
+      "description" : "Finnish",
+      "system" : "iso639-1"
+    }, {
+      "code" : "fr",
+      "description" : "French",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ff",
+      "description" : "Fulah",
+      "system" : "iso639-1"
+    }, {
+      "code" : "gd",
+      "description" : "Gaelic |  Scottish Gaelic",
+      "system" : "iso639-1"
+    }, {
+      "code" : "gl",
+      "description" : "Galician",
+      "system" : "iso639-1"
+    }, {
+      "code" : "lg",
+      "description" : "Ganda",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ka",
+      "description" : "Georgian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "de",
+      "description" : "German",
+      "system" : "iso639-1"
+    }, {
+      "code" : "el",
+      "description" : "Greek, Modern (1453-)",
+      "system" : "iso639-1"
+    }, {
+      "code" : "gn",
+      "description" : "Guarani",
+      "system" : "iso639-1"
+    }, {
+      "code" : "gu",
+      "description" : "Gujarati",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ht",
+      "description" : "Haitian |  Haitian Creole",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ha",
+      "description" : "Hausa",
+      "system" : "iso639-1"
+    }, {
+      "code" : "he",
+      "description" : "Hebrew",
+      "system" : "iso639-1"
+    }, {
+      "code" : "hz",
+      "description" : "Herero",
+      "system" : "iso639-1"
+    }, {
+      "code" : "hi",
+      "description" : "Hindi",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ho",
+      "description" : "Hiri Motu",
+      "system" : "iso639-1"
+    }, {
+      "code" : "hu",
+      "description" : "Hungarian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "is",
+      "description" : "Icelandic",
+      "system" : "iso639-1"
+    }, {
+      "code" : "io",
+      "description" : "Ido",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ig",
+      "description" : "Igbo",
+      "system" : "iso639-1"
+    }, {
+      "code" : "id",
+      "description" : "Indonesian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ia",
+      "description" : "Interlingua (International Auxiliary Language Association)",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ie",
+      "description" : "Interlingue |  Occidental",
+      "system" : "iso639-1"
+    }, {
+      "code" : "iu",
+      "description" : "Inuktitut",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ik",
+      "description" : "Inupiaq",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ga",
+      "description" : "Irish",
+      "system" : "iso639-1"
+    }, {
+      "code" : "it",
+      "description" : "Italian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ja",
+      "description" : "Japanese",
+      "system" : "iso639-1"
+    }, {
+      "code" : "jv",
+      "description" : "Javanese",
+      "system" : "iso639-1"
+    }, {
+      "code" : "kl",
+      "description" : "Kalaallisut |  Greenlandic",
+      "system" : "iso639-1"
+    }, {
+      "code" : "kn",
+      "description" : "Kannada",
+      "system" : "iso639-1"
+    }, {
+      "code" : "kr",
+      "description" : "Kanuri",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ks",
+      "description" : "Kashmiri",
+      "system" : "iso639-1"
+    }, {
+      "code" : "kk",
+      "description" : "Kazakh",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ki",
+      "description" : "Kikuyu |  Gikuyu",
+      "system" : "iso639-1"
+    }, {
+      "code" : "rw",
+      "description" : "Kinyarwanda",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ky",
+      "description" : "Kirghiz |  Kyrgyz",
+      "system" : "iso639-1"
+    }, {
+      "code" : "kv",
+      "description" : "Komi",
+      "system" : "iso639-1"
+    }, {
+      "code" : "kg",
+      "description" : "Kongo",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ko",
+      "description" : "Korean",
+      "system" : "iso639-1"
+    }, {
+      "code" : "kj",
+      "description" : "Kuanyama |  Kwanyama",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ku",
+      "description" : "Kurdish",
+      "system" : "iso639-1"
+    }, {
+      "code" : "lo",
+      "description" : "Lao",
+      "system" : "iso639-1"
+    }, {
+      "code" : "la",
+      "description" : "Latin",
+      "system" : "iso639-1"
+    }, {
+      "code" : "lv",
+      "description" : "Latvian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "li",
+      "description" : "Limburgan |  Limburger |  Limburgish",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ln",
+      "description" : "Lingala",
+      "system" : "iso639-1"
+    }, {
+      "code" : "lt",
+      "description" : "Lithuanian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "lu",
+      "description" : "Luba-Katanga",
+      "system" : "iso639-1"
+    }, {
+      "code" : "lb",
+      "description" : "Luxembourgish |  Letzeburgesch",
+      "system" : "iso639-1"
+    }, {
+      "code" : "mk",
+      "description" : "Macedonian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "mg",
+      "description" : "Malagasy",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ms",
+      "description" : "Malay",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ml",
+      "description" : "Malayalam",
+      "system" : "iso639-1"
+    }, {
+      "code" : "mt",
+      "description" : "Maltese",
+      "system" : "iso639-1"
+    }, {
+      "code" : "gv",
+      "description" : "Manx",
+      "system" : "iso639-1"
+    }, {
+      "code" : "mi",
+      "description" : "Maori",
+      "system" : "iso639-1"
+    }, {
+      "code" : "mr",
+      "description" : "Marathi",
+      "system" : "iso639-1"
+    }, {
+      "code" : "mh",
+      "description" : "Marshallese",
+      "system" : "iso639-1"
+    }, {
+      "code" : "mn",
+      "description" : "Mongolian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "na",
+      "description" : "Nauru",
+      "system" : "iso639-1"
+    }, {
+      "code" : "nv",
+      "description" : "Navajo |  Navaho",
+      "system" : "iso639-1"
+    }, {
+      "code" : "nd",
+      "description" : "Ndebele, North |  North Ndebele",
+      "system" : "iso639-1"
+    }, {
+      "code" : "nr",
+      "description" : "Ndebele, South |  South Ndebele",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ng",
+      "description" : "Ndonga",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ne",
+      "description" : "Nepali",
+      "system" : "iso639-1"
+    }, {
+      "code" : "se",
+      "description" : "Northern Sami",
+      "system" : "iso639-1"
+    }, {
+      "code" : "no",
+      "description" : "Norwegian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "nn",
+      "description" : "Norwegian Nynorsk |  Nynorsk, Norwegian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "oc",
+      "description" : "Occitan (post 1500)",
+      "system" : "iso639-1"
+    }, {
+      "code" : "oj",
+      "description" : "Ojibwa",
+      "system" : "iso639-1"
+    }, {
+      "code" : "or",
+      "description" : "Oriya",
+      "system" : "iso639-1"
+    }, {
+      "code" : "om",
+      "description" : "Oromo",
+      "system" : "iso639-1"
+    }, {
+      "code" : "os",
+      "description" : "Ossetian |  Ossetic",
+      "system" : "iso639-1"
+    }, {
+      "code" : "pi",
+      "description" : "Pali",
+      "system" : "iso639-1"
+    }, {
+      "code" : "pa",
+      "description" : "Panjabi |  Punjabi",
+      "system" : "iso639-1"
+    }, {
+      "code" : "fa",
+      "description" : "Persian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "pl",
+      "description" : "Polish",
+      "system" : "iso639-1"
+    }, {
+      "code" : "pt",
+      "description" : "Portuguese",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ps",
+      "description" : "Pushto |  Pashto",
+      "system" : "iso639-1"
+    }, {
+      "code" : "qu",
+      "description" : "Quechua",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ro",
+      "description" : "Romanian |  Moldavian |  Moldovan",
+      "system" : "iso639-1"
+    }, {
+      "code" : "rm",
+      "description" : "Romansh",
+      "system" : "iso639-1"
+    }, {
+      "code" : "rn",
+      "description" : "Rundi",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ru",
+      "description" : "Russian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "sm",
+      "description" : "Samoan",
+      "system" : "iso639-1"
+    }, {
+      "code" : "sg",
+      "description" : "Sango",
+      "system" : "iso639-1"
+    }, {
+      "code" : "sa",
+      "description" : "Sanskrit",
+      "system" : "iso639-1"
+    }, {
+      "code" : "sc",
+      "description" : "Sardinian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "sr",
+      "description" : "Serbian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "sn",
+      "description" : "Shona",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ii",
+      "description" : "Sichuan Yi |  Nuosu",
+      "system" : "iso639-1"
+    }, {
+      "code" : "sd",
+      "description" : "Sindhi",
+      "system" : "iso639-1"
+    }, {
+      "code" : "si",
+      "description" : "Sinhala |  Sinhalese",
+      "system" : "iso639-1"
+    }, {
+      "code" : "sk",
+      "description" : "Slovak",
+      "system" : "iso639-1"
+    }, {
+      "code" : "sl",
+      "description" : "Slovenian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "so",
+      "description" : "Somali",
+      "system" : "iso639-1"
+    }, {
+      "code" : "st",
+      "description" : "Sotho, Southern",
+      "system" : "iso639-1"
+    }, {
+      "code" : "es",
+      "description" : "Spanish |  Castilian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "su",
+      "description" : "Sundanese",
+      "system" : "iso639-1"
+    }, {
+      "code" : "sw",
+      "description" : "Swahili",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ss",
+      "description" : "Swati",
+      "system" : "iso639-1"
+    }, {
+      "code" : "sv",
+      "description" : "Swedish",
+      "system" : "iso639-1"
+    }, {
+      "code" : "tl",
+      "description" : "Tagalog",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ty",
+      "description" : "Tahitian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "tg",
+      "description" : "Tajik",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ta",
+      "description" : "Tamil",
+      "system" : "iso639-1"
+    }, {
+      "code" : "tt",
+      "description" : "Tatar",
+      "system" : "iso639-1"
+    }, {
+      "code" : "te",
+      "description" : "Telugu",
+      "system" : "iso639-1"
+    }, {
+      "code" : "th",
+      "description" : "Thai",
+      "system" : "iso639-1"
+    }, {
+      "code" : "bo",
+      "description" : "Tibetan",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ti",
+      "description" : "Tigrinya",
+      "system" : "iso639-1"
+    }, {
+      "code" : "to",
+      "description" : "Tonga (Tonga Islands)",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ts",
+      "description" : "Tsonga",
+      "system" : "iso639-1"
+    }, {
+      "code" : "tn",
+      "description" : "Tswana",
+      "system" : "iso639-1"
+    }, {
+      "code" : "tr",
+      "description" : "Turkish",
+      "system" : "iso639-1"
+    }, {
+      "code" : "tk",
+      "description" : "Turkmen",
+      "system" : "iso639-1"
+    }, {
+      "code" : "tw",
+      "description" : "Twi",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ug",
+      "description" : "Uighur |  Uyghur",
+      "system" : "iso639-1"
+    }, {
+      "code" : "uk",
+      "description" : "Ukrainian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ur",
+      "description" : "Urdu",
+      "system" : "iso639-1"
+    }, {
+      "code" : "uz",
+      "description" : "Uzbek",
+      "system" : "iso639-1"
+    }, {
+      "code" : "ve",
+      "description" : "Venda",
+      "system" : "iso639-1"
+    }, {
+      "code" : "vi",
+      "description" : "Vietnamese",
+      "system" : "iso639-1"
+    }, {
+      "code" : "vo",
+      "description" : "Volapük",
+      "system" : "iso639-1"
+    }, {
+      "code" : "wa",
+      "description" : "Walloon",
+      "system" : "iso639-1"
+    }, {
+      "code" : "cy",
+      "description" : "Welsh",
+      "system" : "iso639-1"
+    }, {
+      "code" : "fy",
+      "description" : "Western Frisian",
+      "system" : "iso639-1"
+    }, {
+      "code" : "wo",
+      "description" : "Wolof",
+      "system" : "iso639-1"
+    }, {
+      "code" : "xh",
+      "description" : "Xhosa",
+      "system" : "iso639-1"
+    }, {
+      "code" : "yi",
+      "description" : "Yiddish",
+      "system" : "iso639-1"
+    }, {
+      "code" : "yo",
+      "description" : "Yoruba",
+      "system" : "iso639-1"
+    }, {
+      "code" : "za",
+      "description" : "Zhuang |  Chuang",
+      "system" : "iso639-1"
+    }, {
+      "code" : "zu",
+      "description" : "Zulu",
+      "system" : "iso639-1"
+    } ],
+    "totalMembers" : 184,
+    "isComplete" : true
+  }
+}
