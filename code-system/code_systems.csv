@@ -1,9 +1,10 @@
 issuer,code_namespace,terminology_uri,terminology_code_uri_root,description
-iso,iso3166-1-alpha2,http://iso.org/code_sets/iso3166-1-alpha2,http://iso.org/code_sets/iso3166-1-alpha2/,2-character ISO country codes
-iso,iso3166-1-alpha3,http://iso.org/code_sets/iso3166-1-alpha3,http://iso.org/code_sets/iso3166-1-alpha3/,3-character ISO country codes
-iso,iso639-2,http://iso.org/code_sets/iso639-2-alpha2,http://iso.org/code_sets/iso639-2-alpha2/,2-character ISO language codes
-iana,iana-media-types,http://iana.org/code_sets/media-types,http://iana.org/code_sets/media-types/,IANA media types
-iana,iana-character-sets,http://iana.org/code_sets/character-sets,http://iana.org/code_sets/character-sets/,IANA character sets
+iso,iso_3166-1-alpha2,http://iso.org/code_sets/iso_3166-1-alpha2,http://iso.org/code_sets/iso_3166-1-alpha2/,2-character ISO country codes
+iso,iso_3166-1-alpha3,http://iso.org/code_sets/iso_3166-1-alpha3,http://iso.org/code_sets/iso_3166-1-alpha3/,3-character ISO country codes
+iso,iso_639-1,http://iso.org/code_sets/iso_639-1,http://iso.org/code_sets/iso_639-1/,2-character ISO language codes
+iso,iso_639-3,http://iso.org/code_sets/iso_639-3,http://iso.org/code_sets/iso_639-3/,3-character ISO language codes
+iana,iana_media-types,http://iana.org/code_sets/media-types,http://iana.org/code_sets/media-types/,IANA media types
+iana,iana_character-sets,http://iana.org/code_sets/character-sets,http://iana.org/code_sets/character-sets/,IANA character sets
 loinc,loinc,http://loinc.org,http://loinc.org/,LOINC terminology system (Regenstrief)
 snomed,snomed,http://snomed.info/sct,http://snomed.info/id/,SNOMED terminology system (SNOMED International)
 rxnorm,rxnorm,http://www.nlm.nih.gov/research/umls/rxnorm,http://www.nlm.nih.gov/research/umls/rxnorm/,RxNorm medications terminology (NLM)
