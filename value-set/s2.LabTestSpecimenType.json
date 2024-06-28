@@ -1,0 +1,83 @@
+{
+  "id" : "s2.LabTestSpecimenType",
+  "creationDate" : "2024-06-28T16:25:45-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "LabTestSpecimenType",
+    "description" : "Lab test specimen type",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "119297000",
+      "description" : "Blood specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "309051001",
+      "description" : "Body fluid specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "119350003",
+      "description" : "Calculus specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "258450006",
+      "description" : "Cerebrospinal fluid specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "788707000",
+      "description" : "Plasma specimen or serum specimen or whole blood specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "122592007",
+      "description" : "Serum or plasma specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "119364003",
+      "description" : "Serum specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "119344008",
+      "description" : "Specimen from genital system",
+      "system" : "snomed"
+    }, {
+      "code" : "734337004",
+      "description" : "Specimen from mass of nasopharynx",
+      "system" : "snomed"
+    }, {
+      "code" : "447154002",
+      "description" : "Specimen from nose",
+      "system" : "snomed"
+    }, {
+      "code" : "258603007",
+      "description" : "Specimen from respiratory system",
+      "system" : "snomed"
+    }, {
+      "code" : "119389009",
+      "description" : "Specimen from throat",
+      "system" : "snomed"
+    }, {
+      "code" : "430304001",
+      "description" : "Specimen from unspecified body site",
+      "system" : "snomed"
+    }, {
+      "code" : "119394009",
+      "description" : "Specimen from vagina",
+      "system" : "snomed"
+    }, {
+      "code" : "119339001",
+      "description" : "Stool specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "258604001",
+      "description" : "Upper respiratory specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "122575003",
+      "description" : "Urine specimen",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 17,
+    "isComplete" : true
+  }
+}

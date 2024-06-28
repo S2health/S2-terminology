@@ -1,0 +1,27 @@
+{
+  "id" : "s2.TimingAspect",
+  "creationDate" : "2024-06-28T16:22:33-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "TimingAspect",
+    "description" : "Timing aspect",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "123027009",
+      "description" : "24 hours",
+      "system" : "snomed"
+    }, {
+      "code" : "10003008",
+      "description" : "Non-specific",
+      "system" : "snomed"
+    }, {
+      "code" : "123029007",
+      "description" : "Single point in time",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}

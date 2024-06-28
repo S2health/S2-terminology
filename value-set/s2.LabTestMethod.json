@@ -1,0 +1,251 @@
+{
+  "id" : "s2.LabTestMethod",
+  "creationDate" : "2024-06-28T16:22:32-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "LabTestMethod",
+    "description" : "Lab test method",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "703750006",
+      "description" : "Aerobic culture",
+      "system" : "snomed"
+    }, {
+      "code" : "708104000",
+      "description" : "Agglutination technique",
+      "system" : "snomed"
+    }, {
+      "code" : "703751005",
+      "description" : "Anaerobic culture",
+      "system" : "snomed"
+    }, {
+      "code" : "104232004",
+      "description" : "Antibiotic sensitivity, agar diffusion method",
+      "system" : "snomed"
+    }, {
+      "code" : "8359006",
+      "description" : "Automated",
+      "system" : "snomed"
+    }, {
+      "code" : "702659008",
+      "description" : "Automated count",
+      "system" : "snomed"
+    }, {
+      "code" : "737102004",
+      "description" : "Automated test strip technique",
+      "system" : "snomed"
+    }, {
+      "code" : "1303770001",
+      "description" : "Bromocresol green dye binding technique",
+      "system" : "snomed"
+    }, {
+      "code" : "1303771002",
+      "description" : "Bromocresol purple dye binding technique",
+      "system" : "snomed"
+    }, {
+      "code" : "703463001",
+      "description" : "Calculated from oxygen partial pressure",
+      "system" : "snomed"
+    }, {
+      "code" : "117337005",
+      "description" : "Calculated laboratory test method",
+      "system" : "snomed"
+    }, {
+      "code" : "708069005",
+      "description" : "Chromogenic technique",
+      "system" : "snomed"
+    }, {
+      "code" : "703462006",
+      "description" : "Cockcroft-Gault formula",
+      "system" : "snomed"
+    }, {
+      "code" : "702942001",
+      "description" : "Concentration",
+      "system" : "snomed"
+    }, {
+      "code" : "703690001",
+      "description" : "Confirmatory technique",
+      "system" : "snomed"
+    }, {
+      "code" : "703725008",
+      "description" : "Culture",
+      "system" : "snomed"
+    }, {
+      "code" : "117254004",
+      "description" : "Cystic fibrosis respiratory culture",
+      "system" : "snomed"
+    }, {
+      "code" : "702673004",
+      "description" : "Deoxyribonucleic acid probe",
+      "system" : "snomed"
+    }, {
+      "code" : "703439009",
+      "description" : "Detection limit equal to or less than 1.0 ng/dL",
+      "system" : "snomed"
+    }, {
+      "code" : "702669002",
+      "description" : "Direct assay",
+      "system" : "snomed"
+    }, {
+      "code" : "703452004",
+      "description" : "Electrical impedance technique",
+      "system" : "snomed"
+    }, {
+      "code" : "703450007",
+      "description" : "Electrophoresis",
+      "system" : "snomed"
+    }, {
+      "code" : "414135002",
+      "description" : "Estimated",
+      "system" : "snomed"
+    }, {
+      "code" : "702945004",
+      "description" : "Estimated from glycated hemoglobin",
+      "system" : "snomed"
+    }, {
+      "code" : "708058007",
+      "description" : "Flow cytometry",
+      "system" : "snomed"
+    }, {
+      "code" : "703443008",
+      "description" : "Fungus stain method",
+      "system" : "snomed"
+    }, {
+      "code" : "166900001",
+      "description" : "Glucometer blood glucose",
+      "system" : "snomed"
+    }, {
+      "code" : "702662006",
+      "description" : "High power field light microscopy",
+      "system" : "snomed"
+    }, {
+      "code" : "258035006",
+      "description" : "High pressure liquid chromatography",
+      "system" : "snomed"
+    }, {
+      "code" : "726449005",
+      "description" : "Immunoassay technique",
+      "system" : "snomed"
+    }, {
+      "code" : "703446000",
+      "description" : "Immunoblot assay",
+      "system" : "snomed"
+    }, {
+      "code" : "708064000",
+      "description" : "Immunofixation",
+      "system" : "snomed"
+    }, {
+      "code" : "406867009",
+      "description" : "Immunofluorescent stain method",
+      "system" : "snomed"
+    }, {
+      "code" : "703445001",
+      "description" : "Ion selective electrode measurement",
+      "system" : "snomed"
+    }, {
+      "code" : "708075001",
+      "description" : "KOH preparation technique",
+      "system" : "snomed"
+    }, {
+      "code" : "118184002",
+      "description" : "Laboratory test with detection limit of <20mg/L",
+      "system" : "snomed"
+    }, {
+      "code" : "702661004",
+      "description" : "Light microscopy",
+      "system" : "snomed"
+    }, {
+      "code" : "703451006",
+      "description" : "Low power field light microscopy",
+      "system" : "snomed"
+    }, {
+      "code" : "702663001",
+      "description" : "Manual count",
+      "system" : "snomed"
+    }, {
+      "code" : "362943005",
+      "description" : "Manual method",
+      "system" : "snomed"
+    }, {
+      "code" : "737103009",
+      "description" : "Manual test strip technique",
+      "system" : "snomed"
+    }, {
+      "code" : "708073008",
+      "description" : "MIC",
+      "system" : "snomed"
+    }, {
+      "code" : "117027007",
+      "description" : "Microbial culture, body fluid",
+      "system" : "snomed"
+    }, {
+      "code" : "708068002",
+      "description" : "Molecular genetics",
+      "system" : "snomed"
+    }, {
+      "code" : "359838000",
+      "description" : "Nephelometry",
+      "system" : "snomed"
+    }, {
+      "code" : "703752003",
+      "description" : "Organism specific culture",
+      "system" : "snomed"
+    }, {
+      "code" : "702675006",
+      "description" : "Probe with target amplification",
+      "system" : "snomed"
+    }, {
+      "code" : "708099001",
+      "description" : "Rapid immunoassay",
+      "system" : "snomed"
+    }, {
+      "code" : "703455002",
+      "description" : "Rapid plasma reagin technique",
+      "system" : "snomed"
+    }, {
+      "code" : "1304095001",
+      "description" : "Refractometry",
+      "system" : "snomed"
+    }, {
+      "code" : "733985002",
+      "description" : "Reported",
+      "system" : "snomed"
+    }, {
+      "code" : "117056007",
+      "description" : "Respiratory microbial culture",
+      "system" : "snomed"
+    }, {
+      "code" : "1287497009",
+      "description" : "Screening technique",
+      "system" : "snomed"
+    }, {
+      "code" : "726451009",
+      "description" : "Signal amplification technique",
+      "system" : "snomed"
+    }, {
+      "code" : "708070006",
+      "description" : "Solubility test",
+      "system" : "snomed"
+    }, {
+      "code" : "702660003",
+      "description" : "Test strip",
+      "system" : "snomed"
+    }, {
+      "code" : "255374006",
+      "description" : "Visual",
+      "system" : "snomed"
+    }, {
+      "code" : "703459008",
+      "description" : "Westergren technique",
+      "system" : "snomed"
+    }, {
+      "code" : "703457005",
+      "description" : "Wet preparation technique",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 59,
+    "isComplete" : true
+  }
+}
