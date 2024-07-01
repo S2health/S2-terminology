@@ -1,0 +1,31 @@
+{
+  "id" : "s2.CompositionCategory",
+  "creationDate" : "2024-07-01T11:00:00-0700",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "CompositionCategory",
+    "description" : "S2 RM Composition.category values",
+    "type" : "vset",
+    "system" : "openehr",
+    "members" : [ {
+      "code" : "431",
+      "description" : "persistent",
+      "system" : "openehr"
+    }, {
+      "code" : "451",
+      "description" : "episodic",
+      "system" : "openehr"
+    }, {
+      "code" : "433",
+      "description" : "event",
+      "system" : "openehr"
+    }, {
+      "code" : "815",
+      "description" : "report",
+      "system" : "openehr"
+    } ],
+    "totalMembers" : 4,
+    "isComplete" : true
+  }
+}
