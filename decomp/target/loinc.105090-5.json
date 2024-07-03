@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105090-5",
+    "description" : "Erythrocytes [Presence] in Urine sediment",
+    "system" : "loinc"
+  },
+  "modelName" : "ErythrocytesPrThrPtUrinesedOrd.v1.0.0",
+  "children" : {
+    "32776-7" : {
+      "source" : {
+        "code" : "32776-7",
+        "description" : "Erythrocytes Urine sed PrThr Pt Ord Microscopy.light",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105090-5",
+        "description" : "Erythrocytes [Presence] in Urine sediment",
+        "system" : "loinc"
+      },
+      "model" : "ErythrocytesPrThrPtUrinesedOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702661004",
+          "description" : "Light microscopy technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

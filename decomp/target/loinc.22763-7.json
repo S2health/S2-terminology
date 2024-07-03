@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "22763-7",
+    "description" : "Ammonia Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "AmmoniaMCncPtPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

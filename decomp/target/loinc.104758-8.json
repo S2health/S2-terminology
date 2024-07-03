@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104758-8",
+    "description" : "Gardnerella vaginalis DNA [Presence] in Vaginal fluid by Molecular genetics method",
+    "system" : "loinc"
+  },
+  "modelName" : "GardnerellavaginalisDNAPrThrPtVagOrdMolgen.v1.0.0",
+  "children" : {
+    "54143-3" : {
+      "source" : {
+        "code" : "54143-3",
+        "description" : "Gardnerella vaginalis DNA Vag PrThr Pt Ord Probe.amp.sig",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104758-8",
+        "description" : "Gardnerella vaginalis DNA [Presence] in Vaginal fluid by Molecular genetics method",
+        "system" : "loinc"
+      },
+      "model" : "GardnerellavaginalisDNAPrThrPtVagOrdMolgen.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726451009",
+          "description" : "Signal amplification technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

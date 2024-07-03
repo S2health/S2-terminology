@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105101-0",
+    "description" : "Hyaline casts [Presence] in Urine sediment",
+    "system" : "loinc"
+  },
+  "modelName" : "HyalinecastsPrThrPtUrinesedOrd.v1.0.0",
+  "children" : {
+    "25162-9" : {
+      "source" : {
+        "code" : "25162-9",
+        "description" : "Hyaline casts Urine sed PrThr Pt Ord Microscopy.light",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105101-0",
+        "description" : "Hyaline casts [Presence] in Urine sediment",
+        "system" : "loinc"
+      },
+      "model" : "HyalinecastsPrThrPtUrinesedOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702661004",
+          "description" : "Light microscopy technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

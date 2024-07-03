@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "7885-7",
+    "description" : "Epstein Barr virus capsid Ab.IgG Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "EpsteinBarrVirusCapsidAbIgGACncPtSerQnLabObs.v1.0.0",
+  "children" : {
+    "5157-3" : {
+      "source" : {
+        "code" : "5157-3",
+        "description" : "Epstein Barr virus capsid Ab.IgG Ser ACnc Pt Qn IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "7885-7",
+        "description" : "Epstein Barr virus capsid Ab.IgG Ser ACnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "EpsteinBarrVirusCapsidAbIgGACncPtSerQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

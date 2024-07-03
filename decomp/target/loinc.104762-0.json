@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104762-0",
+    "description" : "HIV 1 RNA [Log #/volume] in Serum or Plasma by Molecular genetics method",
+    "system" : "loinc"
+  },
+  "modelName" : "HIV1RNALnCncPtSerPlasQnMolgen.v1.0.0",
+  "children" : {
+    "29541-0" : {
+      "source" : {
+        "code" : "29541-0",
+        "description" : "HIV 1 RNA Ser/Plas LnCnc Pt Qn Probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104762-0",
+        "description" : "HIV 1 RNA [Log #/volume] in Serum or Plasma by Molecular genetics method",
+        "system" : "loinc"
+      },
+      "model" : "HIV1RNALnCncPtSerPlasQnMolgen.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702675006",
+          "description" : "Probe with target amplification technique technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

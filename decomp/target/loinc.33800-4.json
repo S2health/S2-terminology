@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "33800-4",
+    "description" : "DNA double strand Ab.IgG Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "DNADoubleStrandAbIgGACncPtSerQnLabObs.v1.0.0",
+  "children" : {
+    "58465-6" : {
+      "source" : {
+        "code" : "58465-6",
+        "description" : "DNA double strand Ab.IgG Ser PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "33800-4",
+        "description" : "DNA double strand Ab.IgG Ser ACnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "DNADoubleStrandAbIgGACncPtSerQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

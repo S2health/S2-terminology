@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2742-5",
+    "description" : "Angiotensin converting enzyme Ser/Plas CCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "AngiotensinConvertingEnzymeCCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

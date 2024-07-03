@@ -1,0 +1,33 @@
+{
+  "target" : {
+    "code" : "34641-1",
+    "description" : "Protein pattern Ser/Plas Imp Pt Nom",
+    "system" : "loinc"
+  },
+  "children" : {
+    "12851-2" : {
+      "source" : {
+        "code" : "12851-2",
+        "description" : "Protein pattern Ser/Plas Imp Pt Nom Electrophoresis",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "34641-1",
+        "description" : "Protein pattern Ser/Plas Imp Pt Nom",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703450007",
+          "description" : "Electrophoresis technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

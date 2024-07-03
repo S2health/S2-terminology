@@ -1,0 +1,60 @@
+{
+  "target" : {
+    "code" : "20570-8",
+    "description" : "Hematocrit Bld VFr Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "HematocritVFrPtBldQnLabObs.v1.0.0",
+  "children" : {
+    "4544-3" : {
+      "source" : {
+        "code" : "4544-3",
+        "description" : "Hematocrit Bld VFr Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "20570-8",
+        "description" : "Hematocrit Bld VFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "HematocritVFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "31100-1" : {
+      "source" : {
+        "code" : "31100-1",
+        "description" : "Hematocrit Bld VFr Pt Qn Impedance",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "20570-8",
+        "description" : "Hematocrit Bld VFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "HematocritVFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703452004",
+          "description" : "Electrical impedance technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

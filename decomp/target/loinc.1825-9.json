@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "1825-9",
+    "description" : "Alpha 1 antitrypsin Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "Alpha1AntitrypsinMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : {
+    "6771-0" : {
+      "source" : {
+        "code" : "6771-0",
+        "description" : "Alpha 1 antitrypsin Ser/Plas MCnc Pt Qn Nephelometry",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "1825-9",
+        "description" : "Alpha 1 antitrypsin Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "Alpha1AntitrypsinMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "359838000",
+          "description" : "Nephelometry",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

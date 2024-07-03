@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "45323-3",
+    "description" : "Mycobacterium tuberculosis tuberculin stimulated gamma interferon Bld PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "MycobacteriumTuberculosisTuberculinStimulatedGammaInterferonACncPtBldOrdLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "1759-0",
+    "description" : "Albumin/Globulin Ser/Plas MRto Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "AlbuminGlobulinMRtoPtSerPlasQnLabObs.v1.0.0",
+  "children" : {
+    "44429-9" : {
+      "source" : {
+        "code" : "44429-9",
+        "description" : "Albumin/Globulin Ser/Plas MRto Pt Qn Electrophoresis",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "1759-0",
+        "description" : "Albumin/Globulin Ser/Plas MRto Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "AlbuminGlobulinMRtoPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

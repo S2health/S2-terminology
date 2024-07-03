@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "31625-7",
+    "description" : "Sjogrens syndrome-A extractable nuclear Ab.IgG Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "SjogrensSyndromeMinusAExtractableNuclearAbIgGACncPtSerOrdLabObs.v1.0.0",
+  "children" : { }
+}

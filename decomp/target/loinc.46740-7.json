@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "46740-7",
+    "description" : "Hemoglobin disorders Bld.dot Imp Pt Nom",
+    "system" : "loinc"
+  },
+  "modelName" : "HemoglobinDisordersImpPtBldDotOrdLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "48345-3",
+    "description" : "HIV 1+O+2 Ab Ser/Plas PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "HIV1O2AbPrThrPtSerPlasOrdLabObs.v1.0.0",
+  "children" : { }
+}

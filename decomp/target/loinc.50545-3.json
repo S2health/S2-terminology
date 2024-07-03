@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "50545-3",
+    "description" : "Bacterial susceptibility panel Isolate - Pt OrdQn MIC",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

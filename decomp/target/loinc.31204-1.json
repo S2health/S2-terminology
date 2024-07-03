@@ -1,0 +1,22 @@
+{
+  "target" : {
+    "code" : "31204-1",
+    "description" : "Hepatitis B virus core Ab.IgM Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "24113-3" : {
+      "source" : {
+        "code" : "24113-3",
+        "description" : "Hepatitis B virus core Ab.IgM Ser/Plas PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "31204-1",
+        "description" : "Hepatitis B virus core Ab.IgM Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

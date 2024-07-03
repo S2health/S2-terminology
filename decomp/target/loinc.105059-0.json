@@ -1,0 +1,52 @@
+{
+  "target" : {
+    "code" : "105059-0",
+    "description" : "Microscopic observation [Identifier] in Specimen",
+    "system" : "loinc"
+  },
+  "modelName" : "MicroscopicobservationPridPtXXXNom.v1.0.0",
+  "children" : {
+    "648-6" : {
+      "source" : {
+        "code" : "648-6",
+        "description" : "Microscopic observation Sputum Prid Pt Nom Gram stain",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105059-0",
+        "description" : "Microscopic observation [Identifier] in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "MicroscopicobservationPridPtXXXNom.v1.0.0",
+      "descriptors" : [ ]
+    },
+    "676-7" : {
+      "source" : {
+        "code" : "676-7",
+        "description" : "Microscopic observation Prid Pt Nom Rhodamine-auramine fluorochrome stain",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105059-0",
+        "description" : "Microscopic observation [Identifier] in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "MicroscopicobservationPridPtXXXNom.v1.0.0",
+      "descriptors" : [ ]
+    },
+    "14361-0" : {
+      "source" : {
+        "code" : "14361-0",
+        "description" : "Microscopic observation Vag Prid Pt Nom Gram stain",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105059-0",
+        "description" : "Microscopic observation [Identifier] in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "MicroscopicobservationPridPtXXXNom.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

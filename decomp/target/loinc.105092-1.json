@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105092-1",
+    "description" : "Base excess in Venous blood",
+    "system" : "loinc"
+  },
+  "modelName" : "BaseexcessSCncPtBldVQn.v1.0.0",
+  "children" : {
+    "1927-3" : {
+      "source" : {
+        "code" : "1927-3",
+        "description" : "Base excess BldV SCnc Pt Qn Calculated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105092-1",
+        "description" : "Base excess in Venous blood",
+        "system" : "loinc"
+      },
+      "model" : "BaseexcessSCncPtBldVQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "117337005",
+          "description" : "Calculated laboratory test method",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

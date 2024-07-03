@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105099-6",
+    "description" : "Yeast [Presence] in Urine sediment",
+    "system" : "loinc"
+  },
+  "modelName" : "YeastPrThrPtUrinesedOrd.v1.0.0",
+  "children" : {
+    "32356-8" : {
+      "source" : {
+        "code" : "32356-8",
+        "description" : "Yeast Urine sed PrThr Pt Ord Microscopy.light",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105099-6",
+        "description" : "Yeast [Presence] in Urine sediment",
+        "system" : "loinc"
+      },
+      "model" : "YeastPrThrPtUrinesedOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702661004",
+          "description" : "Light microscopy technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

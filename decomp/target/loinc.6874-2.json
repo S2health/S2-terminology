@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "6874-2",
+    "description" : "Calcium Urine MRat 24H Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CalciumMRat24HUrineQnLabObs.v1.0.0",
+  "children" : { }
+}

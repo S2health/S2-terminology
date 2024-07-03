@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "2748-2",
+    "description" : "PH Body fld LsCnc Pt SemiQn",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

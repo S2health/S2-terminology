@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2160-0",
+    "description" : "Creatinine Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CreatinineMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

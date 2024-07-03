@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "11153-4",
+    "description" : "Hematocrit Body fld VFr Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "HematocritVFrPtBodyFldQnLabObs.v1.0.0",
+  "children" : { }
+}

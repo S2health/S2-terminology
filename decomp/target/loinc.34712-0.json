@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "34712-0",
+    "description" : "Clostridioides difficile Stool PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "ClostridiumdifficilePrThrPtStoolOrdLabObs.v1.0.0",
+  "children" : { }
+}

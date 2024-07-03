@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105064-0",
+    "description" : "Staphylococcus sp identified in Specimen",
+    "system" : "loinc"
+  },
+  "modelName" : "StaphylococcusspidentifiedPridPtXXXNom.v1.0.0",
+  "children" : {
+    "20966-8" : {
+      "source" : {
+        "code" : "20966-8",
+        "description" : "Staphylococcus sp identified Prid Pt Nom Organism specific culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105064-0",
+        "description" : "Staphylococcus sp identified in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "StaphylococcusspidentifiedPridPtXXXNom.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703752003",
+          "description" : "Organism specific culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

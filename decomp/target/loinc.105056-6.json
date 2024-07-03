@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105056-6",
+    "description" : "Rotavirus A RNA [Presence] in Specimen",
+    "system" : "loinc"
+  },
+  "modelName" : "RotavirusARNAPrThrPtXXXOrd.v1.0.0",
+  "children" : {
+    "82212-2" : {
+      "source" : {
+        "code" : "82212-2",
+        "description" : "Rotavirus A RNA Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105056-6",
+        "description" : "Rotavirus A RNA [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "RotavirusARNAPrThrPtXXXOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "119339001",
+          "description" : "Stool specimen",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

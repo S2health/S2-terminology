@@ -1,0 +1,22 @@
+{
+  "target" : {
+    "code" : "8014-3",
+    "description" : "Rubella virus Ab.IgG Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : {
+    "5334-8" : {
+      "source" : {
+        "code" : "5334-8",
+        "description" : "Rubella virus Ab.IgG Ser/Plas ACnc Pt Qn IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8014-3",
+        "description" : "Rubella virus Ab.IgG Ser ACnc Pt Qn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

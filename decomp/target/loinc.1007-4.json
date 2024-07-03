@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "1007-4",
+    "description" : "Direct antiglobulin test.polyspecific reagent RBC PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

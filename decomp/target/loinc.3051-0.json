@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "3051-0",
+    "description" : "Triiodothyronine.free Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "TriiodothyronineFreeMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

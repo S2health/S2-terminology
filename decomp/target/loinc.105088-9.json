@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105088-9",
+    "description" : "Epithelial cells.non-squamous [Presence] in Urine sediment",
+    "system" : "loinc"
+  },
+  "modelName" : "EpithelialcellsnonsquamousPrThrPtUrinesedOrd.v1.0.0",
+  "children" : {
+    "53978-3" : {
+      "source" : {
+        "code" : "53978-3",
+        "description" : "Epithelial cells.non-squamous Urine sed PrThr Pt Ord Microscopy.light",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105088-9",
+        "description" : "Epithelial cells.non-squamous [Presence] in Urine sediment",
+        "system" : "loinc"
+      },
+      "model" : "EpithelialcellsnonsquamousPrThrPtUrinesedOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702661004",
+          "description" : "Light microscopy technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "2141-0",
+    "description" : "Corticotropin Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CorticotropinMCncPtPlasQnLabObs.v1.0.0",
+  "children" : {
+    "6879-1" : {
+      "source" : {
+        "code" : "6879-1",
+        "description" : "Corticotropin Plas MCnc Pt Qn RIA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2141-0",
+        "description" : "Corticotropin Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "CorticotropinMCncPtPlasQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708099001",
+          "description" : "Rapid immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

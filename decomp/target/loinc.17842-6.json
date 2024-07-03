@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "17842-6",
+    "description" : "Cancer Ag 27-29 Ser/Plas ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CancerAg27Minus29ACncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "3426-4",
+    "description" : "Tetrahydrocannabinol Urine PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "TetrahydrocannabinolPrThrPtUrineOrdLabObs.v1.0.0",
+  "children" : {
+    "19415-9" : {
+      "source" : {
+        "code" : "19415-9",
+        "description" : "Tetrahydrocannabinol Urine PrThr Pt Ord Screen",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3426-4",
+        "description" : "Tetrahydrocannabinol Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "TetrahydrocannabinolPrThrPtUrineOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1287497009",
+          "description" : "Screening technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

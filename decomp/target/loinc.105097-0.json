@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105097-0",
+    "description" : "Urate crystals amorphous [Presence] in Urine sediment",
+    "system" : "loinc"
+  },
+  "modelName" : "UratecrystalsamorphousPrThrPtUrinesedOrd.v1.0.0",
+  "children" : {
+    "12454-5" : {
+      "source" : {
+        "code" : "12454-5",
+        "description" : "Urate crystals.amorphous Urine sed PrThr Pt Ord Microscopy.light",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105097-0",
+        "description" : "Urate crystals amorphous [Presence] in Urine sediment",
+        "system" : "loinc"
+      },
+      "model" : "UratecrystalsamorphousPrThrPtUrinesedOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702661004",
+          "description" : "Light microscopy technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

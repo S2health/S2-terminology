@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "3427-2",
+    "description" : "Cannabinoids Urine PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "18282-4" : {
+      "source" : {
+        "code" : "18282-4",
+        "description" : "Cannabinoids Urine PrThr Pt Ord Screen",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3427-2",
+        "description" : "Cannabinoids Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    },
+    "70145-8" : {
+      "source" : {
+        "code" : "70145-8",
+        "description" : "Cannabinoids Urine PrThr Pt Ord Screen>50 ng/mL",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3427-2",
+        "description" : "Cannabinoids Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

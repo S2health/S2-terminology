@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2064-4",
+    "description" : "Ceruloplasmin Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CeruloplasminMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

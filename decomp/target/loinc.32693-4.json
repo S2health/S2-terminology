@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "32693-4",
+    "description" : "Lactate Bld SCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "LactateSCncPtBldQnLabObs.v1.0.0",
+  "children" : { }
+}

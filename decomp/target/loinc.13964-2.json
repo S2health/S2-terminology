@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "13964-2",
+    "description" : "Methylmalonate Ser/Plas SCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "MethylmalonateSCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

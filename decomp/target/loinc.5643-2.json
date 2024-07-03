@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "5643-2",
+    "description" : "Ethanol Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "EthanolMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

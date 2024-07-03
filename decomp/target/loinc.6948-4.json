@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "6948-4",
+    "description" : "LamoTRIgine Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "LamotrigineMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

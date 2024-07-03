@@ -1,0 +1,33 @@
+{
+  "target" : {
+    "code" : "31870-9",
+    "description" : "Legionella pneumophila Ag Urine PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "6447-7" : {
+      "source" : {
+        "code" : "6447-7",
+        "description" : "Legionella pneumophila Ag Urine PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "31870-9",
+        "description" : "Legionella pneumophila Ag Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

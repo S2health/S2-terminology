@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "1963-8",
+    "description" : "Bicarbonate Ser/Plas SCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "BicarbonateSCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

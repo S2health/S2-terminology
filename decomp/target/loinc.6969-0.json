@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "6969-0",
+    "description" : "Myeloperoxidase Ab Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "MyeloperoxidaseAbACncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

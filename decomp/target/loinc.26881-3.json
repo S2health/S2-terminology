@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "26881-3",
+    "description" : "Interleukin 6 Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "Interleukin6MCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

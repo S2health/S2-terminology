@@ -1,0 +1,60 @@
+{
+  "target" : {
+    "code" : "2756-5",
+    "description" : "pH of Urine",
+    "system" : "loinc"
+  },
+  "modelName" : "PHLsCncPtUrineSemiQn.v1.0.0",
+  "children" : {
+    "5803-2" : {
+      "source" : {
+        "code" : "5803-2",
+        "description" : "PH Urine LsCnc Pt SemiQn Test strip",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2756-5",
+        "description" : "pH of Urine",
+        "system" : "loinc"
+      },
+      "model" : "PHLsCncPtUrineSemiQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702660003",
+          "description" : "Test strip technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "50560-2" : {
+      "source" : {
+        "code" : "50560-2",
+        "description" : "PH Urine LsCnc Pt SemiQn Test strip.automated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2756-5",
+        "description" : "pH of Urine",
+        "system" : "loinc"
+      },
+      "model" : "PHLsCncPtUrineSemiQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "737102004",
+          "description" : "Automated test strip technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

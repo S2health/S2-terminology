@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "11054-4",
+    "description" : "Cholesterol.in LDL/Cholesterol.in HDL Ser/Plas MRto Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CholesterolInLDLCholesterolInHDLMRtoPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2529-6",
+    "description" : "Lactate dehydrogenase Body fld CCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "LactateDehydrogenaseCCncPtBodyFldQnLabObs.v1.0.0",
+  "children" : { }
+}

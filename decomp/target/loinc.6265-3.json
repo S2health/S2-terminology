@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "6265-3",
+    "description" : "Phleum pratense Ab.IgE Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "PhleumPratenseAbIgEACncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

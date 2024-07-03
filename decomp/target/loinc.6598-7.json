@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "6598-7",
+    "description" : "Troponin T.cardiac Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "TroponinTcardiacMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : {
+    "67151-1" : {
+      "source" : {
+        "code" : "67151-1",
+        "description" : "Troponin T.cardiac Ser/Plas MCnc Pt Qn High sensitivity",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "6598-7",
+        "description" : "Troponin T.cardiac Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "TroponinTcardiacMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

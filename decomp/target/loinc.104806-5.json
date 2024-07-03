@@ -1,0 +1,46 @@
+{
+  "target" : {
+    "code" : "104806-5",
+    "description" : "Trichomonas vaginalis DNA [Presence] in Specimen by Molecular genetics method",
+    "system" : "loinc"
+  },
+  "modelName" : "TrichomonasvaginalisDNAPrThrPtXXXOrdMolgen.v1.0.0",
+  "children" : {
+    "54144-1" : {
+      "source" : {
+        "code" : "54144-1",
+        "description" : "Trichomonas vaginalis DNA Vag PrThr Pt Ord Probe.amp.sig",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104806-5",
+        "description" : "Trichomonas vaginalis DNA [Presence] in Specimen by Molecular genetics method",
+        "system" : "loinc"
+      },
+      "model" : "TrichomonasvaginalisDNAPrThrPtXXXOrdMolgen.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726451009",
+          "description" : "Signal amplification technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "119394009",
+          "description" : "Specimen from vagina",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

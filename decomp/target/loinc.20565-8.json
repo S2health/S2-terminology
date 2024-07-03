@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "20565-8",
+    "description" : "Carbon dioxide Bld SCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CarbonDioxideSCncPtBldQnLabObs.v1.0.0",
+  "children" : { }
+}

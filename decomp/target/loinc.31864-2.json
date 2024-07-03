@@ -1,0 +1,103 @@
+{
+  "target" : {
+    "code" : "31864-2",
+    "description" : "Influenza virus B Ag PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "43895-2" : {
+      "source" : {
+        "code" : "43895-2",
+        "description" : "Influenza virus B Ag Nph PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "31864-2",
+        "description" : "Influenza virus B Ag PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "734337004",
+          "description" : "Specimen from mass of nasopharynx",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "5866-9" : {
+      "source" : {
+        "code" : "5866-9",
+        "description" : "Influenza virus B Ag PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "31864-2",
+        "description" : "Influenza virus B Ag PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "430304001",
+          "description" : "Specimen from unspecified body site",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "80383-3" : {
+      "source" : {
+        "code" : "80383-3",
+        "description" : "Influenza virus B Ag Respiratory.upper PrThr Pt Ord IA.rapid",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "31864-2",
+        "description" : "Influenza virus B Ag PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708099001",
+          "description" : "Rapid immunoassay technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "258604001",
+          "description" : "Upper respiratory specimen",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

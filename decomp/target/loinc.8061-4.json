@@ -1,0 +1,74 @@
+{
+  "target" : {
+    "code" : "8061-4",
+    "description" : "Nuclear Ab Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "NuclearAbACncPtSerOrdLabObs.v1.0.0",
+  "children" : {
+    "44751-6" : {
+      "source" : {
+        "code" : "44751-6",
+        "description" : "Nuclear Ab Ser PrThr Pt Ord IF rat kidney substrate",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8061-4",
+        "description" : "Nuclear Ab Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "NuclearAbACncPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ ]
+    },
+    "47383-5" : {
+      "source" : {
+        "code" : "47383-5",
+        "description" : "Nuclear Ab Ser PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8061-4",
+        "description" : "Nuclear Ab Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "NuclearAbACncPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "42254-3" : {
+      "source" : {
+        "code" : "42254-3",
+        "description" : "Nuclear Ab Ser PrThr Pt Ord IF",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8061-4",
+        "description" : "Nuclear Ab Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "NuclearAbACncPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "406867009",
+          "description" : "Immunofluorescent stain method",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

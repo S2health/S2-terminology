@@ -1,0 +1,82 @@
+{
+  "target" : {
+    "code" : "104734-9",
+    "description" : "Streptococcus.beta-hemolytic [Presence] in Specimen",
+    "system" : "loinc"
+  },
+  "modelName" : "StreptococcusbetahemolyticPrThrPtXXXOrd.v1.0.0",
+  "children" : {
+    "546-2" : {
+      "source" : {
+        "code" : "546-2",
+        "description" : "Streptococcus.beta-hemolytic Thrt PrThr Pt Ord Organism specific culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104734-9",
+        "description" : "Streptococcus.beta-hemolytic [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "StreptococcusbetahemolyticPrThrPtXXXOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703752003",
+          "description" : "Organism specific culture technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "119389009",
+          "description" : "Specimen from throat",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "547-0" : {
+      "source" : {
+        "code" : "547-0",
+        "description" : "Streptococcus.beta-hemolytic PrThr Pt Ord Organism specific culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104734-9",
+        "description" : "Streptococcus.beta-hemolytic [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "StreptococcusbetahemolyticPrThrPtXXXOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703752003",
+          "description" : "Organism specific culture technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "430304001",
+          "description" : "Specimen from unspecified body site",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

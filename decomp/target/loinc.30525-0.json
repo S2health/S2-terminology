@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "30525-0",
+    "description" : "Age Patient Time Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "AgeMeas.v1.0.0",
+  "children" : {
+    "21612-7" : {
+      "source" : {
+        "code" : "21612-7",
+        "description" : "Age Patient Time Pt Qn Reported",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30525-0",
+        "description" : "Age Patient Time Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "AgeMeas.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "733985002",
+          "description" : "Reported",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

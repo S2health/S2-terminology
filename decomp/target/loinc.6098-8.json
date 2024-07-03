@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "6098-8",
+    "description" : "Dog dander Ab.IgE Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "DogDanderAbIgEACncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

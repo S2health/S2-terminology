@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "28643-5",
+    "description" : "Oxygen saturation BldCoV MFr Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "OxygensaturationMFrPtBldCoVQnLabObs.v1.0.0",
+  "children" : { }
+}

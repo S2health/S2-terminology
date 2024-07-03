@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "14979-9",
+    "description" : "Coagulation surface induced PPP Time Pt Qn Coag",
+    "system" : "loinc"
+  },
+  "modelName" : "CoagulationSurfaceInducedTimePtPPPQnCoagLabObs.v1.0.0",
+  "children" : { }
+}

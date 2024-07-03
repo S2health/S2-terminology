@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105058-2",
+    "description" : "Norovirus genogroup I+II RNA [Presence] in Specimen",
+    "system" : "loinc"
+  },
+  "modelName" : "NorovirusgenogroupIIIRNAPrThrPtXXXOrd.v1.0.0",
+  "children" : {
+    "82211-4" : {
+      "source" : {
+        "code" : "82211-4",
+        "description" : "Norovirus genogroup I+II RNA Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105058-2",
+        "description" : "Norovirus genogroup I+II RNA [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "NorovirusgenogroupIIIRNAPrThrPtXXXOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "119339001",
+          "description" : "Stool specimen",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "20564-1",
+    "description" : "Oxygen saturation Bld MFr Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "OxygenSaturationMFrPtBldQnLabObs.v1.0.0",
+  "children" : {
+    "2713-6" : {
+      "source" : {
+        "code" : "2713-6",
+        "description" : "Oxygen saturation Bld MFr Pt Qn Calculated from oxygen partial pressure",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "20564-1",
+        "description" : "Oxygen saturation Bld MFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "OxygenSaturationMFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703463001",
+          "description" : "Calculation from oxygen partial pressure",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

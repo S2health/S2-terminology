@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105103-6",
+    "description" : "Leukocyte esterase [Presence] in Urine",
+    "system" : "loinc"
+  },
+  "modelName" : "LeukocyteesterasePrThrPtUrineOrd.v1.0.0",
+  "children" : {
+    "5799-2" : {
+      "source" : {
+        "code" : "5799-2",
+        "description" : "Leukocyte esterase Urine PrThr Pt Ord Test strip",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105103-6",
+        "description" : "Leukocyte esterase [Presence] in Urine",
+        "system" : "loinc"
+      },
+      "model" : "LeukocyteesterasePrThrPtUrineOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702660003",
+          "description" : "Test strip technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

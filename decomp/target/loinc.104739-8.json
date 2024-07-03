@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104739-8",
+    "description" : "Protein Fractions [Interpretation] in Urine Narrative",
+    "system" : "loinc"
+  },
+  "modelName" : "ProteinpatternImpPtUrineNar.v1.0.0",
+  "children" : {
+    "49300-7" : {
+      "source" : {
+        "code" : "49300-7",
+        "description" : "Protein pattern Urine Imp Pt Nar Immunofixation",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104739-8",
+        "description" : "Protein Fractions [Interpretation] in Urine Narrative",
+        "system" : "loinc"
+      },
+      "model" : "ProteinpatternImpPtUrineNar.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708064000",
+          "description" : "Immunofixation technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

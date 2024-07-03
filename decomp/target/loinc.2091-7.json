@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "2091-7",
+    "description" : "Cholesterol.in VLDL Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CholesterolinVLDLMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : {
+    "13458-5" : {
+      "source" : {
+        "code" : "13458-5",
+        "description" : "Cholesterol.in VLDL Ser/Plas MCnc Pt Qn Calculated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2091-7",
+        "description" : "Cholesterol.in VLDL Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "CholesterolinVLDLMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "117337005",
+          "description" : "Calculated laboratory test method",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

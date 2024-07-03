@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104706-7",
+    "description" : "Mycoplasma pneumoniae DNA [Presence] in Specimen by Molecular genetics method",
+    "system" : "loinc"
+  },
+  "modelName" : "MycoplasmapneumoniaeDNAPrThrPtXXXOrdMolgen.v1.0.0",
+  "children" : {
+    "29257-3" : {
+      "source" : {
+        "code" : "29257-3",
+        "description" : "Mycoplasma pneumoniae DNA PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104706-7",
+        "description" : "Mycoplasma pneumoniae DNA [Presence] in Specimen by Molecular genetics method",
+        "system" : "loinc"
+      },
+      "model" : "MycoplasmapneumoniaeDNAPrThrPtXXXOrdMolgen.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702675006",
+          "description" : "Probe with target amplification technique technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

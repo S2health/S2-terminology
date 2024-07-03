@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "15432-8",
+    "description" : "Testosterone.free/Testosterone.total Ser/Plas MFr Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "TestosteroneFreeTestosteroneTotalMFrPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

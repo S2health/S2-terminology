@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "33959-8",
+    "description" : "Procalcitonin Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ProcalcitoninMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

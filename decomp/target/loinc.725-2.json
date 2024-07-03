@@ -1,0 +1,38 @@
+{
+  "target" : {
+    "code" : "725-2",
+    "description" : "Hemoglobin [Presence] in Urine",
+    "system" : "loinc"
+  },
+  "modelName" : "HemoglobinPrThrPtUrineOrd.v1.0.0",
+  "children" : {
+    "57751-0" : {
+      "source" : {
+        "code" : "57751-0",
+        "description" : "Hemoglobin Urine PrThr Pt Ord Test strip.automated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "725-2",
+        "description" : "Hemoglobin [Presence] in Urine",
+        "system" : "loinc"
+      },
+      "model" : "HemoglobinPrThrPtUrineOrd.v1.0.0",
+      "descriptors" : [ ]
+    },
+    "5794-3" : {
+      "source" : {
+        "code" : "5794-3",
+        "description" : "Hemoglobin Urine PrThr Pt Ord Test strip",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "725-2",
+        "description" : "Hemoglobin [Presence] in Urine",
+        "system" : "loinc"
+      },
+      "model" : "HemoglobinPrThrPtUrineOrd.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

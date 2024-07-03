@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "1919-0",
+    "description" : "Aspartate aminotransferase Body fld CCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

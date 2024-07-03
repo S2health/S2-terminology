@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "47977-4",
+    "description" : "Smooth muscle IgG Ab [Titer] in Serum",
+    "system" : "loinc"
+  },
+  "modelName" : "SmoothmuscleAbIgGTitrPtSerSemiQn.v1.0.0",
+  "children" : {
+    "5358-7" : {
+      "source" : {
+        "code" : "5358-7",
+        "description" : "Smooth muscle Ab Ser Titr Pt SemiQn IF",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "47977-4",
+        "description" : "Smooth muscle IgG Ab [Titer] in Serum",
+        "system" : "loinc"
+      },
+      "model" : "SmoothmuscleAbIgGTitrPtSerSemiQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "406867009",
+          "description" : "Immunofluorescent stain method",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

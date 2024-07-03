@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "2888-6",
+    "description" : "Protein Urine MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : {
+    "50561-0" : {
+      "source" : {
+        "code" : "50561-0",
+        "description" : "Protein Urine MCnc Pt SemiQn Test strip.automated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2888-6",
+        "description" : "Protein Urine MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    },
+    "5804-0" : {
+      "source" : {
+        "code" : "5804-0",
+        "description" : "Protein Urine MCnc Pt SemiQn Test strip",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2888-6",
+        "description" : "Protein Urine MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

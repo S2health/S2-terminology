@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "26453-1",
+    "description" : "Erythrocytes Bld NCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ErythrocytesNCncPtBldQnLabObs.v1.0.0",
+  "children" : {
+    "789-8" : {
+      "source" : {
+        "code" : "789-8",
+        "description" : "Erythrocytes Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26453-1",
+        "description" : "Erythrocytes Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "ErythrocytesNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

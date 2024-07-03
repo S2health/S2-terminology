@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2466-1",
+    "description" : "IgG subclass 1 Ser MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "IgGSubclass1MCncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

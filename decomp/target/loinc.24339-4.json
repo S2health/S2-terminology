@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "24339-4",
+    "description" : "Gas panel BldV - Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

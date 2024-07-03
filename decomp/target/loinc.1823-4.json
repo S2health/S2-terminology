@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "1823-4",
+    "description" : "Alpha tocopherol Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "AlphaTocopherolMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

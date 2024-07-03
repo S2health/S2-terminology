@@ -1,0 +1,33 @@
+{
+  "target" : {
+    "code" : "3376-1",
+    "description" : "Barbiturates Ser/Plas/Bld PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "20421-4" : {
+      "source" : {
+        "code" : "20421-4",
+        "description" : "Barbiturates Ser/Plas PrThr Pt Ord Screen",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3376-1",
+        "description" : "Barbiturates Ser/Plas/Bld PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1287497009",
+          "description" : "Screening technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

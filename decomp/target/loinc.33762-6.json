@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "33762-6",
+    "description" : "Natriuretic peptide.B prohormone N-Terminal Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "NatriureticpeptideBprohormoneNTerminalMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

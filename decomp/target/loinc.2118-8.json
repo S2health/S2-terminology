@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2118-8",
+    "description" : "Choriogonadotropin (pregnancy test) Ser/Plas PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "ChoriogonadotropinACncPtSerPlasOrdLabObs.v1.0.0",
+  "children" : { }
+}

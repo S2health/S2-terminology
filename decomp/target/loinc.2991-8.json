@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2991-8",
+    "description" : "Testosterone.free Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "TestosteroneFreeMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

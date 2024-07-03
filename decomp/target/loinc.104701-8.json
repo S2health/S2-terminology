@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104701-8",
+    "description" : "Blood smear finding [Identifier] in Blood",
+    "system" : "loinc"
+  },
+  "modelName" : "BloodsmearfindingPridPtBldNar.v1.0.0",
+  "children" : {
+    "5909-7" : {
+      "source" : {
+        "code" : "5909-7",
+        "description" : "Blood smear finding Bld Prid Pt Nom Microscopy.light",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104701-8",
+        "description" : "Blood smear finding [Identifier] in Blood",
+        "system" : "loinc"
+      },
+      "model" : "BloodsmearfindingPridPtBldNar.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702661004",
+          "description" : "Light microscopy technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

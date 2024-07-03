@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "42810-2",
+    "description" : "Hemoglobin Retic EntMass Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "HemoglobinEntMassPtReticQnLabObs.v1.0.0",
+  "children" : { }
+}

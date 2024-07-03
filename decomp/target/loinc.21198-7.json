@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "21198-7",
+    "description" : "Choriogonadotropin.beta subunit Ser/Plas ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ChoriogonadotropinBetaSubunitACncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

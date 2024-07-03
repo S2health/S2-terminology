@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104730-7",
+    "description" : "Influenza virus A H3 RNA [Presence] in Specimen by Molecular genetics method",
+    "system" : "loinc"
+  },
+  "modelName" : "InfluenzavirusAH3RNAPrThrPtXXXOrdMolgen.v1.0.0",
+  "children" : {
+    "49524-2" : {
+      "source" : {
+        "code" : "49524-2",
+        "description" : "Influenza virus A H3 RNA PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104730-7",
+        "description" : "Influenza virus A H3 RNA [Presence] in Specimen by Molecular genetics method",
+        "system" : "loinc"
+      },
+      "model" : "InfluenzavirusAH3RNAPrThrPtXXXOrdMolgen.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702675006",
+          "description" : "Probe with target amplification technique technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

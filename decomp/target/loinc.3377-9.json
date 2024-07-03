@@ -1,0 +1,38 @@
+{
+  "target" : {
+    "code" : "3377-9",
+    "description" : "Barbiturates Urine PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "BarbituratesACncPtUrineOrdLabObs.v1.0.0",
+  "children" : {
+    "19270-8" : {
+      "source" : {
+        "code" : "19270-8",
+        "description" : "Barbiturates Urine PrThr Pt Ord Screen",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3377-9",
+        "description" : "Barbiturates Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "BarbituratesACncPtUrineOrdLabObs.v1.0.0",
+      "descriptors" : [ ]
+    },
+    "70155-7" : {
+      "source" : {
+        "code" : "70155-7",
+        "description" : "Barbiturates Urine PrThr Pt Ord Screen>200 ng/mL",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3377-9",
+        "description" : "Barbiturates Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "BarbituratesACncPtUrineOrdLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104738-0",
+    "description" : "Hemoglobin.gastrointestinal.lower [Presence] in Stool",
+    "system" : "loinc"
+  },
+  "modelName" : "HemoglobingastrointestinallowerPrThrPtStoolOrd.v1.0.0",
+  "children" : {
+    "29771-3" : {
+      "source" : {
+        "code" : "29771-3",
+        "description" : "Hemoglobin.gastrointestinal.lower Stool PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104738-0",
+        "description" : "Hemoglobin.gastrointestinal.lower [Presence] in Stool",
+        "system" : "loinc"
+      },
+      "model" : "HemoglobingastrointestinallowerPrThrPtStoolOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

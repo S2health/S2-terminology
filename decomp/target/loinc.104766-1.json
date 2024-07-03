@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104766-1",
+    "description" : "Human papilloma virus 16+18+31+33+35+39+45+51+52+56+58+59+66+68 DNA [Presence] in Cervix by Molecular genetics method",
+    "system" : "loinc"
+  },
+  "modelName" : "Humanpapillomavirus1618313335394551525658596668DNAPrThrPtCvxOrdMolgen.v1.0.0",
+  "children" : {
+    "59420-0" : {
+      "source" : {
+        "code" : "59420-0",
+        "description" : "Human papilloma virus 16+18+31+33+35+39+45+51+52+56+58+59+66+68 DNA Cvx PrThr Pt Ord Probe.amp.sig",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104766-1",
+        "description" : "Human papilloma virus 16+18+31+33+35+39+45+51+52+56+58+59+66+68 DNA [Presence] in Cervix by Molecular genetics method",
+        "system" : "loinc"
+      },
+      "model" : "Humanpapillomavirus1618313335394551525658596668DNAPrThrPtCvxOrdMolgen.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726451009",
+          "description" : "Signal amplification technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

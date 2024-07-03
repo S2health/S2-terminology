@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "12841-3",
+    "description" : "Prostate specific Ag.free/Prostate specific Ag.total Ser/Plas MFr Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ProstateSpecificAgFreeProstateSpecificAgTotalMFrPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

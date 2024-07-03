@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "18314-5",
+    "description" : "Morphology Bld Imp Pt Nar",
+    "system" : "loinc"
+  },
+  "modelName" : "MorphologyImpPtBldNarLabObs.v1.0.0",
+  "children" : { }
+}

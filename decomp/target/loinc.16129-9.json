@@ -1,0 +1,33 @@
+{
+  "target" : {
+    "code" : "16129-9",
+    "description" : "Hepatitis C virus Ab.IgG Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "40726-2" : {
+      "source" : {
+        "code" : "40726-2",
+        "description" : "Hepatitis C virus Ab.IgG Ser/Plas PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "16129-9",
+        "description" : "Hepatitis C virus Ab.IgG Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

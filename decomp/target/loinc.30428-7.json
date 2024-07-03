@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "30428-7",
+    "description" : "Erythrocyte mean corpuscular volume RBC EntVol Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ErythrocytemeancorpuscularvolumeEntVolPtRBCQnLabObs.v1.0.0",
+  "children" : {
+    "787-2" : {
+      "source" : {
+        "code" : "787-2",
+        "description" : "Erythrocyte mean corpuscular volume RBC EntVol Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30428-7",
+        "description" : "Erythrocyte mean corpuscular volume RBC EntVol Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "ErythrocytemeancorpuscularvolumeEntVolPtRBCQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

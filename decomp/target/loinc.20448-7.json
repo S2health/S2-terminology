@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "20448-7",
+    "description" : "Insulin Ser/Plas ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "InsulinACncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

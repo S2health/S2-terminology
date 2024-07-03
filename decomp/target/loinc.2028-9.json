@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2028-9",
+    "description" : "Carbon dioxide Ser/Plas SCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CarbonDioxideSCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

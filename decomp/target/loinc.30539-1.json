@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "30539-1",
+    "description" : "Neutrophil cytoplasmic Ab.perinuclear Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "NeutrophilCytoplasmicAbPerinuclearPrThrPtSerOrdLabObs.v1.0.0",
+  "children" : { }
+}

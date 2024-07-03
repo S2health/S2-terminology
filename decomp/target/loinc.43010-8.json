@@ -1,0 +1,33 @@
+{
+  "target" : {
+    "code" : "43010-8",
+    "description" : "HIV 1+2 Ab PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "49580-4" : {
+      "source" : {
+        "code" : "49580-4",
+        "description" : "HIV 1+2 Ab PrThr Pt Ord IA.rapid",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "43010-8",
+        "description" : "HIV 1+2 Ab PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708099001",
+          "description" : "Rapid immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "target" : {
+    "code" : "26466-3",
+    "description" : "Leukocytes Body fld NCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "LeukocytesNCncPtBodyfldQnLabObs.v1.0.0",
+  "children" : {
+    "57845-0" : {
+      "source" : {
+        "code" : "57845-0",
+        "description" : "Leukocytes Body fld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26466-3",
+        "description" : "Leukocytes Body fld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "LeukocytesNCncPtBodyfldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "6743-9" : {
+      "source" : {
+        "code" : "6743-9",
+        "description" : "Leukocytes Body fld NCnc Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26466-3",
+        "description" : "Leukocytes Body fld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "LeukocytesNCncPtBodyfldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "29574-1",
+    "description" : "Thyrotropin Bld.dot PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

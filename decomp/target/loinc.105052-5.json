@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105052-5",
+    "description" : "Bacteria [Presence] in Urine sediment by Microscopy",
+    "system" : "loinc"
+  },
+  "modelName" : "BacteriaPrThrPtUrinesedOrdMicroscopy.v1.0.0",
+  "children" : {
+    "25145-4" : {
+      "source" : {
+        "code" : "25145-4",
+        "description" : "Bacteria Urine sed PrThr Pt Ord Microscopy.light",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105052-5",
+        "description" : "Bacteria [Presence] in Urine sediment by Microscopy",
+        "system" : "loinc"
+      },
+      "model" : "BacteriaPrThrPtUrinesedOrdMicroscopy.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702661004",
+          "description" : "Light microscopy technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "4498-2",
+    "description" : "Complement C4 Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ComplementC4MCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

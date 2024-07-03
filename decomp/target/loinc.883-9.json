@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "883-9",
+    "description" : "ABO group Bld Type Pt Nom",
+    "system" : "loinc"
+  },
+  "modelName" : "ABOGroupTypePtBldNomLabObs.v1.0.0",
+  "children" : { }
+}

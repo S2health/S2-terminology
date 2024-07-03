@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "19162-7",
+    "description" : "Varicella zoster virus Ab.IgG Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "VaricellaZosterVirusAbIgGAcncPtSerOrdLabObs.v1.0.0",
+  "children" : {
+    "15410-4" : {
+      "source" : {
+        "code" : "15410-4",
+        "description" : "Varicella zoster virus Ab.IgG Ser PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "19162-7",
+        "description" : "Varicella zoster virus Ab.IgG Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "VaricellaZosterVirusAbIgGAcncPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

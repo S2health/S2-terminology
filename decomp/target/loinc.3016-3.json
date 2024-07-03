@@ -1,0 +1,38 @@
+{
+  "target" : {
+    "code" : "3016-3",
+    "description" : "Thyrotropin Ser/Plas ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ThyrotropinACncPtSerPlasQnLabObs.v1.0.0",
+  "children" : {
+    "11579-0" : {
+      "source" : {
+        "code" : "11579-0",
+        "description" : "Thyrotropin Ser/Plas ACnc Pt Qn Detection limit <= 0.05 mIU/L",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3016-3",
+        "description" : "Thyrotropin Ser/Plas ACnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "ThyrotropinACncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    },
+    "11580-8" : {
+      "source" : {
+        "code" : "11580-8",
+        "description" : "Thyrotropin Ser/Plas ACnc Pt Qn Detection limit <= 0.005 mIU/L",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3016-3",
+        "description" : "Thyrotropin Ser/Plas ACnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "ThyrotropinACncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

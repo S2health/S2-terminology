@@ -1,0 +1,1504 @@
+{
+  "target" : {
+    "code" : "23658-8",
+    "description" : "Antibiotic Isolate Susc Pt OrdQn",
+    "system" : "loinc"
+  },
+  "children" : {
+    "32-3" : {
+      "source" : {
+        "code" : "32-3",
+        "description" : "Ampicillin+Sulbactam Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "398786001",
+          "description" : "Ampicillin- and sulbactam-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "18868-0" : {
+      "source" : {
+        "code" : "18868-0",
+        "description" : "Aztreonam Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "69918003",
+          "description" : "Aztreonam-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "76-0" : {
+      "source" : {
+        "code" : "76-0",
+        "description" : "CeFAZolin Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "81088002",
+          "description" : "Cefazolin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "6652-2" : {
+      "source" : {
+        "code" : "6652-2",
+        "description" : "Meropenem Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "96062004",
+          "description" : "Meropenem-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "20396-8" : {
+      "source" : {
+        "code" : "20396-8",
+        "description" : "LevoFLOXacin Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "96087006",
+          "description" : "Levofloxacin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "133-9" : {
+      "source" : {
+        "code" : "133-9",
+        "description" : "CefTAZidime Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "36893000",
+          "description" : "Ceftazidime-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "18864-9" : {
+      "source" : {
+        "code" : "18864-9",
+        "description" : "Ampicillin Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31087008",
+          "description" : "Ampicillin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "279-0" : {
+      "source" : {
+        "code" : "279-0",
+        "description" : "Imipenem Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "424285002",
+          "description" : "Imipenem-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "20629-2" : {
+      "source" : {
+        "code" : "20629-2",
+        "description" : "LevoFLOXacin Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "96087006",
+          "description" : "Levofloxacin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "524-9" : {
+      "source" : {
+        "code" : "524-9",
+        "description" : "Vancomycin Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "42082003",
+          "description" : "Vancomycin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "141-2" : {
+      "source" : {
+        "code" : "141-2",
+        "description" : "CefTRIAXone Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "19841008",
+          "description" : "Ceftriaxone-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "28-1" : {
+      "source" : {
+        "code" : "28-1",
+        "description" : "Ampicillin Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31087008",
+          "description" : "Ampicillin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "35789-7" : {
+      "source" : {
+        "code" : "35789-7",
+        "description" : "DAPTOmycin Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "406438001",
+          "description" : "Daptomycin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "18948-0" : {
+      "source" : {
+        "code" : "18948-0",
+        "description" : "Minocycline Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "13512003",
+          "description" : "Minocycline-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "185-9" : {
+      "source" : {
+        "code" : "185-9",
+        "description" : "Ciprofloxacin Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "7577004",
+          "description" : "Ciprofloxacin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "18998-5" : {
+      "source" : {
+        "code" : "18998-5",
+        "description" : "Trimethoprim+Sulfamethoxazole Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "398731002",
+          "description" : "Sulfamethoxazole- and trimethoprim-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "42357-4" : {
+      "source" : {
+        "code" : "42357-4",
+        "description" : "Tigecycline Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "418631002",
+          "description" : "Tigecycline-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "508-2" : {
+      "source" : {
+        "code" : "508-2",
+        "description" : "Tobramycin Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "89695009",
+          "description" : "Tobramycin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "18878-9" : {
+      "source" : {
+        "code" : "18878-9",
+        "description" : "CeFAZolin Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "81088002",
+          "description" : "Cefazolin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "20-8" : {
+      "source" : {
+        "code" : "20-8",
+        "description" : "Amoxicillin+Clavulanate Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "734844004",
+          "description" : "Amoxicillin- and clavulanic acid-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "116-4" : {
+      "source" : {
+        "code" : "116-4",
+        "description" : "CefOXitin Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "57670008",
+          "description" : "Cefoxitin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "267-5" : {
+      "source" : {
+        "code" : "267-5",
+        "description" : "Gentamicin Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "57752001",
+          "description" : "Gentamicin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "18865-6" : {
+      "source" : {
+        "code" : "18865-6",
+        "description" : "Ampicillin+Sulbactam Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "398786001",
+          "description" : "Ampicillin- and sulbactam-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "18895-3" : {
+      "source" : {
+        "code" : "18895-3",
+        "description" : "CefTRIAXone Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "19841008",
+          "description" : "Ceftriaxone-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "35788-9" : {
+      "source" : {
+        "code" : "35788-9",
+        "description" : "DAPTOmycin Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "406438001",
+          "description" : "Daptomycin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "516-5" : {
+      "source" : {
+        "code" : "516-5",
+        "description" : "Trimethoprim+Sulfamethoxazole Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "398731002",
+          "description" : "Sulfamethoxazole- and trimethoprim-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "18955-5" : {
+      "source" : {
+        "code" : "18955-5",
+        "description" : "Nitrofurantoin Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "85343003",
+          "description" : "Nitrofurantoin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "18862-3" : {
+      "source" : {
+        "code" : "18862-3",
+        "description" : "Amoxicillin+Clavulanate Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "734844004",
+          "description" : "Amoxicillin- and clavulanic acid-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "35802-8" : {
+      "source" : {
+        "code" : "35802-8",
+        "description" : "Ertapenem Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "385574002",
+          "description" : "Ertapenem-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "18995-1" : {
+      "source" : {
+        "code" : "18995-1",
+        "description" : "Ticarcillin+Clavulanate Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "346687005",
+          "description" : "Clavulanic acid- and ticarcillin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "18888-8" : {
+      "source" : {
+        "code" : "18888-8",
+        "description" : "CefOXitin Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "57670008",
+          "description" : "Cefoxitin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "233-7" : {
+      "source" : {
+        "code" : "233-7",
+        "description" : "Erythromycin Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "30427009",
+          "description" : "Erythromycin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "428-3" : {
+      "source" : {
+        "code" : "428-3",
+        "description" : "RifAMPin Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "29175007",
+          "description" : "Rifampin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "383-0" : {
+      "source" : {
+        "code" : "383-0",
+        "description" : "Oxacillin Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "83201006",
+          "description" : "Oxacillin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "51774-8" : {
+      "source" : {
+        "code" : "51774-8",
+        "description" : "Cefuroxime Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "73986003",
+          "description" : "Cefuroxime-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "504-1" : {
+      "source" : {
+        "code" : "504-1",
+        "description" : "Ticarcillin+Clavulanate Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "346687005",
+          "description" : "Clavulanic acid- and ticarcillin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "44-8" : {
+      "source" : {
+        "code" : "44-8",
+        "description" : "Aztreonam Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "69918003",
+          "description" : "Aztreonam-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "61188-9" : {
+      "source" : {
+        "code" : "61188-9",
+        "description" : "Clindamycin.induced Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "58883005",
+          "description" : "Clindamycin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "29254-0" : {
+      "source" : {
+        "code" : "29254-0",
+        "description" : "Linezolid Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "125695009",
+          "description" : "Linezolid-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "35801-0" : {
+      "source" : {
+        "code" : "35801-0",
+        "description" : "Ertapenem Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "385574002",
+          "description" : "Ertapenem-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "496-0" : {
+      "source" : {
+        "code" : "496-0",
+        "description" : "Tetracycline Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "66261008",
+          "description" : "Tetracycline-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "41659-4" : {
+      "source" : {
+        "code" : "41659-4",
+        "description" : "ABT492 Isolate Susc Pt OrdQn Agar diffusion",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "104232004",
+          "description" : "Antibiotic sensitivity, agar diffusion method",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "763596009",
+          "description" : "Delafloxacin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "42355-8" : {
+      "source" : {
+        "code" : "42355-8",
+        "description" : "Tigecycline Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "418631002",
+          "description" : "Tigecycline-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "29258-1" : {
+      "source" : {
+        "code" : "29258-1",
+        "description" : "Linezolid Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "125695009",
+          "description" : "Linezolid-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "6644-9" : {
+      "source" : {
+        "code" : "6644-9",
+        "description" : "Cefepime Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "370371004",
+          "description" : "Cefepime-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "18893-8" : {
+      "source" : {
+        "code" : "18893-8",
+        "description" : "CefTAZidime Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "36893000",
+          "description" : "Ceftazidime-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "18929-0" : {
+      "source" : {
+        "code" : "18929-0",
+        "description" : "Gentamicin.high potency Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    },
+    "193-3" : {
+      "source" : {
+        "code" : "193-3",
+        "description" : "Clindamycin Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "58883005",
+          "description" : "Clindamycin-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "412-7" : {
+      "source" : {
+        "code" : "412-7",
+        "description" : "Piperacillin+Tazobactam Isolate Susc Pt OrdQn MIC",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23658-8",
+        "description" : "Antibiotic Isolate Susc Pt OrdQn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708073008",
+          "description" : "Minimum inhibitory concentration susceptibility test technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "99-comp",
+          "description" : "Component type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "346628003",
+          "description" : "Piperacillin- and tazobactam-containing product",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

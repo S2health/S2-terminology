@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "3936-2",
+    "description" : "Phencyclidine Urine PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "PhencyclidineACncPtUrineOrdLabObs.v1.0.0",
+  "children" : {
+    "19659-2" : {
+      "source" : {
+        "code" : "19659-2",
+        "description" : "Phencyclidine Urine PrThr Pt Ord Screen",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3936-2",
+        "description" : "Phencyclidine Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "PhencyclidineACncPtUrineOrdLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

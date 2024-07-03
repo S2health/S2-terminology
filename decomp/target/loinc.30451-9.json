@@ -1,0 +1,22 @@
+{
+  "target" : {
+    "code" : "30451-9",
+    "description" : "Neutrophils.segmented Bld NCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : {
+    "768-2" : {
+      "source" : {
+        "code" : "768-2",
+        "description" : "Neutrophils.segmented Bld NCnc Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30451-9",
+        "description" : "Neutrophils.segmented Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

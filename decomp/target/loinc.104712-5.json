@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104712-5",
+    "description" : "Human coronavirus NL63 RNA [Presence] in Specimen by Molecular genetics method",
+    "system" : "loinc"
+  },
+  "modelName" : "HumancoronavirusNL63RNAPrThrPtXXXOrdMolgen.v1.0.0",
+  "children" : {
+    "41005-0" : {
+      "source" : {
+        "code" : "41005-0",
+        "description" : "Human coronavirus NL63 RNA PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104712-5",
+        "description" : "Human coronavirus NL63 RNA [Presence] in Specimen by Molecular genetics method",
+        "system" : "loinc"
+      },
+      "model" : "HumancoronavirusNL63RNAPrThrPtXXXOrdMolgen.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702675006",
+          "description" : "Probe with target amplification technique technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

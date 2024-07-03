@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "28540-3",
+    "description" : "Erythrocyte mean corpuscular hemoglobin concentration RBC MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ErythrocyteMeanCorpuscularHemoglobinConcentrationMCncPtRBCQnLabObs.v1.0.0",
+  "children" : {
+    "786-4" : {
+      "source" : {
+        "code" : "786-4",
+        "description" : "Erythrocyte mean corpuscular hemoglobin concentration RBC MCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "28540-3",
+        "description" : "Erythrocyte mean corpuscular hemoglobin concentration RBC MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "ErythrocyteMeanCorpuscularHemoglobinConcentrationMCncPtRBCQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

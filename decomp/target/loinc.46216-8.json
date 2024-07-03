@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "46216-8",
+    "description" : "Mycobacterium tuberculosis tuberculin stimulated gamma interferon/Mitogen stimulated gamma interferon Bld Control ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

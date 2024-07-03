@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "13969-1",
+    "description" : "Creatine kinase.MB Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CreatineKinaseMBMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

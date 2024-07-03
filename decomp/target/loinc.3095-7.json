@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "3095-7",
+    "description" : "Urea nitrogen Urine MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "UreaNitrogenMCncPtUrineQnLabObs.v1.0.0",
+  "children" : { }
+}

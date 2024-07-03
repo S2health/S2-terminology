@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "24336-0",
+    "description" : "Gas panel BldA - Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

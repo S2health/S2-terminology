@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "10535-3",
+    "description" : "Digoxin Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "DigoxinMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

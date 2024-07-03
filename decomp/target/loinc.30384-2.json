@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "30384-2",
+    "description" : "Erythrocyte distribution width RBC EntVol Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ErythrocyteDistributionWidthEntVolPtRBCQnLabObs.v1.0.0",
+  "children" : {
+    "21000-5" : {
+      "source" : {
+        "code" : "21000-5",
+        "description" : "Erythrocyte distribution width RBC EntVol Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30384-2",
+        "description" : "Erythrocyte distribution width RBC EntVol Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "ErythrocyteDistributionWidthEntVolPtRBCQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

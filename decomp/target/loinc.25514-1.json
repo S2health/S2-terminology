@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "25514-1",
+    "description" : "Rubella virus Ab.IgG Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "RubellaVirusAbIgGACncPtSerOrdLabObs.v1.0.0",
+  "children" : { }
+}

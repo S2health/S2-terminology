@@ -1,0 +1,60 @@
+{
+  "target" : {
+    "code" : "26515-7",
+    "description" : "Platelets Bld NCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "PlateletsNCncPtBldQnLabObs.v1.0.0",
+  "children" : {
+    "777-3" : {
+      "source" : {
+        "code" : "777-3",
+        "description" : "Platelets Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26515-7",
+        "description" : "Platelets Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "PlateletsNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "49497-1" : {
+      "source" : {
+        "code" : "49497-1",
+        "description" : "Platelets Bld NCnc Pt Qn Estimate",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26515-7",
+        "description" : "Platelets Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "PlateletsNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "414135002",
+          "description" : "Estimated",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

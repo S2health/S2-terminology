@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2161-8",
+    "description" : "Creatinine Urine MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CreatinineMCncPtUrineQnLabObs.v1.0.0",
+  "children" : { }
+}

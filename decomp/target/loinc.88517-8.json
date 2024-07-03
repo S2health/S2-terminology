@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "88517-8",
+    "description" : "Mycobacterium tuberculosis stimulated gamma interferon release by CD4+ and CD8+ T-cells corrected for background Bld ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

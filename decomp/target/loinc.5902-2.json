@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "5902-2",
+    "description" : "Coagulation tissue factor induced PPP Time Pt Qn Coag",
+    "system" : "loinc"
+  },
+  "modelName" : "CoagulationTissueFactorInducedTimePtPPPQnCoagLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "105070-7",
+    "description" : "Escherichia coli Stx1 and Stx2 toxin stx1+stx2 genes [Presence] in Stool",
+    "system" : "loinc"
+  },
+  "modelName" : "EscherichiacoliStx1Stx2toxinstx1stx2genesPrThrPtStoolOrd.v1.0.0",
+  "children" : {
+    "82203-1" : {
+      "source" : {
+        "code" : "82203-1",
+        "description" : "Escherichia coli Stx1+Stx2 toxin stx1+stx2 genes Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105070-7",
+        "description" : "Escherichia coli Stx1 and Stx2 toxin stx1+stx2 genes [Presence] in Stool",
+        "system" : "loinc"
+      },
+      "model" : "EscherichiacoliStx1Stx2toxinstx1stx2genesPrThrPtStoolOrd.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

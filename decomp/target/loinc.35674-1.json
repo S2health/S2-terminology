@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "35674-1",
+    "description" : "Creatinine Urine MCnc Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CreatinineMCncXXXUrineQnLabObs.v1.0.0",
+  "children" : { }
+}

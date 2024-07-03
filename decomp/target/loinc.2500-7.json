@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2500-7",
+    "description" : "Iron binding capacity Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "IronBindingCapacityMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

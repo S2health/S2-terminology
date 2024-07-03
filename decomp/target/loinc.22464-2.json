@@ -1,0 +1,44 @@
+{
+  "target" : {
+    "code" : "22464-2",
+    "description" : "Reagin Ab PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "20507-0" : {
+      "source" : {
+        "code" : "20507-0",
+        "description" : "Reagin Ab Ser PrThr Pt Ord RPR",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "22464-2",
+        "description" : "Reagin Ab PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703455002",
+          "description" : "Rapid plasma reagin technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "119364003",
+          "description" : "Serum specimen",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

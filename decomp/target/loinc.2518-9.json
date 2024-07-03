@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2518-9",
+    "description" : "Lactate BldA SCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "LactateSCncPtBldAQnLabObs.v1.0.0",
+  "children" : { }
+}

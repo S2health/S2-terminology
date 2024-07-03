@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "1995-0",
+    "description" : "Calcium.ionized Ser/Plas SCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CalciumIonizedSCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : {
+    "12180-6" : {
+      "source" : {
+        "code" : "12180-6",
+        "description" : "Calcium.ionized Ser/Plas SCnc Pt Qn ISE",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "1995-0",
+        "description" : "Calcium.ionized Ser/Plas SCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "CalciumIonizedSCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

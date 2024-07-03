@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "56469-0",
+    "description" : "Cardiac heart disease risk Ser/Plas Ratio Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

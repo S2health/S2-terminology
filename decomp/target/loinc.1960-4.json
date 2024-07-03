@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "1960-4",
+    "description" : "Bicarbonate BldA SCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "BicarbonateSCncPtBldAQnLabObs.v1.0.0",
+  "children" : { }
+}

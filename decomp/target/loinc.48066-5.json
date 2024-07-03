@@ -1,0 +1,22 @@
+{
+  "target" : {
+    "code" : "48066-5",
+    "description" : "Fibrin D-dimer DDU PPP MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : {
+    "48058-2" : {
+      "source" : {
+        "code" : "48058-2",
+        "description" : "Fibrin D-dimer DDU PPP MCnc Pt Qn IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "48066-5",
+        "description" : "Fibrin D-dimer DDU PPP MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

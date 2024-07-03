@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2132-9",
+    "description" : "Cobalamins Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CobalaminsMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "4086-5",
+    "description" : "Valproate Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ValproateMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

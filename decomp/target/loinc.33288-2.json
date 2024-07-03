@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "33288-2",
+    "description" : "Galactose 1 phosphate uridyl transferase Bld.dot PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "Galactose1phosphateuridyltransferasePrThrPtBlddotOrdLabObs.v1.0.0",
+  "children" : { }
+}

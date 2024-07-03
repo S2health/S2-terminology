@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "1558-6",
+    "description" : "Glucose Post CFst Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "GlucosePostCFstMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104740-6",
+    "description" : "Prostate cancer risk [Likelihood]",
+    "system" : "loinc"
+  },
+  "modelName" : "ProstatecancerriskLikelihoodPtPatientQn.v1.0.0",
+  "children" : {
+    "48671-2" : {
+      "source" : {
+        "code" : "48671-2",
+        "description" : "Prostate cancer risk Patient Likelihood Pt Qn Estimated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104740-6",
+        "description" : "Prostate cancer risk [Likelihood]",
+        "system" : "loinc"
+      },
+      "model" : "ProstatecancerriskLikelihoodPtPatientQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "414135002",
+          "description" : "Estimated",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

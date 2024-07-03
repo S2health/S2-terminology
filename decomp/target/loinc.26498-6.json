@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "26498-6",
+    "description" : "Myelocytes/100 leukocytes Bld NFr Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "Myelocytes100leukocytesNFrPtBldQnLabObs.v1.0.0",
+  "children" : {
+    "749-2" : {
+      "source" : {
+        "code" : "749-2",
+        "description" : "Myelocytes/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26498-6",
+        "description" : "Myelocytes/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "Myelocytes100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "2026-3",
+    "description" : "Carbon dioxide BldA SCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CarbondioxideSCncPtBldAQnLabObs.v1.0.0",
+  "children" : {
+    "41647-9" : {
+      "source" : {
+        "code" : "41647-9",
+        "description" : "Carbon dioxide BldA SCnc Pt Qn Calculated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2026-3",
+        "description" : "Carbon dioxide BldA SCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "CarbondioxideSCncPtBldAQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "117337005",
+          "description" : "Calculated laboratory test method",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "22314-9",
+    "description" : "Hepatitis A virus Ab.IgM Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "HepatitisAvirusAbIgMPrThrPtSerOrdLabObs.v1.0.0",
+  "children" : {
+    "13950-1" : {
+      "source" : {
+        "code" : "13950-1",
+        "description" : "Hepatitis A virus Ab.IgM Ser/Plas PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "22314-9",
+        "description" : "Hepatitis A virus Ab.IgM Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "HepatitisAvirusAbIgMPrThrPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

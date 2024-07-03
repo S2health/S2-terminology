@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "1952-1",
+    "description" : "Beta-2-Microglobulin Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "BetaMinus2MinusMicroglobulinMCncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

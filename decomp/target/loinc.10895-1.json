@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "10895-1",
+    "description" : "Clostridioides difficile toxin B Stool PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

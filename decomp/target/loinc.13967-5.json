@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "13967-5",
+    "description" : "Sex hormone binding globulin Ser/Plas SCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "SexHormoneBindingGlobulinSCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

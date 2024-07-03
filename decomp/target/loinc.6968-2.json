@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "6968-2",
+    "description" : "Proteinase 3 Ab Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "Proteinase3AbACncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

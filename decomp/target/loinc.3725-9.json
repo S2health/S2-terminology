@@ -1,0 +1,33 @@
+{
+  "target" : {
+    "code" : "3725-9",
+    "description" : "LORazepam Urine MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : {
+    "17088-6" : {
+      "source" : {
+        "code" : "17088-6",
+        "description" : "LORazepam Urine MCnc Pt Qn Confirm",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3725-9",
+        "description" : "LORazepam Urine MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703690001",
+          "description" : "Confirmatory technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

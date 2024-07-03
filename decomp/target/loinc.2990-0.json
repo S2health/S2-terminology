@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2990-0",
+    "description" : "Testosterone.free+weakly bound Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "TestosteroneBioavailableMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

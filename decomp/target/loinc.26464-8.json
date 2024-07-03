@@ -1,0 +1,33 @@
+{
+  "target" : {
+    "code" : "26464-8",
+    "description" : "Leukocytes Bld NCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : {
+    "6690-2" : {
+      "source" : {
+        "code" : "6690-2",
+        "description" : "Leukocytes Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26464-8",
+        "description" : "Leukocytes Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

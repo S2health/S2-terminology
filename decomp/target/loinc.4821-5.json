@@ -1,0 +1,33 @@
+{
+  "target" : {
+    "code" : "4821-5",
+    "description" : "HLA-B27 Bld/Tiss PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "26028-1" : {
+      "source" : {
+        "code" : "26028-1",
+        "description" : "HLA-B27 Bld/Tiss PrThr Pt Ord Flow cytometry",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "4821-5",
+        "description" : "HLA-B27 Bld/Tiss PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708058007",
+          "description" : "Flow cytometry technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

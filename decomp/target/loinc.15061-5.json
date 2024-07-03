@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "15061-5",
+    "description" : "Erythropoietin Ser/Plas ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ErythropoietinACncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

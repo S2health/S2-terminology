@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "88977-4",
+    "description" : "Epithelial casts [#/area] in Urine sediment",
+    "system" : "loinc"
+  },
+  "modelName" : "EpithelialcastsNaricPtUrinesedQn.v1.0.0",
+  "children" : {
+    "5786-9" : {
+      "source" : {
+        "code" : "5786-9",
+        "description" : "Epithelial casts Urine sed Naric Pt Qn Microscopy.light.LPF",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "88977-4",
+        "description" : "Epithelial casts [#/area] in Urine sediment",
+        "system" : "loinc"
+      },
+      "model" : "EpithelialcastsNaricPtUrinesedQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703451006",
+          "description" : "Low power field light microscopy technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

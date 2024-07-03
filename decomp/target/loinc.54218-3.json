@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "54218-3",
+    "description" : "Cells.CD3+CD4+/Cells.CD3+CD8+ Bld NRto Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CellsCD3CD4CellsCD3CD8NRtoPtBldQnLabObs.v1.0.0",
+  "children" : { }
+}

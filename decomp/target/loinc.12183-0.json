@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "12183-0",
+    "description" : "Cholesterol Body fld MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CholesterolMCncPtBodyFldQnLabObs.v1.0.0",
+  "children" : { }
+}

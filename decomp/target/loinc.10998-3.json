@@ -1,0 +1,22 @@
+{
+  "target" : {
+    "code" : "10998-3",
+    "description" : "OxyCODONE Urine PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "19642-8" : {
+      "source" : {
+        "code" : "19642-8",
+        "description" : "OxyCODONE Urine PrThr Pt Ord Screen",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "10998-3",
+        "description" : "OxyCODONE Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

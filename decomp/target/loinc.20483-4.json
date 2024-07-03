@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "20483-4",
+    "description" : "Mitochondria Ab [Titer] in Serum",
+    "system" : "loinc"
+  },
+  "modelName" : "MitochondriaAbTitrPtSerSemiQn.v1.0.0",
+  "children" : {
+    "5247-2" : {
+      "source" : {
+        "code" : "5247-2",
+        "description" : "Mitochondria Ab Ser Titr Pt SemiQn IF",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "20483-4",
+        "description" : "Mitochondria Ab [Titer] in Serum",
+        "system" : "loinc"
+      },
+      "model" : "MitochondriaAbTitrPtSerSemiQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "406867009",
+          "description" : "Immunofluorescent stain method",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

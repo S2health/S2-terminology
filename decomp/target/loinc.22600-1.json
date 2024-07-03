@@ -1,0 +1,44 @@
+{
+  "target" : {
+    "code" : "22600-1",
+    "description" : "Varicella zoster virus Ab Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "47419-7" : {
+      "source" : {
+        "code" : "47419-7",
+        "description" : "Varicella zoster virus Ab Ser ACnc Pt Qn IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "22600-1",
+        "description" : "Varicella zoster virus Ab Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "119364003",
+          "description" : "Serum specimen",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

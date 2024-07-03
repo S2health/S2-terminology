@@ -1,0 +1,33 @@
+{
+  "target" : {
+    "code" : "32294-1",
+    "description" : "Albumin/Creatinine Urine Ratio Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : {
+    "30000-4" : {
+      "source" : {
+        "code" : "30000-4",
+        "description" : "Albumin/Creatinine Urine Ratio Pt Qn Detection limit <= 20 mg/L",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "32294-1",
+        "description" : "Albumin/Creatinine Urine Ratio Pt Qn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "118184002",
+          "description" : "Laboratory test with detection limit of <20mg/L",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

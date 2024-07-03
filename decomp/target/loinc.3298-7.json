@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "3298-7",
+    "description" : "Acetaminophen Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "AcetaminophenMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "17791-5",
+    "description" : "Sjogrens syndrome-B extractable nuclear Ab Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "SjogrensSyndromeMinusBExtractableNuclearAbACncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

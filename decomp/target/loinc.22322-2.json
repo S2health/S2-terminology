@@ -1,0 +1,22 @@
+{
+  "target" : {
+    "code" : "22322-2",
+    "description" : "Hepatitis B virus surface Ab Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "10900-9" : {
+      "source" : {
+        "code" : "10900-9",
+        "description" : "Hepatitis B virus surface Ab Ser PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "22322-2",
+        "description" : "Hepatitis B virus surface Ab Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

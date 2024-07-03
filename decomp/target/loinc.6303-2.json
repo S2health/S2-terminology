@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "6303-2",
+    "description" : "Coagulation dilute Russell viper venom induced PPP Time Pt Qn Coag",
+    "system" : "loinc"
+  },
+  "modelName" : "CoagulationDiluteRussellViperVenomInducedTimePtPPPQnCoagLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104837-0",
+    "description" : "Protein.monoclonal [Mass/volume] in Serum or Plasma",
+    "system" : "loinc"
+  },
+  "modelName" : "ProteinmonoclonalMCncPtSerPlasQn.v1.0.0",
+  "children" : {
+    "33358-3" : {
+      "source" : {
+        "code" : "33358-3",
+        "description" : "Protein.monoclonal Ser/Plas MCnc Pt Qn Electrophoresis",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104837-0",
+        "description" : "Protein.monoclonal [Mass/volume] in Serum or Plasma",
+        "system" : "loinc"
+      },
+      "model" : "ProteinmonoclonalMCncPtSerPlasQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703450007",
+          "description" : "Electrophoresis technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

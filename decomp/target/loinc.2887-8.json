@@ -1,0 +1,38 @@
+{
+  "target" : {
+    "code" : "2887-8",
+    "description" : "Protein [Presence] in Urine",
+    "system" : "loinc"
+  },
+  "modelName" : "ProteinPrThrPtUrineOrd.v1.0.0",
+  "children" : {
+    "57735-3" : {
+      "source" : {
+        "code" : "57735-3",
+        "description" : "Protein Urine PrThr Pt Ord Test strip.automated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2887-8",
+        "description" : "Protein [Presence] in Urine",
+        "system" : "loinc"
+      },
+      "model" : "ProteinPrThrPtUrineOrd.v1.0.0",
+      "descriptors" : [ ]
+    },
+    "20454-5" : {
+      "source" : {
+        "code" : "20454-5",
+        "description" : "Protein Urine PrThr Pt Ord Test strip",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2887-8",
+        "description" : "Protein [Presence] in Urine",
+        "system" : "loinc"
+      },
+      "model" : "ProteinPrThrPtUrineOrd.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

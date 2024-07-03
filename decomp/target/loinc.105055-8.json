@@ -1,0 +1,46 @@
+{
+  "target" : {
+    "code" : "105055-8",
+    "description" : "Rubella virus IgG Ab [Presence] in Specimen",
+    "system" : "loinc"
+  },
+  "modelName" : "RubellavirusAbIgGPrThrPtXXXOrd.v1.0.0",
+  "children" : {
+    "40667-8" : {
+      "source" : {
+        "code" : "40667-8",
+        "description" : "Rubella virus Ab.IgG Ser/Plas PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105055-8",
+        "description" : "Rubella virus IgG Ab [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "RubellavirusAbIgGPrThrPtXXXOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "122592007",
+          "description" : "Acellular blood (serum or plasma) specimen",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

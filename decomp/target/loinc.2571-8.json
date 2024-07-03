@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "2571-8",
+    "description" : "Triglyceride Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "TriglycerideMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : {
+    "12951-0" : {
+      "source" : {
+        "code" : "12951-0",
+        "description" : "Triglyceride Ser/Plas MCnc Pt Qn Calculated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2571-8",
+        "description" : "Triglyceride Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "TriglycerideMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

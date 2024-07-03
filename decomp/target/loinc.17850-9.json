@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "17850-9",
+    "description" : "Herpes simplex virus 1 Ab.IgG Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "HerpesSimplexVirus1AbIgGACncPtSerOrdLabObs.v1.0.0",
+  "children" : { }
+}

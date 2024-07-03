@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "14334-7",
+    "description" : "Lithium Ser/Plas SCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "LithiumSCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "3084-1",
+    "description" : "Urate Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "UrateMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

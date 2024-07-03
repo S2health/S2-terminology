@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "17792-3",
+    "description" : "Sjogrens syndrome-A extractable nuclear Ab Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "SjogrenssyndromeAextractablenuclearAbACncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

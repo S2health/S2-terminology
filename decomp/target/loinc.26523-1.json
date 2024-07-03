@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "26523-1",
+    "description" : "Promyelocytes Bld NCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "PromyelocytesNCncPtBldQnLabObs.v1.0.0",
+  "children" : { }
+}

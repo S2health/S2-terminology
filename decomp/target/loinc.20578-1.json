@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "20578-1",
+    "description" : "Vancomycin Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "VancomycinMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "1501-6",
+    "description" : "Glucose 1H post 100 g glucose PO Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "Glucose1HPost100GGlucosePOMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

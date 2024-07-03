@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2085-9",
+    "description" : "Cholesterol.in HDL Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CholesterolInHDLMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

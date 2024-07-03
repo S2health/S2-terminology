@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104705-9",
+    "description" : "Platelets [Presence] in Blood",
+    "system" : "loinc"
+  },
+  "modelName" : "PlateletsPrThrPtBldOrd.v1.0.0",
+  "children" : {
+    "9317-9" : {
+      "source" : {
+        "code" : "9317-9",
+        "description" : "Platelets Bld PrThr Pt Ord Microscopy.light",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104705-9",
+        "description" : "Platelets [Presence] in Blood",
+        "system" : "loinc"
+      },
+      "model" : "PlateletsPrThrPtBldOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702661004",
+          "description" : "Light microscopy technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

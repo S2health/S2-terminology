@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "30446-9",
+    "description" : "Myelocytes Bld NCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "MyelocytesNCncPtBldQnLabObs.v1.0.0",
+  "children" : {
+    "748-4" : {
+      "source" : {
+        "code" : "748-4",
+        "description" : "Myelocytes Bld NCnc Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30446-9",
+        "description" : "Myelocytes Bld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "MyelocytesNCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

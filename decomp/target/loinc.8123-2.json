@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "8123-2",
+    "description" : "Cells.CD3+CD4+/100 cells Bld NFr Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CellsCD3CD4100cellsNFrPtBldQnLabObs.v1.0.0",
+  "children" : { }
+}

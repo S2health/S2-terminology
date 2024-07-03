@@ -1,0 +1,46 @@
+{
+  "target" : {
+    "code" : "105076-4",
+    "description" : "Influenza virus A H1 RNA [Presence] in Specimen",
+    "system" : "loinc"
+  },
+  "modelName" : "InfluenzavirusAH1RNAPrThrPtXXXOrd.v1.0.0",
+  "children" : {
+    "49521-8" : {
+      "source" : {
+        "code" : "49521-8",
+        "description" : "Influenza virus A H1 RNA PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105076-4",
+        "description" : "Influenza virus A H1 RNA [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "InfluenzavirusAH1RNAPrThrPtXXXOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702675006",
+          "description" : "Probe with target amplification technique technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "430304001",
+          "description" : "Specimen from unspecified body site",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "12646-6",
+    "description" : "Glucose 1H post challenge Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "Glucose1HPostXXXChallengeMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

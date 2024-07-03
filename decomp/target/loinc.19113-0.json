@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "19113-0",
+    "description" : "IgE Ser/Plas ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "IgEACncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

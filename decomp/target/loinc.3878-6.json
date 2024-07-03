@@ -1,0 +1,22 @@
+{
+  "target" : {
+    "code" : "3878-6",
+    "description" : "Opiates Ser/Plas PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "8219-8" : {
+      "source" : {
+        "code" : "8219-8",
+        "description" : "Opiates Ser/Plas PrThr Pt Ord Screen",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3878-6",
+        "description" : "Opiates Ser/Plas PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

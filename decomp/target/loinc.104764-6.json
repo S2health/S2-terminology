@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104764-6",
+    "description" : "Base excess in Blood",
+    "system" : "loinc"
+  },
+  "modelName" : "BaseexcessSCncPtBldQn.v1.0.0",
+  "children" : {
+    "11555-0" : {
+      "source" : {
+        "code" : "11555-0",
+        "description" : "Base excess Bld SCnc Pt Qn Calculated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104764-6",
+        "description" : "Base excess in Blood",
+        "system" : "loinc"
+      },
+      "model" : "BaseexcessSCncPtBldQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "117337005",
+          "description" : "Calculated laboratory test method",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

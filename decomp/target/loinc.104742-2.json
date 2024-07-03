@@ -1,0 +1,82 @@
+{
+  "target" : {
+    "code" : "104742-2",
+    "description" : "Ova and parasites identified in Specimen",
+    "system" : "loinc"
+  },
+  "modelName" : "OvaparasitesidentifiedPridPtXXXNom.v1.0.0",
+  "children" : {
+    "10701-1" : {
+      "source" : {
+        "code" : "10701-1",
+        "description" : "Ova & parasites identified Stool Prid Pt Nom Concentration",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104742-2",
+        "description" : "Ova and parasites identified in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "OvaparasitesidentifiedPridPtXXXNom.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702942001",
+          "description" : "Concentration",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "119339001",
+          "description" : "Stool specimen",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "10704-5" : {
+      "source" : {
+        "code" : "10704-5",
+        "description" : "Ova & parasites identified Stool Prid Pt Nom Microscopy.light",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104742-2",
+        "description" : "Ova and parasites identified in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "OvaparasitesidentifiedPridPtXXXNom.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702661004",
+          "description" : "Light microscopy technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "119339001",
+          "description" : "Stool specimen",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

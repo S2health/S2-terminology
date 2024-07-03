@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "33516-6",
+    "description" : "Reticulocytes.immature/Reticulocytes.total Bld NFr Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ReticulocytesImmatureReticulocytesTotalNFrPtRBCQnLabObs.v1.0.0",
+  "children" : { }
+}

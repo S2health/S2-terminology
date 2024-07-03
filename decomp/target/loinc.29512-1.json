@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "29512-1",
+    "description" : "Beta hydroxybutyrate Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "BetaHydroxybutyrateMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104816-4",
+    "description" : "Beta hydroxybutyrate [Moles/volume] in Blood",
+    "system" : "loinc"
+  },
+  "modelName" : "BetahydroxybutyrateSCncPtBldQn.v1.0.0",
+  "children" : {
+    "66441-7" : {
+      "source" : {
+        "code" : "66441-7",
+        "description" : "Beta hydroxybutyrate Bld SCnc Pt SemiQn Test strip",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104816-4",
+        "description" : "Beta hydroxybutyrate [Moles/volume] in Blood",
+        "system" : "loinc"
+      },
+      "model" : "BetahydroxybutyrateSCncPtBldQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702660003",
+          "description" : "Test strip technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

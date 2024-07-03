@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "2032-1",
+    "description" : "Carboxyhemoglobin/Hemoglobin.total BldV MFr Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

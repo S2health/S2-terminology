@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105061-6",
+    "description" : "Streptococcus pyogenes exotoxin B speB gene [Presence] in Specimen",
+    "system" : "loinc"
+  },
+  "modelName" : "StreptococcuspyogenesexotoxinBspeBgenePrThrPtXXXOrd.v1.0.0",
+  "children" : {
+    "72268-6" : {
+      "source" : {
+        "code" : "72268-6",
+        "description" : "Streptococcus pyogenes exotoxin B speB gene PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105061-6",
+        "description" : "Streptococcus pyogenes exotoxin B speB gene [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "StreptococcuspyogenesexotoxinBspeBgenePrThrPtXXXOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702675006",
+          "description" : "Probe with target amplification technique technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

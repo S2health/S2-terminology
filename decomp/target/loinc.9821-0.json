@@ -1,0 +1,33 @@
+{
+  "target" : {
+    "code" : "9821-0",
+    "description" : "HIV 1 p24 Ag Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "18396-2" : {
+      "source" : {
+        "code" : "18396-2",
+        "description" : "HIV 1 p24 Ag Ser/Plas PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9821-0",
+        "description" : "HIV 1 p24 Ag Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

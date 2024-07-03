@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "88976-6",
+    "description" : "WBC casts [#/area] in Urine sediment",
+    "system" : "loinc"
+  },
+  "modelName" : "LeukocyteCastUrineLabObs.v1.0.0",
+  "children" : {
+    "5820-6" : {
+      "source" : {
+        "code" : "5820-6",
+        "description" : "Leukocyte casts Urine sed Naric Pt Qn Microscopy.light.LPF",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "88976-6",
+        "description" : "WBC casts [#/area] in Urine sediment",
+        "system" : "loinc"
+      },
+      "model" : "LeukocyteCastUrineLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703451006",
+          "description" : "Low power field light microscopy technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "3053-6",
+    "description" : "Triiodothyronine Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "TriiodothyronineMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

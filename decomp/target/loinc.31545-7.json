@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "31545-7",
+    "description" : "Nuclear Ab.IgG Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "NuclearAbIgGACncPtSerOrdLabObs.v1.0.0",
+  "children" : {
+    "29950-3" : {
+      "source" : {
+        "code" : "29950-3",
+        "description" : "Nuclear Ab.IgG Ser PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "31545-7",
+        "description" : "Nuclear Ab.IgG Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "NuclearAbIgGACncPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

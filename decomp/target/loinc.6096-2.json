@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "6096-2",
+    "description" : "Dermatophagoides pteronyssinus Ab.IgE Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "DermatophagoidesPteronyssinusAbIgEACncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

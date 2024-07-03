@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "3390-2",
+    "description" : "Benzodiazepines Urine PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "14316-4" : {
+      "source" : {
+        "code" : "14316-4",
+        "description" : "Benzodiazepines Urine PrThr Pt Ord Screen",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3390-2",
+        "description" : "Benzodiazepines Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    },
+    "70141-7" : {
+      "source" : {
+        "code" : "70141-7",
+        "description" : "Benzodiazepines Urine PrThr Pt Ord Screen>200 ng/mL",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3390-2",
+        "description" : "Benzodiazepines Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

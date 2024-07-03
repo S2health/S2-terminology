@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "1834-1",
+    "description" : "Alpha-1-Fetoprotein Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "AlphaMinus1MinusFetoproteinMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

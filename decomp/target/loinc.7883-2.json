@@ -1,0 +1,33 @@
+{
+  "target" : {
+    "code" : "7883-2",
+    "description" : "Epstein Barr virus nuclear Ab.IgG Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : {
+    "5156-5" : {
+      "source" : {
+        "code" : "5156-5",
+        "description" : "Epstein Barr virus nuclear Ab.IgG Ser PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "7883-2",
+        "description" : "Epstein Barr virus nuclear Ab.IgG Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

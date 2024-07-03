@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "6095-4",
+    "description" : "Dermatophagoides farinae Ab.IgE Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "DermatophagoidesFarinaeAbIgEACncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

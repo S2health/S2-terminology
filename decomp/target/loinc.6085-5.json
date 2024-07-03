@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "6085-5",
+    "description" : "Ambrosia elatior Ab.IgE Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "AmbrosiaElatiorAbIgEACncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

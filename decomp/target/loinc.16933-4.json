@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "16933-4",
+    "description" : "Hepatitis B virus core Ab Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "HepatitisBVirusCoreAbACncPtSerOrdLabObs.v1.0.0",
+  "children" : {
+    "13952-7" : {
+      "source" : {
+        "code" : "13952-7",
+        "description" : "Hepatitis B virus core Ab Ser/Plas PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "16933-4",
+        "description" : "Hepatitis B virus core Ab Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "HepatitisBVirusCoreAbACncPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

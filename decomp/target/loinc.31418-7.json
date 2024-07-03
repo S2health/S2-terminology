@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "31418-7",
+    "description" : "Heterophile Ab Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "HeterophileAbPrThrPtSerOrdLabObs.v1.0.0",
+  "children" : {
+    "5213-4" : {
+      "source" : {
+        "code" : "5213-4",
+        "description" : "Heterophile Ab Ser PrThr Pt Ord LA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "31418-7",
+        "description" : "Heterophile Ab Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "HeterophileAbPrThrPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

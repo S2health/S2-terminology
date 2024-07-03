@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "3013-0",
+    "description" : "Thyroglobulin Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ThyroglobulinMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

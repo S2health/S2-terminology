@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105105-1",
+    "description" : "Leukocytes [Presence] in Urine sediment",
+    "system" : "loinc"
+  },
+  "modelName" : "LeukocytesPrThrPtUrinesedOrd.v1.0.0",
+  "children" : {
+    "20455-2" : {
+      "source" : {
+        "code" : "20455-2",
+        "description" : "Leukocytes Urine sed PrThr Pt Ord Microscopy.light",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105105-1",
+        "description" : "Leukocytes [Presence] in Urine sediment",
+        "system" : "loinc"
+      },
+      "model" : "LeukocytesPrThrPtUrinesedOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702661004",
+          "description" : "Light microscopy technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

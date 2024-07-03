@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2250-9",
+    "description" : "Estriol.unconjugated Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "EstriolUnconjugatedMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

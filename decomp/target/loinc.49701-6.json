@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "49701-6",
+    "description" : "PH adjusted to patient's actual temperature Bld LsCnc Pt SemiQn",
+    "system" : "loinc"
+  },
+  "modelName" : "PHadjustedtopatientsactualtemperatureLsCncPtBldQnLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "3097-3",
+    "description" : "Urea nitrogen/Creatinine Ser/Plas MRto Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "UreanitrogenCreatinineMRtoPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

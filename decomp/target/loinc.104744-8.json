@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104744-8",
+    "description" : "Respiratory syncytial virus RNA [Presence] in Specimen by Molecular genetics method",
+    "system" : "loinc"
+  },
+  "modelName" : "RespiratorysyncytialvirusRNAPrThrPtXXXOrdMolgen.v1.0.0",
+  "children" : {
+    "40988-8" : {
+      "source" : {
+        "code" : "40988-8",
+        "description" : "Respiratory syncytial virus RNA PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104744-8",
+        "description" : "Respiratory syncytial virus RNA [Presence] in Specimen by Molecular genetics method",
+        "system" : "loinc"
+      },
+      "model" : "RespiratorysyncytialvirusRNAPrThrPtXXXOrdMolgen.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702675006",
+          "description" : "Probe with target amplification technique technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

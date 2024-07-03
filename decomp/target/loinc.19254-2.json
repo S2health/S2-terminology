@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "19254-2",
+    "description" : "Oxygen adjusted to patient's actual temperature Bld PPres Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "OxygenadjustedtopatientsactualtemperaturePPresPtBldQnLabObs.v1.0.0",
+  "children" : { }
+}

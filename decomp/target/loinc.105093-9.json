@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105093-9",
+    "description" : "Leukocyte clumps [#/area] in Urine sediment",
+    "system" : "loinc"
+  },
+  "modelName" : "LeukocyteclumpsNaricPtUrinesedQn.v1.0.0",
+  "children" : {
+    "50233-6" : {
+      "source" : {
+        "code" : "50233-6",
+        "description" : "Leukocyte clumps Urine sed Naric Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105093-9",
+        "description" : "Leukocyte clumps [#/area] in Urine sediment",
+        "system" : "loinc"
+      },
+      "model" : "LeukocyteclumpsNaricPtUrinesedQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

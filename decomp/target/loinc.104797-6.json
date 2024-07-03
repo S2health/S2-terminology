@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104797-6",
+    "description" : "Base excess standard in Arterial blood",
+    "system" : "loinc"
+  },
+  "modelName" : "BaseexcessstandardSCncPtBldAQn.v1.0.0",
+  "children" : {
+    "19235-1" : {
+      "source" : {
+        "code" : "19235-1",
+        "description" : "Base excess standard BldA SCnc Pt Qn Calculated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104797-6",
+        "description" : "Base excess standard in Arterial blood",
+        "system" : "loinc"
+      },
+      "model" : "BaseexcessstandardSCncPtBldAQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "117337005",
+          "description" : "Calculated laboratory test method",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

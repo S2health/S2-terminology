@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "30318-0",
+    "description" : "Base deficit Bld SCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "BaseDeficitSCncPtBldQnLabObs.v1.0.0",
+  "children" : { }
+}

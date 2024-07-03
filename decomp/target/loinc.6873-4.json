@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "6873-4",
+    "description" : "Beta hydroxybutyrate Ser/Plas SCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "BetaHydroxybutyrateSCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

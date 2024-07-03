@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "42757-5",
+    "description" : "Troponin I.cardiac Bld MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "TroponinICardiacMCncPtBldQnLabObs.v1.0.0",
+  "children" : { }
+}

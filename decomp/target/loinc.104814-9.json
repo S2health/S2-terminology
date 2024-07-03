@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104814-9",
+    "description" : "Lactate dehydrogenase 1/Lactate dehydrogenase.total in Urine",
+    "system" : "loinc"
+  },
+  "modelName" : "Lactatedehydrogenase1LactatedehydrogenasetotalCFrPtUrineQn.v1.0.0",
+  "children" : {
+    "13886-7" : {
+      "source" : {
+        "code" : "13886-7",
+        "description" : "Lactate dehydrogenase 1/Lactate dehydrogenase.total Urine CFr Pt Qn Electrophoresis",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104814-9",
+        "description" : "Lactate dehydrogenase 1/Lactate dehydrogenase.total in Urine",
+        "system" : "loinc"
+      },
+      "model" : "Lactatedehydrogenase1LactatedehydrogenasetotalCFrPtUrineQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703450007",
+          "description" : "Electrophoresis technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

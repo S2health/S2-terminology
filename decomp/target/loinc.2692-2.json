@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "2692-2",
+    "description" : "Osmolality Ser/Plas Osmol Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "OsmolalityOsmolPtSerPlasQnLabObs.v1.0.0",
+  "children" : {
+    "18182-6" : {
+      "source" : {
+        "code" : "18182-6",
+        "description" : "Osmolality Ser/Plas Osmol Pt Qn Calculated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2692-2",
+        "description" : "Osmolality Ser/Plas Osmol Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "OsmolalityOsmolPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "32293-3",
+    "description" : "Albumin MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

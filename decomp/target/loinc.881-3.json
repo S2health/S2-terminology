@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "881-3",
+    "description" : "ABO & Rh group Bld BPU Type Pt Nom",
+    "system" : "loinc"
+  },
+  "modelName" : "ABORhGroupTypePtSerPlasBPUNomLabObs.v1.0.0",
+  "children" : { }
+}

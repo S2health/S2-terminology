@@ -1,0 +1,105 @@
+{
+  "target" : {
+    "code" : "33511-7",
+    "description" : "Appearance Aper Pt Nom",
+    "system" : "loinc"
+  },
+  "children" : {
+    "14618-3" : {
+      "source" : {
+        "code" : "14618-3",
+        "description" : "Appearance Calculus Aper Pt Nom",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "33511-7",
+        "description" : "Appearance Aper Pt Nom",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "119350003",
+          "description" : "Calculus specimen",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "9335-1" : {
+      "source" : {
+        "code" : "9335-1",
+        "description" : "Appearance Body fld Aper Pt Nom",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "33511-7",
+        "description" : "Appearance Aper Pt Nom",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "309051001",
+          "description" : "Body fluid specimen",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "10333-3" : {
+      "source" : {
+        "code" : "10333-3",
+        "description" : "Appearance CSF Aper Pt Nom",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "33511-7",
+        "description" : "Appearance Aper Pt Nom",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "258450006",
+          "description" : "Cerebrospinal fluid specimen",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "5767-9" : {
+      "source" : {
+        "code" : "5767-9",
+        "description" : "Appearance Urine Aper Pt Nom",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "33511-7",
+        "description" : "Appearance Aper Pt Nom",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "122575003",
+          "description" : "Urine specimen",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

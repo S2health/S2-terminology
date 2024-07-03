@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105116-8",
+    "description" : "Epithelial cells.renal [#/area] in Urine sediment",
+    "system" : "loinc"
+  },
+  "modelName" : "EpithelialcellsrenalNaricPtUrinesedQn.v1.0.0",
+  "children" : {
+    "26052-1" : {
+      "source" : {
+        "code" : "26052-1",
+        "description" : "Epithelial cells.renal Urine sed Naric Pt Qn Microscopy.light.HPF",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105116-8",
+        "description" : "Epithelial cells.renal [#/area] in Urine sediment",
+        "system" : "loinc"
+      },
+      "model" : "EpithelialcellsrenalNaricPtUrinesedQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702662006",
+          "description" : "High power field light microscopy",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

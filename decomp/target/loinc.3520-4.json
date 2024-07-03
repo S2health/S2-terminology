@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "3520-4",
+    "description" : "CycloSPORINE Bld MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CyclosporineMCncPtBldQnLabObs.v1.0.0",
+  "children" : {
+    "55805-6" : {
+      "source" : {
+        "code" : "55805-6",
+        "description" : "CycloSPORINE Bld MCnc Pt Qn LC/MS/MS",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3520-4",
+        "description" : "CycloSPORINE Bld MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "CyclosporineMCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

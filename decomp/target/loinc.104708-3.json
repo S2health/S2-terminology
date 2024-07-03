@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104708-3",
+    "description" : "Estimated average glucose [Moles/volume] in Blood",
+    "system" : "loinc"
+  },
+  "modelName" : "EstimatedaverageglucoseSCncPtBldQn.v1.0.0",
+  "children" : {
+    "53553-4" : {
+      "source" : {
+        "code" : "53553-4",
+        "description" : "Estimated average glucose Bld SCnc Pt Qn Estimated from glycated hemoglobin",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104708-3",
+        "description" : "Estimated average glucose [Moles/volume] in Blood",
+        "system" : "loinc"
+      },
+      "model" : "EstimatedaverageglucoseSCncPtBldQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702945004",
+          "description" : "Estimated from glycated hemoglobin technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "12190-5",
+    "description" : "Creatinine Body fld MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CreatinineMCncPtBodyFldQnLabObs.v1.0.0",
+  "children" : { }
+}

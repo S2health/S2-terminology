@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "38256-4",
+    "description" : "Cells counted.total Body fld Num Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CellsCountedTotalNumPtBodyFldQnLabObs.v1.0.0",
+  "children" : { }
+}

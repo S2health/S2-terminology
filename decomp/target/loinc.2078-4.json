@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2078-4",
+    "description" : "Chloride Urine SCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ChlorideSCncPtUrineQnLabObs.v1.0.0",
+  "children" : { }
+}

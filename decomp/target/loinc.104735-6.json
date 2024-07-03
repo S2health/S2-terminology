@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "104735-6",
+    "description" : "Influenza virus B RNA [Presence] in Specimen by Molecular genetics method",
+    "system" : "loinc"
+  },
+  "modelName" : "InfluenzavirusBRNAPrThrPtXXXOrdMolgen.v1.0.0",
+  "children" : {
+    "40982-1" : {
+      "source" : {
+        "code" : "40982-1",
+        "description" : "Influenza virus B RNA PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104735-6",
+        "description" : "Influenza virus B RNA [Presence] in Specimen by Molecular genetics method",
+        "system" : "loinc"
+      },
+      "model" : "InfluenzavirusBRNAPrThrPtXXXOrdMolgen.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702675006",
+          "description" : "Probe with target amplification technique technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

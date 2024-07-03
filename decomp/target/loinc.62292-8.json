@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "62292-8",
+    "description" : "Calcidiol+ercalcidiol Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "Two5HydroxyvitaminD225HydroxyvitaminD3MCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

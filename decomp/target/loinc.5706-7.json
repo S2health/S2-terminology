@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "5706-7",
+    "description" : "Opiates Urine Prid Pt Nom",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

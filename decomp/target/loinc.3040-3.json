@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "3040-3",
+    "description" : "Triacylglycerol lipase Ser/Plas CCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "TriacylglycerolLipaseCCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

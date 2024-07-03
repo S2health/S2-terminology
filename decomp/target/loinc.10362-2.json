@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "10362-2",
+    "description" : "Endomysium IgA Ab [Presence] in Serum",
+    "system" : "loinc"
+  },
+  "modelName" : "EndomysiumAbIgAPrThrPtSerOrd.v1.0.0",
+  "children" : {
+    "46126-9" : {
+      "source" : {
+        "code" : "46126-9",
+        "description" : "Endomysium Ab.IgA Ser PrThr Pt Ord IF",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "10362-2",
+        "description" : "Endomysium IgA Ab [Presence] in Serum",
+        "system" : "loinc"
+      },
+      "model" : "EndomysiumAbIgAPrThrPtSerOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "406867009",
+          "description" : "Immunofluorescent stain method",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

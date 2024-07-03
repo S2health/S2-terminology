@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "2842-3",
+    "description" : "Prolactin Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ProlactinMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : {
+    "49220-7" : {
+      "source" : {
+        "code" : "49220-7",
+        "description" : "Prolactin Ser/Plas MCnc Pt Qn 3rd IS",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2842-3",
+        "description" : "Prolactin Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "ProlactinMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

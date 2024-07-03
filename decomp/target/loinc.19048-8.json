@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "19048-8",
+    "description" : "Erythrocytes.nucleated/100 leukocytes Bld Ratio Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : {
+    "18309-5" : {
+      "source" : {
+        "code" : "18309-5",
+        "description" : "Erythrocytes.nucleated/100 leukocytes Bld Ratio Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "19048-8",
+        "description" : "Erythrocytes.nucleated/100 leukocytes Bld Ratio Pt Qn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    },
+    "58413-6" : {
+      "source" : {
+        "code" : "58413-6",
+        "description" : "Erythrocytes.nucleated/100 leukocytes Bld Ratio Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "19048-8",
+        "description" : "Erythrocytes.nucleated/100 leukocytes Bld Ratio Pt Qn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

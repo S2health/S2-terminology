@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "26505-8",
+    "description" : "Neutrophils.segmented/100 leukocytes Bld NFr Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : {
+    "769-0" : {
+      "source" : {
+        "code" : "769-0",
+        "description" : "Neutrophils.segmented/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26505-8",
+        "description" : "Neutrophils.segmented/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    },
+    "32200-8" : {
+      "source" : {
+        "code" : "32200-8",
+        "description" : "Neutrophils.segmented/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26505-8",
+        "description" : "Neutrophils.segmented/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

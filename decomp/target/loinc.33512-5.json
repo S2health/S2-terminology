@@ -1,0 +1,85 @@
+{
+  "target" : {
+    "code" : "33512-5",
+    "description" : "Color of Specimen",
+    "system" : "loinc"
+  },
+  "modelName" : "ColorTypePtXXXNom.v1.0.0",
+  "children" : {
+    "5778-6" : {
+      "source" : {
+        "code" : "5778-6",
+        "description" : "Color Urine Type Pt Nom",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "33512-5",
+        "description" : "Color of Specimen",
+        "system" : "loinc"
+      },
+      "model" : "ColorTypePtXXXNom.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "122575003",
+          "description" : "Urine specimen",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "6824-7" : {
+      "source" : {
+        "code" : "6824-7",
+        "description" : "Color Body fld Type Pt Nom",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "33512-5",
+        "description" : "Color of Specimen",
+        "system" : "loinc"
+      },
+      "model" : "ColorTypePtXXXNom.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "309051001",
+          "description" : "Body fluid specimen",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "10335-8" : {
+      "source" : {
+        "code" : "10335-8",
+        "description" : "Color CSF Type Pt Nom",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "33512-5",
+        "description" : "Color of Specimen",
+        "system" : "loinc"
+      },
+      "model" : "ColorTypePtXXXNom.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "258450006",
+          "description" : "Cerebrospinal fluid specimen",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

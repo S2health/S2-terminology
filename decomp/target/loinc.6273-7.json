@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "6273-7",
+    "description" : "Juglans spp Ab.IgE Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "JuglansSppAbIgEACncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

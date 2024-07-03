@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "1798-8",
+    "description" : "Amylase Ser/Plas CCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "AmylaseCCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

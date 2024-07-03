@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105117-6",
+    "description" : "Epithelial cells.squamous [#/area] in Urine sediment",
+    "system" : "loinc"
+  },
+  "modelName" : "EpithelialcellssquamousNaricPtUrinesedQn.v1.0.0",
+  "children" : {
+    "11277-1" : {
+      "source" : {
+        "code" : "11277-1",
+        "description" : "Epithelial cells.squamous Urine sed Naric Pt Qn Microscopy.light.HPF",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105117-6",
+        "description" : "Epithelial cells.squamous [#/area] in Urine sediment",
+        "system" : "loinc"
+      },
+      "model" : "EpithelialcellssquamousNaricPtUrinesedQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702662006",
+          "description" : "High power field light microscopy",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

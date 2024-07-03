@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2963-7",
+    "description" : "Somatotropin Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "SomatotropinMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

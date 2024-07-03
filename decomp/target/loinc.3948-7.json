@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "3948-7",
+    "description" : "PHENobarbital Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "PhenobarbitalMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

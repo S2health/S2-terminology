@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "1863-0",
+    "description" : "Anion gap 4 Ser/Plas SCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "Aniongap4SCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "41653-7",
+    "description" : "Glucose BldC MCnc Pt Qn Glucometer",
+    "system" : "loinc"
+  },
+  "modelName" : "GlucoseMCncPtBldCQnGlucometerLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "105072-3",
+    "description" : "Escherichia coli enterotoxigenic ltA+st1a+st1b genes [Presence] in Stool",
+    "system" : "loinc"
+  },
+  "modelName" : "EscherichiacolienterotoxigenicltAst1ast1bgenesPrThrPtStoolOrd.v1.0.0",
+  "children" : {
+    "80351-0" : {
+      "source" : {
+        "code" : "80351-0",
+        "description" : "Escherichia coli enterotoxigenic ltA+st1a+st1b genes Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105072-3",
+        "description" : "Escherichia coli enterotoxigenic ltA+st1a+st1b genes [Presence] in Stool",
+        "system" : "loinc"
+      },
+      "model" : "EscherichiacolienterotoxigenicltAst1ast1bgenesPrThrPtStoolOrd.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "1754-1",
+    "description" : "Albumin Urine MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "AlbuminMCncPtUrineQnLabObs.v1.0.0",
+  "children" : {
+    "14957-5" : {
+      "source" : {
+        "code" : "14957-5",
+        "description" : "Albumin Urine MCnc Pt Qn Detection limit <= 20 mg/L",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "1754-1",
+        "description" : "Albumin Urine MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "AlbuminMCncPtUrineQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105050-9",
+    "description" : "Xanthochromia [Presence] of Specimen Qualitative",
+    "system" : "loinc"
+  },
+  "modelName" : "XanthochromiaPrThrPtXXXOrd.v1.0.0",
+  "children" : {
+    "13532-7" : {
+      "source" : {
+        "code" : "13532-7",
+        "description" : "Xanthochromia CSF PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105050-9",
+        "description" : "Xanthochromia [Presence] of Specimen Qualitative",
+        "system" : "loinc"
+      },
+      "model" : "XanthochromiaPrThrPtXXXOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "258450006",
+          "description" : "Cerebrospinal fluid specimen",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

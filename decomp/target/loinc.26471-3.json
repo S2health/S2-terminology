@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "26471-3",
+    "description" : "Leukocytes other/100 leukocytes Bld NFr Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "Leukocytesother100leukocytesNFrPtBldQnLabObs.v1.0.0",
+  "children" : {
+    "40646-2" : {
+      "source" : {
+        "code" : "40646-2",
+        "description" : "Leukocytes other/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26471-3",
+        "description" : "Leukocytes other/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "Leukocytesother100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

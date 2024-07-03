@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "8091-1",
+    "description" : "Ribonucleoprotein extractable nuclear Ab Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

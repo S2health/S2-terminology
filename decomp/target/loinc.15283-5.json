@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "15283-5",
+    "description" : "Betula verrucosa Ab.IgE Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "BetulaVerrucosaAbIgEACncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

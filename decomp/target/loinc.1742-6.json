@@ -1,0 +1,38 @@
+{
+  "target" : {
+    "code" : "1742-6",
+    "description" : "Alanine aminotransferase Ser/Plas CCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "AlanineAminotransferaseCCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : {
+    "1744-2" : {
+      "source" : {
+        "code" : "1744-2",
+        "description" : "Alanine aminotransferase Ser/Plas CCnc Pt Qn No addition of P-5'-P",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "1742-6",
+        "description" : "Alanine aminotransferase Ser/Plas CCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "AlanineAminotransferaseCCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    },
+    "1743-4" : {
+      "source" : {
+        "code" : "1743-4",
+        "description" : "Alanine aminotransferase Ser/Plas CCnc Pt Qn With P-5'-P",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "1742-6",
+        "description" : "Alanine aminotransferase Ser/Plas CCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "AlanineAminotransferaseCCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

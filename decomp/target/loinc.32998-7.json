@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "32998-7",
+    "description" : "Tissue transglutaminase Ab.IgG Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "TissueTransglutaminaseAbIgGACncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

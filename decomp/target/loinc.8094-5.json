@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "8094-5",
+    "description" : "Sjogrens syndrome-B extractable nuclear Ab [Presence] in Serum",
+    "system" : "loinc"
+  },
+  "modelName" : "SjogrenssyndromeBextractablenuclearAbPrThrPtSerOrd.v1.0.0",
+  "children" : {
+    "5353-8" : {
+      "source" : {
+        "code" : "5353-8",
+        "description" : "Sjogrens syndrome-B extractable nuclear Ab Ser PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8094-5",
+        "description" : "Sjogrens syndrome-B extractable nuclear Ab [Presence] in Serum",
+        "system" : "loinc"
+      },
+      "model" : "SjogrenssyndromeBextractablenuclearAbPrThrPtSerOrd.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

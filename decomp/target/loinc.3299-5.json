@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "3299-5",
+    "description" : "Acetaminophen Urine PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "AcetaminophenPrThrPtUrineOrdLabObs.v1.0.0",
+  "children" : { }
+}

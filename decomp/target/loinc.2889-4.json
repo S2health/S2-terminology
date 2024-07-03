@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2889-4",
+    "description" : "Protein Urine MRat 24H Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ProteinMRat24HUrineQnLabObs.v1.0.0",
+  "children" : { }
+}

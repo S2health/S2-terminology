@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "882-1",
+    "description" : "ABO & Rh group Bld Type Pt Nom",
+    "system" : "loinc"
+  },
+  "modelName" : "ABORhGroupTypePtBldNomLabObs.v1.0.0",
+  "children" : {
+    "77397-8" : {
+      "source" : {
+        "code" : "77397-8",
+        "description" : "ABO & Rh group Bld Type Pt Nom Confirm",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "882-1",
+        "description" : "ABO & Rh group Bld Type Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "ABORhGroupTypePtBldNomLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

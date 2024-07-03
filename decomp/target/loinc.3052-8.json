@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "3052-8",
+    "description" : "Triiodothyronine.reverse Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "TriiodothyronineReverseMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

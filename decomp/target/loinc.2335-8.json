@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2335-8",
+    "description" : "Hemoglobin.gastrointestinal Stool PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "HemoglobinGastrointestinalACncPtStoolOrdLabObs.v1.0.0",
+  "children" : { }
+}

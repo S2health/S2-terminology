@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105106-9",
+    "description" : "Mucus [#/area] in Urine sediment",
+    "system" : "loinc"
+  },
+  "modelName" : "MucusNaricPtUrinesedQn.v1.0.0",
+  "children" : {
+    "28545-2" : {
+      "source" : {
+        "code" : "28545-2",
+        "description" : "Mucus Urine sed Naric Pt Qn Microscopy.light.LPF",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105106-9",
+        "description" : "Mucus [#/area] in Urine sediment",
+        "system" : "loinc"
+      },
+      "model" : "MucusNaricPtUrinesedQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703451006",
+          "description" : "Low power field light microscopy technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

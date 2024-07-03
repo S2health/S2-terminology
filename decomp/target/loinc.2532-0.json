@@ -1,0 +1,38 @@
+{
+  "target" : {
+    "code" : "2532-0",
+    "description" : "Lactate dehydrogenase Ser/Plas CCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "LactateDehydrogenaseCCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : {
+    "14805-6" : {
+      "source" : {
+        "code" : "14805-6",
+        "description" : "Lactate dehydrogenase Ser/Plas CCnc Pt Qn Reaction: pyruvate to lactate",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2532-0",
+        "description" : "Lactate dehydrogenase Ser/Plas CCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "LactateDehydrogenaseCCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    },
+    "14804-9" : {
+      "source" : {
+        "code" : "14804-9",
+        "description" : "Lactate dehydrogenase Ser/Plas CCnc Pt Qn Reaction: lactate to pyruvate",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2532-0",
+        "description" : "Lactate dehydrogenase Ser/Plas CCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "LactateDehydrogenaseCCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

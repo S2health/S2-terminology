@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "2614-6",
+    "description" : "Methemoglobin/Hemoglobin.total Bld MFr Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

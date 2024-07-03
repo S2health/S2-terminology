@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "11557-6",
+    "description" : "Carbon dioxide Bld PPres Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CarbondioxidePPresPtBldQnLabObs.v1.0.0",
+  "children" : { }
+}

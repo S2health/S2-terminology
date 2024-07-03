@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "5195-3",
+    "description" : "Hepatitis B virus surface Ag Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "HepatitisBVirusSurfaceAgACncPtSerOrdLabObs.v1.0.0",
+  "children" : {
+    "5196-1" : {
+      "source" : {
+        "code" : "5196-1",
+        "description" : "Hepatitis B virus surface Ag Ser/Plas PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "5195-3",
+        "description" : "Hepatitis B virus surface Ag Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "HepatitisBVirusSurfaceAgACncPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

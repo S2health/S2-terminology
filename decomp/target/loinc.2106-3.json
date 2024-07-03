@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2106-3",
+    "description" : "Choriogonadotropin (pregnancy test) Urine PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "ChoriogonadotropinACncPtUrineOrdLabObs.v1.0.0",
+  "children" : { }
+}

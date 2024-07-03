@@ -1,0 +1,85 @@
+{
+  "target" : {
+    "code" : "30405-5",
+    "description" : "Leukocytes Urine NCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "LeukocytesNCncPtUrineQnLabObs.v1.0.0",
+  "children" : {
+    "51487-7" : {
+      "source" : {
+        "code" : "51487-7",
+        "description" : "Leukocytes Urine NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30405-5",
+        "description" : "Leukocytes Urine NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "LeukocytesNCncPtUrineQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "20408-1" : {
+      "source" : {
+        "code" : "20408-1",
+        "description" : "Leukocytes Urine NCnc Pt SemiQn Test strip",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30405-5",
+        "description" : "Leukocytes Urine NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "LeukocytesNCncPtUrineQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702660003",
+          "description" : "Test strip technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "58805-3" : {
+      "source" : {
+        "code" : "58805-3",
+        "description" : "Leukocytes Urine NCnc Pt SemiQn Test strip.automated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30405-5",
+        "description" : "Leukocytes Urine NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "LeukocytesNCncPtUrineQnLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "737102004",
+          "description" : "Automated test strip technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

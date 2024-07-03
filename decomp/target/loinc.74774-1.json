@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "74774-1",
+    "description" : "Glucose Ser/Plas/Bld MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "GlucoseMCncPtSerPlasBldQnLabObs.v1.0.0",
+  "children" : { }
+}

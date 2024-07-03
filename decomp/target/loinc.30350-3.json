@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "30350-3",
+    "description" : "Hemoglobin BldV MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "HemoglobinMCncPtBldVQnLabObs.v1.0.0",
+  "children" : { }
+}

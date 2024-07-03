@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "8117-4",
+    "description" : "Cells.CD19/100 cells Bld NFr Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CellsCD19100CellsNFrPtBldQnLabObs.v1.0.0",
+  "children" : { }
+}

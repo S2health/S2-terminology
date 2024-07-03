@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2745-8",
+    "description" : "PH BldC LsCnc Pt SemiQn",
+    "system" : "loinc"
+  },
+  "modelName" : "PHLsCncPtBldCQnLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2324-2",
+    "description" : "Gamma glutamyl transferase Ser/Plas CCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "GammaGlutamylTransferaseCCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

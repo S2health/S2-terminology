@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "6109-3",
+    "description" : "Ulmus americana Ab.IgE Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "UlmusAmericanaAbIgEACncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

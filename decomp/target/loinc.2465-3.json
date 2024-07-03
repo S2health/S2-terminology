@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2465-3",
+    "description" : "IgG Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "IgGMCncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

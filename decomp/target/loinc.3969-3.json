@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "3969-3",
+    "description" : "Phenytoin.free Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "PhenytoinFreeMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

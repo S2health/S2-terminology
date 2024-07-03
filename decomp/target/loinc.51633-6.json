@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "51633-6",
+    "description" : "Platelets.reticulated/100 platelets Bld NFr Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "PlateletsReticulated100PlateletsNFrPtBldQnLabObs.v1.0.0",
+  "children" : {
+    "71693-6" : {
+      "source" : {
+        "code" : "71693-6",
+        "description" : "Platelets.reticulated/100 platelets Bld NFr Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "51633-6",
+        "description" : "Platelets.reticulated/100 platelets Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "PlateletsReticulated100PlateletsNFrPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

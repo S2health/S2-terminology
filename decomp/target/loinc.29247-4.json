@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "29247-4",
+    "description" : "Sirolimus Bld MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "SirolimusMCncPtBldQnLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "16935-9",
+    "description" : "Hepatitis B virus surface Ab Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "HepatitisBvirussurfaceAbACncPtSerQnLabObs.v1.0.0",
+  "children" : {
+    "5193-8" : {
+      "source" : {
+        "code" : "5193-8",
+        "description" : "Hepatitis B virus surface Ab Ser/Plas ACnc Pt Qn IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "16935-9",
+        "description" : "Hepatitis B virus surface Ab Ser ACnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "HepatitisBvirussurfaceAbACncPtSerQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

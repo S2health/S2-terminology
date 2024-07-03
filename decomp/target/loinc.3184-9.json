@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "3184-9",
+    "description" : "Activated clotting time Bld Time Pt Qn Coag",
+    "system" : "loinc"
+  },
+  "modelName" : "CoagulationActivatedTimePtBldQnCoagLabObs.v1.0.0",
+  "children" : { }
+}

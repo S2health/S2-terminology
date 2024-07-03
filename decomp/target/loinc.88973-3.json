@@ -1,0 +1,22 @@
+{
+  "target" : {
+    "code" : "88973-3",
+    "description" : "Crystals.amorphous Urine sed Naric Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : {
+    "53332-3" : {
+      "source" : {
+        "code" : "53332-3",
+        "description" : "Crystals.amorphous Urine Naric Pt Qn Computer assisted",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "88973-3",
+        "description" : "Crystals.amorphous Urine sed Naric Pt Qn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

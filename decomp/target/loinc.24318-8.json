@@ -1,0 +1,8 @@
+{
+  "target" : {
+    "code" : "24318-8",
+    "description" : "Manual Differential panel Bld - Pt Qn",
+    "system" : "loinc"
+  },
+  "children" : { }
+}

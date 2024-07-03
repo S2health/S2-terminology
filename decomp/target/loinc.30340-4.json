@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "30340-4",
+    "description" : "Epstein Barr virus capsid Ab.IgM Ser PrThr Pt Ord",
+    "system" : "loinc"
+  },
+  "modelName" : "EpsteinBarrviruscapsidAbIgMPrThrPtSerOrdLabObs.v1.0.0",
+  "children" : {
+    "24115-8" : {
+      "source" : {
+        "code" : "24115-8",
+        "description" : "Epstein Barr virus capsid Ab.IgM Ser PrThr Pt Ord IA",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "30340-4",
+        "description" : "Epstein Barr virus capsid Ab.IgM Ser PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "EpsteinBarrviruscapsidAbIgMPrThrPtSerOrdLabObs.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

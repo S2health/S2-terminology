@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "39017-9",
+    "description" : "Mycobacterium tuberculosis tuberculin stimulated gamma interferon/Mitogen stimulated gamma interferon Bld RelACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "MycobacteriumTuberculosisTuberculinStimulatedGammaInterferonMitogenStimulatedGammaInterferonRelACncPtBldQnLabObs.v1.0.0",
+  "children" : { }
+}

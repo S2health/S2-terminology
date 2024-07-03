@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "9830-1",
+    "description" : "Cholesterol.total/Cholesterol.in HDL Ser/Plas MRto Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "CholesterolTotalCholesterolInHDLMCrtoPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

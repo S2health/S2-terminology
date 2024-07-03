@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "2243-4",
+    "description" : "Estradiol Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "EstradiolMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : {
+    "35384-7" : {
+      "source" : {
+        "code" : "35384-7",
+        "description" : "Estradiol Ser/Plas MCnc Pt Qn High sensitivity",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2243-4",
+        "description" : "Estradiol Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "EstradiolMCncPtSerPlasQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

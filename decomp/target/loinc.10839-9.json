@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "10839-9",
+    "description" : "Troponin I.cardiac Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "TroponinICardiacMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

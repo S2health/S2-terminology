@@ -1,0 +1,24 @@
+{
+  "target" : {
+    "code" : "11253-2",
+    "description" : "Tacrolimus Bld MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "TacrolimusMCncPtBldQnLabObs.v1.0.0",
+  "children" : {
+    "74097-7" : {
+      "source" : {
+        "code" : "74097-7",
+        "description" : "Tacrolimus Bld MCnc Pt Qn LC/MS/MS",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "11253-2",
+        "description" : "Tacrolimus Bld MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "TacrolimusMCncPtBldQnLabObs.v1.0.0",
+      "descriptors" : [ ]
+    }
+  }
+}

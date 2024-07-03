@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "46736-5",
+    "description" : "Fatty acid oxidation defects Bld.dot Imp Pt Nom",
+    "system" : "loinc"
+  },
+  "modelName" : "FattyacidoxidationdefectsImpPtBlddotNomLabObs.v1.0.0",
+  "children" : { }
+}

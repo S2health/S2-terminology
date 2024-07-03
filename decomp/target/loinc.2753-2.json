@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2753-2",
+    "description" : "PH Ser/Plas LsCnc Pt SemiQn",
+    "system" : "loinc"
+  },
+  "modelName" : "PHLsCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

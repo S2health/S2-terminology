@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "29953-7",
+    "description" : "Nuclear Ab [Titer] in Serum",
+    "system" : "loinc"
+  },
+  "modelName" : "NuclearAbTitrPtSerSemiQn.v1.0.0",
+  "children" : {
+    "5048-4" : {
+      "source" : {
+        "code" : "5048-4",
+        "description" : "Nuclear Ab Ser Titr Pt SemiQn IF",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "29953-7",
+        "description" : "Nuclear Ab [Titer] in Serum",
+        "system" : "loinc"
+      },
+      "model" : "NuclearAbTitrPtSerSemiQn.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "406867009",
+          "description" : "Immunofluorescent stain method",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

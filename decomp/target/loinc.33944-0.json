@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "33944-0",
+    "description" : "Immunoglobulin light chains.lambda.free Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ImmunoglobulinLightChainsLambdaFreeMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "23883-2",
+    "description" : "Inhibin A Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "InhibinAMCncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

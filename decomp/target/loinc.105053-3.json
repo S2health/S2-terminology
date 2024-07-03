@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105053-3",
+    "description" : "Calcium oxalate crystals [Presence] in Urine sediment by Microscopy",
+    "system" : "loinc"
+  },
+  "modelName" : "CalciumoxalatecrystalsPrThrPtUrinesedOrdMicroscopy.v1.0.0",
+  "children" : {
+    "5774-5" : {
+      "source" : {
+        "code" : "5774-5",
+        "description" : "Calcium oxalate crystals Urine sed PrThr Pt Ord Microscopy.light",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105053-3",
+        "description" : "Calcium oxalate crystals [Presence] in Urine sediment by Microscopy",
+        "system" : "loinc"
+      },
+      "model" : "CalciumoxalatecrystalsPrThrPtUrinesedOrdMicroscopy.v1.0.0",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702661004",
+          "description" : "Light microscopy technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

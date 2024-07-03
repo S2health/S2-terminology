@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "6206-7",
+    "description" : "Arachis hypogaea Ab.IgE Ser ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ArachisHypogaeaAbIgEACncPtSerQnLabObs.v1.0.0",
+  "children" : { }
+}

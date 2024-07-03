@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "19080-1",
+    "description" : "Choriogonadotropin Ser/Plas ACnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "ChoriogonadotropinACncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}

@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "26487-9",
+    "description" : "Monocytes/100 leukocytes Body fld NFr Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "Monocytes100leukocytesNFrPtBodyfldQnLabObs.v1.0.0",
+  "children" : { }
+}

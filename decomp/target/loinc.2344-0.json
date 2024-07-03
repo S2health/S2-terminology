@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2344-0",
+    "description" : "Glucose Body fld MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "GlucoseMCncPtBodyFldQnLabObs.v1.0.0",
+  "children" : { }
+}

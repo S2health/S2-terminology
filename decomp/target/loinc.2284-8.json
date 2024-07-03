@@ -1,0 +1,9 @@
+{
+  "target" : {
+    "code" : "2284-8",
+    "description" : "Folate Ser/Plas MCnc Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "FolateMCncPtSerPlasQnLabObs.v1.0.0",
+  "children" : { }
+}
