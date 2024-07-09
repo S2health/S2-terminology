@@ -1,0 +1,47 @@
+{
+  "id" : "s2.AdministrativeGender",
+  "creationDate" : "2024-07-09T11:32:27-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "AdministrativeGender",
+    "description" : "Administrative gender",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "248152002",
+      "description" : "Female",
+      "system" : "snomed"
+    }, {
+      "code" : "32570681000036106",
+      "description" : "Indeterminate sex",
+      "system" : "snomed"
+    }, {
+      "code" : "248153007",
+      "description" : "Male",
+      "system" : "snomed"
+    }, {
+      "code" : "407375002",
+      "description" : "Surgically transgendered transsexual",
+      "system" : "snomed"
+    }, {
+      "code" : "407379008",
+      "description" : "Surgically transgendered transsexual, female-to-male",
+      "system" : "snomed"
+    }, {
+      "code" : "407378000",
+      "description" : "Surgically transgendered transsexual, male-to-female",
+      "system" : "snomed"
+    }, {
+      "code" : "1332082008",
+      "description" : "Transgender female",
+      "system" : "snomed"
+    }, {
+      "code" : "1332083003",
+      "description" : "Transgender male",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 8,
+    "isComplete" : true
+  }
+}

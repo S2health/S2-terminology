@@ -1,0 +1,27 @@
+{
+  "id" : "s2.CommunicationPurpose",
+  "creationDate" : "2024-07-09T11:32:27-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "CommunicationPurpose",
+    "description" : "Communication purpose",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "30731000205100",
+      "description" : "Business and personal use",
+      "system" : "snomed"
+    }, {
+      "code" : "30711000205109",
+      "description" : "Business use",
+      "system" : "snomed"
+    }, {
+      "code" : "30721000205102",
+      "description" : "Personal use",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}

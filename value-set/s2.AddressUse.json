@@ -1,0 +1,35 @@
+{
+  "id" : "s2.AddressUse",
+  "creationDate" : "2024-07-09T11:32:26-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "AddressUse",
+    "description" : "Address use",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "30761000205106",
+      "description" : "Billing address",
+      "system" : "snomed"
+    }, {
+      "code" : "30771000205103",
+      "description" : "Home address",
+      "system" : "snomed"
+    }, {
+      "code" : "30781000205101",
+      "description" : "Incorrect address",
+      "system" : "snomed"
+    }, {
+      "code" : "30791000205104",
+      "description" : "Temporary address",
+      "system" : "snomed"
+    }, {
+      "code" : "30801000205100",
+      "description" : "Work address",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 5,
+    "isComplete" : true
+  }
+}

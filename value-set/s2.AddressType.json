@@ -1,0 +1,23 @@
+{
+  "id" : "s2.AddressType",
+  "creationDate" : "2024-07-09T11:32:26-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "AddressType",
+    "description" : "Address type",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "30741000205105",
+      "description" : "Physical address",
+      "system" : "snomed"
+    }, {
+      "code" : "30751000205108",
+      "description" : "Post office box",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 2,
+    "isComplete" : true
+  }
+}
