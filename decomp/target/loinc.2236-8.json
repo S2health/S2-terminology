@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2236-8",
-    "description" : "Calciferol Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CalciferolMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

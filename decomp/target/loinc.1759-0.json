@@ -4,7 +4,6 @@
     "description" : "Albumin/Globulin Ser/Plas MRto Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "AlbuminGlobulinMRtoPtSerPlasQnLabObs.v1.0.0",
   "children" : {
     "44429-9" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Albumin/Globulin Ser/Plas MRto Pt Qn",
         "system" : "loinc"
       },
-      "model" : "AlbuminGlobulinMRtoPtSerPlasQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

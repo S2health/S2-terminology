@@ -4,7 +4,6 @@
     "description" : "Escherichia coli shiga-like toxin 1 and 2 [Identifier] in Stool",
     "system" : "loinc"
   },
-  "modelName" : "Escherichiacolishigaliketoxin12PridPtStoolNom.v1.0.0",
   "children" : {
     "64013-6" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Escherichia coli shiga-like toxin 1 and 2 [Identifier] in Stool",
         "system" : "loinc"
       },
-      "model" : "Escherichiacolishigaliketoxin12PridPtStoolNom.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

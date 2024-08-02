@@ -4,7 +4,6 @@
     "description" : "Streptococcus pyogenes exotoxin B speB gene [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "StreptococcuspyogenesexotoxinBspeBgenePrThrPtXXXOrd.v1.0.0",
   "children" : {
     "72268-6" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Streptococcus pyogenes exotoxin B speB gene [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "StreptococcuspyogenesexotoxinBspeBgenePrThrPtXXXOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

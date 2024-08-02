@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "32554-8",
-    "description" : "Thiamine Bld SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ThiamineSCncPtBldQnLabObs.v1.0.0",
-  "children" : { }
-}

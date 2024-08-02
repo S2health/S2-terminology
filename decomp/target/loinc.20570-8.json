@@ -4,7 +4,6 @@
     "description" : "Hematocrit Bld VFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "HematocritVFrPtBldQnLabObs.v1.0.0",
   "children" : {
     "4544-3" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Hematocrit Bld VFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "HematocritVFrPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +40,6 @@
         "description" : "Hematocrit Bld VFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "HematocritVFrPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

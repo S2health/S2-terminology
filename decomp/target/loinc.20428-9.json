@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "20428-9",
-    "description" : "Phospholipid Ab.IgG Ser PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

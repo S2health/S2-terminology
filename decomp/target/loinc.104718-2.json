@@ -4,7 +4,6 @@
     "description" : "Elliptocytes [Presence] in Blood",
     "system" : "loinc"
   },
-  "modelName" : "ElliptocytesPrThrPtBldOrd.v1.0.0",
   "children" : {
     "11274-8" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Elliptocytes [Presence] in Blood",
         "system" : "loinc"
       },
-      "model" : "ElliptocytesPrThrPtBldOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

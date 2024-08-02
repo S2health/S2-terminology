@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "57719-7",
-    "description" : "Conditions tested for in this newborn screening study Bld.dot ID Pt Nom",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -4,12 +4,11 @@
     "description" : "Streptococcus pyogenes [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "StreptococcuspyogenesPrThrPtXXXOrd.v1.0.0",
   "children" : {
-    "17656-0" : {
+    "11268-0" : {
       "source" : {
-        "code" : "17656-0",
-        "description" : "Streptococcus pyogenes PrThr Pt Ord Organism specific culture",
+        "code" : "11268-0",
+        "description" : "Streptococcus pyogenes Thrt PrThr Pt Ord Organism specific culture",
         "system" : "loinc"
       },
       "target" : {
@@ -17,7 +16,6 @@
         "description" : "Streptococcus pyogenes [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "StreptococcuspyogenesPrThrPtXXXOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -31,10 +29,10 @@
         }
       } ]
     },
-    "11268-0" : {
+    "17656-0" : {
       "source" : {
-        "code" : "11268-0",
-        "description" : "Streptococcus pyogenes Thrt PrThr Pt Ord Organism specific culture",
+        "code" : "17656-0",
+        "description" : "Streptococcus pyogenes PrThr Pt Ord Organism specific culture",
         "system" : "loinc"
       },
       "target" : {
@@ -42,7 +40,6 @@
         "description" : "Streptococcus pyogenes [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "StreptococcuspyogenesPrThrPtXXXOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

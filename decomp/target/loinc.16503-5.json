@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "16503-5",
-    "description" : "C reactive protein Body fld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

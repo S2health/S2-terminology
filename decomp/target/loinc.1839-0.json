@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "1839-0",
-    "description" : "Ammonia Bld SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

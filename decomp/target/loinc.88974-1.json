@@ -4,7 +4,6 @@
     "description" : "Granular casts [#/area] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "GranularcastsNaricPtUrinesedQn.v1.0.0",
   "children" : {
     "5793-5" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Granular casts [#/area] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "GranularcastsNaricPtUrinesedQn.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

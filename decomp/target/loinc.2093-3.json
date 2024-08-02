@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2093-3",
-    "description" : "Cholesterol Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CholesterolMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

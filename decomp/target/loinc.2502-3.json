@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2502-3",
-    "description" : "Iron saturation Ser/Plas MFr Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "IronSaturationMCrtoPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

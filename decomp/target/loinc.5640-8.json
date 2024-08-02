@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "5640-8",
-    "description" : "Ethanol Bld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "EthanolMCncPtBldQnLabObs.v1.0.0",
-  "children" : { }
-}

@@ -4,7 +4,6 @@
     "description" : "Hyaline casts [Presence] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "HyalinecastsPrThrPtUrinesedOrd.v1.0.0",
   "children" : {
     "25162-9" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Hyaline casts [Presence] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "HyalinecastsPrThrPtUrinesedOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

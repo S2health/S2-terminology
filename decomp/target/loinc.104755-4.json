@@ -4,7 +4,6 @@
     "description" : "Hepatitis C virus RNA [Log #/volume] in Serum or Plasma by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "HepatitisCvirusRNALnCncPtSerPlasQnMolgen.v1.0.0",
   "children" : {
     "47252-2" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Hepatitis C virus RNA [Log #/volume] in Serum or Plasma by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "HepatitisCvirusRNALnCncPtSerPlasQnMolgen.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

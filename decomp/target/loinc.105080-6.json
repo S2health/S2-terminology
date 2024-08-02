@@ -4,7 +4,6 @@
     "description" : "HIV 1+2 Ab+HIV1 p24 Ag [Presence] in Serum or Plasma",
     "system" : "loinc"
   },
-  "modelName" : "HIV12AbHIV1p24AgPrThrPtSerPlasOrd.v1.0.0",
   "children" : {
     "56888-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "HIV 1+2 Ab+HIV1 p24 Ag [Presence] in Serum or Plasma",
         "system" : "loinc"
       },
-      "model" : "HIV12AbHIV1p24AgPrThrPtSerPlasOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

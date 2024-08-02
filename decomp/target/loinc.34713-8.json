@@ -4,7 +4,6 @@
     "description" : "Clostridioides difficile toxin A+B Stool PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "ClostridiumDifficileToxinABACncPtStoolOrdLabObs.v1.0.0",
   "children" : {
     "34468-9" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Clostridioides difficile toxin A+B Stool PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "ClostridiumDifficileToxinABACncPtStoolOrdLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

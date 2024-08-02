@@ -4,7 +4,6 @@
     "description" : "Variant lymphocytes [Presence] in Blood",
     "system" : "loinc"
   },
-  "modelName" : "LymphocytesvariantPrThrPtBldOrd.v1.0.0",
   "children" : {
     "733-6" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Variant lymphocytes [Presence] in Blood",
         "system" : "loinc"
       },
-      "model" : "LymphocytesvariantPrThrPtBldOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +40,6 @@
         "description" : "Variant lymphocytes [Presence] in Blood",
         "system" : "loinc"
       },
-      "model" : "LymphocytesvariantPrThrPtBldOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

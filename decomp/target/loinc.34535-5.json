@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "34535-5",
-    "description" : "Microalbumin/Creatinine ratio panel Urine - Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

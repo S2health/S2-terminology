@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "4092-3",
-    "description" : "Vancomycin Trough Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "VancomycinTroughMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

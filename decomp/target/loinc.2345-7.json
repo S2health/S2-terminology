@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "2345-7",
-    "description" : "Glucose Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

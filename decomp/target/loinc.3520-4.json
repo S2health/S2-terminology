@@ -4,7 +4,6 @@
     "description" : "CycloSPORINE Bld MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "CyclosporineMCncPtBldQnLabObs.v1.0.0",
   "children" : {
     "55805-6" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "CycloSPORINE Bld MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "CyclosporineMCncPtBldQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

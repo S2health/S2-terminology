@@ -4,7 +4,6 @@
     "description" : "Varicella zoster virus Ab.IgG Ser PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "VaricellaZosterVirusAbIgGAcncPtSerOrdLabObs.v1.0.0",
   "children" : {
     "15410-4" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Varicella zoster virus Ab.IgG Ser PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "VaricellaZosterVirusAbIgGAcncPtSerOrdLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

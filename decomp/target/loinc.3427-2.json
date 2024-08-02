@@ -5,10 +5,10 @@
     "system" : "loinc"
   },
   "children" : {
-    "18282-4" : {
+    "70145-8" : {
       "source" : {
-        "code" : "18282-4",
-        "description" : "Cannabinoids Urine PrThr Pt Ord Screen",
+        "code" : "70145-8",
+        "description" : "Cannabinoids Urine PrThr Pt Ord Screen>50 ng/mL",
         "system" : "loinc"
       },
       "target" : {
@@ -18,10 +18,10 @@
       },
       "descriptors" : [ ]
     },
-    "70145-8" : {
+    "18282-4" : {
       "source" : {
-        "code" : "70145-8",
-        "description" : "Cannabinoids Urine PrThr Pt Ord Screen>50 ng/mL",
+        "code" : "18282-4",
+        "description" : "Cannabinoids Urine PrThr Pt Ord Screen",
         "system" : "loinc"
       },
       "target" : {

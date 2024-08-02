@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "41654-5",
-    "description" : "Hematocrit BldV VFr Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

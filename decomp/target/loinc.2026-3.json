@@ -4,7 +4,6 @@
     "description" : "Carbon dioxide BldA SCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "CarbondioxideSCncPtBldAQnLabObs.v1.0.0",
   "children" : {
     "41647-9" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Carbon dioxide BldA SCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "CarbondioxideSCncPtBldAQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

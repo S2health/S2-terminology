@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "32769-2",
-    "description" : "Alpha 1 antitrypsin phenotype Ser/Plas Imp Pt Nom",
-    "system" : "loinc"
-  },
-  "modelName" : "Alpha1AntitrypsinPhenotypingImpPtSerPlasNomLabObs.v1.0.0",
-  "children" : { }
-}

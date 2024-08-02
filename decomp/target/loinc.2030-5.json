@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "2030-5",
-    "description" : "Carboxyhemoglobin/Hemoglobin.total BldA MFr Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "2965-2",
-    "description" : "Specific gravity Urine Rden Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

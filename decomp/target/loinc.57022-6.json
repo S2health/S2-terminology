@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "57022-6",
-    "description" : "Complete blood count W Reflex Manual Differential panel Bld - Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

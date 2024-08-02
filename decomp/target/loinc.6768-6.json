@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "6768-6",
-    "description" : "Alkaline phosphatase Ser/Plas CCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "AlkalinePhosphataseCCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

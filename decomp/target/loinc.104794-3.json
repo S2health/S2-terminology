@@ -4,7 +4,6 @@
     "description" : "Human coronavirus HKU1 RNA [Presence] in Specimen by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "HumancoronavirusHKU1RNAPrThrPtXXXOrdMolgen.v1.0.0",
   "children" : {
     "62423-9" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Human coronavirus HKU1 RNA [Presence] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "HumancoronavirusHKU1RNAPrThrPtXXXOrdMolgen.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

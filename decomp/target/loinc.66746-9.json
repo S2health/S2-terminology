@@ -5,10 +5,10 @@
     "system" : "loinc"
   },
   "children" : {
-    "31208-2" : {
+    "47938-6" : {
       "source" : {
-        "code" : "31208-2",
-        "description" : "Specimen source Prid Pt Nom",
+        "code" : "47938-6",
+        "description" : "Specimen source Body fld Prid Pt Nom",
         "system" : "loinc"
       },
       "target" : {
@@ -18,10 +18,10 @@
       },
       "descriptors" : [ ]
     },
-    "47938-6" : {
+    "31208-2" : {
       "source" : {
-        "code" : "47938-6",
-        "description" : "Specimen source Body fld Prid Pt Nom",
+        "code" : "31208-2",
+        "description" : "Specimen source Prid Pt Nom",
         "system" : "loinc"
       },
       "target" : {

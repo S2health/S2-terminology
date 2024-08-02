@@ -4,7 +4,6 @@
     "description" : "Estradiol Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "EstradiolMCncPtSerPlasQnLabObs.v1.0.0",
   "children" : {
     "35384-7" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Estradiol Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "EstradiolMCncPtSerPlasQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

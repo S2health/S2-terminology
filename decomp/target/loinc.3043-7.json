@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "3043-7",
-    "description" : "Triglyceride Bld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "TriglycerideMCncPtBldQnLabObs.v1.0.0",
-  "children" : { }
-}

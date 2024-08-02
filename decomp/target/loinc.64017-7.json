@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "64017-7",
-    "description" : "Chlamydia trachomatis & Neisseria gonorrhoeae rRNA panel - Pt - Probe.amp.tar",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

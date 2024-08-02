@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "18323-6",
-    "description" : "Smith extractable nuclear Ab.IgG Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "SmithExtractableNuclearAbIgGACncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

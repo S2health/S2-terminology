@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "33536-4",
-    "description" : "Allergen.miscellaneous Ab.IgE.RAST class Ser PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

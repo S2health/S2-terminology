@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "6041-8",
-    "description" : "Cynodon dactylon Ab.IgE Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CynodonDactylonAbIgEACncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

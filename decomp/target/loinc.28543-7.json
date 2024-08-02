@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "28543-7",
-    "description" : "Basophils/100 leukocytes Body fld NFr Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "Basophils100leukocytesNFrPtBodyfldQnLabObs.v1.0.0",
-  "children" : { }
-}

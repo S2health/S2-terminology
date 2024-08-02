@@ -4,7 +4,6 @@
     "description" : "Sjogrens syndrome-A extractable nuclear Ab [Presence] in Serum",
     "system" : "loinc"
   },
-  "modelName" : "SjogrenssyndromeAextractablenuclearAbPrThrPtSerOrd.v1.0.0",
   "children" : {
     "5351-2" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Sjogrens syndrome-A extractable nuclear Ab [Presence] in Serum",
         "system" : "loinc"
       },
-      "model" : "SjogrenssyndromeAextractablenuclearAbPrThrPtSerOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

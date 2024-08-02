@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "49753-7",
-    "description" : "Norbuprenorphine Urine MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "NorbuprenorphineMCncPtUrineQnLabObs.v1.0.0",
-  "children" : { }
-}

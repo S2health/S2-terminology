@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "34564-5",
-    "description" : "Cell count & Differential panel CSF - Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

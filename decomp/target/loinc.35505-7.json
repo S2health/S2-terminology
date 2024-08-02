@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "35505-7",
-    "description" : "Lipoprotein.beta.subparticle Ser/Plas Type Pt Nom",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

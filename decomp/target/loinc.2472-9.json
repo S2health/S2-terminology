@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2472-9",
-    "description" : "IgM Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "IgMMCncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

@@ -4,7 +4,6 @@
     "description" : "Hemoglobin [Presence] in Urine",
     "system" : "loinc"
   },
-  "modelName" : "HemoglobinPrThrPtUrineOrd.v1.0.0",
   "children" : {
     "57751-0" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Hemoglobin [Presence] in Urine",
         "system" : "loinc"
       },
-      "model" : "HemoglobinPrThrPtUrineOrd.v1.0.0",
       "descriptors" : [ ]
     },
     "5794-3" : {
@@ -31,7 +29,6 @@
         "description" : "Hemoglobin [Presence] in Urine",
         "system" : "loinc"
       },
-      "model" : "HemoglobinPrThrPtUrineOrd.v1.0.0",
       "descriptors" : [ ]
     }
   }

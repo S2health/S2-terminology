@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "6742-1",
-    "description" : "Erythrocyte morphology finding Bld Prid Pt Nom",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

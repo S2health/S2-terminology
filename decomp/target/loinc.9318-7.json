@@ -4,7 +4,6 @@
     "description" : "Albumin/Creatinine Urine MRto Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "AlbuminCreatinineMCrtoPtUrineQnLabObs.v1.0.0",
   "children" : {
     "14959-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Albumin/Creatinine Urine MRto Pt Qn",
         "system" : "loinc"
       },
-      "model" : "AlbuminCreatinineMCrtoPtUrineQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

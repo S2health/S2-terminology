@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "925-8",
-    "description" : "Blood product disposition BPU Type Pt Nom",
-    "system" : "loinc"
-  },
-  "modelName" : "BloodProductDispositionTypePtBPUNomLabObs.v1.0.0",
-  "children" : { }
-}

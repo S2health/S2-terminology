@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "44877-9",
-    "description" : "Insulin dependent diabetes mellitus Patient PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "modelName" : "InsulinDependentDiabetesMellitusACncPtPatientOrdLabObs.v1.0.0",
-  "children" : { }
-}

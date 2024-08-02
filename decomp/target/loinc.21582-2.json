@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "21582-2",
-    "description" : "Tryptase Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

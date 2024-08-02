@@ -4,7 +4,6 @@
     "description" : "Influenza virus A H1 RNA [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "InfluenzavirusAH1RNAPrThrPtXXXOrd.v1.0.0",
   "children" : {
     "49521-8" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Influenza virus A H1 RNA [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "InfluenzavirusAH1RNAPrThrPtXXXOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

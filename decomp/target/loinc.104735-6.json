@@ -4,7 +4,6 @@
     "description" : "Influenza virus B RNA [Presence] in Specimen by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "InfluenzavirusBRNAPrThrPtXXXOrdMolgen.v1.0.0",
   "children" : {
     "40982-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Influenza virus B RNA [Presence] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "InfluenzavirusBRNAPrThrPtXXXOrdMolgen.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

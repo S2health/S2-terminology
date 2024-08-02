@@ -4,7 +4,6 @@
     "description" : "Polychromasia [Presence] in Blood",
     "system" : "loinc"
   },
-  "modelName" : "PolychromasiaPrThrPtBldOrd.v1.0.0",
   "children" : {
     "10378-8" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Polychromasia [Presence] in Blood",
         "system" : "loinc"
       },
-      "model" : "PolychromasiaPrThrPtBldOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

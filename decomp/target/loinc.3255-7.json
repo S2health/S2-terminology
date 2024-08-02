@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "3255-7",
-    "description" : "Fibrinogen PPP MCnc Pt Qn Coag",
-    "system" : "loinc"
-  },
-  "modelName" : "FibrinogenMCncPtPPPQnCoagLabObs.v1.0.0",
-  "children" : { }
-}

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "20475-0",
-    "description" : "Cytomegalovirus Ab.IgG Ser/Plas Imp Pt Nom",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -4,7 +4,6 @@
     "description" : "Megasphaera sp type 1 DNA [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "Megasphaerasptype1DNAPrThrPtXXXOrd.v1.0.0",
   "children" : {
     "69567-6" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Megasphaera sp type 1 DNA [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "Megasphaerasptype1DNAPrThrPtXXXOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

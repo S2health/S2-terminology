@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "6025-1",
-    "description" : "Aspergillus fumigatus Ab.IgE Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "AspergillusFumigatusAbIgEACncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

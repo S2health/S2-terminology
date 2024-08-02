@@ -4,7 +4,6 @@
     "description" : "Poikilocytosis [Presence] in Blood",
     "system" : "loinc"
   },
-  "modelName" : "PoikilocytosisPrThrPtBldOrd.v1.0.0",
   "children" : {
     "779-9" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Poikilocytosis [Presence] in Blood",
         "system" : "loinc"
       },
-      "model" : "PoikilocytosisPrThrPtBldOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2069-3",
-    "description" : "Chloride Bld SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ChlorideSCncPtBldQnLabObs.v1.0.0",
-  "children" : { }
-}

@@ -4,7 +4,6 @@
     "description" : "Epithelial cells [#/area] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "EpithelialcellsNaricPtUrinesedQn.v1.0.0",
   "children" : {
     "5787-7" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Epithelial cells [#/area] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "EpithelialcellsNaricPtUrinesedQn.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

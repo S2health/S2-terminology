@@ -4,7 +4,6 @@
     "description" : "Giardia lamblia DNA [Presence] in Stool",
     "system" : "loinc"
   },
-  "modelName" : "GiardialambliaDNAPrThrPtStoolOrd.v1.0.0",
   "children" : {
     "82208-0" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Giardia lamblia DNA [Presence] in Stool",
         "system" : "loinc"
       },
-      "model" : "GiardialambliaDNAPrThrPtStoolOrd.v1.0.0",
       "descriptors" : [ ]
     }
   }

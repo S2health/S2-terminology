@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "11125-2",
-    "description" : "Platelet morphology finding Bld Prid Pt Nom",
-    "system" : "loinc"
-  },
-  "modelName" : "PlateletmorphologyfindingPridPtBldNomLabObs.v1.0.0",
-  "children" : { }
-}

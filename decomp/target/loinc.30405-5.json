@@ -4,7 +4,6 @@
     "description" : "Leukocytes Urine NCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "LeukocytesNCncPtUrineQnLabObs.v1.0.0",
   "children" : {
     "51487-7" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Leukocytes Urine NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "LeukocytesNCncPtUrineQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +40,6 @@
         "description" : "Leukocytes Urine NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "LeukocytesNCncPtUrineQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -67,7 +64,6 @@
         "description" : "Leukocytes Urine NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "LeukocytesNCncPtUrineQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

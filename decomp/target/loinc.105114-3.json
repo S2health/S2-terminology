@@ -4,7 +4,6 @@
     "description" : "Epithelial cells [Presence] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "EpithelialcellsPrThrPtUrinesedOrd.v1.0.0",
   "children" : {
     "20453-7" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Epithelial cells [Presence] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "EpithelialcellsPrThrPtUrinesedOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

@@ -4,7 +4,6 @@
     "description" : "Alanine aminotransferase Ser/Plas CCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "AlanineAminotransferaseCCncPtSerPlasQnLabObs.v1.0.0",
   "children" : {
     "1744-2" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Alanine aminotransferase Ser/Plas CCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "AlanineAminotransferaseCCncPtSerPlasQnLabObs.v1.0.0",
       "descriptors" : [ ]
     },
     "1743-4" : {
@@ -31,7 +29,6 @@
         "description" : "Alanine aminotransferase Ser/Plas CCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "AlanineAminotransferaseCCncPtSerPlasQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

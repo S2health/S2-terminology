@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "739-3",
-    "description" : "Metamyelocytes Bld NCnc Pt Qn Manual count",
-    "system" : "loinc"
-  },
-  "modelName" : "MetamyelocytesNCncPtBldQnManualCountLabObs.v1.0.0",
-  "children" : { }
-}

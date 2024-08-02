@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "11126-0",
-    "description" : "Platelets Bone mar Morph Pt Nom",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

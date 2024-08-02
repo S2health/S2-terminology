@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "1928-1",
-    "description" : "Immunoglobulin light chains Urine PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

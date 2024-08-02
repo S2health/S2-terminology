@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "17803-8",
-    "description" : "Plasma cells/100 leukocytes Body fld NFr Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

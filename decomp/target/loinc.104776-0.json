@@ -4,7 +4,6 @@
     "description" : "Parainfluenza virus 2 RNA [Presence] in Specimen by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "Parainfluenzavirus2RNAPrThrPtXXXOrdMolgen.v1.0.0",
   "children" : {
     "29909-9" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Parainfluenza virus 2 RNA [Presence] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "Parainfluenzavirus2RNAPrThrPtXXXOrdMolgen.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

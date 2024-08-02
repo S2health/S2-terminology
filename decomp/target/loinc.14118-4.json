@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "14118-4",
-    "description" : "Lactate Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "41649-5",
-    "description" : "Chloride BldV SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

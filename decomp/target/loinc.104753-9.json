@@ -4,7 +4,6 @@
     "description" : "Burr cells [Presence] in Blood",
     "system" : "loinc"
   },
-  "modelName" : "BurrcellsPrThrPtBldOrd.v1.0.0",
   "children" : {
     "7790-9" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Burr cells [Presence] in Blood",
         "system" : "loinc"
       },
-      "model" : "BurrcellsPrThrPtBldOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

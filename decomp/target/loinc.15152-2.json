@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "15152-2",
-    "description" : "Bilirubin.glucuronidated Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "BilirubinGlucuronidatedMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

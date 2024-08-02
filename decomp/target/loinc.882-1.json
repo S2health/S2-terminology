@@ -4,7 +4,6 @@
     "description" : "ABO & Rh group Bld Type Pt Nom",
     "system" : "loinc"
   },
-  "modelName" : "ABORhGroupTypePtBldNomLabObs.v1.0.0",
   "children" : {
     "77397-8" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "ABO & Rh group Bld Type Pt Nom",
         "system" : "loinc"
       },
-      "model" : "ABORhGroupTypePtBldNomLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

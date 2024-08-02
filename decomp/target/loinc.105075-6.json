@@ -4,7 +4,6 @@
     "description" : "Influenza virus A RNA [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "InfluenzavirusARNAPrThrPtXXXOrd.v1.0.0",
   "children" : {
     "76078-5" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Influenza virus A RNA [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "InfluenzavirusARNAPrThrPtXXXOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

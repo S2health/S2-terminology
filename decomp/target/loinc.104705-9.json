@@ -4,7 +4,6 @@
     "description" : "Platelets [Presence] in Blood",
     "system" : "loinc"
   },
-  "modelName" : "PlateletsPrThrPtBldOrd.v1.0.0",
   "children" : {
     "9317-9" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Platelets [Presence] in Blood",
         "system" : "loinc"
       },
-      "model" : "PlateletsPrThrPtBldOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

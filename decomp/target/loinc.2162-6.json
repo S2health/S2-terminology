@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2162-6",
-    "description" : "Creatinine Urine MRat 24H Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CreatinineMRat24HUrineQnLabObs.v1.0.0",
-  "children" : { }
-}

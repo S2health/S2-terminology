@@ -4,7 +4,6 @@
     "description" : "Mucus [#/area] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "MucusNaricPtUrinesedQn.v1.0.0",
   "children" : {
     "28545-2" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Mucus [#/area] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "MucusNaricPtUrinesedQn.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

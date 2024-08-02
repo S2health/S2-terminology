@@ -4,7 +4,6 @@
     "description" : "Trichomonas vaginalis [Presence] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "TrichomonasvaginalisPrThrPtUrinesedOrd.v1.0.0",
   "children" : {
     "5813-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Trichomonas vaginalis [Presence] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "TrichomonasvaginalisPrThrPtUrinesedOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

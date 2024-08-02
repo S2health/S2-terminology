@@ -4,7 +4,6 @@
     "description" : "Monocytes+Macrophages/100 leukocytes Body fld NFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "MonocytesMacrophages100leukocytesNFrPtBodyfldQnLabObs.v1.0.0",
   "children" : {
     "21394-2" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Monocytes+Macrophages/100 leukocytes Body fld NFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "MonocytesMacrophages100leukocytesNFrPtBodyfldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

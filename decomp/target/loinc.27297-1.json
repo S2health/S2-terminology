@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "27297-1",
-    "description" : "Leukocyte esterase Urine ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

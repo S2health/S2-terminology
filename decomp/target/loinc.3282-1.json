@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "3282-1",
-    "description" : "Coagulation surface induced.hexagonal phase phospholipid PPP Time Pt Qn Coag",
-    "system" : "loinc"
-  },
-  "modelName" : "CoagulationsurfaceinducedhexagonalphasephospholipidTimePtPPPQnCoagLabObs.v1.0.0",
-  "children" : { }
-}

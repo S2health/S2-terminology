@@ -4,7 +4,6 @@
     "description" : "Cholesterol.in VLDL Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "CholesterolinVLDLMCncPtSerPlasQnLabObs.v1.0.0",
   "children" : {
     "13458-5" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Cholesterol.in VLDL Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "CholesterolinVLDLMCncPtSerPlasQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

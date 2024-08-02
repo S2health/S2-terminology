@@ -4,7 +4,6 @@
     "description" : "Erythrocyte mean corpuscular hemoglobin RBC EntMass Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "ErythrocyteMeanCorpuscularHemoglobinEntMassPtRBCQnLabObs.v1.0.0",
   "children" : {
     "785-6" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Erythrocyte mean corpuscular hemoglobin RBC EntMass Pt Qn",
         "system" : "loinc"
       },
-      "model" : "ErythrocyteMeanCorpuscularHemoglobinEntMassPtRBCQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

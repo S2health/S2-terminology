@@ -4,7 +4,6 @@
     "description" : "Shigella species+EIEC invasion plasmid antigen H ipaH gene [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "ShigellaspeciesEIECinvasionplasmidantigenHipaHgenePrThrPtXXXOrd.v1.0.0",
   "children" : {
     "80350-2" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Shigella species+EIEC invasion plasmid antigen H ipaH gene [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "ShigellaspeciesEIECinvasionplasmidantigenHipaHgenePrThrPtXXXOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "66746-9",

@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "42216-2",
-    "description" : "Referral lab name Referral lab test ID Pt Nar",
-    "system" : "loinc"
-  },
-  "modelName" : "PerformingLaboratory.v1.0.0",
-  "children" : { }
-}

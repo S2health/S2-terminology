@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "6020-2",
-    "description" : "Alternaria alternata Ab.IgE Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

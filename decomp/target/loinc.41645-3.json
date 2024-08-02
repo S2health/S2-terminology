@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "41645-3",
-    "description" : "Calcium.ionized BldV SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

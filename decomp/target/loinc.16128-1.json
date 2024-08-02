@@ -4,7 +4,6 @@
     "description" : "Hepatitis C virus Ab Ser PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "HepatitisCVirusAbACncPtSerOrdLabObs.v1.0.0",
   "children" : {
     "13955-0" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Hepatitis C virus Ab Ser PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "HepatitisCVirusAbACncPtSerOrdLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

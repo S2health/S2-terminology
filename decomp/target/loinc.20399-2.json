@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "20399-2",
-    "description" : "Nuclear Ab pattern.nucleolar Ser Titr Pt SemiQn",
-    "system" : "loinc"
-  },
-  "modelName" : "NuclearAbpatternnucleolarTitrPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

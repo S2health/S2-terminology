@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "57782-5",
-    "description" : "Complete blood count W Ordered Manual Differential panel Bld - Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

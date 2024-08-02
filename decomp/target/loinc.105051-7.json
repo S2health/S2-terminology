@@ -4,7 +4,6 @@
     "description" : "Bacteria [#/area] in Urine sediment by Microscopy",
     "system" : "loinc"
   },
-  "modelName" : "BacteriaNaricPtUrinesedQnMicroscopy.v1.0.0",
   "children" : {
     "5769-5" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Bacteria [#/area] in Urine sediment by Microscopy",
         "system" : "loinc"
       },
-      "model" : "BacteriaNaricPtUrinesedQnMicroscopy.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

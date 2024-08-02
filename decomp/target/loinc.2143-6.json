@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "2143-6",
-    "description" : "Cortisol Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

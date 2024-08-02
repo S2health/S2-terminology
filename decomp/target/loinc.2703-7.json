@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2703-7",
-    "description" : "Oxygen BldA PPres Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "OxygenPPresPtBldAQnLabObs.v1.0.0",
-  "children" : { }
-}

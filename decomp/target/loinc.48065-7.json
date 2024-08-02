@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "48065-7",
-    "description" : "Fibrin D-dimer FEU PPP MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "FibrinDMinusDimerFEUMCncPtPPPQnLabObs.v1.0.0",
-  "children" : { }
-}

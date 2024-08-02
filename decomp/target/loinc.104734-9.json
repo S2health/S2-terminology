@@ -4,7 +4,6 @@
     "description" : "Streptococcus.beta-hemolytic [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "StreptococcusbetahemolyticPrThrPtXXXOrd.v1.0.0",
   "children" : {
     "546-2" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Streptococcus.beta-hemolytic [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "StreptococcusbetahemolyticPrThrPtXXXOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -53,7 +51,6 @@
         "description" : "Streptococcus.beta-hemolytic [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "StreptococcusbetahemolyticPrThrPtXXXOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

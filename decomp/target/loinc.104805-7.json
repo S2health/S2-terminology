@@ -4,7 +4,6 @@
     "description" : "Creatinine renal clearance predicted",
     "system" : "loinc"
   },
-  "modelName" : "CreatininerenalclearancepredictedVRatPtSerPlasQn.v1.0.0",
   "children" : {
     "35591-7" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Creatinine renal clearance predicted",
         "system" : "loinc"
       },
-      "model" : "CreatininerenalclearancepredictedVRatPtSerPlasQn.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

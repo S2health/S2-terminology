@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "19123-9",
-    "description" : "Magnesium Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "MagnesiumMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

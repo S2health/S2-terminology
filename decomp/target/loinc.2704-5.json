@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "2704-5",
-    "description" : "Oxygen BldC PPres Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

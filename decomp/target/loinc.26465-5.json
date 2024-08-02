@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "26465-5",
-    "description" : "Leukocytes CSF NCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

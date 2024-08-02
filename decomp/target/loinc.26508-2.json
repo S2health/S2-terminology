@@ -4,33 +4,7 @@
     "description" : "Neutrophils.band form/100 leukocytes Bld NFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "Neutrophilsbandform100leukocytesNFrPtBldQnLabObs.v1.0.0",
   "children" : {
-    "764-1" : {
-      "source" : {
-        "code" : "764-1",
-        "description" : "Neutrophils.band form/100 leukocytes Bld NFr Pt Qn Manual count",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "26508-2",
-        "description" : "Neutrophils.band form/100 leukocytes Bld NFr Pt Qn",
-        "system" : "loinc"
-      },
-      "model" : "Neutrophilsbandform100leukocytesNFrPtBldQnLabObs.v1.0.0",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702663001",
-          "description" : "Manual count technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
     "35332-6" : {
       "source" : {
         "code" : "35332-6",
@@ -42,7 +16,6 @@
         "description" : "Neutrophils.band form/100 leukocytes Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "Neutrophilsbandform100leukocytesNFrPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -52,6 +25,30 @@
         "value" : {
           "code" : "702659008",
           "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "764-1" : {
+      "source" : {
+        "code" : "764-1",
+        "description" : "Neutrophils.band form/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26508-2",
+        "description" : "Neutrophils.band form/100 leukocytes Bld NFr Pt Qn",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
           "system" : "snomed"
         }
       } ]

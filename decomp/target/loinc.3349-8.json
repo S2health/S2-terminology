@@ -4,8 +4,20 @@
     "description" : "Amphetamines Urine PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "AmphetaminesACncPtUrineOrdLabObs.v1.0.0",
   "children" : {
+    "19343-3" : {
+      "source" : {
+        "code" : "19343-3",
+        "description" : "Amphetamine Urine PrThr Pt Ord Screen",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3349-8",
+        "description" : "Amphetamines Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    },
     "19261-7" : {
       "source" : {
         "code" : "19261-7",
@@ -17,7 +29,6 @@
         "description" : "Amphetamines Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "AmphetaminesACncPtUrineOrdLabObs.v1.0.0",
       "descriptors" : [ ]
     },
     "14309-9" : {
@@ -31,7 +42,6 @@
         "description" : "Amphetamines Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "AmphetaminesACncPtUrineOrdLabObs.v1.0.0",
       "descriptors" : [ ]
     },
     "14308-1" : {
@@ -45,21 +55,6 @@
         "description" : "Amphetamines Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "AmphetaminesACncPtUrineOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
-    },
-    "19343-3" : {
-      "source" : {
-        "code" : "19343-3",
-        "description" : "Amphetamine Urine PrThr Pt Ord Screen",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "3349-8",
-        "description" : "Amphetamines Urine PrThr Pt Ord",
-        "system" : "loinc"
-      },
-      "model" : "AmphetaminesACncPtUrineOrdLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

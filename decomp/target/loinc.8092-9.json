@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "8092-9",
-    "description" : "SCL-70 extractable nuclear Ab Ser PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

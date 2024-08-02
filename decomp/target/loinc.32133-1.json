@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "32133-1",
-    "description" : "Lactate PlasV SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "LactateSCncPtPlasVQnLabObs.v1.0.0",
-  "children" : { }
-}

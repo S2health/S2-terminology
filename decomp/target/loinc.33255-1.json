@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "33255-1",
-    "description" : "Cell fractions Bld Imp Pt Nom",
-    "system" : "loinc"
-  },
-  "modelName" : "CellfractionsImpPtBldNomLabObs.v1.0.0",
-  "children" : { }
-}

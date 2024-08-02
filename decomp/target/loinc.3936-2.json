@@ -4,7 +4,6 @@
     "description" : "Phencyclidine Urine PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "PhencyclidineACncPtUrineOrdLabObs.v1.0.0",
   "children" : {
     "19659-2" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Phencyclidine Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "PhencyclidineACncPtUrineOrdLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

@@ -4,7 +4,6 @@
     "description" : "C reactive protein Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "CReactiveProteinMCncPtSerPlasQnLabObs.v1.0.0",
   "children" : {
     "30522-7" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "C reactive protein Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "CReactiveProteinMCncPtSerPlasQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

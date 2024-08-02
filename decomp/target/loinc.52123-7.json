@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "52123-7",
-    "description" : "Coagulation surface induced Post heparin neutralization PPP Time Pt Qn Coag",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "71774-4",
-    "description" : "Mitogen stimulated gamma interferon corrected for background Bld ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

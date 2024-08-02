@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2839-9",
-    "description" : "Progesterone Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ProgesteroneMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

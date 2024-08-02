@@ -4,7 +4,6 @@
     "description" : "Corticotropin Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "CorticotropinMCncPtPlasQnLabObs.v1.0.0",
   "children" : {
     "6879-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Corticotropin Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "CorticotropinMCncPtPlasQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

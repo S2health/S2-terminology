@@ -4,7 +4,6 @@
     "description" : "Ova and parasites identified in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "OvaparasitesidentifiedPridPtXXXNom.v1.0.0",
   "children" : {
     "10701-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Ova and parasites identified in Specimen",
         "system" : "loinc"
       },
-      "model" : "OvaparasitesidentifiedPridPtXXXNom.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -53,7 +51,6 @@
         "description" : "Ova and parasites identified in Specimen",
         "system" : "loinc"
       },
-      "model" : "OvaparasitesidentifiedPridPtXXXNom.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

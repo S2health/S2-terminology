@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "34474-7",
-    "description" : "ABO & Rh group BldCo Type Pt Nom",
-    "system" : "loinc"
-  },
-  "modelName" : "ABORhGroupTypePtBldCoNomLabObs.v1.0.0",
-  "children" : { }
-}

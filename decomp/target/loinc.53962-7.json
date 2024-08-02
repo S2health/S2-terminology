@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "53962-7",
-    "description" : "Alpha-1-Fetoprotein.tumor marker Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "Alpha1FetoproteintumormarkerMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

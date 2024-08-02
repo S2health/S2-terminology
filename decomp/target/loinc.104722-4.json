@@ -4,7 +4,6 @@
     "description" : "Chlamydia trachomatis rRNA [Presence] in Specimen by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "ChlamydiatrachomatisrRNAPrThrPtXXXOrdMolgen.v1.0.0",
   "children" : {
     "4993-2" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Chlamydia trachomatis rRNA [Presence] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "ChlamydiatrachomatisrRNAPrThrPtXXXOrdMolgen.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +40,6 @@
         "description" : "Chlamydia trachomatis rRNA [Presence] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "ChlamydiatrachomatisrRNAPrThrPtXXXOrdMolgen.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

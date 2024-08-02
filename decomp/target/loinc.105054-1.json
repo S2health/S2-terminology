@@ -4,7 +4,6 @@
     "description" : "Crystals [type] in Urine sediment by Microscopy",
     "system" : "loinc"
   },
-  "modelName" : "CrystalsPridPtUrinesedNomMicroscopy.v1.0.0",
   "children" : {
     "5782-8" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Crystals [type] in Urine sediment by Microscopy",
         "system" : "loinc"
       },
-      "model" : "CrystalsPridPtUrinesedNomMicroscopy.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

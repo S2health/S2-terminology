@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "1975-2",
-    "description" : "Bilirubin Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "BilirubinMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

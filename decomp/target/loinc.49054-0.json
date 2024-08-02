@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "49054-0",
-    "description" : "Ercalcidiol Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "Two5HydroxycalciferolMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

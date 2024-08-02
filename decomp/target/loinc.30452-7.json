@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "30452-7",
-    "description" : "Neutrophils.segmented Body fld NCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

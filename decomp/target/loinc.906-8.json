@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "906-8",
-    "description" : "Blood group antigens present Bld Prid Pt Nom",
-    "system" : "loinc"
-  },
-  "modelName" : "BloodGroupAntigensPresentPridPtBldNomLabObs.v1.0.0",
-  "children" : { }
-}

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "35192-4",
-    "description" : "Bilirubin.non-glucuronidated Ser/Plas MSCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

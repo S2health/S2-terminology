@@ -4,7 +4,6 @@
     "description" : "Human metapneumovirus RNA [Presence] in Specimen by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "HumanmetapneumovirusRNAPrThrPtXXXOrdMolgen.v1.0.0",
   "children" : {
     "38917-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Human metapneumovirus RNA [Presence] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "HumanmetapneumovirusRNAPrThrPtXXXOrdMolgen.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

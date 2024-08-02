@@ -4,12 +4,11 @@
     "description" : "Blasts/100 leukocytes Bld NFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "Blasts100leukocytesNFrPtBldQnLabObs.v1.0.0",
   "children" : {
-    "13522-8" : {
+    "709-6" : {
       "source" : {
-        "code" : "13522-8",
-        "description" : "Blasts/100 leukocytes Body fld NFr Pt Qn Manual count",
+        "code" : "709-6",
+        "description" : "Blasts/100 leukocytes Bld NFr Pt Qn Manual count",
         "system" : "loinc"
       },
       "target" : {
@@ -17,7 +16,6 @@
         "description" : "Blasts/100 leukocytes Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "Blasts100leukocytesNFrPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -31,10 +29,10 @@
         }
       } ]
     },
-    "709-6" : {
+    "13522-8" : {
       "source" : {
-        "code" : "709-6",
-        "description" : "Blasts/100 leukocytes Bld NFr Pt Qn Manual count",
+        "code" : "13522-8",
+        "description" : "Blasts/100 leukocytes Body fld NFr Pt Qn Manual count",
         "system" : "loinc"
       },
       "target" : {
@@ -42,7 +40,6 @@
         "description" : "Blasts/100 leukocytes Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "Blasts100leukocytesNFrPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

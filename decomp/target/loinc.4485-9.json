@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "4485-9",
-    "description" : "Complement C3 Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ComplementC3MCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

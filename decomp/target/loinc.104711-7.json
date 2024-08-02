@@ -4,7 +4,6 @@
     "description" : "Parainfluenza virus 3 RNA [Presence] in Specimen by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "Parainfluenzavirus3RNAPrThrPtXXXOrdMolgen.v1.0.0",
   "children" : {
     "29910-7" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Parainfluenza virus 3 RNA [Presence] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "Parainfluenzavirus3RNAPrThrPtXXXOrdMolgen.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

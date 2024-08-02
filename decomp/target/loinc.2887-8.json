@@ -4,7 +4,6 @@
     "description" : "Protein [Presence] in Urine",
     "system" : "loinc"
   },
-  "modelName" : "ProteinPrThrPtUrineOrd.v1.0.0",
   "children" : {
     "57735-3" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Protein [Presence] in Urine",
         "system" : "loinc"
       },
-      "model" : "ProteinPrThrPtUrineOrd.v1.0.0",
       "descriptors" : [ ]
     },
     "20454-5" : {
@@ -31,7 +29,6 @@
         "description" : "Protein [Presence] in Urine",
         "system" : "loinc"
       },
-      "model" : "ProteinPrThrPtUrineOrd.v1.0.0",
       "descriptors" : [ ]
     }
   }

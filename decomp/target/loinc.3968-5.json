@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "3968-5",
-    "description" : "Phenytoin Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "PhenytoinMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

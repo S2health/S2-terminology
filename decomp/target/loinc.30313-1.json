@@ -4,7 +4,6 @@
     "description" : "Hemoglobin BldA MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "HemoglobinMCncPtBldAQnLabObs.v1.0.0",
   "children" : {
     "14775-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Hemoglobin BldA MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "HemoglobinMCncPtBldAQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

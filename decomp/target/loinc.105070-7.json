@@ -4,7 +4,6 @@
     "description" : "Escherichia coli Stx1 and Stx2 toxin stx1+stx2 genes [Presence] in Stool",
     "system" : "loinc"
   },
-  "modelName" : "EscherichiacoliStx1Stx2toxinstx1stx2genesPrThrPtStoolOrd.v1.0.0",
   "children" : {
     "82203-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Escherichia coli Stx1 and Stx2 toxin stx1+stx2 genes [Presence] in Stool",
         "system" : "loinc"
       },
-      "model" : "EscherichiacoliStx1Stx2toxinstx1stx2genesPrThrPtStoolOrd.v1.0.0",
       "descriptors" : [ ]
     }
   }

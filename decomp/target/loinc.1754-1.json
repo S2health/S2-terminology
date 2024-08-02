@@ -4,7 +4,6 @@
     "description" : "Albumin Urine MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "AlbuminMCncPtUrineQnLabObs.v1.0.0",
   "children" : {
     "14957-5" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Albumin Urine MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "AlbuminMCncPtUrineQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

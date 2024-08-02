@@ -4,7 +4,6 @@
     "description" : "Hepatitis B virus surface Ag Ser PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "HepatitisBVirusSurfaceAgACncPtSerOrdLabObs.v1.0.0",
   "children" : {
     "5196-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Hepatitis B virus surface Ag Ser PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "HepatitisBVirusSurfaceAgACncPtSerOrdLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

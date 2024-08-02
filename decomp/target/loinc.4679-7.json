@@ -4,7 +4,6 @@
     "description" : "Reticulocytes/100 erythrocytes Bld NFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "Reticulocytes100erythrocytesNFrPtBldQnLabObs.v1.0.0",
   "children" : {
     "17849-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Reticulocytes/100 erythrocytes Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "Reticulocytes100erythrocytesNFrPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +40,6 @@
         "description" : "Reticulocytes/100 erythrocytes Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "Reticulocytes100erythrocytesNFrPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

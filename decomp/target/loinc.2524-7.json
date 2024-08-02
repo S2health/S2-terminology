@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2524-7",
-    "description" : "Lactate Ser/Plas SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "LactateSCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

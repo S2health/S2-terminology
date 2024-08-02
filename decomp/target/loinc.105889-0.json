@@ -1,0 +1,22 @@
+{
+  "target" : {
+    "code" : "105889-0",
+    "description" : "Epidermal growth factor receptor Ag [Presence] in Specimen",
+    "system" : "loinc"
+  },
+  "children" : {
+    "39004-7" : {
+      "source" : {
+        "code" : "39004-7",
+        "description" : "Epidermal growth factor receptor Ag Tiss PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105889-0",
+        "description" : "Epidermal growth factor receptor Ag [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

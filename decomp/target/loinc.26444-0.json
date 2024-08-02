@@ -4,7 +4,6 @@
     "description" : "Basophils Bld NCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "BasophilsNCncPtBldQnLabObs.v1.0.0",
   "children" : {
     "704-7" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Basophils Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "BasophilsNCncPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +40,6 @@
         "description" : "Basophils Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "BasophilsNCncPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

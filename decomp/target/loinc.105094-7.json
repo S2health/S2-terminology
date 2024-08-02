@@ -4,7 +4,6 @@
     "description" : "Candida sp rRNA [Presence] in Vaginal fluid",
     "system" : "loinc"
   },
-  "modelName" : "CandidasprRNAPrThrPtVagOrd.v1.0.0",
   "children" : {
     "47000-5" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Candida sp rRNA [Presence] in Vaginal fluid",
         "system" : "loinc"
       },
-      "model" : "CandidasprRNAPrThrPtVagOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

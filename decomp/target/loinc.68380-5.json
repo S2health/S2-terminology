@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "68380-5",
-    "description" : "Chromatin Ab Ser/Plas PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

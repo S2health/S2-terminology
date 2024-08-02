@@ -1,0 +1,33 @@
+{
+  "target" : {
+    "code" : "105904-7",
+    "description" : "Vancomycin resistant enterococcus [Presence] in Specimen",
+    "system" : "loinc"
+  },
+  "children" : {
+    "13316-5" : {
+      "source" : {
+        "code" : "13316-5",
+        "description" : "Enterococcus species.vancomycin resistant PrThr Pt Ord Organism specific culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105904-7",
+        "description" : "Vancomycin resistant enterococcus [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703752003",
+          "description" : "Organism specific culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

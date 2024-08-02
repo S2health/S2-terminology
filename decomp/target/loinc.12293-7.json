@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "12293-7",
-    "description" : "Cotinine Urine PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

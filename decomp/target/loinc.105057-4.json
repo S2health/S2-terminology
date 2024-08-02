@@ -4,7 +4,6 @@
     "description" : "Plesiomonas shigelloides DNA [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "PlesiomonasshigelloidesDNAPrThrPtXXXOrd.v1.0.0",
   "children" : {
     "82198-3" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Plesiomonas shigelloides DNA [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "PlesiomonasshigelloidesDNAPrThrPtXXXOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "66746-9",

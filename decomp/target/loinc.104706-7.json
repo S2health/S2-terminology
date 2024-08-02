@@ -4,7 +4,6 @@
     "description" : "Mycoplasma pneumoniae DNA [Presence] in Specimen by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "MycoplasmapneumoniaeDNAPrThrPtXXXOrdMolgen.v1.0.0",
   "children" : {
     "29257-3" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Mycoplasma pneumoniae DNA [Presence] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "MycoplasmapneumoniaeDNAPrThrPtXXXOrdMolgen.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

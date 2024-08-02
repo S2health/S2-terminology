@@ -4,7 +4,6 @@
     "description" : "Ketones [Presence] in Urine",
     "system" : "loinc"
   },
-  "modelName" : "KetonesPrThrPtUrineOrd.v1.0.0",
   "children" : {
     "2514-8" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Ketones [Presence] in Urine",
         "system" : "loinc"
       },
-      "model" : "KetonesPrThrPtUrineOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +40,6 @@
         "description" : "Ketones [Presence] in Urine",
         "system" : "loinc"
       },
-      "model" : "KetonesPrThrPtUrineOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

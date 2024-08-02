@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "721-1",
-    "description" : "Hemoglobin.free Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "HemoglobinFreeMCncPtPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

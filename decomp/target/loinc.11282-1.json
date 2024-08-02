@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "11282-1",
-    "description" : "Cells counted.total Bld Num Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CellsCountedTotalNumPtBldQnLabObs.v1.0.0",
-  "children" : { }
-}

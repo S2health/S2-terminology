@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "19072-8",
-    "description" : "Calcium.ionized adjusted to pH 7.4 Ser/Plas SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

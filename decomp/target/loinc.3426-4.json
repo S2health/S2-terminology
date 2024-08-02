@@ -4,7 +4,6 @@
     "description" : "Tetrahydrocannabinol Urine PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "TetrahydrocannabinolPrThrPtUrineOrdLabObs.v1.0.0",
   "children" : {
     "19415-9" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Tetrahydrocannabinol Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "TetrahydrocannabinolPrThrPtUrineOrdLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

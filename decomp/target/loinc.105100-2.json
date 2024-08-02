@@ -4,7 +4,6 @@
     "description" : "Benzodiazepines tested for in Urine",
     "system" : "loinc"
   },
-  "modelName" : "BenzodiazepinestestedforPridPtUrineNom.v1.0.0",
   "children" : {
     "19279-9" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Benzodiazepines tested for in Urine",
         "system" : "loinc"
       },
-      "model" : "BenzodiazepinestestedforPridPtUrineNom.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

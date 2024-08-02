@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "14155-6",
-    "description" : "Cholesterol.in LDL Ser/Plas Prctl Pt SemiQn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

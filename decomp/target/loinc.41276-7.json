@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "41276-7",
-    "description" : "Anion gap Bld SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -4,7 +4,6 @@
     "description" : "Myelocytes Bld NCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "MyelocytesNCncPtBldQnLabObs.v1.0.0",
   "children" : {
     "748-4" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Myelocytes Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "MyelocytesNCncPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

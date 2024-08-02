@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "50957-0",
-    "description" : "Manual differential performed Bld PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

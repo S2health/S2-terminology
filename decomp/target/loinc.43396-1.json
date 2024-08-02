@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "43396-1",
-    "description" : "Cholesterol.non HDL Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

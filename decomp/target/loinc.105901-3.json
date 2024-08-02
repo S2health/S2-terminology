@@ -1,0 +1,33 @@
+{
+  "target" : {
+    "code" : "105901-3",
+    "description" : "Atopobium vaginae DNA [Presence] in Vaginal fluid",
+    "system" : "loinc"
+  },
+  "children" : {
+    "69565-0" : {
+      "source" : {
+        "code" : "69565-0",
+        "description" : "Atopobium vaginae DNA Vag PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105901-3",
+        "description" : "Atopobium vaginae DNA [Presence] in Vaginal fluid",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702675006",
+          "description" : "Probe with target amplification technique technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

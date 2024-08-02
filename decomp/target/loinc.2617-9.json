@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2617-9",
-    "description" : "Methemoglobin/Hemoglobin.total BldV MFr Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "MethemoglobinHemoglobinTotalMFrPtBldVQnLabObs.v1.0.0",
-  "children" : { }
-}

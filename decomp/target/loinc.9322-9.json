@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "9322-9",
-    "description" : "Cholesterol.total/Cholesterol.in HDL Ser/Plas Prctl Pt SemiQn",
-    "system" : "loinc"
-  },
-  "modelName" : "CholesterolTotalCholesterolInHDLPrctlPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

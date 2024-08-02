@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "6106-9",
-    "description" : "Egg white Ab.IgE Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "EggWhiteAbIgEACncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

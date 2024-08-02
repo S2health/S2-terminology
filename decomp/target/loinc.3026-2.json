@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "3026-2",
-    "description" : "Thyroxine Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ThyroxineMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}
