@@ -2,8 +2,8 @@ name: LOINC change automation
 on:
   push:
     branches:
-      # - main
-      - "**"
+      - main
+      # - "**"
     paths:
       - '/LOINC/S2_Elements-LOINC Extension_map_master.csv'
       - '.github/workflows/s2-terminology-loinc.yaml'
