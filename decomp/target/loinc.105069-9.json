@@ -4,7 +4,6 @@
     "description" : "Fungus [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "FungusPrThrPtXXXOrd.v1.0.0",
   "children" : {
     "55305-7" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Fungus [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "FungusPrThrPtXXXOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

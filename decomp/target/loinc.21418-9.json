@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "21418-9",
-    "description" : "Neutrophil Ab Ser PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

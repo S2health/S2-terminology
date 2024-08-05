@@ -4,7 +4,6 @@
     "description" : "Prolactin Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "ProlactinMCncPtSerPlasQnLabObs.v1.0.0",
   "children" : {
     "49220-7" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Prolactin Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "ProlactinMCncPtSerPlasQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

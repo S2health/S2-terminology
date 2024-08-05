@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "3209-4",
-    "description" : "Coagulation factor VIII activity actual/Normal PPP RelTime Pt Qn Coag",
-    "system" : "loinc"
-  },
-  "modelName" : "CoagulationFactorVIIIActivityActualNormalRelTimePtPPPQnCoagLabObs.v1.0.0",
-  "children" : { }
-}

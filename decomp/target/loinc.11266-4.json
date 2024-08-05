@@ -4,7 +4,6 @@
     "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "StreptococcusagalactiaeAgPrThrPtXXXOrdLabObs.v1.0.0",
   "children" : {
     "582-7" : {
       "source" : {
@@ -17,35 +16,6 @@
         "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "StreptococcusagalactiaeAgPrThrPtXXXOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
-    },
-    "72607-5" : {
-      "source" : {
-        "code" : "72607-5",
-        "description" : "Streptococcus agalactiae Vag+Rectum PrThr Pt Ord Organism specific culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "11266-4",
-        "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
-        "system" : "loinc"
-      },
-      "model" : "StreptococcusagalactiaeAgPrThrPtXXXOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
-    },
-    "586-8" : {
-      "source" : {
-        "code" : "586-8",
-        "description" : "Streptococcus agalactiae PrThr Pt Ord Organism specific culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "11266-4",
-        "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
-        "system" : "loinc"
-      },
-      "model" : "StreptococcusagalactiaeAgPrThrPtXXXOrdLabObs.v1.0.0",
       "descriptors" : [ ]
     },
     "585-0" : {
@@ -59,7 +29,32 @@
         "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "StreptococcusagalactiaeAgPrThrPtXXXOrdLabObs.v1.0.0",
+      "descriptors" : [ ]
+    },
+    "586-8" : {
+      "source" : {
+        "code" : "586-8",
+        "description" : "Streptococcus agalactiae PrThr Pt Ord Organism specific culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "11266-4",
+        "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    },
+    "72607-5" : {
+      "source" : {
+        "code" : "72607-5",
+        "description" : "Streptococcus agalactiae Vag+Rectum PrThr Pt Ord Organism specific culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "11266-4",
+        "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
+        "system" : "loinc"
+      },
       "descriptors" : [ ]
     }
   }

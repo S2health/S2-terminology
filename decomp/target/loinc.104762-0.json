@@ -4,7 +4,6 @@
     "description" : "HIV 1 RNA [Log #/volume] in Serum or Plasma by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "HIV1RNALnCncPtSerPlasQnMolgen.v1.0.0",
   "children" : {
     "29541-0" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "HIV 1 RNA [Log #/volume] in Serum or Plasma by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "HIV1RNALnCncPtSerPlasQnMolgen.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

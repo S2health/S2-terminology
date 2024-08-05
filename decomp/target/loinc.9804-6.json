@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "9804-6",
-    "description" : "Weight Calculus Mass Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "WeightEntMassPtCalculusQnLabObs.v1.0.0",
-  "children" : { }
-}

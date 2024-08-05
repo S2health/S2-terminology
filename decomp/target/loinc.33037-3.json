@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "33037-3",
-    "description" : "Anion gap Ser/Plas SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "AniongapSCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

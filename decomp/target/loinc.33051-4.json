@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "33051-4",
-    "description" : "Erythrocytes Urine PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "modelName" : "ErythrocytesPrThrPtUrineOrdLabObs.v1.0.0",
-  "children" : { }
-}

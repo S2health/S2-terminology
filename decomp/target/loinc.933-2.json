@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "933-2",
-    "description" : "Blood product type BPU Type Pt Nom",
-    "system" : "loinc"
-  },
-  "modelName" : "BloodProductTypeTypePtBPUNomLabObs.v1.0.0",
-  "children" : { }
-}

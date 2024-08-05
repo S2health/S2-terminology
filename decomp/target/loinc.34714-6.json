@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "34714-6",
-    "description" : "Coagulation tissue factor induced.INR Bld RelTime Pt Qn Coag",
-    "system" : "loinc"
-  },
-  "modelName" : "CoagulationtissuefactorinducedINRRelTimePtBldQnCoagLabObs.v1.0.0",
-  "children" : { }
-}

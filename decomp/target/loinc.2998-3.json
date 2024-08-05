@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2998-3",
-    "description" : "Thiamine Bld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ThiamineMCncPtBldQnLabObs.v1.0.0",
-  "children" : { }
-}

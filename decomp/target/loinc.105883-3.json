@@ -1,0 +1,22 @@
+{
+  "target" : {
+    "code" : "105883-3",
+    "description" : "Clostridioides difficile toxin A+B tcdA+tcdB genes [Presence] in Stool",
+    "system" : "loinc"
+  },
+  "children" : {
+    "82197-5" : {
+      "source" : {
+        "code" : "82197-5",
+        "description" : "Clostridioides difficile toxin A+B tcdA+tcdB genes Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105883-3",
+        "description" : "Clostridioides difficile toxin A+B tcdA+tcdB genes [Presence] in Stool",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

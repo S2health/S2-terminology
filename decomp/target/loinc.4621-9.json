@@ -4,7 +4,6 @@
     "description" : "Hemoglobin S Bld PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "HemoglobinSACncPtBldOrdLabObs.v1.0.0",
   "children" : {
     "6864-3" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Hemoglobin S Bld PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "HemoglobinSACncPtBldOrdLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

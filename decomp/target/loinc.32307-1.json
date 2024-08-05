@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "32307-1",
-    "description" : "Chloride SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

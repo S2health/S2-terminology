@@ -4,7 +4,6 @@
     "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "Neutrophils100leukocytesNFrPtBldQnLabObs.v1.0.0",
   "children" : {
     "770-8" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "Neutrophils100leukocytesNFrPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +40,6 @@
         "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "Neutrophils100leukocytesNFrPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

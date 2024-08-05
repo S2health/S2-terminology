@@ -4,22 +4,7 @@
     "description" : "Opiates Urine PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "OpiatesACncPtUrineOrdLabObs.v1.0.0",
   "children" : {
-    "18390-5" : {
-      "source" : {
-        "code" : "18390-5",
-        "description" : "Opiates Urine PrThr Pt Ord Confirm",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "3879-4",
-        "description" : "Opiates Urine PrThr Pt Ord",
-        "system" : "loinc"
-      },
-      "model" : "OpiatesACncPtUrineOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
-    },
     "19295-5" : {
       "source" : {
         "code" : "19295-5",
@@ -31,7 +16,19 @@
         "description" : "Opiates Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "OpiatesACncPtUrineOrdLabObs.v1.0.0",
+      "descriptors" : [ ]
+    },
+    "18390-5" : {
+      "source" : {
+        "code" : "18390-5",
+        "description" : "Opiates Urine PrThr Pt Ord Confirm",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3879-4",
+        "description" : "Opiates Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
       "descriptors" : [ ]
     },
     "70151-6" : {
@@ -45,7 +42,6 @@
         "description" : "Opiates Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "OpiatesACncPtUrineOrdLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

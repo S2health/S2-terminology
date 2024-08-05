@@ -4,7 +4,6 @@
     "description" : "Streptococcus agalactiae DNA [Presence] in Specimen by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "StreptococcusagalactiaeDNAPrThrPtXXXOrdMolgen.v1.0.0",
   "children" : {
     "48683-7" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Streptococcus agalactiae DNA [Presence] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "StreptococcusagalactiaeDNAPrThrPtXXXOrdMolgen.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

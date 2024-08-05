@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "55420-4",
-    "description" : "Hours after meal Patient Time Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

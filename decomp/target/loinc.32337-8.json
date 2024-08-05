@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "32337-8",
-    "description" : "Protein MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

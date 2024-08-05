@@ -4,7 +4,6 @@
     "description" : "Escherichia coli enterotoxigenic ltA+st1a+st1b genes [Presence] in Stool",
     "system" : "loinc"
   },
-  "modelName" : "EscherichiacolienterotoxigenicltAst1ast1bgenesPrThrPtStoolOrd.v1.0.0",
   "children" : {
     "80351-0" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Escherichia coli enterotoxigenic ltA+st1a+st1b genes [Presence] in Stool",
         "system" : "loinc"
       },
-      "model" : "EscherichiacolienterotoxigenicltAst1ast1bgenesPrThrPtStoolOrd.v1.0.0",
       "descriptors" : [ ]
     }
   }

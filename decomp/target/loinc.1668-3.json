@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "1668-3",
-    "description" : "17-Hydroxyprogesterone Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "Num17MinusHydroxyprogesteroneMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

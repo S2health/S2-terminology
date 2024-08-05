@@ -4,7 +4,6 @@
     "description" : "Erythrocytes [Presence] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "ErythrocytesPrThrPtUrinesedOrd.v1.0.0",
   "children" : {
     "32776-7" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Erythrocytes [Presence] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "ErythrocytesPrThrPtUrinesedOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

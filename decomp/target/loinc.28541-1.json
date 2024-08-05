@@ -4,7 +4,6 @@
     "description" : "Metamyelocytes/100 leukocytes Bld NFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "Metamyelocytes100leukocytesNFrPtBldQnLabObs.v1.0.0",
   "children" : {
     "740-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Metamyelocytes/100 leukocytes Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "Metamyelocytes100leukocytesNFrPtBldQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

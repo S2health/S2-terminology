@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "50196-5",
-    "description" : "Occult blood panel Stool - Pt -",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

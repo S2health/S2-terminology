@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "20402-4",
-    "description" : "Cells.CD16+CD56+ Bld NCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CellsCD16CD56NCncPtBldQnLabObs.v1.0.0",
-  "children" : { }
-}

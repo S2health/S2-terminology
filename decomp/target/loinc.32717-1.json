@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "32717-1",
-    "description" : "Sodium BldA SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

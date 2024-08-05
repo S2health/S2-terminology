@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "6276-0",
-    "description" : "Triticum aestivum Ab.IgE Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "TriticumAestivumAbIgEACncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

@@ -4,7 +4,6 @@
     "description" : "Cholesterol.in LDL Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "CholesterolInLDLMCncPtSerPlasQnLabObs.v1.0.0",
   "children" : {
     "13457-7" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Cholesterol.in LDL Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "CholesterolInLDLMCncPtSerPlasQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +40,6 @@
         "description" : "Cholesterol.in LDL Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "CholesterolInLDLMCncPtSerPlasQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

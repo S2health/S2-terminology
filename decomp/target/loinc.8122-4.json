@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "8122-4",
-    "description" : "Cells.CD3 Bld NCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CellsCD3NCncPtBldQnLabObs.v1.0.0",
-  "children" : { }
-}

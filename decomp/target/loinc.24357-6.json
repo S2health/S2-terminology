@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "24357-6",
-    "description" : "Urinalysis macro (dipstick) panel Urine - Pt -",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

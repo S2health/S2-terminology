@@ -4,7 +4,6 @@
     "description" : "Bacteria [Presence] in Urine sediment by Microscopy",
     "system" : "loinc"
   },
-  "modelName" : "BacteriaPrThrPtUrinesedOrdMicroscopy.v1.0.0",
   "children" : {
     "25145-4" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Bacteria [Presence] in Urine sediment by Microscopy",
         "system" : "loinc"
       },
-      "model" : "BacteriaPrThrPtUrinesedOrdMicroscopy.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

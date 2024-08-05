@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "2000-8",
-    "description" : "Calcium Ser/Plas SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

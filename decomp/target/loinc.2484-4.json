@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2484-4",
-    "description" : "Insulin-like growth factor-I Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "InsulinMinusLikeGrowthFactorMinusIMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

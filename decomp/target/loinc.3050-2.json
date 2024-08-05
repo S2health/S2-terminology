@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "3050-2",
-    "description" : "Triiodothyronine resin uptake (T3RU) Ser/Plas NFr Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "TriiodothyronineResinUptakeNFrPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "24351-9",
-    "description" : "Protein fractions panel Ser/Plas - Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

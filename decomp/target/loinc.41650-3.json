@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "41650-3",
-    "description" : "Chloride BldA SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

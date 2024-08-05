@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "5671-3",
-    "description" : "Lead Bld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "LeadMCncPtBldQnLabObs.v1.0.0",
-  "children" : { }
-}

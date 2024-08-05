@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "38230-9",
-    "description" : "Calcium.ionized Bld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

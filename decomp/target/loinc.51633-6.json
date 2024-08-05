@@ -4,7 +4,6 @@
     "description" : "Platelets.reticulated/100 platelets Bld NFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "PlateletsReticulated100PlateletsNFrPtBldQnLabObs.v1.0.0",
   "children" : {
     "71693-6" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Platelets.reticulated/100 platelets Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "PlateletsReticulated100PlateletsNFrPtBldQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

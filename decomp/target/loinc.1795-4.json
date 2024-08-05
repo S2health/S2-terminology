@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "1795-4",
-    "description" : "Amylase Body fld CCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "AmylaseCCncPtBodyFldQnLabObs.v1.0.0",
-  "children" : { }
-}

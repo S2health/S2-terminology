@@ -4,7 +4,6 @@
     "description" : "Nitrite [Presence] in Urine",
     "system" : "loinc"
   },
-  "modelName" : "NitritePrThrPtUrineOrd.v1.0.0",
   "children" : {
     "50558-6" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Nitrite [Presence] in Urine",
         "system" : "loinc"
       },
-      "model" : "NitritePrThrPtUrineOrd.v1.0.0",
       "descriptors" : [ ]
     },
     "5802-4" : {
@@ -31,7 +29,6 @@
         "description" : "Nitrite [Presence] in Urine",
         "system" : "loinc"
       },
-      "model" : "NitritePrThrPtUrineOrd.v1.0.0",
       "descriptors" : [ ]
     }
   }

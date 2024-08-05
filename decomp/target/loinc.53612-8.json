@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "53612-8",
-    "description" : "Urate Body fld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "UrateMCncPtBodyFldQnLabObs.v1.0.0",
-  "children" : { }
-}

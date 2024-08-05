@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2020-6",
-    "description" : "Carbon dioxide BldC PPres Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CarbonDioxidePPresPtBldCQnLabObs.v1.0.0",
-  "children" : { }
-}

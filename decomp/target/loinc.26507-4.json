@@ -4,7 +4,6 @@
     "description" : "Neutrophils.band form Bld NCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "NeutrophilsbandformNCncPtBldQnLabObs.v1.0.0",
   "children" : {
     "763-3" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Neutrophils.band form Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "NeutrophilsbandformNCncPtBldQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

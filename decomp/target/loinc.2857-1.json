@@ -4,7 +4,6 @@
     "description" : "Prostate specific Ag Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "ProstateSpecificAgMCncPtSerPlasQnLabObs.v1.0.0",
   "children" : {
     "83112-3" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Prostate specific Ag Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "ProstateSpecificAgMCncPtSerPlasQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

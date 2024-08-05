@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "1990-1",
-    "description" : "Cholecalciferol Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

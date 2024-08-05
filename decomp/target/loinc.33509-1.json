@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "33509-1",
-    "description" : "Hemoglobin Body fld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

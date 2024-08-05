@@ -4,7 +4,6 @@
     "description" : "Thyroglobulin Ab Ser/Plas ACnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "ThyroglobulinAbACncPtSerQnLabObs.v1.0.0",
   "children" : {
     "56536-6" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Thyroglobulin Ab Ser/Plas ACnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "ThyroglobulinAbACncPtSerQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

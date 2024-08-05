@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2744-1",
-    "description" : "PH BldA LsCnc Pt SemiQn",
-    "system" : "loinc"
-  },
-  "modelName" : "PHLsCncPtBldAQnLabObs.v1.0.0",
-  "children" : { }
-}

@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "6248-9",
-    "description" : "Glycine max Ab.IgE Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "GlycineMaxAbIgEACncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

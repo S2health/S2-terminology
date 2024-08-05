@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "2095-8",
-    "description" : "Cholesterol.in HDL/Cholesterol.total Ser/Plas MRto Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

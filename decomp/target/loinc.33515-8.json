@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "33515-8",
-    "description" : "Clarity Type Pt Nom",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

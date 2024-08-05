@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "35254-2",
-    "description" : "Ammonia Plas MSCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

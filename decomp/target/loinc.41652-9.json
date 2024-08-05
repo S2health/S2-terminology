@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "41652-9",
-    "description" : "Glucose BldV MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

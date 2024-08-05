@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "3562-6",
-    "description" : "Digoxin.free Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

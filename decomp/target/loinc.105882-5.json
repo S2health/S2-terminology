@@ -1,0 +1,22 @@
+{
+  "target" : {
+    "code" : "105882-5",
+    "description" : "Cryptosporidium sp DNA [Presence] in Stool",
+    "system" : "loinc"
+  },
+  "children" : {
+    "82205-6" : {
+      "source" : {
+        "code" : "82205-6",
+        "description" : "Cryptosporidium sp DNA Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105882-5",
+        "description" : "Cryptosporidium sp DNA [Presence] in Stool",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

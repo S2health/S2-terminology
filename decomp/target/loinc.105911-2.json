@@ -1,0 +1,44 @@
+{
+  "target" : {
+    "code" : "105911-2",
+    "description" : "SARS-CoV-2 (COVID-19) IgG Ab [Presence] in Specimen",
+    "system" : "loinc"
+  },
+  "children" : {
+    "94507-1" : {
+      "source" : {
+        "code" : "94507-1",
+        "description" : "SARS coronavirus 2 Ab.IgG Ser/Plas/Bld PrThr Pt Ord IA.rapid",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105911-2",
+        "description" : "SARS-CoV-2 (COVID-19) IgG Ab [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708099001",
+          "description" : "Rapid immunoassay technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "788707000",
+          "description" : "Plasma specimen or serum specimen or whole blood specimen",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

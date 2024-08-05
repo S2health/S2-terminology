@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2821-7",
-    "description" : "Potassium Body fld SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "PotassiumSCncPtBodyFldQnLabObs.v1.0.0",
-  "children" : { }
-}

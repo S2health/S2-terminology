@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "2112-1",
-    "description" : "Choriogonadotropin.beta subunit (pregnancy test) Urine PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

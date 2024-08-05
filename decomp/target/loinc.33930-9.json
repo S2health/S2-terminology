@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "33930-9",
-    "description" : "Coagulation surface induced.hexagonal phase phospholipid PPP PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "modelName" : "LupusAnticoagulantNeutralizationHexagonalPhasePhospholipidACncPtPPPOrdLabObs.v1.0.0",
-  "children" : { }
-}

@@ -4,7 +4,6 @@
     "description" : "Epstein Barr virus capsid Ab.IgG Ser PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "EpsteinBarrviruscapsidAbIgGPrThrPtSerOrdLabObs.v1.0.0",
   "children" : {
     "24114-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Epstein Barr virus capsid Ab.IgG Ser PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "EpsteinBarrviruscapsidAbIgGPrThrPtSerOrdLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

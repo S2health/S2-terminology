@@ -4,7 +4,6 @@
     "description" : "Helicobacter pylori Ag Stool PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "HelicobacterPyloriAgACncPtStoolOrdLabObs.v1.0.0",
   "children" : {
     "17780-8" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Helicobacter pylori Ag Stool PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "HelicobacterPyloriAgACncPtStoolOrdLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

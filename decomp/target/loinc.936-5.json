@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "936-5",
-    "description" : "Blood product unit identifier BPU ID Pt Nom",
-    "system" : "loinc"
-  },
-  "modelName" : "BloodProductUnitIdentifierPridPtBPUNomLabObs.v1.0.0",
-  "children" : { }
-}

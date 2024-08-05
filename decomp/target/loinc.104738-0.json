@@ -4,7 +4,6 @@
     "description" : "Hemoglobin.gastrointestinal.lower [Presence] in Stool",
     "system" : "loinc"
   },
-  "modelName" : "HemoglobingastrointestinallowerPrThrPtStoolOrd.v1.0.0",
   "children" : {
     "29771-3" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Hemoglobin.gastrointestinal.lower [Presence] in Stool",
         "system" : "loinc"
       },
-      "model" : "HemoglobingastrointestinallowerPrThrPtStoolOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

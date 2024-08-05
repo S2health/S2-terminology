@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "17857-4",
-    "description" : "Rheumatoid factor Ser Titr Pt SemiQn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

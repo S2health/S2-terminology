@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "3024-7",
-    "description" : "Thyroxine.free Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ThyroxineFreeMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

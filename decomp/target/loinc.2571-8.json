@@ -4,7 +4,6 @@
     "description" : "Triglyceride Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "TriglycerideMCncPtSerPlasQnLabObs.v1.0.0",
   "children" : {
     "12951-0" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Triglyceride Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "TriglycerideMCncPtSerPlasQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

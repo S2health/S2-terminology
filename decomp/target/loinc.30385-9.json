@@ -4,7 +4,6 @@
     "description" : "Erythrocyte distribution width RBC Ratio Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "ErythrocyteDistributionWidthRatioPtRBCQnLabObs.v1.0.0",
   "children" : {
     "788-0" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Erythrocyte distribution width RBC Ratio Pt Qn",
         "system" : "loinc"
       },
-      "model" : "ErythrocyteDistributionWidthRatioPtRBCQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

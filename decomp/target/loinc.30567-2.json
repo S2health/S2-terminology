@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "30567-2",
-    "description" : "Thyroid stimulating immunoglobulins Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ThyroidStimulatingImmunoglobulinsACncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

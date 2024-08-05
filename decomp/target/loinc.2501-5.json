@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "2501-5",
-    "description" : "Iron binding capacity.unsaturated Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

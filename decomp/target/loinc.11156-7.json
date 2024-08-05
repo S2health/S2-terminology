@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "11156-7",
-    "description" : "Leukocyte morphology finding Bld Prid Pt Nom",
-    "system" : "loinc"
-  },
-  "modelName" : "LeukocytemorphologyfindingPridPtBldNomLabObs.v1.0.0",
-  "children" : { }
-}

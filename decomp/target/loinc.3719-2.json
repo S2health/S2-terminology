@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "3719-2",
-    "description" : "Lithium Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "LithiumMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

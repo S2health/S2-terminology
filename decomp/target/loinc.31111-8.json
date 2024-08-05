@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "31111-8",
-    "description" : "Reticulocytes/100 erythrocytes hematocrit adjusted Bld NFr Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

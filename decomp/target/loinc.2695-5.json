@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2695-5",
-    "description" : "Osmolality Urine Osmol Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "OsmolalityOsmolPtUrineQnLabObs.v1.0.0",
-  "children" : { }
-}

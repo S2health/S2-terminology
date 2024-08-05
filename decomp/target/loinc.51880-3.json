@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "51880-3",
-    "description" : "Packed erythrocytes units given BPU Num Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

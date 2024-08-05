@@ -4,7 +4,6 @@
     "description" : "Human coronavirus OC43 RNA [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "HumancoronavirusOC43RNAPrThrPtXXXOrd.v1.0.0",
   "children" : {
     "41009-2" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Human coronavirus OC43 RNA [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "HumancoronavirusOC43RNAPrThrPtXXXOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

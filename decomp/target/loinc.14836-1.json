@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "14836-1",
-    "description" : "Methotrexate Ser/Plas SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "MethotrexateSCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

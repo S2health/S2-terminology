@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "5908-9",
-    "description" : "Platelets.giant Bld PrThr Pt Ord Microscopy.light",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

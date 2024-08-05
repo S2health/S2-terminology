@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "4024-6",
-    "description" : "Salicylates Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

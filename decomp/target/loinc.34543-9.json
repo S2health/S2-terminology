@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "34543-9",
-    "description" : "Bilirubin direct & total panel Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

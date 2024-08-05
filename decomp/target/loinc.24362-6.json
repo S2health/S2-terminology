@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "24362-6",
-    "description" : "Renal function 2000 panel Ser/Plas - Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

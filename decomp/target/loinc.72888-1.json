@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "72888-1",
-    "description" : "3-epi-25-Hydroxyvitamin D3/25-hydroxyvitamin D.total Ser/Plas MFr Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

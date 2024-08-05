@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "33935-8",
-    "description" : "Cyclic citrullinated peptide Ab.IgG Ser/Plas ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CyclicCitrullinatedPeptideAbIgGACncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

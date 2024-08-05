@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "18261-8",
-    "description" : "Cholesterol.in LDL Ser/Plas.ultracentrifugate MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CholesterolinLDLMCncPtSerPlasultracentrifugateQnLabObs.v1.0.0",
-  "children" : { }
-}

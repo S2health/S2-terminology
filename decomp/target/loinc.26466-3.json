@@ -4,7 +4,6 @@
     "description" : "Leukocytes Body fld NCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "LeukocytesNCncPtBodyfldQnLabObs.v1.0.0",
   "children" : {
     "57845-0" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Leukocytes Body fld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "LeukocytesNCncPtBodyfldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +40,6 @@
         "description" : "Leukocytes Body fld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "LeukocytesNCncPtBodyfldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

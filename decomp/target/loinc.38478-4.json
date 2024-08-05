@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "38478-4",
-    "description" : "Biotinidase Bld.dot PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "modelName" : "BiotinidasePrThrPtBlddotOrdLabObs.v1.0.0",
-  "children" : { }
-}

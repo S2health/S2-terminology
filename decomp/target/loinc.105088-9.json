@@ -4,7 +4,6 @@
     "description" : "Epithelial cells.non-squamous [Presence] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "EpithelialcellsnonsquamousPrThrPtUrinesedOrd.v1.0.0",
   "children" : {
     "53978-3" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Epithelial cells.non-squamous [Presence] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "EpithelialcellsnonsquamousPrThrPtUrinesedOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

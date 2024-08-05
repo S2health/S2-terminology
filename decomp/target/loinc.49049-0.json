@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "49049-0",
-    "description" : "Collection time Specimen TmStp Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CollectionTimeTmStpPtXXXQnLabObs.v1.0.0",
-  "children" : { }
-}

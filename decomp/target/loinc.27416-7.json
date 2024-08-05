@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "27416-7",
-    "description" : "SCL-70 extractable nuclear Ab Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "SCLMinus70ExtractableNuclearAbACncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

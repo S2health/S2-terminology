@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "33254-4",
-    "description" : "PH adjusted to patient's actual temperature BldA LsCnc Pt SemiQn",
-    "system" : "loinc"
-  },
-  "modelName" : "PHAdjustedToPatientsActualTemperatureLsCncPtBldAQnLabObs.v1.0.0",
-  "children" : { }
-}

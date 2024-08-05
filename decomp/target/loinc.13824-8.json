@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "13824-8",
-    "description" : "Arsenic/Creatinine Urine MRto 24H Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ArsenicCreatinineMCrto24HUrineQnLabObs.v1.0.0",
-  "children" : { }
-}

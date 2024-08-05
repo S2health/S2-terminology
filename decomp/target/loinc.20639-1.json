@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "20639-1",
-    "description" : "Aspartate Ser/Plas SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "AspartateSCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

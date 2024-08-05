@@ -4,7 +4,6 @@
     "description" : "Human papilloma virus E6+E7 mRNA [Presence] in Cervix by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "Humanpapillomavirus1618313335394551525658596668E6E7mRNAPrThrPtCvxOrdMolgen.v1.0.0",
   "children" : {
     "69002-4" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Human papilloma virus E6+E7 mRNA [Presence] in Cervix by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "Humanpapillomavirus1618313335394551525658596668E6E7mRNAPrThrPtCvxOrdMolgen.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

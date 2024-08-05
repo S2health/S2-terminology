@@ -1,0 +1,33 @@
+{
+  "target" : {
+    "code" : "105872-6",
+    "description" : "Platelets Large [Presence] in Blood",
+    "system" : "loinc"
+  },
+  "children" : {
+    "34167-7" : {
+      "source" : {
+        "code" : "34167-7",
+        "description" : "Platelets.large Bld PrThr Pt Ord Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105872-6",
+        "description" : "Platelets Large [Presence] in Blood",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

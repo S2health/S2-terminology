@@ -4,7 +4,6 @@
     "description" : "Lymphocytes Bld NCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "LymphocytesNCncPtBldQnLabObs.v1.0.0",
   "children" : {
     "731-0" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Lymphocytes Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "LymphocytesNCncPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +40,6 @@
         "description" : "Lymphocytes Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "LymphocytesNCncPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

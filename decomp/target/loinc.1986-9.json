@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "1986-9",
-    "description" : "C peptide Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CPeptideMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

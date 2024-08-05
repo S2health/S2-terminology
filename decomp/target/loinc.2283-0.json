@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2283-0",
-    "description" : "Folate RBC MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "FolateMCncPtRBCQnLabObs.v1.0.0",
-  "children" : { }
-}

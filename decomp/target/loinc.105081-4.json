@@ -4,8 +4,31 @@
     "description" : "Rheumatoid factor [Units/volume] in Plasma",
     "system" : "loinc"
   },
-  "modelName" : "RheumatoidfactorACncPtPlasQn.v1.0.0",
   "children" : {
+    "11572-5" : {
+      "source" : {
+        "code" : "11572-5",
+        "description" : "Rheumatoid factor Ser/Plas ACnc Pt Qn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105081-4",
+        "description" : "Rheumatoid factor [Units/volume] in Plasma",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "122592007",
+          "description" : "Acellular blood (serum or plasma) specimen",
+          "system" : "snomed"
+        }
+      } ]
+    },
     "15205-8" : {
       "source" : {
         "code" : "15205-8",
@@ -17,7 +40,6 @@
         "description" : "Rheumatoid factor [Units/volume] in Plasma",
         "system" : "loinc"
       },
-      "model" : "RheumatoidfactorACncPtPlasQn.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -38,31 +60,6 @@
         "value" : {
           "code" : "119364003",
           "description" : "Serum specimen",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "11572-5" : {
-      "source" : {
-        "code" : "11572-5",
-        "description" : "Rheumatoid factor Ser/Plas ACnc Pt Qn",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "105081-4",
-        "description" : "Rheumatoid factor [Units/volume] in Plasma",
-        "system" : "loinc"
-      },
-      "model" : "RheumatoidfactorACncPtPlasQn.v1.0.0",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "66746-9",
-          "description" : "Specimen type",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "122592007",
-          "description" : "Acellular blood (serum or plasma) specimen",
           "system" : "snomed"
         }
       } ]

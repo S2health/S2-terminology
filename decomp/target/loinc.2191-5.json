@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "2191-5",
-    "description" : "Dehydroepiandrosterone sulfate Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

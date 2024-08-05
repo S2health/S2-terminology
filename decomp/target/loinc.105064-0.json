@@ -4,7 +4,6 @@
     "description" : "Staphylococcus sp identified in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "StaphylococcusspidentifiedPridPtXXXNom.v1.0.0",
   "children" : {
     "20966-8" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Staphylococcus sp identified in Specimen",
         "system" : "loinc"
       },
-      "model" : "StaphylococcusspidentifiedPridPtXXXNom.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

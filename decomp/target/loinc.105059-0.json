@@ -4,7 +4,6 @@
     "description" : "Microscopic observation [Identifier] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "MicroscopicobservationPridPtXXXNom.v1.0.0",
   "children" : {
     "648-6" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Microscopic observation [Identifier] in Specimen",
         "system" : "loinc"
       },
-      "model" : "MicroscopicobservationPridPtXXXNom.v1.0.0",
       "descriptors" : [ ]
     },
     "676-7" : {
@@ -31,7 +29,6 @@
         "description" : "Microscopic observation [Identifier] in Specimen",
         "system" : "loinc"
       },
-      "model" : "MicroscopicobservationPridPtXXXNom.v1.0.0",
       "descriptors" : [ ]
     },
     "14361-0" : {
@@ -45,7 +42,6 @@
         "description" : "Microscopic observation [Identifier] in Specimen",
         "system" : "loinc"
       },
-      "model" : "MicroscopicobservationPridPtXXXNom.v1.0.0",
       "descriptors" : [ ]
     }
   }

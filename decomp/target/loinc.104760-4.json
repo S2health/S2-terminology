@@ -4,7 +4,6 @@
     "description" : "Cytomegalovirus DNA [Presence] in Specimen by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "CytomegalovirusDNAPrThrPtXXXOrdMolgen.v1.0.0",
   "children" : {
     "5000-5" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Cytomegalovirus DNA [Presence] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "CytomegalovirusDNAPrThrPtXXXOrdMolgen.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "30353-7",
-    "description" : "Hemoglobin BldCoV MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "HemoglobinMCncPtBldCoVQnLabObs.v1.0.0",
-  "children" : { }
-}

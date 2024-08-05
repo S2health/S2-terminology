@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "24467-3",
-    "description" : "Cells.CD3+CD4+ Bld NCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CellsCD3CD4NCncPtBldQnLabObs.v1.0.0",
-  "children" : { }
-}

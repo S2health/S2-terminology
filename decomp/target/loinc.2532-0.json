@@ -4,7 +4,6 @@
     "description" : "Lactate dehydrogenase Ser/Plas CCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "LactateDehydrogenaseCCncPtSerPlasQnLabObs.v1.0.0",
   "children" : {
     "14805-6" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Lactate dehydrogenase Ser/Plas CCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "LactateDehydrogenaseCCncPtSerPlasQnLabObs.v1.0.0",
       "descriptors" : [ ]
     },
     "14804-9" : {
@@ -31,7 +29,6 @@
         "description" : "Lactate dehydrogenase Ser/Plas CCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "LactateDehydrogenaseCCncPtSerPlasQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

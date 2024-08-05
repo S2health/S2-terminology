@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "34571-0",
-    "description" : "Coagulation surface induced.lupus sensitive PPP Time Pt Qn Coag",
-    "system" : "loinc"
-  },
-  "modelName" : "CoagulationsurfaceinducedlupussensitiveTimePtPPPQnCoagLabObs.v1.0.0",
-  "children" : { }
-}

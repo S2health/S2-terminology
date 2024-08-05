@@ -4,7 +4,6 @@
     "description" : "Basophilic stippling [Presence] in Blood",
     "system" : "loinc"
   },
-  "modelName" : "BasophilicstipplingPrThrPtBldOrd.v1.0.0",
   "children" : {
     "703-9" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Basophilic stippling [Presence] in Blood",
         "system" : "loinc"
       },
-      "model" : "BasophilicstipplingPrThrPtBldOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

@@ -4,7 +4,6 @@
     "description" : "Granulocytes.immature/100 leukocytes Bld NFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "GranulocytesImmature100LeukocytesNFrPtBldQnLabObs.v1.0.0",
   "children" : {
     "71695-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Granulocytes.immature/100 leukocytes Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "GranulocytesImmature100LeukocytesNFrPtBldQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

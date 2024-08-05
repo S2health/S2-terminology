@@ -4,7 +4,6 @@
     "description" : "Tacrolimus Bld MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "TacrolimusMCncPtBldQnLabObs.v1.0.0",
   "children" : {
     "74097-7" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Tacrolimus Bld MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "TacrolimusMCncPtBldQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "32019-2",
-    "description" : "Hepatitis B virus surface Ab Ser Titr Pt SemiQn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

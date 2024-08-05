@@ -1,0 +1,22 @@
+{
+  "target" : {
+    "code" : "105892-4",
+    "description" : "Vibrio cholerae DNA [Presence] in Specimen",
+    "system" : "loinc"
+  },
+  "children" : {
+    "82201-5" : {
+      "source" : {
+        "code" : "82201-5",
+        "description" : "Vibrio cholerae DNA Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105892-4",
+        "description" : "Vibrio cholerae DNA [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "descriptors" : [ ]
+    }
+  }
+}

@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "6212-5",
-    "description" : "Penicillium notatum Ab.IgE Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "PenicilliumNotatumAbIgEACncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

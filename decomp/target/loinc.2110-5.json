@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2110-5",
-    "description" : "Choriogonadotropin.beta subunit (pregnancy test) Ser/Plas PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "modelName" : "ChoriogonadotropinBetaSubunitPregnancyTestPrThrPtSerPlasOrdLabObs.v1.0.0",
-  "children" : { }
-}

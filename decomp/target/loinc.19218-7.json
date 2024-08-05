@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "19218-7",
-    "description" : "Oxygen content BldA SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "OxygenContentSCncPtBldAQnLabObs.v1.0.0",
-  "children" : { }
-}

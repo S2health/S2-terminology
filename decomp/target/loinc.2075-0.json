@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2075-0",
-    "description" : "Chloride Ser/Plas SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ChlorideSCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

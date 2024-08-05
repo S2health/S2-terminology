@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2342-4",
-    "description" : "Glucose CSF MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "GlucoseMCncPtCSFQnLabObs.v1.0.0",
-  "children" : { }
-}

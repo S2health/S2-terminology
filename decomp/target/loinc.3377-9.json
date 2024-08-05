@@ -4,7 +4,6 @@
     "description" : "Barbiturates Urine PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "BarbituratesACncPtUrineOrdLabObs.v1.0.0",
   "children" : {
     "19270-8" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Barbiturates Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "BarbituratesACncPtUrineOrdLabObs.v1.0.0",
       "descriptors" : [ ]
     },
     "70155-7" : {
@@ -31,7 +29,6 @@
         "description" : "Barbiturates Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "BarbituratesACncPtUrineOrdLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

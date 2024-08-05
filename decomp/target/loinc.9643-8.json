@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "9643-8",
-    "description" : "Creatine kinase.MM/Creatine kinase.total Ser/Plas CFr Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

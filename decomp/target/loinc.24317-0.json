@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "24317-0",
-    "description" : "Hemogram & platelets WO differential panel Bld - Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

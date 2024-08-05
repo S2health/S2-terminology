@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "43820-0",
-    "description" : "Bilirubin.glucuronidated+Bilirubin.albumin bound Ser/Plas PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

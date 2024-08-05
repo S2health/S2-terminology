@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "42637-9",
-    "description" : "Natriuretic peptide.B Bld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "NatriureticpeptideBMCncPtBldQnLabObs.v1.0.0",
-  "children" : { }
-}

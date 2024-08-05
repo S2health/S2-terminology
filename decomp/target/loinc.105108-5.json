@@ -4,7 +4,6 @@
     "description" : "Erythrocytes [#/volume] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "ErythrocytesNCncPtUrinesedQn.v1.0.0",
   "children" : {
     "5808-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Erythrocytes [#/volume] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "ErythrocytesNCncPtUrinesedQn.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

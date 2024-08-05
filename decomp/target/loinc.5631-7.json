@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "5631-7",
-    "description" : "Copper Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CopperMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

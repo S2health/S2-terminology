@@ -4,7 +4,6 @@
     "description" : "Urate crystals amorphous [Presence] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "UratecrystalsamorphousPrThrPtUrinesedOrd.v1.0.0",
   "children" : {
     "12454-5" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Urate crystals amorphous [Presence] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "UratecrystalsamorphousPrThrPtUrinesedOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

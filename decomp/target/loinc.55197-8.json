@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "55197-8",
-    "description" : "Transfusion status Patient Find Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

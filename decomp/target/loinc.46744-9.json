@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "46744-9",
-    "description" : "Organic acidemias Bld.dot Imp Pt Nom",
-    "system" : "loinc"
-  },
-  "modelName" : "OrganicacidemiasImpPtBlddotNomLabObs.v1.0.0",
-  "children" : { }
-}

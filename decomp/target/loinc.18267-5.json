@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "18267-5",
-    "description" : "Cells.CD16+CD56+/100 cells Bld NFr Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CellsCD16CD56100cellsNFrPtBldQnLabObs.v1.0.0",
-  "children" : { }
-}

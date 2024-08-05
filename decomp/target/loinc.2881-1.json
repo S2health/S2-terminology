@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2881-1",
-    "description" : "Protein Body fld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ProteinMCncPtBodyFldQnLabObs.v1.0.0",
-  "children" : { }
-}

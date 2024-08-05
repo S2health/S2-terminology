@@ -5,10 +5,10 @@
     "system" : "loinc"
   },
   "children" : {
-    "50561-0" : {
+    "5804-0" : {
       "source" : {
-        "code" : "50561-0",
-        "description" : "Protein Urine MCnc Pt SemiQn Test strip.automated",
+        "code" : "5804-0",
+        "description" : "Protein Urine MCnc Pt SemiQn Test strip",
         "system" : "loinc"
       },
       "target" : {
@@ -18,10 +18,10 @@
       },
       "descriptors" : [ ]
     },
-    "5804-0" : {
+    "50561-0" : {
       "source" : {
-        "code" : "5804-0",
-        "description" : "Protein Urine MCnc Pt SemiQn Test strip",
+        "code" : "50561-0",
+        "description" : "Protein Urine MCnc Pt SemiQn Test strip.automated",
         "system" : "loinc"
       },
       "target" : {

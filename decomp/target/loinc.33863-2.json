@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "33863-2",
-    "description" : "Cystatin C Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CystatinCMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

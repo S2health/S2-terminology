@@ -4,7 +4,6 @@
     "description" : "DNA double strand Ab.IgG Ser ACnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "DNADoubleStrandAbIgGACncPtSerQnLabObs.v1.0.0",
   "children" : {
     "58465-6" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "DNA double strand Ab.IgG Ser ACnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "DNADoubleStrandAbIgGACncPtSerQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

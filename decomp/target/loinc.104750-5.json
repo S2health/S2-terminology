@@ -4,7 +4,6 @@
     "description" : "Ovalocytes [Presence] in Blood",
     "system" : "loinc"
   },
-  "modelName" : "OvalocytesPrThrPtBldOrd.v1.0.0",
   "children" : {
     "774-0" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Ovalocytes [Presence] in Blood",
         "system" : "loinc"
       },
-      "model" : "OvalocytesPrThrPtBldOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

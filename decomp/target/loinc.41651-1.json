@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "41651-1",
-    "description" : "Glucose BldA MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

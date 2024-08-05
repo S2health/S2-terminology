@@ -4,7 +4,6 @@
     "description" : "Granulocytes.immature Bld NCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "GranulocytesImmatureNCncPtBldQnLabObs.v1.0.0",
   "children" : {
     "53115-2" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Granulocytes.immature Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "GranulocytesImmatureNCncPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

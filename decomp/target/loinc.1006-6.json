@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "1006-6",
-    "description" : "Direct antiglobulin test.IgG specific reagent RBC Imp Pt Nom",
-    "system" : "loinc"
-  },
-  "modelName" : "DirectAntiglobulinTestIgGSpecificReagentImpPtRBCNomLabObs.v1.0.0",
-  "children" : { }
-}

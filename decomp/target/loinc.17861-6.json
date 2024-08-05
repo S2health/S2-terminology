@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "17861-6",
-    "description" : "Calcium Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CalciumMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

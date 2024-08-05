@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2458-8",
-    "description" : "IgA Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "IgAMCncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

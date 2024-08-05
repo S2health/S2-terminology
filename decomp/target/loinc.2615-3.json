@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2615-3",
-    "description" : "Methemoglobin/Hemoglobin.total BldA MFr Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "MethemoglobinHemoglobinTotalMFrPtBldAQnLabObs.v1.0.0",
-  "children" : { }
-}

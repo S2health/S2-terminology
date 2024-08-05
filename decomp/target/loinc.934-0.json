@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "934-0",
-    "description" : "Blood product unit ID Dose Num Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -4,7 +4,6 @@
     "description" : "Troponin T.cardiac Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "TroponinTcardiacMCncPtSerPlasQnLabObs.v1.0.0",
   "children" : {
     "67151-1" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Troponin T.cardiac Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "TroponinTcardiacMCncPtSerPlasQnLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

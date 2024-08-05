@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "24007-7",
-    "description" : "Epstein Barr virus early Ab.IgG Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

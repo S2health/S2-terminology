@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "26752-6",
-    "description" : "Creatinine renal clearance Urine+Ser/Plas VRat 2H Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

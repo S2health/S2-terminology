@@ -1,0 +1,33 @@
+{
+  "target" : {
+    "code" : "105873-4",
+    "description" : "Other cells [#/volume] in Blood",
+    "system" : "loinc"
+  },
+  "children" : {
+    "51585-8" : {
+      "source" : {
+        "code" : "51585-8",
+        "description" : "Other cells Bld NCnc Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105873-4",
+        "description" : "Other cells [#/volume] in Blood",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "51637-7",
-    "description" : "Plateletcrit Bld VFr Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

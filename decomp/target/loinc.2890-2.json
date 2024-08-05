@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2890-2",
-    "description" : "Protein/Creatinine Urine MRto Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ProteinCreatinineMCrtoPtUrineQnLabObs.v1.0.0",
-  "children" : { }
-}

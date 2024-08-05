@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "34532-2",
-    "description" : "Blood type & Indirect antibody screen panel Bld - Pt -",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -4,33 +4,7 @@
     "description" : "Bilirubin.total [Mass/volume] in Urine",
     "system" : "loinc"
   },
-  "modelName" : "BilirubinMCncPtUrineQn.v1.0.0",
   "children" : {
-    "53327-3" : {
-      "source" : {
-        "code" : "53327-3",
-        "description" : "Bilirubin Urine MCnc Pt SemiQn Test strip.automated",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "1978-6",
-        "description" : "Bilirubin.total [Mass/volume] in Urine",
-        "system" : "loinc"
-      },
-      "model" : "BilirubinMCncPtUrineQn.v1.0.0",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "737102004",
-          "description" : "Automated test strip technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
     "20505-4" : {
       "source" : {
         "code" : "20505-4",
@@ -42,7 +16,6 @@
         "description" : "Bilirubin.total [Mass/volume] in Urine",
         "system" : "loinc"
       },
-      "model" : "BilirubinMCncPtUrineQn.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -52,6 +25,30 @@
         "value" : {
           "code" : "702660003",
           "description" : "Test strip technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "53327-3" : {
+      "source" : {
+        "code" : "53327-3",
+        "description" : "Bilirubin Urine MCnc Pt SemiQn Test strip.automated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "1978-6",
+        "description" : "Bilirubin.total [Mass/volume] in Urine",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "737102004",
+          "description" : "Automated test strip technique",
           "system" : "snomed"
         }
       } ]

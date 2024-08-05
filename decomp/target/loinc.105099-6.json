@@ -4,7 +4,6 @@
     "description" : "Yeast [Presence] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "YeastPrThrPtUrinesedOrd.v1.0.0",
   "children" : {
     "32356-8" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Yeast [Presence] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "YeastPrThrPtUrinesedOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

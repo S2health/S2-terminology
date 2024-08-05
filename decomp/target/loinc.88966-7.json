@@ -4,33 +4,7 @@
     "description" : "Hyaline casts [#/area] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "HyalinecastsNaricPtUrinesedQn.v1.0.0",
   "children" : {
-    "5796-8" : {
-      "source" : {
-        "code" : "5796-8",
-        "description" : "Hyaline casts Urine sed Naric Pt Qn Microscopy.light.LPF",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "88966-7",
-        "description" : "Hyaline casts [#/area] in Urine sediment",
-        "system" : "loinc"
-      },
-      "model" : "HyalinecastsNaricPtUrinesedQn.v1.0.0",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703451006",
-          "description" : "Low power field light microscopy technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
     "33223-9" : {
       "source" : {
         "code" : "33223-9",
@@ -42,7 +16,6 @@
         "description" : "Hyaline casts [#/area] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "HyalinecastsNaricPtUrinesedQn.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -52,6 +25,30 @@
         "value" : {
           "code" : "702659008",
           "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "5796-8" : {
+      "source" : {
+        "code" : "5796-8",
+        "description" : "Hyaline casts Urine sed Naric Pt Qn Microscopy.light.LPF",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "88966-7",
+        "description" : "Hyaline casts [#/area] in Urine sediment",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703451006",
+          "description" : "Low power field light microscopy technique",
           "system" : "snomed"
         }
       } ]

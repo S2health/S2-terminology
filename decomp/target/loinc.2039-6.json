@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2039-6",
-    "description" : "Carcinoembryonic Ag Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CarcinoembryonicAgMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

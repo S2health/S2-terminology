@@ -4,7 +4,6 @@
     "description" : "Platelets Bld NCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "PlateletsNCncPtBldQnLabObs.v1.0.0",
   "children" : {
     "777-3" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Platelets Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "PlateletsNCncPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +40,6 @@
         "description" : "Platelets Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "PlateletsNCncPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

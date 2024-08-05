@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "8116-6",
-    "description" : "Cells.CD19 Bld NCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CellsCD19NCncPtBldQnLabObs.v1.0.0",
-  "children" : { }
-}

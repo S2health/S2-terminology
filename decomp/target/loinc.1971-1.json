@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "1971-1",
-    "description" : "Bilirubin.non-glucuronidated Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

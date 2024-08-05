@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2885-2",
-    "description" : "Protein Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ProteinMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

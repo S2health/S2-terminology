@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2761-5",
-    "description" : "Phenylketones Bld PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "modelName" : "PhenylketonesACncPtBldOrdLabObs.v1.0.0",
-  "children" : { }
-}

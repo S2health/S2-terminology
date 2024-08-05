@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "5130-0",
-    "description" : "DNA double strand Ab Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "DNAdoublestrandAbACncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

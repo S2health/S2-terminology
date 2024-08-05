@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "21197-9",
-    "description" : "Cholesterol esters/Cholesterol.total Ser/Plas MFr Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

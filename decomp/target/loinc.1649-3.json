@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "1649-3",
-    "description" : "Calcitriol Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CalcitriolMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

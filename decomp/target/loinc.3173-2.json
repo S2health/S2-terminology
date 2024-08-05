@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "3173-2",
-    "description" : "Coagulation surface induced Bld Time Pt Qn Coag",
-    "system" : "loinc"
-  },
-  "modelName" : "CoagulationsurfaceinducedTimePtBldQnCoagLabObs.v1.0.0",
-  "children" : { }
-}

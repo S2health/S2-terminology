@@ -4,7 +4,6 @@
     "description" : "Hemoglobin A1c/Hemoglobin.total Bld MFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "HemoglobinA1cHemoglobinTotalMFrPtBldQnLabObs.v1.0.0",
   "children" : {
     "17856-6" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Hemoglobin A1c/Hemoglobin.total Bld MFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "HemoglobinA1cHemoglobinTotalMFrPtBldQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

@@ -4,7 +4,6 @@
     "description" : "Lymphocytes/100 leukocytes CSF NFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "Lymphocytes100leukocytesNFrPtCSFQnLabObs.v1.0.0",
   "children" : {
     "10328-3" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Lymphocytes/100 leukocytes CSF NFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "Lymphocytes100leukocytesNFrPtCSFQnLabObs.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

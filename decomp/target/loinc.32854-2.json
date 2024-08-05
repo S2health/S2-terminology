@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "32854-2",
-    "description" : "17-Hydroxyprogesterone Bld.dot PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "modelName" : "One7HydroxyprogesteronePrThrPtBlddotOrdLabObs.v1.0.0",
-  "children" : { }
-}

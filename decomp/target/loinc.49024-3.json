@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "49024-3",
-    "description" : "Differential cell count method Bld Type Pt Nom",
-    "system" : "loinc"
-  },
-  "modelName" : "DifferentialCellCountMethodTypePtBldNomLabObs.v1.0.0",
-  "children" : { }
-}

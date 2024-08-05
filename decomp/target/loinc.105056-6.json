@@ -4,7 +4,6 @@
     "description" : "Rotavirus A RNA [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "RotavirusARNAPrThrPtXXXOrd.v1.0.0",
   "children" : {
     "82212-2" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Rotavirus A RNA [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "RotavirusARNAPrThrPtXXXOrd.v1.0.0",
       "descriptors" : [ {
         "key" : {
           "code" : "66746-9",

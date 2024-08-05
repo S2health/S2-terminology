@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "16362-6",
-    "description" : "Ammonia Plas SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "AmmoniaSCncPtPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "5644-0",
-    "description" : "Ethanol Urine PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

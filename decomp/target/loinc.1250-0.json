@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "1250-0",
-    "description" : "Major crossmatch Ser/Plas Imp Pt Nom",
-    "system" : "loinc"
-  },
-  "modelName" : "MajorCrossmatchImpPtSerPlasNomLabObs.v1.0.0",
-  "children" : { }
-}

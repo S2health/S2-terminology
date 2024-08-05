@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "1753-3",
-    "description" : "Albumin Urine PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "modelName" : "AlbuminPrThrPtUrineOrdLabObs.v1.0.0",
-  "children" : { }
-}

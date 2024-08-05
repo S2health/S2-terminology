@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "1761-6",
-    "description" : "Aldolase Ser/Plas CCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "AldolaseCCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

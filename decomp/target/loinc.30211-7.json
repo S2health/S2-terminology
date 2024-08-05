@@ -4,7 +4,6 @@
     "description" : "Collection duration Specimen Time * Qn",
     "system" : "loinc"
   },
-  "modelName" : "CollectionDuration.v1.0.0",
   "children" : {
     "13362-9" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Collection duration Specimen Time * Qn",
         "system" : "loinc"
       },
-      "model" : "CollectionDuration.v1.0.0",
       "descriptors" : [ ]
     }
   }

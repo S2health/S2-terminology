@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2955-3",
-    "description" : "Sodium Urine SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "SodiumSCncPtUrineQnLabObs.v1.0.0",
-  "children" : { }
-}

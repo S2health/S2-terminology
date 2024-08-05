@@ -4,22 +4,7 @@
     "description" : "Cocaine Urine PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "CocainePrThrPtUrineOrdLabObs.v1.0.0",
   "children" : {
-    "19359-9" : {
-      "source" : {
-        "code" : "19359-9",
-        "description" : "Cocaine Urine PrThr Pt Ord Screen",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "3397-7",
-        "description" : "Cocaine Urine PrThr Pt Ord",
-        "system" : "loinc"
-      },
-      "model" : "CocainePrThrPtUrineOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
-    },
     "19360-7" : {
       "source" : {
         "code" : "19360-7",
@@ -31,7 +16,19 @@
         "description" : "Cocaine Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "CocainePrThrPtUrineOrdLabObs.v1.0.0",
+      "descriptors" : [ ]
+    },
+    "19359-9" : {
+      "source" : {
+        "code" : "19359-9",
+        "description" : "Cocaine Urine PrThr Pt Ord Screen",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3397-7",
+        "description" : "Cocaine Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
       "descriptors" : [ ]
     }
   }

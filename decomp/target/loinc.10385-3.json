@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "10385-3",
-    "description" : "Albumin concentration given Patient Type Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

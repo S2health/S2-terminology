@@ -4,7 +4,6 @@
     "description" : "Blood group antibody screen Ser/Plas PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "BloodGroupAntibodyScreenACncPtSerPlasOrdLabObs.v1.0.0",
   "children" : {
     "75263-4" : {
       "source" : {
@@ -17,7 +16,6 @@
         "description" : "Blood group antibody screen Ser/Plas PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "BloodGroupAntibodyScreenACncPtSerPlasOrdLabObs.v1.0.0",
       "descriptors" : [ ]
     }
   }

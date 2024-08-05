@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "42719-5",
-    "description" : "Bilirubin Bld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

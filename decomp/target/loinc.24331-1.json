@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "24331-1",
-    "description" : "Lipid 1996 panel Ser/Plas - Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}
