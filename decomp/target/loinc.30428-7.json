@@ -4,6 +4,7 @@
     "description" : "Erythrocyte mean corpuscular volume RBC EntVol Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.ErythrocytemeancorpuscularvolumeEntVolPtRBCQn.v1.0.0.adls",
   "children" : {
     "787-2" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Erythrocyte mean corpuscular volume RBC EntVol Pt Qn",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.ErythrocytemeancorpuscularvolumeEntVolPtRBCQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

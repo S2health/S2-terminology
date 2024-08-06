@@ -4,6 +4,7 @@
     "description" : "Bacteria identified Prid Pt Nom",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
   "children" : {
     "21020-3" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31051000205101",
+          "description" : "Anaerobic and aerobic culture technique",
+          "system" : "snomed"
+        }
+      } ]
     },
     "6463-4" : {
       "source" : {
@@ -29,6 +42,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -53,6 +67,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -77,6 +92,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -101,6 +117,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -125,6 +142,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -149,6 +167,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -173,6 +192,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -197,7 +217,19 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31051000205101",
+          "description" : "Anaerobic and aerobic culture technique",
+          "system" : "snomed"
+        }
+      } ]
     },
     "79425-5" : {
       "source" : {
@@ -210,6 +242,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -234,6 +267,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -258,6 +292,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -282,6 +317,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -306,6 +342,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -330,6 +367,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -354,6 +392,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -378,7 +417,19 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31051000205101",
+          "description" : "Anaerobic and aerobic culture technique",
+          "system" : "snomed"
+        }
+      } ]
     },
     "636-1" : {
       "source" : {
@@ -391,6 +442,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -415,6 +467,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -439,6 +492,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -463,6 +517,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -487,6 +542,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -511,6 +567,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -535,6 +592,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -559,6 +617,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -583,6 +642,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -607,6 +667,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -631,6 +692,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -655,6 +717,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -679,6 +742,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -703,6 +767,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -727,6 +792,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -751,6 +817,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -775,6 +842,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -799,6 +867,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

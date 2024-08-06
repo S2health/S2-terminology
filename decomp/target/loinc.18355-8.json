@@ -4,6 +4,7 @@
     "description" : "Methylenedioxyamphetamine Urine MCnc Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.MethylenedioxyamphetamineMCncPtUrineQn.v1.0.0.adls",
   "children" : {
     "20545-0" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Methylenedioxyamphetamine Urine MCnc Pt Qn",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.MethylenedioxyamphetamineMCncPtUrineQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

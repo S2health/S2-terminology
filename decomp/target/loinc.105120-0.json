@@ -4,6 +4,7 @@
     "description" : "Epithelial cells.squamous [Presence] in Urine sediment",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.EpithelialcellssquamousPrThrPtUrinesedOrd.v1.0.0.adls",
   "children" : {
     "12258-0" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Epithelial cells.squamous [Presence] in Urine sediment",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.EpithelialcellssquamousPrThrPtUrinesedOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

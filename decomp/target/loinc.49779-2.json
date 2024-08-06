@@ -4,6 +4,7 @@
     "description" : "Ketones [Mass/volume] in Urine",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.KetonesMCncPtUrineQn.v1.0.0.adls",
   "children" : {
     "50557-8" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Ketones [Mass/volume] in Urine",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.KetonesMCncPtUrineQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -40,6 +42,7 @@
         "description" : "Ketones [Mass/volume] in Urine",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.KetonesMCncPtUrineQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

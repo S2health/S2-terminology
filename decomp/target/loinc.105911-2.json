@@ -4,6 +4,7 @@
     "description" : "SARS-CoV-2 (COVID-19) IgG Ab [Presence] in Specimen",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.SARScoronavirus2AbIgGPrThrPtOrd.v1.0.0.adls",
   "children" : {
     "94507-1" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "SARS-CoV-2 (COVID-19) IgG Ab [Presence] in Specimen",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.SARScoronavirus2AbIgGPrThrPtOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

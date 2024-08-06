@@ -4,6 +4,7 @@
     "description" : "Salmonella enterica+bongori DNA [Presence] in Specimen",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.SalmonellaentericabongoriDNAPrThrPtOrd.v1.0.0.adls",
   "children" : {
     "82199-1" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Salmonella enterica+bongori DNA [Presence] in Specimen",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.SalmonellaentericabongoriDNAPrThrPtOrd.v1.0.0.adls",
       "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31111000205104",
+          "description" : "Non-probe target amplification technique",
+          "system" : "snomed"
+        }
+      }, {
         "key" : {
           "code" : "66746-9",
           "description" : "Specimen type",

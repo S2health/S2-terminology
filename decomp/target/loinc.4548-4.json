@@ -4,6 +4,7 @@
     "description" : "Hemoglobin A1c/Hemoglobin.total Bld MFr Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.HemoglobinA1cHemoglobinTotalMFrPtBldQn.v1.0.0.adls",
   "children" : {
     "17856-6" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Hemoglobin A1c/Hemoglobin.total Bld MFr Pt Qn",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.HemoglobinA1cHemoglobinTotalMFrPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

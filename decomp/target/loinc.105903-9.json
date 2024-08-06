@@ -4,6 +4,7 @@
     "description" : "Escherichia coli enteroaggregative pAA plasmid aggR+aatA genes [Presence] in Stool",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.EscherichiacolienteroaggregativepAAplasmidaggRaatAgenesPrThrPtStoolOrd.v1.0.0.adls",
   "children" : {
     "80349-4" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Escherichia coli enteroaggregative pAA plasmid aggR+aatA genes [Presence] in Stool",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.EscherichiacolienteroaggregativepAAplasmidaggRaatAgenesPrThrPtStoolOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31111000205104",
+          "description" : "Non-probe target amplification technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

@@ -4,6 +4,7 @@
     "description" : "Cholesterol.in VLDL Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.CholesterolinVLDLMCncPtSerPlasQn.v1.0.0.adls",
   "children" : {
     "13458-5" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Cholesterol.in VLDL Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.CholesterolinVLDLMCncPtSerPlasQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

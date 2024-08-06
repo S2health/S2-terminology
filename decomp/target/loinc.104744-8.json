@@ -4,6 +4,7 @@
     "description" : "Respiratory syncytial virus RNA [Presence] in Specimen by Molecular genetics method",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.RespiratorysyncytialvirusRNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
   "children" : {
     "40988-8" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Respiratory syncytial virus RNA [Presence] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.RespiratorysyncytialvirusRNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

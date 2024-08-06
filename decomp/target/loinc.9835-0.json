@@ -4,6 +4,7 @@
     "description" : "HYDROmorphone Urine MCnc Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.HYDROmorphoneMCncPtUrineQn.v1.0.0.adls",
   "children" : {
     "16998-7" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "HYDROmorphone Urine MCnc Pt Qn",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.HYDROmorphoneMCncPtUrineQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

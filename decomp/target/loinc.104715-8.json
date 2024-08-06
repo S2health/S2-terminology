@@ -4,6 +4,7 @@
     "description" : "Hepatitis C virus RNA [Presence] in Serum or Plasma by Molecular genetics method",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.HepatitisCvirusRNAPrThrPtSerPlasOrdMolgen.v1.0.0.adls",
   "children" : {
     "11259-9" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Hepatitis C virus RNA [Presence] in Serum or Plasma by Molecular genetics method",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.HepatitisCvirusRNAPrThrPtSerPlasOrdMolgen.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

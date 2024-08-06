@@ -4,6 +4,7 @@
     "description" : "6-Monoacetylmorphine Urine MCnc Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.6MonoacetylmorphineMCncPtUrineQn.v1.0.0.adls",
   "children" : {
     "19593-3" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "6-Monoacetylmorphine Urine MCnc Pt Qn",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.6MonoacetylmorphineMCncPtUrineQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

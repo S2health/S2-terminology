@@ -4,6 +4,7 @@
     "description" : "Legionella pneumophila 1 Ag [Presence] in Specimen",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.Legionellapneumophila1AgPrThrPtXXXOrd.v1.0.0.adls",
   "children" : {
     "31868-3" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Legionella pneumophila 1 Ag [Presence] in Specimen",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.Legionellapneumophila1AgPrThrPtXXXOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "66746-9",

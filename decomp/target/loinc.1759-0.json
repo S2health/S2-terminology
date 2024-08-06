@@ -4,6 +4,7 @@
     "description" : "Albumin/Globulin Ser/Plas MRto Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.AlbuminGlobulinMRtoPtSerPlasQn.v1.0.0.adls",
   "children" : {
     "44429-9" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Albumin/Globulin Ser/Plas MRto Pt Qn",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.AlbuminGlobulinMRtoPtSerPlasQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703450007",
+          "description" : "Electrophoresis technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

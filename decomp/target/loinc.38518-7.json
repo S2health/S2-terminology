@@ -4,6 +4,7 @@
     "description" : "Granulocytes.immature/100 leukocytes Bld NFr Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.GranulocytesImmature100LeukocytesNFrPtBldQn.v1.0.0.adls",
   "children" : {
     "71695-1" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Granulocytes.immature/100 leukocytes Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.GranulocytesImmature100LeukocytesNFrPtBldQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

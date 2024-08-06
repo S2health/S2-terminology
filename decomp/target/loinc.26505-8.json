@@ -4,6 +4,7 @@
     "description" : "Neutrophils.segmented/100 leukocytes Bld NFr Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.Neutrophilssegmented100leukocytesNFrPtBldQn.v1.0.0.adls",
   "children" : {
     "32200-8" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Neutrophils.segmented/100 leukocytes Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.Neutrophilssegmented100leukocytesNFrPtBldQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
     },
     "769-0" : {
       "source" : {
@@ -29,7 +42,19 @@
         "description" : "Neutrophils.segmented/100 leukocytes Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.Neutrophilssegmented100leukocytesNFrPtBldQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

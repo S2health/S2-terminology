@@ -4,6 +4,7 @@
     "description" : "Rheumatoid factor [Units/volume] in Plasma",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.RheumatoidfactorACncPtPlasQn.v1.0.0.adls",
   "children" : {
     "11572-5" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Rheumatoid factor [Units/volume] in Plasma",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.RheumatoidfactorACncPtPlasQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "66746-9",
@@ -40,6 +42,7 @@
         "description" : "Rheumatoid factor [Units/volume] in Plasma",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.RheumatoidfactorACncPtPlasQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

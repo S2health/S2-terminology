@@ -4,6 +4,7 @@
     "description" : "Norovirus genogroup I+II RNA [Presence] in Specimen",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.NorovirusgenogroupIIIRNAPrThrPtXXXOrd.v1.0.0.adls",
   "children" : {
     "82211-4" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Norovirus genogroup I+II RNA [Presence] in Specimen",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.NorovirusgenogroupIIIRNAPrThrPtXXXOrd.v1.0.0.adls",
       "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31111000205104",
+          "description" : "Non-probe target amplification technique",
+          "system" : "snomed"
+        }
+      }, {
         "key" : {
           "code" : "66746-9",
           "description" : "Specimen type",

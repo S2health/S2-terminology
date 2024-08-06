@@ -4,6 +4,7 @@
     "description" : "Bacteria [Presence] in Urine sediment by Microscopy",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.BacteriaPrThrPtUrinesedOrdMicroscopy.v1.0.0.adls",
   "children" : {
     "25145-4" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Bacteria [Presence] in Urine sediment by Microscopy",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaPrThrPtUrinesedOrdMicroscopy.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

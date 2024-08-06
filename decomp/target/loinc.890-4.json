@@ -4,6 +4,7 @@
     "description" : "Blood group antibody screen Ser/Plas PrThr Pt Ord",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.BloodGroupAntibodyScreenACncPtSerPlasOrd.v1.0.0.adls",
   "children" : {
     "75263-4" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Blood group antibody screen Ser/Plas PrThr Pt Ord",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.BloodGroupAntibodyScreenACncPtSerPlasOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1306895000",
+          "description" : "Gel column agglutination technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

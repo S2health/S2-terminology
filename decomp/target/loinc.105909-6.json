@@ -4,6 +4,7 @@
     "description" : "SARS-CoV-2 (COVID-19) RNA [Presence] in Specimen",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.SARScoronavirus2RNAPrThrPtOrd.v1.0.0.adls",
   "children" : {
     "94500-6" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "SARS-CoV-2 (COVID-19) RNA [Presence] in Specimen",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.SARScoronavirus2RNAPrThrPtOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -51,7 +53,19 @@
         "description" : "SARS-CoV-2 (COVID-19) RNA [Presence] in Specimen",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.SARScoronavirus2RNAPrThrPtOrd.v1.0.0.adls",
       "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31111000205104",
+          "description" : "Non-probe target amplification technique",
+          "system" : "snomed"
+        }
+      }, {
         "key" : {
           "code" : "66746-9",
           "description" : "Specimen type",

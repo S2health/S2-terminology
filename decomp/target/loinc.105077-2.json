@@ -4,6 +4,7 @@
     "description" : "Human papilloma virus DNA [Presence] in Specimen",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.HumanpapillomavirusDNAPrThrPtXXXOrd.v1.0.0.adls",
   "children" : {
     "49891-5" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Human papilloma virus DNA [Presence] in Specimen",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.HumanpapillomavirusDNAPrThrPtXXXOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

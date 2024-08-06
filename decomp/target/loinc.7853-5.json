@@ -4,6 +4,7 @@
     "description" : "Cytomegalovirus Ab.IgM Ser/Plas ACnc Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.CytomegalovirusAbIgMACncPtSerPlasQn.v1.0.0.adls",
   "children" : {
     "5126-8" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Cytomegalovirus Ab.IgM Ser/Plas ACnc Pt Qn",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.CytomegalovirusAbIgMACncPtSerPlasQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

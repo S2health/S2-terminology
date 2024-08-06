@@ -4,6 +4,7 @@
     "description" : "Benzodiazepines Urine PrThr Pt Ord",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.BenzodiazepinesPrThrPtUrineOrd.v1.0.0.adls",
   "children" : {
     "14316-4" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Benzodiazepines Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.BenzodiazepinesPrThrPtUrineOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1287497009",
+          "description" : "Screening technique",
+          "system" : "snomed"
+        }
+      } ]
     },
     "70141-7" : {
       "source" : {
@@ -29,7 +42,19 @@
         "description" : "Benzodiazepines Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.BenzodiazepinesPrThrPtUrineOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31011000205100",
+          "description" : "Greater than 200 ng/mL screening test technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

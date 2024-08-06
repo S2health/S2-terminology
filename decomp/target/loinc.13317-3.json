@@ -4,6 +4,7 @@
     "description" : "Staphylococcus aureus.methicillin resistant isolate PrThr Pt Ord Organism specific culture",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.StaphylococcusaureusmethicillinresistantisolatePrThrPtXXXOrdOrganismspecificculture.v1.0.0.adls",
   "children" : {
     "52969-3" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Staphylococcus aureus.methicillin resistant isolate PrThr Pt Ord Organism specific culture",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.StaphylococcusaureusmethicillinresistantisolatePrThrPtXXXOrdOrganismspecificculture.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "66746-9",

@@ -4,6 +4,7 @@
     "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.StreptococcusagalactiaeAgPrThrPtXXXOrd.v1.0.0.adls",
   "children" : {
     "582-7" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.StreptococcusagalactiaeAgPrThrPtXXXOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703752003",
+          "description" : "Organism specific culture technique",
+          "system" : "snomed"
+        }
+      } ]
     },
     "585-0" : {
       "source" : {
@@ -29,7 +42,19 @@
         "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.StreptococcusagalactiaeAgPrThrPtXXXOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703752003",
+          "description" : "Organism specific culture technique",
+          "system" : "snomed"
+        }
+      } ]
     },
     "586-8" : {
       "source" : {
@@ -42,7 +67,19 @@
         "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.StreptococcusagalactiaeAgPrThrPtXXXOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703752003",
+          "description" : "Organism specific culture technique",
+          "system" : "snomed"
+        }
+      } ]
     },
     "72607-5" : {
       "source" : {
@@ -55,7 +92,19 @@
         "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.StreptococcusagalactiaeAgPrThrPtXXXOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703752003",
+          "description" : "Organism specific culture technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }
