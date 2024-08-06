@@ -4,6 +4,7 @@
     "description" : "CycloSPORINE Bld MCnc Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.CyclosporineMCncPtBldQn.v1.0.0.adls",
   "children" : {
     "55805-6" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "CycloSPORINE Bld MCnc Pt Qn",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.CyclosporineMCncPtBldQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31031000205109",
+          "description" : "Liquid chromatograhpy - mass spectrometery - mass spectrometry testing technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

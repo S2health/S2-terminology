@@ -4,6 +4,7 @@
     "description" : "Platelets [Presence] in Blood",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.PlateletsPrThrPtBldOrd.v1.0.0.adls",
   "children" : {
     "9317-9" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Platelets [Presence] in Blood",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.PlateletsPrThrPtBldOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

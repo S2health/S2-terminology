@@ -4,6 +4,7 @@
     "description" : "Color Urine Type Pt Nom",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.ColorTypePtUrineNom.v1.0.0.adls",
   "children" : {
     "50553-7" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Color Urine Type Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.ColorTypePtUrineNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

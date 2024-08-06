@@ -4,6 +4,7 @@
     "description" : "Epidermal growth factor receptor Ag [Presence] in Specimen",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.EpidermalgrowthfactorreceptorAgPrThrPtXXXOrd.v1.0.0.adls",
   "children" : {
     "39004-7" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Epidermal growth factor receptor Ag [Presence] in Specimen",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.EpidermalgrowthfactorreceptorAgPrThrPtXXXOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "85756007",
+          "description" : "Body tissue structure",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

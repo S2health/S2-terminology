@@ -4,6 +4,7 @@
     "description" : "Neutrophils.segmented Bld NCnc Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.NeutrophilssegmentedNCncPtBldQn.v1.0.0.adls",
   "children" : {
     "768-2" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Neutrophils.segmented Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.NeutrophilssegmentedNCncPtBldQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

@@ -4,6 +4,7 @@
     "description" : "Varicella zoster virus Ab Ser PrThr Pt Ord",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.VaricellazostervirusAbPrThrPtSerOrd.v1.0.0.adls",
   "children" : {
     "47419-7" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Varicella zoster virus Ab Ser PrThr Pt Ord",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.VaricellazostervirusAbPrThrPtSerOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

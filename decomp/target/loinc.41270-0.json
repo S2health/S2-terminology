@@ -4,6 +4,7 @@
     "description" : "Drugs identified Urine Prid Pt Nom",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.DrugsidentifiedPridPtUrineNom.v1.0.0.adls",
   "children" : {
     "12286-1" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Drugs identified Urine Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.DrugsidentifiedPridPtUrineNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

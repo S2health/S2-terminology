@@ -4,6 +4,7 @@
     "description" : "Fine Granular Casts [#/area] in Urine sediment",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.GranularcastsfineNaricPtUrinesedQn.v1.0.0.adls",
   "children" : {
     "32680-1" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Fine Granular Casts [#/area] in Urine sediment",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.GranularcastsfineNaricPtUrinesedQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

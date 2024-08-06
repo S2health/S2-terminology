@@ -4,6 +4,7 @@
     "description" : "Troponin T.cardiac Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.TroponinTcardiacMCncPtSerPlasQn.v1.0.0.adls",
   "children" : {
     "67151-1" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Troponin T.cardiac Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.TroponinTcardiacMCncPtSerPlasQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "30941000205107",
+          "description" : "High sensitivity technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

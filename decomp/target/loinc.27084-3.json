@@ -4,6 +4,7 @@
     "description" : "7-Aminoflunitrazepam Urine MCnc Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.7AminoflunitrazepamMCncPtUrineQn.v1.0.0.adls",
   "children" : {
     "51777-1" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "7-Aminoflunitrazepam Urine MCnc Pt Qn",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.7AminoflunitrazepamMCncPtUrineQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

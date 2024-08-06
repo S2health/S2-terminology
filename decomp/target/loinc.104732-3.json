@@ -4,6 +4,7 @@
     "description" : "HIV 1 Ab band pattern [Interpretation] in Serum",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.HIV1AbbandpatternImpPtSerNom.v1.0.0.adls",
   "children" : {
     "13499-9" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "HIV 1 Ab band pattern [Interpretation] in Serum",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.HIV1AbbandpatternImpPtSerNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

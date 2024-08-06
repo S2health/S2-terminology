@@ -4,6 +4,7 @@
     "description" : "Candida albicans DNA [Presence] in Vaginal fluid",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.CandidaalbicansDNAPrThrPtVagOrd.v1.0.0.adls",
   "children" : {
     "69562-7" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Candida albicans DNA [Presence] in Vaginal fluid",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.CandidaalbicansDNAPrThrPtVagOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

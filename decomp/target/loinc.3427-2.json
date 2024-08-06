@@ -4,6 +4,7 @@
     "description" : "Cannabinoids Urine PrThr Pt Ord",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.CannabinoidsPrThrPtUrineOrd.v1.0.0.adls",
   "children" : {
     "70145-8" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Cannabinoids Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.CannabinoidsPrThrPtUrineOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31001000205102",
+          "description" : "Greater than 50ng/mL screening test technique",
+          "system" : "snomed"
+        }
+      } ]
     },
     "18282-4" : {
       "source" : {
@@ -29,7 +42,19 @@
         "description" : "Cannabinoids Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.CannabinoidsPrThrPtUrineOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1287497009",
+          "description" : "Screening technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

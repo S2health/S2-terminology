@@ -4,6 +4,7 @@
     "description" : "ABO & Rh group Bld Type Pt Nom",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.ABORhGroupTypePtBldNom.v1.0.0.adls",
   "children" : {
     "77397-8" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "ABO & Rh group Bld Type Pt Nom",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.ABORhGroupTypePtBldNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703690001",
+          "description" : "Confirmatory technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

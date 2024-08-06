@@ -4,6 +4,7 @@
     "description" : "Yersinia enterocolitica DNA [Presence] in Specimen",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.YersiniaenterocoliticaDNAPrThrPtXXXOrd.v1.0.0.adls",
   "children" : {
     "82202-3" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Yersinia enterocolitica DNA [Presence] in Specimen",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.YersiniaenterocoliticaDNAPrThrPtXXXOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31111000205104",
+          "description" : "Non-probe target amplification technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

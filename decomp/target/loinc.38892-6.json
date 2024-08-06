@@ -4,6 +4,7 @@
     "description" : "Anisocytosis Bld PrThr Pt Ord",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.AnisocytosisPrThrPtBldOrd.v1.0.0.adls",
   "children" : {
     "702-1" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Anisocytosis Bld PrThr Pt Ord",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.AnisocytosisPrThrPtBldOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

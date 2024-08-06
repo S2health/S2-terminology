@@ -4,6 +4,7 @@
     "description" : "Herpes simplex virus 2 Ab.IgG Ser ACnc Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.Herpessimplexvirus2AbIgGACncPtSerQn.v1.0.0.adls",
   "children" : {
     "5209-2" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Herpes simplex virus 2 Ab.IgG Ser ACnc Pt Qn",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.Herpessimplexvirus2AbIgGACncPtSerQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
