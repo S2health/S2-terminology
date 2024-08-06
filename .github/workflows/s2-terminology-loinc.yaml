@@ -5,7 +5,7 @@ on:
       - main
       # - "**"
     paths:
-      - '/LOINC/S2_Elements-LOINC_Extension_map_master.csv'
+      - 'LOINC/S2_Elements-LOINC_Extension_map_master.csv'
       - '.github/workflows/s2-terminology-loinc.yaml'
 
 jobs:
@@ -20,13 +20,6 @@ jobs:
         with:
           path: S2-terminology
           ref: main
-
-      - name: Checkout tools-binary repository
-        uses: actions/checkout@v4
-        with:
-          repository: S2health/tools-binary
-          path: tools-binary
-          ssh-key: ${{ secrets.TOOLS_BINARY_DEPLOY_PRIVATE_KEY }}
 
       - name: Checkout tools repository
         uses: actions/checkout@v4
@@ -55,7 +48,7 @@ jobs:
       - name: Run scripts
         working-directory: ./
         run: |
-          PATH=tools-binary/bin:tools/bin:Medical-tools/bin/s2_cli/v1.3.1:$PATH
+          PATH=tools/bin:$PATH
           bash ./tools/bin/extract_master_loinc_bindings
 
       - name: Push the new branch with changes after running extract_master_loinc_bindings
