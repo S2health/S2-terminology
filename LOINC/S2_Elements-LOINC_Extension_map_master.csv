@@ -963,6 +963,7 @@
 3796,Specific methodology,Active,85069-3,Lab test method Specimen Type Pt Nom *,Active,Lab Test,False,s2-EHR-Node.lab_analyte.v0.0.1,id8,/items[id8],s2-EHR-Node.detailed_lab_methodology.v0.0.1
 2817,Specific site,Active,39111-0,Body site Patient Anat Pt Nom,Active,General,False,s2-EHR-Node.anatomical_location.v1.2.2,id66,/items[id66],
 2782,Specific substance,Active,88636-6,Known exposure Patient Prid Pt Nom,Active,General,False,s2-EHR-Node.adverse_reaction_event.v1.0.0,id2,/items[id2],
+4223,Specimen,Active,68992-7,Specimen-related information panel Specimen - Pt -,Active,Lab Test,False,s2-EHR-Node.specimen.v1.1.2,id1,/,
 4235,Specimen collector identifier,Active,71749-6,Personnel unique identifier Personnel ID Pt Nom,Active,General,False,s2-EHR-Node.specimen.v1.1.2,id71,/items[id71],
 4196,Specimen container,Active,74384-9,Specimen container Specimen Type Pt Nom,Active,Lab Test,False,s2-EHR-Node.specimen_container.v1.0.0,id1,/,
 4231,Specimen quality issue,Active,93047-9,Specimen condition Specimen Type Pt Nom,Active,Lab Test,False,s2-EHR-Node.specimen.v1.1.2,id43,/items[id43],
