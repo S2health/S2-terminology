@@ -5,7 +5,7 @@ on:
       - main
       # - "**"
     paths:
-      - '/LOINC/S2_Elements-LOINC Extension_map_master.csv'
+      - '/LOINC/S2_Elements-LOINC_Extension_map_master.csv'
       - '.github/workflows/s2-terminology-loinc.yaml'
 
 jobs:
