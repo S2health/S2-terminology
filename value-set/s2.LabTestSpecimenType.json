@@ -1,6 +1,6 @@
 {
   "id" : "s2.LabTestSpecimenType",
-  "creationDate" : "2024-06-28T16:25:45-0400",
+  "creationDate" : "2024-08-07T15:15:01-0400",
   "source" : "symedical",
   "set" : {
     "issuer" : "s2",
@@ -15,6 +15,10 @@
     }, {
       "code" : "309051001",
       "description" : "Body fluid specimen",
+      "system" : "snomed"
+    }, {
+      "code" : "85756007",
+      "description" : "Body tissue structure",
       "system" : "snomed"
     }, {
       "code" : "119350003",
@@ -77,7 +81,7 @@
       "description" : "Urine specimen",
       "system" : "snomed"
     } ],
-    "totalMembers" : 17,
+    "totalMembers" : 18,
     "isComplete" : true
   }
 }
