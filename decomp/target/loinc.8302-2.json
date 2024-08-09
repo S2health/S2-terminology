@@ -4,7 +4,7 @@
     "description" : "Body height",
     "system" : "loinc"
   },
-  "modelName" : "s2-EHR-Direct_observation.height.v2.0.8.adls",
+  "modelName" : "s2-EHR-Direct_observation.height.v2.1.0.adls",
   "children" : {
     "3137-7" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Body height",
         "system" : "loinc"
       },
-      "model" : "s2-EHR-Direct_observation.height.v2.0.8.adls",
+      "model" : "s2-EHR-Direct_observation.height.v2.1.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "106191-0",
