@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2019-8",
-    "description" : "Carbon dioxide BldA PPres Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CarbonDioxidePPresPtBldAQnLabObs.v1.0.0",
-  "children" : { }
-}

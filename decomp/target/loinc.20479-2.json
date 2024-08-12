@@ -4,6 +4,7 @@
     "description" : "Measles virus Ab.IgG Ser PrThr Pt Ord",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.MeaslesvirusAbIgGPrThrPtSerOrd.v1.0.0.adls",
   "children" : {
     "35275-7" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Measles virus Ab.IgG Ser PrThr Pt Ord",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.MeaslesvirusAbIgGPrThrPtSerOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "32771-8",
-    "description" : "Carbon dioxide adjusted to patient's actual temperature BldA PPres Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CarbonDioxideAdjustedToPatientsActualTemperaturePPresPtBldAQnLabObs.v1.0.0",
-  "children" : { }
-}

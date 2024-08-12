@@ -4,6 +4,7 @@
     "description" : "2-Ethylidene-1,5-Dimethyl-3,3-Diphenylpyrrolidine Urine MCnc Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.2Ethylidene15Dimethyl33DiphenylpyrrolidineMCncPtUrineQn.v1.0.0.adls",
   "children" : {
     "58429-2" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "2-Ethylidene-1,5-Dimethyl-3,3-Diphenylpyrrolidine Urine MCnc Pt Qn",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.2Ethylidene15Dimethyl33DiphenylpyrrolidineMCncPtUrineQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

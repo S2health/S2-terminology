@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2880-3",
-    "description" : "Protein CSF MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ProteinMCncPtCSFQnLabObs.v1.0.0",
-  "children" : { }
-}

@@ -4,7 +4,7 @@
     "description" : "Glucose [Presence] in Urine",
     "system" : "loinc"
   },
-  "modelName" : "GlucosePrThrPtUrineOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.GlucosePrThrPtUrineOrd.v1.0.0.adls",
   "children" : {
     "25428-4" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Glucose [Presence] in Urine",
         "system" : "loinc"
       },
-      "model" : "GlucosePrThrPtUrineOrd.v1.0.0",
+      "model" : "s2-EHR-Node.GlucosePrThrPtUrineOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +42,7 @@
         "description" : "Glucose [Presence] in Urine",
         "system" : "loinc"
       },
-      "model" : "GlucosePrThrPtUrineOrd.v1.0.0",
+      "model" : "s2-EHR-Node.GlucosePrThrPtUrineOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

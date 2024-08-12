@@ -4,7 +4,7 @@
     "description" : "Yeast [#/area] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "YeastNaricPtUrinesedQn.v1.0.0",
+  "modelName" : "s2-EHR-Node.YeastNaricPtUrinesedQn.v1.0.0.adls",
   "children" : {
     "5822-2" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Yeast [#/area] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "YeastNaricPtUrinesedQn.v1.0.0",
+      "model" : "s2-EHR-Node.YeastNaricPtUrinesedQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

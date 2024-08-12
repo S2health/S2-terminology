@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "6087-1",
-    "description" : "Zea mays Ab.IgE Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ZeaMaysAbIgEACncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

@@ -4,7 +4,7 @@
     "description" : "Xanthochromia [Presence] of Specimen Qualitative",
     "system" : "loinc"
   },
-  "modelName" : "XanthochromiaPrThrPtXXXOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.XanthochromiaPrThrPtXXXOrd.v1.0.0.adls",
   "children" : {
     "13532-7" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Xanthochromia [Presence] of Specimen Qualitative",
         "system" : "loinc"
       },
-      "model" : "XanthochromiaPrThrPtXXXOrd.v1.0.0",
+      "model" : "s2-EHR-Node.XanthochromiaPrThrPtXXXOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "66746-9",

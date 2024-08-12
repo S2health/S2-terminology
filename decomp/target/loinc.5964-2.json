@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "5964-2",
-    "description" : "Coagulation tissue factor induced Bld Time Pt Qn Coag",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

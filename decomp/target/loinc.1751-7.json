@@ -4,12 +4,12 @@
     "description" : "Albumin Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "AlbuminMCncPtSerPlasQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.AlbuminMCncPtSerPlasQn.v1.0.0.adls",
   "children" : {
-    "61152-5" : {
+    "2862-1" : {
       "source" : {
-        "code" : "61152-5",
-        "description" : "Albumin Ser/Plas MCnc Pt Qn BCP",
+        "code" : "2862-1",
+        "description" : "Albumin Ser/Plas MCnc Pt Qn Electrophoresis",
         "system" : "loinc"
       },
       "target" : {
@@ -17,7 +17,7 @@
         "description" : "Albumin Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "AlbuminMCncPtSerPlasQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.AlbuminMCncPtSerPlasQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -25,8 +25,8 @@
           "system" : "loinc"
         },
         "value" : {
-          "code" : "1303771002",
-          "description" : "Bromocresol purple dye binding technique",
+          "code" : "703450007",
+          "description" : "Electrophoresis technique",
           "system" : "snomed"
         }
       } ]
@@ -42,7 +42,7 @@
         "description" : "Albumin Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "AlbuminMCncPtSerPlasQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.AlbuminMCncPtSerPlasQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -56,10 +56,10 @@
         }
       } ]
     },
-    "2862-1" : {
+    "61152-5" : {
       "source" : {
-        "code" : "2862-1",
-        "description" : "Albumin Ser/Plas MCnc Pt Qn Electrophoresis",
+        "code" : "61152-5",
+        "description" : "Albumin Ser/Plas MCnc Pt Qn BCP",
         "system" : "loinc"
       },
       "target" : {
@@ -67,7 +67,7 @@
         "description" : "Albumin Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "AlbuminMCncPtSerPlasQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.AlbuminMCncPtSerPlasQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -75,8 +75,8 @@
           "system" : "loinc"
         },
         "value" : {
-          "code" : "703450007",
-          "description" : "Electrophoresis technique",
+          "code" : "1303771002",
+          "description" : "Bromocresol purple dye binding technique",
           "system" : "snomed"
         }
       } ]

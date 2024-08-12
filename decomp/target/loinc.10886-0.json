@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "10886-0",
-    "description" : "Prostate specific Ag.free Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ProstateSpecificAgFreeMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

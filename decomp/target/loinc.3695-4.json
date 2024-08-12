@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "3695-4",
-    "description" : "Insulin Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

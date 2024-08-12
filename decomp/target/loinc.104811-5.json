@@ -4,7 +4,7 @@
     "description" : "Epstein Barr virus DNA [Log #/volume] in Specimen by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "EpsteinBarrvirusDNALnCncPtXXXQnMolgen.v1.0.0",
+  "modelName" : "s2-EHR-Node.EpsteinBarrvirusDNALnCncPtXXXQnMolgen.v1.0.0.adls",
   "children" : {
     "53774-6" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Epstein Barr virus DNA [Log #/volume] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "EpsteinBarrvirusDNALnCncPtXXXQnMolgen.v1.0.0",
+      "model" : "s2-EHR-Node.EpsteinBarrvirusDNALnCncPtXXXQnMolgen.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

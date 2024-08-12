@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "2009-9",
-    "description" : "Cancer Ag 19-9 Ser/Plas PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

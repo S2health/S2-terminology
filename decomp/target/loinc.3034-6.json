@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "3034-6",
-    "description" : "Transferrin Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "TransferrinMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

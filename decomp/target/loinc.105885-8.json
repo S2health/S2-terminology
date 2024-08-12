@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105885-8",
+    "description" : "Candida glabrata DNA [Presence] in Vaginal fluid",
+    "system" : "loinc"
+  },
+  "modelName" : "s2-EHR-Node.CandidaglabrataDNAPrThrPtVagOrd.v1.0.0.adls",
+  "children" : {
+    "69563-5" : {
+      "source" : {
+        "code" : "69563-5",
+        "description" : "Candida glabrata DNA Vag PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105885-8",
+        "description" : "Candida glabrata DNA [Presence] in Vaginal fluid",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.CandidaglabrataDNAPrThrPtVagOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702675006",
+          "description" : "Probe with target amplification technique technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

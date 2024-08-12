@@ -4,7 +4,7 @@
     "description" : "Prolactin Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "ProlactinMCncPtSerPlasQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.ProlactinMCncPtSerPlasQn.v1.0.0.adls",
   "children" : {
     "49220-7" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Prolactin Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "ProlactinMCncPtSerPlasQnLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.ProlactinMCncPtSerPlasQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "30971000205100",
+          "description" : "Third immune stain technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

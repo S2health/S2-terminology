@@ -4,7 +4,7 @@
     "description" : "Testosterone Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "TestosteroneMCncPtSerPlasQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.TestosteroneMCncPtSerPlasQn.v1.0.0.adls",
   "children" : {
     "49041-7" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Testosterone Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "TestosteroneMCncPtSerPlasQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.TestosteroneMCncPtSerPlasQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

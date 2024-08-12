@@ -4,7 +4,7 @@
     "description" : "Hematocrit Bld VFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "HematocritVFrPtBldQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.HematocritVFrPtBldQn.v1.0.0.adls",
   "children" : {
     "4544-3" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Hematocrit Bld VFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "HematocritVFrPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.HematocritVFrPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +42,7 @@
         "description" : "Hematocrit Bld VFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "HematocritVFrPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.HematocritVFrPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

@@ -4,33 +4,8 @@
     "description" : "Bilirubin.total [Presence] in Urine",
     "system" : "loinc"
   },
-  "modelName" : "BilirubinACncPtUrineOrdLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.BilirubinPrThrPtUrineOrd.v1.0.0.adls",
   "children" : {
-    "5770-3" : {
-      "source" : {
-        "code" : "5770-3",
-        "description" : "Bilirubin Urine PrThr Pt Ord Test strip",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "1977-8",
-        "description" : "Bilirubin.total [Presence] in Urine",
-        "system" : "loinc"
-      },
-      "model" : "BilirubinACncPtUrineOrdLabObs.v1.0.0",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702660003",
-          "description" : "Test strip technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
     "58450-8" : {
       "source" : {
         "code" : "58450-8",
@@ -42,7 +17,7 @@
         "description" : "Bilirubin.total [Presence] in Urine",
         "system" : "loinc"
       },
-      "model" : "BilirubinACncPtUrineOrdLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.BilirubinPrThrPtUrineOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -52,6 +27,31 @@
         "value" : {
           "code" : "703690001",
           "description" : "Confirmatory technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "5770-3" : {
+      "source" : {
+        "code" : "5770-3",
+        "description" : "Bilirubin Urine PrThr Pt Ord Test strip",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "1977-8",
+        "description" : "Bilirubin.total [Presence] in Urine",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BilirubinPrThrPtUrineOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702660003",
+          "description" : "Test strip technique",
           "system" : "snomed"
         }
       } ]
@@ -67,7 +67,7 @@
         "description" : "Bilirubin.total [Presence] in Urine",
         "system" : "loinc"
       },
-      "model" : "BilirubinACncPtUrineOrdLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.BilirubinPrThrPtUrineOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

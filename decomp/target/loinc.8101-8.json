@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "8101-8",
-    "description" : "Cells.CD3+CD8+/100 cells Bld NFr Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

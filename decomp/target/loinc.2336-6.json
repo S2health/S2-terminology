@@ -4,7 +4,7 @@
     "description" : "Globulin Ser MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "GlobulinMCncPtSerQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.GlobulinMCncPtSerQn.v1.0.0.adls",
   "children" : {
     "10834-0" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Globulin Ser MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "GlobulinMCncPtSerQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.GlobulinMCncPtSerQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

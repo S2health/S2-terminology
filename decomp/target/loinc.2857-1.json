@@ -4,7 +4,7 @@
     "description" : "Prostate specific Ag Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "ProstateSpecificAgMCncPtSerPlasQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.ProstateSpecificAgMCncPtSerPlasQn.v1.0.0.adls",
   "children" : {
     "83112-3" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Prostate specific Ag Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "ProstateSpecificAgMCncPtSerPlasQnLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.ProstateSpecificAgMCncPtSerPlasQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

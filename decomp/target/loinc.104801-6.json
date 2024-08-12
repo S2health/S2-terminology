@@ -4,7 +4,7 @@
     "description" : "Beta globulin [Mass/volume] in Serum or Plasma",
     "system" : "loinc"
   },
-  "modelName" : "BetaglobulinMCncPtSerPlasQn.v1.0.0",
+  "modelName" : "s2-EHR-Node.BetaglobulinMCncPtSerPlasQn.v1.0.0.adls",
   "children" : {
     "2871-2" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Beta globulin [Mass/volume] in Serum or Plasma",
         "system" : "loinc"
       },
-      "model" : "BetaglobulinMCncPtSerPlasQn.v1.0.0",
+      "model" : "s2-EHR-Node.BetaglobulinMCncPtSerPlasQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

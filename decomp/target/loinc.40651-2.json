@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "40651-2",
-    "description" : "Metamyelocytes Bld PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

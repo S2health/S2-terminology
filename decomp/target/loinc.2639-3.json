@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2639-3",
-    "description" : "Myoglobin Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "MyoglobinMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

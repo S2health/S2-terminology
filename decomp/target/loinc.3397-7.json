@@ -4,22 +4,8 @@
     "description" : "Cocaine Urine PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "CocainePrThrPtUrineOrdLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.CocainePrThrPtUrineOrd.v1.0.0.adls",
   "children" : {
-    "19359-9" : {
-      "source" : {
-        "code" : "19359-9",
-        "description" : "Cocaine Urine PrThr Pt Ord Screen",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "3397-7",
-        "description" : "Cocaine Urine PrThr Pt Ord",
-        "system" : "loinc"
-      },
-      "model" : "CocainePrThrPtUrineOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
-    },
     "19360-7" : {
       "source" : {
         "code" : "19360-7",
@@ -31,8 +17,44 @@
         "description" : "Cocaine Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "CocainePrThrPtUrineOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.CocainePrThrPtUrineOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703690001",
+          "description" : "Confirmatory technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "19359-9" : {
+      "source" : {
+        "code" : "19359-9",
+        "description" : "Cocaine Urine PrThr Pt Ord Screen",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "3397-7",
+        "description" : "Cocaine Urine PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.CocainePrThrPtUrineOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1287497009",
+          "description" : "Screening technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

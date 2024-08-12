@@ -4,7 +4,7 @@
     "description" : "Alanine aminotransferase Ser/Plas CCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "AlanineAminotransferaseCCncPtSerPlasQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.AlanineAminotransferaseCCncPtSerPlasQn.v1.0.0.adls",
   "children" : {
     "1744-2" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Alanine aminotransferase Ser/Plas CCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "AlanineAminotransferaseCCncPtSerPlasQnLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.AlanineAminotransferaseCCncPtSerPlasQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "30931000205102",
+          "description" : "No addition of pyridoxal-5'-phosphatase technique",
+          "system" : "snomed"
+        }
+      } ]
     },
     "1743-4" : {
       "source" : {
@@ -31,8 +42,19 @@
         "description" : "Alanine aminotransferase Ser/Plas CCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "AlanineAminotransferaseCCncPtSerPlasQnLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.AlanineAminotransferaseCCncPtSerPlasQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "30921000205104",
+          "description" : "Addition of pyridoxal-5'-phosphate technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

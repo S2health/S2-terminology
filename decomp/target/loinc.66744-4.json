@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "66744-4",
-    "description" : "Heparin/body weight Bld MCnt Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

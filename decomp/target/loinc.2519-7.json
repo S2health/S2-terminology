@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "2519-7",
-    "description" : "Lactate BldV SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "50190-8",
-    "description" : "Iron & Iron binding capacity panel Ser/Plas - Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

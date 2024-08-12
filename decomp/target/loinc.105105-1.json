@@ -4,7 +4,7 @@
     "description" : "Leukocytes [Presence] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "LeukocytesPrThrPtUrinesedOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.LeukocytesPrThrPtUrinesedOrd.v1.0.0.adls",
   "children" : {
     "20455-2" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Leukocytes [Presence] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "LeukocytesPrThrPtUrinesedOrd.v1.0.0",
+      "model" : "s2-EHR-Node.LeukocytesPrThrPtUrinesedOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

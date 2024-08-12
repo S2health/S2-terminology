@@ -4,7 +4,7 @@
     "description" : "Leukocyte clumps [#/volume] in Urine",
     "system" : "loinc"
   },
-  "modelName" : "LeukocyteclumpsNCncPtUrineQn.v1.0.0",
+  "modelName" : "s2-EHR-Node.LeukocyteclumpsNCncPtUrineQn.v1.0.0.adls",
   "children" : {
     "33768-3" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Leukocyte clumps [#/volume] in Urine",
         "system" : "loinc"
       },
-      "model" : "LeukocyteclumpsNCncPtUrineQn.v1.0.0",
+      "model" : "s2-EHR-Node.LeukocyteclumpsNCncPtUrineQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

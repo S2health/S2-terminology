@@ -4,7 +4,7 @@
     "description" : "Toxic granules [Presence] in Blood",
     "system" : "loinc"
   },
-  "modelName" : "ToxicgranulesPrThrPtBldOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.ToxicgranulesPrThrPtBldOrd.v1.0.0.adls",
   "children" : {
     "803-7" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Toxic granules [Presence] in Blood",
         "system" : "loinc"
       },
-      "model" : "ToxicgranulesPrThrPtBldOrd.v1.0.0",
+      "model" : "s2-EHR-Node.ToxicgranulesPrThrPtBldOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

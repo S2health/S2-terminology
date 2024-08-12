@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105891-6",
+    "description" : "Vibrio cholerae+parahaemolyticus+vulnificus DNA [Presence] in Specimen",
+    "system" : "loinc"
+  },
+  "modelName" : "s2-EHR-Node.VibriocholeraeparahaemolyticusvulnificusDNAPrThrPtXXXOrd.v1.0.0.adls",
+  "children" : {
+    "82200-7" : {
+      "source" : {
+        "code" : "82200-7",
+        "description" : "Vibrio cholerae+parahaemolyticus+vulnificus DNA Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105891-6",
+        "description" : "Vibrio cholerae+parahaemolyticus+vulnificus DNA [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.VibriocholeraeparahaemolyticusvulnificusDNAPrThrPtXXXOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31111000205104",
+          "description" : "Non-probe target amplification technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

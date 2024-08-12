@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "1763-2",
-    "description" : "Aldosterone Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "AldosteroneMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

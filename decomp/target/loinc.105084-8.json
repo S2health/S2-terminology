@@ -4,7 +4,7 @@
     "description" : "Trichomonas vaginalis rRNA [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "TrichomonasvaginalisrRNAPrThrPtXXXOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.TrichomonasvaginalisrRNAPrThrPtXXXOrd.v1.0.0.adls",
   "children" : {
     "46154-1" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Trichomonas vaginalis rRNA [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "TrichomonasvaginalisrRNAPrThrPtXXXOrd.v1.0.0",
+      "model" : "s2-EHR-Node.TrichomonasvaginalisrRNAPrThrPtXXXOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

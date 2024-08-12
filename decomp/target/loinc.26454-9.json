@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "26454-9",
-    "description" : "Erythrocytes CSF NCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ErythrocytesNCncPtCSFQnLabObs.v1.0.0",
-  "children" : { }
-}

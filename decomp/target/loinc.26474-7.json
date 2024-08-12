@@ -4,7 +4,7 @@
     "description" : "Lymphocytes Bld NCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "LymphocytesNCncPtBldQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.LymphocytesNCncPtBldQn.v1.0.0.adls",
   "children" : {
     "731-0" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Lymphocytes Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "LymphocytesNCncPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.LymphocytesNCncPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +42,7 @@
         "description" : "Lymphocytes Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "LymphocytesNCncPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.LymphocytesNCncPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

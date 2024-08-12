@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "1922-4",
-    "description" : "Base deficit BldA SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

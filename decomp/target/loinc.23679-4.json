@@ -4,6 +4,7 @@
     "description" : "Bovine respiratory syncytial virus Ag PrThr Pt Ord",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.BovinerespiratorysyncytialvirusAgPrThrPtXXXOrd.v1.0.0.adls",
   "children" : {
     "5876-8" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Bovine respiratory syncytial virus Ag PrThr Pt Ord",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BovinerespiratorysyncytialvirusAgPrThrPtXXXOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

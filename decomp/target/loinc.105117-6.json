@@ -4,7 +4,7 @@
     "description" : "Epithelial cells.squamous [#/area] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "EpithelialcellssquamousNaricPtUrinesedQn.v1.0.0",
+  "modelName" : "s2-EHR-Node.EpithelialcellssquamousNaricPtUrinesedQn.v1.0.0.adls",
   "children" : {
     "11277-1" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Epithelial cells.squamous [#/area] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "EpithelialcellssquamousNaricPtUrinesedQn.v1.0.0",
+      "model" : "s2-EHR-Node.EpithelialcellssquamousNaricPtUrinesedQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "41995-2",
-    "description" : "Hemoglobin A1c Bld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

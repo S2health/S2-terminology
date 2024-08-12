@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "49936-8",
-    "description" : "Calcium.ionized/Calcium.total corrected for albumin Bld MFr Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

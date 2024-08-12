@@ -4,33 +4,8 @@
     "description" : "Erythrocytes Body fld NCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "ErythrocytesNCncPtBodyfldQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.ErythrocytesNCncPtBodyfldQn.v1.0.0.adls",
   "children" : {
-    "6741-3" : {
-      "source" : {
-        "code" : "6741-3",
-        "description" : "Erythrocytes Body fld NCnc Pt Qn Manual count",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "26455-6",
-        "description" : "Erythrocytes Body fld NCnc Pt Qn",
-        "system" : "loinc"
-      },
-      "model" : "ErythrocytesNCncPtBodyfldQnLabObs.v1.0.0",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702663001",
-          "description" : "Manual count technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
     "23860-0" : {
       "source" : {
         "code" : "23860-0",
@@ -42,7 +17,7 @@
         "description" : "Erythrocytes Body fld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "ErythrocytesNCncPtBodyfldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.ErythrocytesNCncPtBodyfldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -52,6 +27,31 @@
         "value" : {
           "code" : "702659008",
           "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "6741-3" : {
+      "source" : {
+        "code" : "6741-3",
+        "description" : "Erythrocytes Body fld NCnc Pt Qn Manual count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "26455-6",
+        "description" : "Erythrocytes Body fld NCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.ErythrocytesNCncPtBodyfldQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
           "system" : "snomed"
         }
       } ]

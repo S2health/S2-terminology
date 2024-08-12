@@ -4,6 +4,7 @@
     "description" : "OxyCODONE Urine PrThr Pt Ord",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.OxyCODONEPrThrPtUrineOrd.v1.0.0.adls",
   "children" : {
     "19642-8" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "OxyCODONE Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.OxyCODONEPrThrPtUrineOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1287497009",
+          "description" : "Screening technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

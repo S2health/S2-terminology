@@ -4,6 +4,7 @@
     "description" : "Monocytes+Macrophages/100 leukocytes CSF NFr Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.MonocytesMacrophages100leukocytesNFrPtCSFQn.v1.0.0.adls",
   "children" : {
     "23904-6" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Monocytes+Macrophages/100 leukocytes CSF NFr Pt Qn",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.MonocytesMacrophages100leukocytesNFrPtCSFQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

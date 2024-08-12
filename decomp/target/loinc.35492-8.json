@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "35492-8",
-    "description" : "Staphylococcus aureus.methicillin resistant DNA PrThr Pt Ord Probe.amp.tar",
-    "system" : "loinc"
-  },
-  "modelName" : "StaphylococcusAureusMethicillinResistantDNAACncPtXXXOrdProbeAmpTarLabObs.v1.0.0",
-  "children" : { }
-}

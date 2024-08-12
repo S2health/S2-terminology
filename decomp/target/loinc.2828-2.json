@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2828-2",
-    "description" : "Potassium Urine SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "PotassiumSCncPtUrineQnLabObs.v1.0.0",
-  "children" : { }
-}

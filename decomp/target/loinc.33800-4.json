@@ -4,7 +4,7 @@
     "description" : "DNA double strand Ab.IgG Ser ACnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "DNADoubleStrandAbIgGACncPtSerQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.DNADoubleStrandAbIgGACncPtSerQn.v1.0.0.adls",
   "children" : {
     "58465-6" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "DNA double strand Ab.IgG Ser ACnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "DNADoubleStrandAbIgGACncPtSerQnLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.DNADoubleStrandAbIgGACncPtSerQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

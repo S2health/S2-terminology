@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2823-3",
-    "description" : "Potassium Ser/Plas SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "PotassiumSCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

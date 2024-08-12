@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "53764-7",
-    "description" : "Prostate specific Ag panel Ser/Plas - Pt -",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

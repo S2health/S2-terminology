@@ -4,7 +4,7 @@
     "description" : "Schistocytes [Presence] in Blood",
     "system" : "loinc"
   },
-  "modelName" : "SchistocytesPrThrPtBldOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.SchistocytesPrThrPtBldOrd.v1.0.0.adls",
   "children" : {
     "800-3" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Schistocytes [Presence] in Blood",
         "system" : "loinc"
       },
-      "model" : "SchistocytesPrThrPtBldOrd.v1.0.0",
+      "model" : "s2-EHR-Node.SchistocytesPrThrPtBldOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

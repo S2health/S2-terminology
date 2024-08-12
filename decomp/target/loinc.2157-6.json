@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2157-6",
-    "description" : "Creatine kinase Ser/Plas CCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CreatineKinaseCCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

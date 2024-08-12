@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "35706-1",
-    "description" : "Albumin/Protein.total Ser/Plas MFr Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "AlbuminProteinTotalMFrPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

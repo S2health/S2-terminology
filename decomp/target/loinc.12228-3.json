@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "12228-3",
-    "description" : "Triglyceride Body fld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "TriglycerideMCncPtBodyFldQnLabObs.v1.0.0",
-  "children" : { }
-}

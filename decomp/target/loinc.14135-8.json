@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "14135-8",
-    "description" : "Cells.CD3+CD8+ Bld NCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

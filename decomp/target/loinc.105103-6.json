@@ -4,7 +4,7 @@
     "description" : "Leukocyte esterase [Presence] in Urine",
     "system" : "loinc"
   },
-  "modelName" : "LeukocyteesterasePrThrPtUrineOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.LeukocyteesterasePrThrPtUrineOrd.v1.0.0.adls",
   "children" : {
     "5799-2" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Leukocyte esterase [Presence] in Urine",
         "system" : "loinc"
       },
-      "model" : "LeukocyteesterasePrThrPtUrineOrd.v1.0.0",
+      "model" : "s2-EHR-Node.LeukocyteesterasePrThrPtUrineOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

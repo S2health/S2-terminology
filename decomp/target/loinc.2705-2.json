@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2705-2",
-    "description" : "Oxygen BldV PPres Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "OxygenPPresPtBldVQnLabObs.v1.0.0",
-  "children" : { }
-}

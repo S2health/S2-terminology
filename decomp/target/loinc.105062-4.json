@@ -4,7 +4,7 @@
     "description" : "Streptococcus pyogenes DNA [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "StreptococcuspyogenesDNAPrThrPtXXXOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.StreptococcuspyogenesDNAPrThrPtXXXOrd.v1.0.0.adls",
   "children" : {
     "60489-2" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Streptococcus pyogenes DNA [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "StreptococcuspyogenesDNAPrThrPtXXXOrd.v1.0.0",
+      "model" : "s2-EHR-Node.StreptococcuspyogenesDNAPrThrPtXXXOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "38488-3",
-    "description" : "IgG Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -4,11 +4,12 @@
     "description" : "Bacteria identified Prid Pt Nom",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
   "children" : {
-    "627-0" : {
+    "21020-3" : {
       "source" : {
-        "code" : "627-0",
-        "description" : "Bacteria identified Tiss Prid Pt Nom Aerobic culture",
+        "code" : "21020-3",
+        "description" : "Bacteria identified Prid Pt Nom Anaerobic+Aerobic culture",
         "system" : "loinc"
       },
       "target" : {
@@ -16,6 +17,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -23,16 +25,16 @@
           "system" : "loinc"
         },
         "value" : {
-          "code" : "703750006",
-          "description" : "Aerobic culture technique",
+          "code" : "31051000205101",
+          "description" : "Anaerobic and aerobic culture technique",
           "system" : "snomed"
         }
       } ]
     },
-    "19128-8" : {
+    "6463-4" : {
       "source" : {
-        "code" : "19128-8",
-        "description" : "Bacteria identified Ctp Prid Pt Nom Culture",
+        "code" : "6463-4",
+        "description" : "Bacteria identified Prid Pt Nom Culture",
         "system" : "loinc"
       },
       "target" : {
@@ -40,6 +42,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -64,6 +67,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -73,150 +77,6 @@
         "value" : {
           "code" : "703750006",
           "description" : "Aerobic culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "609-8" : {
-      "source" : {
-        "code" : "609-8",
-        "description" : "Bacteria identified Eye Prid Pt Nom Aerobic culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703750006",
-          "description" : "Aerobic culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "622-1" : {
-      "source" : {
-        "code" : "622-1",
-        "description" : "Bacteria identified Sputum Prid Pt Nom Aerobic culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703750006",
-          "description" : "Aerobic culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "79425-5" : {
-      "source" : {
-        "code" : "79425-5",
-        "description" : "Bacteria identified Respiratory.lower Prid Pt Nom Cystic fibrosis respiratory culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "117254004",
-          "description" : "Cystic fibrosis respiratory culture",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "631-2" : {
-      "source" : {
-        "code" : "631-2",
-        "description" : "Bacteria identified Unk sub Prid Pt Nom Aerobic culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703750006",
-          "description" : "Aerobic culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "533-0" : {
-      "source" : {
-        "code" : "533-0",
-        "description" : "Mycobacterium sp identified Bld Prid Pt Nom Organism specific culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703752003",
-          "description" : "Organism specific culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "626-2" : {
-      "source" : {
-        "code" : "626-2",
-        "description" : "Bacteria identified Thrt Prid Pt Nom Culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703725008",
-          "description" : "Culture technique",
           "system" : "snomed"
         }
       } ]
@@ -232,6 +92,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -245,10 +106,10 @@
         }
       } ]
     },
-    "600-7" : {
+    "43407-6" : {
       "source" : {
-        "code" : "600-7",
-        "description" : "Bacteria identified Bld Prid Pt Nom Culture",
+        "code" : "43407-6",
+        "description" : "Bacteria identified Wound.deep Prid Pt Nom Culture",
         "system" : "loinc"
       },
       "target" : {
@@ -256,6 +117,207 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703725008",
+          "description" : "Culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "622-1" : {
+      "source" : {
+        "code" : "622-1",
+        "description" : "Bacteria identified Sputum Prid Pt Nom Aerobic culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703750006",
+          "description" : "Aerobic culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "633-8" : {
+      "source" : {
+        "code" : "633-8",
+        "description" : "Bacteria identified Wound Prid Pt Nom Anaerobic culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703751005",
+          "description" : "Anaerobic culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "632-0" : {
+      "source" : {
+        "code" : "632-0",
+        "description" : "Bacteria identified Wound Prid Pt Nom Aerobic culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703750006",
+          "description" : "Aerobic culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "75357-4" : {
+      "source" : {
+        "code" : "75357-4",
+        "description" : "Bacteria identified Abscess Prid Pt Nom Anaerobic+Aerobic culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31051000205101",
+          "description" : "Anaerobic and aerobic culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "79425-5" : {
+      "source" : {
+        "code" : "79425-5",
+        "description" : "Bacteria identified Respiratory.lower Prid Pt Nom Cystic fibrosis respiratory culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "117254004",
+          "description" : "Cystic fibrosis respiratory culture",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "10352-3" : {
+      "source" : {
+        "code" : "10352-3",
+        "description" : "Bacteria identified Genital Prid Pt Nom Aerobic culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703750006",
+          "description" : "Aerobic culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "627-0" : {
+      "source" : {
+        "code" : "627-0",
+        "description" : "Bacteria identified Tiss Prid Pt Nom Aerobic culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703750006",
+          "description" : "Aerobic culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "611-4" : {
+      "source" : {
+        "code" : "611-4",
+        "description" : "Bacteria identified Body fld Prid Pt Nom Culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -280,6 +342,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -289,115 +352,6 @@
         "value" : {
           "code" : "703725008",
           "description" : "Culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "75357-4" : {
-      "source" : {
-        "code" : "75357-4",
-        "description" : "Bacteria identified Abscess Prid Pt Nom Anaerobic+Aerobic culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ ]
-    },
-    "543-9" : {
-      "source" : {
-        "code" : "543-9",
-        "description" : "Mycobacterium sp identified Prid Pt Nom Organism specific culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703752003",
-          "description" : "Organism specific culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "43407-6" : {
-      "source" : {
-        "code" : "43407-6",
-        "description" : "Bacteria identified Wound.deep Prid Pt Nom Culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703725008",
-          "description" : "Culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "610-6" : {
-      "source" : {
-        "code" : "610-6",
-        "description" : "Bacteria identified Body fld Prid Pt Nom Aerobic culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703750006",
-          "description" : "Aerobic culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "632-0" : {
-      "source" : {
-        "code" : "632-0",
-        "description" : "Bacteria identified Wound Prid Pt Nom Aerobic culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703750006",
-          "description" : "Aerobic culture technique",
           "system" : "snomed"
         }
       } ]
@@ -413,6 +367,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -426,10 +381,10 @@
         }
       } ]
     },
-    "636-1" : {
+    "17928-3" : {
       "source" : {
-        "code" : "636-1",
-        "description" : "Bacteria identified Prid Pt Nom Sterile body fluid culture",
+        "code" : "17928-3",
+        "description" : "Bacteria identified Bld Prid Pt Nom Aerobic culture",
         "system" : "loinc"
       },
       "target" : {
@@ -437,78 +392,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "117027007",
-          "description" : "Sterile body fluid culture",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "17898-8" : {
-      "source" : {
-        "code" : "17898-8",
-        "description" : "Bacteria identified Thrt Prid Pt Nom Aerobic culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703750006",
-          "description" : "Aerobic culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "6463-4" : {
-      "source" : {
-        "code" : "6463-4",
-        "description" : "Bacteria identified Prid Pt Nom Culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703725008",
-          "description" : "Culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "10352-3" : {
-      "source" : {
-        "code" : "10352-3",
-        "description" : "Bacteria identified Genital Prid Pt Nom Aerobic culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -533,7 +417,144 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31051000205101",
+          "description" : "Anaerobic and aerobic culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "636-1" : {
+      "source" : {
+        "code" : "636-1",
+        "description" : "Bacteria identified Prid Pt Nom Sterile body fluid culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "117027007",
+          "description" : "Sterile body fluid culture",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "32355-0" : {
+      "source" : {
+        "code" : "32355-0",
+        "description" : "Bacteria identified Prid Pt Nom Respiratory culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "117056007",
+          "description" : "Respiratory microbial culture",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "626-2" : {
+      "source" : {
+        "code" : "626-2",
+        "description" : "Bacteria identified Thrt Prid Pt Nom Culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703725008",
+          "description" : "Culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "19128-8" : {
+      "source" : {
+        "code" : "19128-8",
+        "description" : "Bacteria identified Ctp Prid Pt Nom Culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703725008",
+          "description" : "Culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "609-8" : {
+      "source" : {
+        "code" : "609-8",
+        "description" : "Bacteria identified Eye Prid Pt Nom Aerobic culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703750006",
+          "description" : "Aerobic culture technique",
+          "system" : "snomed"
+        }
+      } ]
     },
     "13315-7" : {
       "source" : {
@@ -546,6 +567,207 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703725008",
+          "description" : "Culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "17898-8" : {
+      "source" : {
+        "code" : "17898-8",
+        "description" : "Bacteria identified Thrt Prid Pt Nom Aerobic culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703750006",
+          "description" : "Aerobic culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "631-2" : {
+      "source" : {
+        "code" : "631-2",
+        "description" : "Bacteria identified Unk sub Prid Pt Nom Aerobic culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703750006",
+          "description" : "Aerobic culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "43441-5" : {
+      "source" : {
+        "code" : "43441-5",
+        "description" : "Bacteria identified BAL Prid Pt Nom Aerobic culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703750006",
+          "description" : "Aerobic culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "600-7" : {
+      "source" : {
+        "code" : "600-7",
+        "description" : "Bacteria identified Bld Prid Pt Nom Culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703725008",
+          "description" : "Culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "610-6" : {
+      "source" : {
+        "code" : "610-6",
+        "description" : "Bacteria identified Body fld Prid Pt Nom Aerobic culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703750006",
+          "description" : "Aerobic culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "624-7" : {
+      "source" : {
+        "code" : "624-7",
+        "description" : "Bacteria identified Sputum Prid Pt Nom Respiratory culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "117056007",
+          "description" : "Respiratory microbial culture",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "625-4" : {
+      "source" : {
+        "code" : "625-4",
+        "description" : "Bacteria identified Stool Prid Pt Nom Culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703725008",
+          "description" : "Culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "630-4" : {
+      "source" : {
+        "code" : "630-4",
+        "description" : "Bacteria identified Urine Prid Pt Nom Culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "23667-9",
+        "description" : "Bacteria identified Prid Pt Nom",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -570,6 +792,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -579,102 +802,6 @@
         "value" : {
           "code" : "703725008",
           "description" : "Culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "633-8" : {
-      "source" : {
-        "code" : "633-8",
-        "description" : "Bacteria identified Wound Prid Pt Nom Anaerobic culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703751005",
-          "description" : "Anaerobic culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "624-7" : {
-      "source" : {
-        "code" : "624-7",
-        "description" : "Bacteria identified Sputum Prid Pt Nom Respiratory culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "117056007",
-          "description" : "Respiratory microbial culture",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "611-4" : {
-      "source" : {
-        "code" : "611-4",
-        "description" : "Bacteria identified Body fld Prid Pt Nom Culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703725008",
-          "description" : "Culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "32355-0" : {
-      "source" : {
-        "code" : "32355-0",
-        "description" : "Bacteria identified Prid Pt Nom Respiratory culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "117056007",
-          "description" : "Respiratory microbial culture",
           "system" : "snomed"
         }
       } ]
@@ -690,6 +817,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -703,10 +831,10 @@
         }
       } ]
     },
-    "17928-3" : {
+    "533-0" : {
       "source" : {
-        "code" : "17928-3",
-        "description" : "Bacteria identified Bld Prid Pt Nom Aerobic culture",
+        "code" : "533-0",
+        "description" : "Mycobacterium sp identified Bld Prid Pt Nom Organism specific culture",
         "system" : "loinc"
       },
       "target" : {
@@ -714,6 +842,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -721,16 +850,16 @@
           "system" : "loinc"
         },
         "value" : {
-          "code" : "703750006",
-          "description" : "Aerobic culture technique",
+          "code" : "703752003",
+          "description" : "Organism specific culture technique",
           "system" : "snomed"
         }
       } ]
     },
-    "21020-3" : {
+    "543-9" : {
       "source" : {
-        "code" : "21020-3",
-        "description" : "Bacteria identified Prid Pt Nom Anaerobic+Aerobic culture",
+        "code" : "543-9",
+        "description" : "Mycobacterium sp identified Prid Pt Nom Organism specific culture",
         "system" : "loinc"
       },
       "target" : {
@@ -738,19 +867,7 @@
         "description" : "Bacteria identified Prid Pt Nom",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
-    },
-    "630-4" : {
-      "source" : {
-        "code" : "630-4",
-        "description" : "Bacteria identified Urine Prid Pt Nom Culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
+      "model" : "s2-EHR-Node.BacteriaidentifiedPridPtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -758,56 +875,8 @@
           "system" : "loinc"
         },
         "value" : {
-          "code" : "703725008",
-          "description" : "Culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "43441-5" : {
-      "source" : {
-        "code" : "43441-5",
-        "description" : "Bacteria identified BAL Prid Pt Nom Aerobic culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703750006",
-          "description" : "Aerobic culture technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
-    "625-4" : {
-      "source" : {
-        "code" : "625-4",
-        "description" : "Bacteria identified Stool Prid Pt Nom Culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "23667-9",
-        "description" : "Bacteria identified Prid Pt Nom",
-        "system" : "loinc"
-      },
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703725008",
-          "description" : "Culture technique",
+          "code" : "703752003",
+          "description" : "Organism specific culture technique",
           "system" : "snomed"
         }
       } ]

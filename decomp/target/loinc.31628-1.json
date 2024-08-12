@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "31628-1",
-    "description" : "Smith extractable nuclear Ab+Ribonucleoprotein extractable nuclear Ab Ser PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

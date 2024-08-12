@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "28642-7",
-    "description" : "Oxygen saturation BldCoA MFr Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "OxygensaturationMFrPtBldCoAQnLabObs.v1.0.0",
-  "children" : { }
-}

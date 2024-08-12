@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2915-7",
-    "description" : "Renin Plas CCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ReninCCncPtPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

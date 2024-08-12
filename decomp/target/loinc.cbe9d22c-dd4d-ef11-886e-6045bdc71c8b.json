@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "cbe9d22c-dd4d-ef11-886e-6045bdc71c8b",
+    "description" : "Platelet distribution width [Enteric volume] in Blood",
+    "system" : "loinc"
+  },
+  "modelName" : "s2-EHR-Node.PlateletdistributionwidthEntVolPtBldQn.v1.0.0.adls",
+  "children" : {
+    "32207-3" : {
+      "source" : {
+        "code" : "32207-3",
+        "description" : "Platelet distribution width Bld EntVol Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "cbe9d22c-dd4d-ef11-886e-6045bdc71c8b",
+        "description" : "Platelet distribution width [Enteric volume] in Blood",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.PlateletdistributionwidthEntVolPtBldQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

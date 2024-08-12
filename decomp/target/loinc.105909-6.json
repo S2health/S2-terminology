@@ -1,0 +1,82 @@
+{
+  "target" : {
+    "code" : "105909-6",
+    "description" : "SARS-CoV-2 (COVID-19) RNA [Presence] in Specimen",
+    "system" : "loinc"
+  },
+  "modelName" : "s2-EHR-Node.SARScoronavirus2RNAPrThrPtOrd.v1.0.0.adls",
+  "children" : {
+    "94500-6" : {
+      "source" : {
+        "code" : "94500-6",
+        "description" : "SARS coronavirus 2 RNA Respiratory System Specimen PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105909-6",
+        "description" : "SARS-CoV-2 (COVID-19) RNA [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.SARScoronavirus2RNAPrThrPtOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702675006",
+          "description" : "Probe with target amplification technique technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "258603007",
+          "description" : "Specimen from respiratory system",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "94565-9" : {
+      "source" : {
+        "code" : "94565-9",
+        "description" : "SARS coronavirus 2 RNA Nph PrThr Pt Ord Non-probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105909-6",
+        "description" : "SARS-CoV-2 (COVID-19) RNA [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.SARScoronavirus2RNAPrThrPtOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31111000205104",
+          "description" : "Non-probe target amplification technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "734337004",
+          "description" : "Specimen from mass of nasopharynx",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

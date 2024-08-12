@@ -4,6 +4,7 @@
     "description" : "Hepatitis B virus core Ab.IgM Ser PrThr Pt Ord",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.HepatitisBviruscoreAbIgMPrThrPtSerOrd.v1.0.0.adls",
   "children" : {
     "24113-3" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Hepatitis B virus core Ab.IgM Ser PrThr Pt Ord",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.HepatitisBviruscoreAbIgMPrThrPtSerOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

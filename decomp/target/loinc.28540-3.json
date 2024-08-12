@@ -4,7 +4,7 @@
     "description" : "Erythrocyte mean corpuscular hemoglobin concentration RBC MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "ErythrocyteMeanCorpuscularHemoglobinConcentrationMCncPtRBCQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.ErythrocyteMeanCorpuscularHemoglobinConcentrationMCncPtRBCQn.v1.0.0.adls",
   "children" : {
     "786-4" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Erythrocyte mean corpuscular hemoglobin concentration RBC MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "ErythrocyteMeanCorpuscularHemoglobinConcentrationMCncPtRBCQnLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.ErythrocyteMeanCorpuscularHemoglobinConcentrationMCncPtRBCQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

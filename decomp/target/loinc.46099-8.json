@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "46099-8",
-    "description" : "Calcium corrected for albumin Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

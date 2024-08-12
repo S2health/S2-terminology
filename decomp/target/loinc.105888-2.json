@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105888-2",
+    "description" : "Amorphous sediment [Presence] in Urine sediment",
+    "system" : "loinc"
+  },
+  "modelName" : "s2-EHR-Node.AmorphoussedimentPrThrPtUrinesedOrd.v1.0.0.adls",
+  "children" : {
+    "8246-1" : {
+      "source" : {
+        "code" : "8246-1",
+        "description" : "Amorphous sediment Urine sed PrThr Pt Ord Microscopy.light",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105888-2",
+        "description" : "Amorphous sediment [Presence] in Urine sediment",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.AmorphoussedimentPrThrPtUrinesedOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702661004",
+          "description" : "Light microscopy technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

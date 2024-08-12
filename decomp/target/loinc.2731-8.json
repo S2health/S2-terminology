@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2731-8",
-    "description" : "Parathyrin.intact Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ParathyrinIntactMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

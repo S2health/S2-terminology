@@ -4,7 +4,7 @@
     "description" : "Human papilloma virus 16+18+31+33+35+39+45+51+52+56+58+59+68 DNA [Presence] in Cervix by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "Humanpapillomavirus16183133353945515256585968DNAPrThrPtCvxOrdMolgen.v1.0.0",
+  "modelName" : "s2-EHR-Node.Humanpapillomavirus16183133353945515256585968DNAPrThrPtCvxOrdMolgen.v1.0.0.adls",
   "children" : {
     "30167-1" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Human papilloma virus 16+18+31+33+35+39+45+51+52+56+58+59+68 DNA [Presence] in Cervix by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "Humanpapillomavirus16183133353945515256585968DNAPrThrPtCvxOrdMolgen.v1.0.0",
+      "model" : "s2-EHR-Node.Humanpapillomavirus16183133353945515256585968DNAPrThrPtCvxOrdMolgen.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

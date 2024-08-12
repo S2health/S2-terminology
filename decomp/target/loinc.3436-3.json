@@ -4,7 +4,7 @@
     "description" : "Carboxy tetrahydrocannabinol Urine MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "CarboxytetrahydrocannabinolMCncPtUrineQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.CarboxytetrahydrocannabinolMCncPtUrineQn.v1.0.0.adls",
   "children" : {
     "20521-1" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Carboxy tetrahydrocannabinol Urine MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "CarboxytetrahydrocannabinolMCncPtUrineQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.CarboxytetrahydrocannabinolMCncPtUrineQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

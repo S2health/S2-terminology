@@ -4,44 +4,8 @@
     "description" : "Neisseria gonorrhoeae DNA [Presence] in Specimen by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "NeisseriagonorrhoeaeDNAPrThrPtXXXOrdMolgen.v1.0.0",
+  "modelName" : "s2-EHR-Node.NeisseriagonorrhoeaeDNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
   "children" : {
-    "47387-6" : {
-      "source" : {
-        "code" : "47387-6",
-        "description" : "Neisseria gonorrhoeae DNA Genital PrThr Pt Ord Probe.amp.tar",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "104765-3",
-        "description" : "Neisseria gonorrhoeae DNA [Presence] in Specimen by Molecular genetics method",
-        "system" : "loinc"
-      },
-      "model" : "NeisseriagonorrhoeaeDNAPrThrPtXXXOrdMolgen.v1.0.0",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702675006",
-          "description" : "Probe with target amplification technique technique",
-          "system" : "snomed"
-        }
-      }, {
-        "key" : {
-          "code" : "66746-9",
-          "description" : "Specimen type",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "119344008",
-          "description" : "Specimen from genital system",
-          "system" : "snomed"
-        }
-      } ]
-    },
     "24111-7" : {
       "source" : {
         "code" : "24111-7",
@@ -53,7 +17,7 @@
         "description" : "Neisseria gonorrhoeae DNA [Presence] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "NeisseriagonorrhoeaeDNAPrThrPtXXXOrdMolgen.v1.0.0",
+      "model" : "s2-EHR-Node.NeisseriagonorrhoeaeDNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -78,6 +42,42 @@
         }
       } ]
     },
+    "47387-6" : {
+      "source" : {
+        "code" : "47387-6",
+        "description" : "Neisseria gonorrhoeae DNA Genital PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "104765-3",
+        "description" : "Neisseria gonorrhoeae DNA [Presence] in Specimen by Molecular genetics method",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.NeisseriagonorrhoeaeDNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702675006",
+          "description" : "Probe with target amplification technique technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "119344008",
+          "description" : "Specimen from genital system",
+          "system" : "snomed"
+        }
+      } ]
+    },
     "21416-3" : {
       "source" : {
         "code" : "21416-3",
@@ -89,7 +89,7 @@
         "description" : "Neisseria gonorrhoeae DNA [Presence] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "NeisseriagonorrhoeaeDNAPrThrPtXXXOrdMolgen.v1.0.0",
+      "model" : "s2-EHR-Node.NeisseriagonorrhoeaeDNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

@@ -4,7 +4,7 @@
     "description" : "Barbiturates Urine PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "BarbituratesACncPtUrineOrdLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.BarbituratesACncPtUrineOrd.v1.0.0.adls",
   "children" : {
     "19270-8" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Barbiturates Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "BarbituratesACncPtUrineOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.BarbituratesACncPtUrineOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1287497009",
+          "description" : "Screening technique",
+          "system" : "snomed"
+        }
+      } ]
     },
     "70155-7" : {
       "source" : {
@@ -31,8 +42,19 @@
         "description" : "Barbiturates Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "BarbituratesACncPtUrineOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.BarbituratesACncPtUrineOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31011000205100",
+          "description" : "Greater than 200 ng/mL screening test technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

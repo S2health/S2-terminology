@@ -4,7 +4,7 @@
     "description" : "Acanthocytes [Presence] in Blood",
     "system" : "loinc"
   },
-  "modelName" : "AcanthocytesPrThrPtBldOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.AcanthocytesPrThrPtBldOrd.v1.0.0.adls",
   "children" : {
     "7789-1" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Acanthocytes [Presence] in Blood",
         "system" : "loinc"
       },
-      "model" : "AcanthocytesPrThrPtBldOrd.v1.0.0",
+      "model" : "s2-EHR-Node.AcanthocytesPrThrPtBldOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

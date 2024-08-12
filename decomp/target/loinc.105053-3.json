@@ -4,7 +4,7 @@
     "description" : "Calcium oxalate crystals [Presence] in Urine sediment by Microscopy",
     "system" : "loinc"
   },
-  "modelName" : "CalciumoxalatecrystalsPrThrPtUrinesedOrdMicroscopy.v1.0.0",
+  "modelName" : "s2-EHR-Node.CalciumoxalatecrystalsPrThrPtUrinesedOrdMicroscopy.v1.0.0.adls",
   "children" : {
     "5774-5" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Calcium oxalate crystals [Presence] in Urine sediment by Microscopy",
         "system" : "loinc"
       },
-      "model" : "CalciumoxalatecrystalsPrThrPtUrinesedOrdMicroscopy.v1.0.0",
+      "model" : "s2-EHR-Node.CalciumoxalatecrystalsPrThrPtUrinesedOrdMicroscopy.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

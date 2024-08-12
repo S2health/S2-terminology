@@ -4,7 +4,7 @@
     "description" : "Albumin Urine MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "AlbuminMCncPtUrineQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.AlbuminMCncPtUrineQn.v1.0.0.adls",
   "children" : {
     "14957-5" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Albumin Urine MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "AlbuminMCncPtUrineQnLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.AlbuminMCncPtUrineQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "118184002",
+          "description" : "Laboratory test with detection limit of <20mg/L",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

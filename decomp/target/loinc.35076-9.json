@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "35076-9",
-    "description" : "Monocytes Body fld NCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

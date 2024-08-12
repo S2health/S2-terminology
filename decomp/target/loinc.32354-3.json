@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "32354-3",
-    "description" : "Hematocrit BldA VFr Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

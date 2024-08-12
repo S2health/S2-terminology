@@ -4,7 +4,7 @@
     "description" : "Epithelial cells.squamous [Presence] in Urine",
     "system" : "loinc"
   },
-  "modelName" : "EpithelialcellssquamousPrThrPtUrineOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.EpithelialcellssquamousPrThrPtUrineOrd.v1.0.0.adls",
   "children" : {
     "53318-2" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Epithelial cells.squamous [Presence] in Urine",
         "system" : "loinc"
       },
-      "model" : "EpithelialcellssquamousPrThrPtUrineOrd.v1.0.0",
+      "model" : "s2-EHR-Node.EpithelialcellssquamousPrThrPtUrineOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

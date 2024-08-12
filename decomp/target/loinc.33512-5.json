@@ -4,33 +4,8 @@
     "description" : "Color of Specimen",
     "system" : "loinc"
   },
-  "modelName" : "ColorTypePtXXXNom.v1.0.0",
+  "modelName" : "s2-EHR-Node.ColorTypePtXXXNom.v1.0.0.adls",
   "children" : {
-    "5778-6" : {
-      "source" : {
-        "code" : "5778-6",
-        "description" : "Color Urine Type Pt Nom",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "33512-5",
-        "description" : "Color of Specimen",
-        "system" : "loinc"
-      },
-      "model" : "ColorTypePtXXXNom.v1.0.0",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "66746-9",
-          "description" : "Specimen type",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "122575003",
-          "description" : "Urine specimen",
-          "system" : "snomed"
-        }
-      } ]
-    },
     "6824-7" : {
       "source" : {
         "code" : "6824-7",
@@ -42,7 +17,7 @@
         "description" : "Color of Specimen",
         "system" : "loinc"
       },
-      "model" : "ColorTypePtXXXNom.v1.0.0",
+      "model" : "s2-EHR-Node.ColorTypePtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "66746-9",
@@ -67,7 +42,7 @@
         "description" : "Color of Specimen",
         "system" : "loinc"
       },
-      "model" : "ColorTypePtXXXNom.v1.0.0",
+      "model" : "s2-EHR-Node.ColorTypePtXXXNom.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "66746-9",

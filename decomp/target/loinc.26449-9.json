@@ -4,7 +4,7 @@
     "description" : "Eosinophils Bld NCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "EosinophilsNCncPtBldQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.EosinophilsNCncPtBldQn.v1.0.0.adls",
   "children" : {
     "711-2" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Eosinophils Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "EosinophilsNCncPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.EosinophilsNCncPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +42,7 @@
         "description" : "Eosinophils Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "EosinophilsNCncPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.EosinophilsNCncPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

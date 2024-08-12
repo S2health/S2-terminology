@@ -4,7 +4,7 @@
     "description" : "Microscopic observation [Identifier] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "MicroscopicobservationPridPtXXXNom.v1.0.0",
+  "modelName" : "s2-EHR-Node.MicroscopicobservationPridPtXXXNom.v1.0.0.adls",
   "children" : {
     "648-6" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Microscopic observation [Identifier] in Specimen",
         "system" : "loinc"
       },
-      "model" : "MicroscopicobservationPridPtXXXNom.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.MicroscopicobservationPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708061008",
+          "description" : "Gram stain",
+          "system" : "snomed"
+        }
+      } ]
     },
     "676-7" : {
       "source" : {
@@ -31,8 +42,30 @@
         "description" : "Microscopic observation [Identifier] in Specimen",
         "system" : "loinc"
       },
-      "model" : "MicroscopicobservationPridPtXXXNom.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.MicroscopicobservationPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1303848006",
+          "description" : "Rhodamine-auramine fluorochrome stain technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "430304001",
+          "description" : "Specimen from unspecified body site",
+          "system" : "snomed"
+        }
+      } ]
     },
     "14361-0" : {
       "source" : {
@@ -45,8 +78,30 @@
         "description" : "Microscopic observation [Identifier] in Specimen",
         "system" : "loinc"
       },
-      "model" : "MicroscopicobservationPridPtXXXNom.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.MicroscopicobservationPridPtXXXNom.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708061008",
+          "description" : "Gram stain",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "119394009",
+          "description" : "Specimen from vagina",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

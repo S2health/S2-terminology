@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "34531-4",
-    "description" : "Blood type & Crossmatch panel Bld - Pt -",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

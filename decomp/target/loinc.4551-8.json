@@ -4,7 +4,7 @@
     "description" : "Hemoglobin A2/Hemoglobin.total Bld MFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "HemoglobinA2HemoglobinTotalMFrPtBldQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.HemoglobinA2HemoglobinTotalMFrPtBldQn.v1.0.0.adls",
   "children" : {
     "4552-6" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Hemoglobin A2/Hemoglobin.total Bld MFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "HemoglobinA2HemoglobinTotalMFrPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.HemoglobinA2HemoglobinTotalMFrPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

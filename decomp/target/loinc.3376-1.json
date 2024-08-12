@@ -4,6 +4,7 @@
     "description" : "Barbiturates Ser/Plas/Bld PrThr Pt Ord",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.BarbituratesPrThrPtSerPlasBldOrd.v1.0.0.adls",
   "children" : {
     "20421-4" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Barbiturates Ser/Plas/Bld PrThr Pt Ord",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.BarbituratesPrThrPtSerPlasBldOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

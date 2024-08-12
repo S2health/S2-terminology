@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "13536-8",
-    "description" : "Globulin Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

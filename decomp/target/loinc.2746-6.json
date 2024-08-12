@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2746-6",
-    "description" : "PH BldV LsCnc Pt SemiQn",
-    "system" : "loinc"
-  },
-  "modelName" : "PHLsCncPtBldVQnLabObs.v1.0.0",
-  "children" : { }
-}

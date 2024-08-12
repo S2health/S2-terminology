@@ -4,7 +4,7 @@
     "description" : "Staphylococcus aureus DNA [Presence] in Specimen by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "StaphylococcusaureusDNAPrThrPtXXXOrdMolgen.v1.0.0",
+  "modelName" : "s2-EHR-Node.StaphylococcusaureusDNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
   "children" : {
     "61404-0" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Staphylococcus aureus DNA [Presence] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "StaphylococcusaureusDNAPrThrPtXXXOrdMolgen.v1.0.0",
+      "model" : "s2-EHR-Node.StaphylococcusaureusDNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

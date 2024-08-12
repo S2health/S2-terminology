@@ -4,7 +4,7 @@
     "description" : "Phencyclidine Urine PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "PhencyclidineACncPtUrineOrdLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.PhencyclidineACncPtUrineOrd.v1.0.0.adls",
   "children" : {
     "19659-2" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Phencyclidine Urine PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "PhencyclidineACncPtUrineOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.PhencyclidineACncPtUrineOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1287497009",
+          "description" : "Screening technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "30352-9",
-    "description" : "Hemoglobin BldC MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "HemoglobinMCncPtBldCQnLabObs.v1.0.0",
-  "children" : { }
-}

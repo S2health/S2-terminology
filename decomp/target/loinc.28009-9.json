@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "28009-9",
-    "description" : "Specimen volume Urine Vol Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "SpecimenVolumeVolPtUrineQnLabObs.v1.0.0",
-  "children" : { }
-}

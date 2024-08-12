@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "54089-8",
-    "description" : "Newborn screening panel Patient - Pt - AHIC",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "14634-0",
-    "description" : "C reactive protein Ser/Plas Titr Pt SemiQn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

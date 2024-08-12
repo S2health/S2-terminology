@@ -4,7 +4,7 @@
     "description" : "Epstein Barr virus capsid Ab.IgG Ser ACnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "EpsteinBarrVirusCapsidAbIgGACncPtSerQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.EpsteinBarrVirusCapsidAbIgGACncPtSerQn.v1.0.0.adls",
   "children" : {
     "5157-3" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Epstein Barr virus capsid Ab.IgG Ser ACnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "EpsteinBarrVirusCapsidAbIgGACncPtSerQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.EpsteinBarrVirusCapsidAbIgGACncPtSerQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

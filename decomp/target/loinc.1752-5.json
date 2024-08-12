@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "1752-5",
-    "description" : "Albumin Synv fld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

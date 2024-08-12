@@ -4,7 +4,7 @@
     "description" : "Hepatitis C virus RNA [log units/volume] in Serum or Plasma by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "HepatitisCvirusRNALaCncPtSerPlasQnMolgen.v1.0.0",
+  "modelName" : "s2-EHR-Node.HepatitisCvirusRNALaCncPtSerPlasQnMolgen.v1.0.0.adls",
   "children" : {
     "38180-6" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Hepatitis C virus RNA [log units/volume] in Serum or Plasma by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "HepatitisCvirusRNALaCncPtSerPlasQnMolgen.v1.0.0",
+      "model" : "s2-EHR-Node.HepatitisCvirusRNALaCncPtSerPlasQnMolgen.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

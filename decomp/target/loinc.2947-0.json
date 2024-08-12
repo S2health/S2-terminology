@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2947-0",
-    "description" : "Sodium Bld SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "SodiumSCncPtBldQnLabObs.v1.0.0",
-  "children" : { }
-}

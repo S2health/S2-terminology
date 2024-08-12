@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "7155-5",
-    "description" : "Acer negundo Ab.IgE Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "AcerNegundoAbIgEACncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "34557-9",
-    "description" : "Cell count & Differential panel Body fld - Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "1974-5",
-    "description" : "Bilirubin Body fld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "BilirubinMCncPtBodyFldQnLabObs.v1.0.0",
-  "children" : { }
-}

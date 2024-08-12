@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "38445-3",
-    "description" : "Calprotectin Stool MCnt Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -4,7 +4,7 @@
     "description" : "Urobilinogen [Mass/volume] in Urine",
     "system" : "loinc"
   },
-  "modelName" : "UrobilinogenMCncPtUrineQn.v1.0.0",
+  "modelName" : "s2-EHR-Node.UrobilinogenMCncPtUrineQn.v1.0.0.adls",
   "children" : {
     "50563-6" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Urobilinogen [Mass/volume] in Urine",
         "system" : "loinc"
       },
-      "model" : "UrobilinogenMCncPtUrineQn.v1.0.0",
+      "model" : "s2-EHR-Node.UrobilinogenMCncPtUrineQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +42,7 @@
         "description" : "Urobilinogen [Mass/volume] in Urine",
         "system" : "loinc"
       },
-      "model" : "UrobilinogenMCncPtUrineQn.v1.0.0",
+      "model" : "s2-EHR-Node.UrobilinogenMCncPtUrineQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

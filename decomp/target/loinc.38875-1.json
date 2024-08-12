@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "38875-1",
-    "description" : "Coagulation tissue factor induced.INR PPP/Bld RelTime Pt Qn Coag",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

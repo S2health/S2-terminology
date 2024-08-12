@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "15189-4",
-    "description" : "Immunoglobulin light chains.kappa/Immunoglobulin light chains.lambda Ser MRto Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ImmunoglobulinLightChainsKappaImmunoglobulinLightChainsLambdaMCrtoPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

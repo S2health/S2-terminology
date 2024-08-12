@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "46418-0",
-    "description" : "Coagulation tissue factor induced.INR BldC RelTime Pt Qn Coag",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

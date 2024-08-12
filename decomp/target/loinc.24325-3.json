@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "24325-3",
-    "description" : "Hepatic function 2000 panel Ser/Plas - Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

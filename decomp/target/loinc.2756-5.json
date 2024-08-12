@@ -4,7 +4,7 @@
     "description" : "pH of Urine",
     "system" : "loinc"
   },
-  "modelName" : "PHLsCncPtUrineSemiQn.v1.0.0",
+  "modelName" : "s2-EHR-Node.PHLsCncPtUrineQn.v1.0.0.adls",
   "children" : {
     "5803-2" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "pH of Urine",
         "system" : "loinc"
       },
-      "model" : "PHLsCncPtUrineSemiQn.v1.0.0",
+      "model" : "s2-EHR-Node.PHLsCncPtUrineQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +42,7 @@
         "description" : "pH of Urine",
         "system" : "loinc"
       },
-      "model" : "PHLsCncPtUrineSemiQn.v1.0.0",
+      "model" : "s2-EHR-Node.PHLsCncPtUrineQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

@@ -4,7 +4,7 @@
     "description" : "Erythrocytes Bld NCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "ErythrocytesNCncPtBldQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.ErythrocytesNCncPtBldQn.v1.0.0.adls",
   "children" : {
     "789-8" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Erythrocytes Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "ErythrocytesNCncPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.ErythrocytesNCncPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

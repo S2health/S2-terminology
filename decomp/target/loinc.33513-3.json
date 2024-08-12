@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "33513-3",
-    "description" : "Specific gravity Rden Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

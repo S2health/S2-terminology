@@ -4,7 +4,7 @@
     "description" : "Platelets.reticulated/100 platelets Bld NFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "PlateletsReticulated100PlateletsNFrPtBldQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.PlateletsReticulated100PlateletsNFrPtBldQn.v1.0.0.adls",
   "children" : {
     "71693-6" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Platelets.reticulated/100 platelets Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "PlateletsReticulated100PlateletsNFrPtBldQnLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.PlateletsReticulated100PlateletsNFrPtBldQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

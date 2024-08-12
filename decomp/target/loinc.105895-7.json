@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105895-7",
+    "description" : "Casts [Presence] in Urine sediment",
+    "system" : "loinc"
+  },
+  "modelName" : "s2-EHR-Node.CastsPrThrPtUrinesedOrd.v1.0.0.adls",
+  "children" : {
+    "24124-0" : {
+      "source" : {
+        "code" : "24124-0",
+        "description" : "Casts Urine sed PrThr Pt Ord Microscopy.light",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105895-7",
+        "description" : "Casts [Presence] in Urine sediment",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.CastsPrThrPtUrinesedOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702661004",
+          "description" : "Light microscopy technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

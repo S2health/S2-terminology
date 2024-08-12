@@ -4,6 +4,7 @@
     "description" : "Erythrocytes.nucleated Bld NCnc Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.ErythrocytesnucleatedNCncPtBldQn.v1.0.0.adls",
   "children" : {
     "771-6" : {
       "source" : {
@@ -16,7 +17,19 @@
         "description" : "Erythrocytes.nucleated Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.ErythrocytesnucleatedNCncPtBldQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
     },
     "772-4" : {
       "source" : {
@@ -29,7 +42,19 @@
         "description" : "Erythrocytes.nucleated Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.ErythrocytesnucleatedNCncPtBldQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702663001",
+          "description" : "Manual count technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

@@ -4,7 +4,7 @@
     "description" : "Oxygen saturation Bld MFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "OxygenSaturationMFrPtBldQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.OxygenSaturationMFrPtBldQn.v1.0.0.adls",
   "children" : {
     "2713-6" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Oxygen saturation Bld MFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "OxygenSaturationMFrPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.OxygenSaturationMFrPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

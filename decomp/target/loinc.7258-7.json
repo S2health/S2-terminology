@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "7258-7",
-    "description" : "Cow milk Ab.IgE Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CowmilkAbIgEACncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

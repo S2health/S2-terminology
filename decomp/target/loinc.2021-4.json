@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2021-4",
-    "description" : "Carbon dioxide BldV PPres Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CarbonDioxidePPresPtBldVQnLabObs.v1.0.0",
-  "children" : { }
-}

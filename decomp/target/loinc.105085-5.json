@@ -4,33 +4,8 @@
     "description" : "Neisseria gonorrhoeae rRNA [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "NeisseriagonorrhoeaerRNAPrThrPtXXXOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.NeisseriagonorrhoeaerRNAPrThrPtXXXOrd.v1.0.0.adls",
   "children" : {
-    "43305-2" : {
-      "source" : {
-        "code" : "43305-2",
-        "description" : "Neisseria gonorrhoeae rRNA PrThr Pt Ord Probe.amp.tar",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "105085-5",
-        "description" : "Neisseria gonorrhoeae rRNA [Presence] in Specimen",
-        "system" : "loinc"
-      },
-      "model" : "NeisseriagonorrhoeaerRNAPrThrPtXXXOrd.v1.0.0",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702675006",
-          "description" : "Probe with target amplification technique technique",
-          "system" : "snomed"
-        }
-      } ]
-    },
     "5028-6" : {
       "source" : {
         "code" : "5028-6",
@@ -42,7 +17,7 @@
         "description" : "Neisseria gonorrhoeae rRNA [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "NeisseriagonorrhoeaerRNAPrThrPtXXXOrd.v1.0.0",
+      "model" : "s2-EHR-Node.NeisseriagonorrhoeaerRNAPrThrPtXXXOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -52,6 +27,31 @@
         "value" : {
           "code" : "702673004",
           "description" : "Deoxyribonucleic acid probe technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "43305-2" : {
+      "source" : {
+        "code" : "43305-2",
+        "description" : "Neisseria gonorrhoeae rRNA PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105085-5",
+        "description" : "Neisseria gonorrhoeae rRNA [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.NeisseriagonorrhoeaerRNAPrThrPtXXXOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702675006",
+          "description" : "Probe with target amplification technique technique",
           "system" : "snomed"
         }
       } ]

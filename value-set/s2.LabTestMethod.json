@@ -1,6 +1,6 @@
 {
   "id" : "s2.LabTestMethod",
-  "creationDate" : "2024-06-28T16:22:32-0400",
+  "creationDate" : "2024-08-07T15:15:01-0400",
   "source" : "symedical",
   "set" : {
     "issuer" : "s2",
@@ -9,12 +9,20 @@
     "type" : "vset",
     "system" : "snomed",
     "members" : [ {
+      "code" : "30921000205104",
+      "description" : "Addition of pyridoxal-5'-phosphate technique",
+      "system" : "snomed"
+    }, {
       "code" : "703750006",
       "description" : "Aerobic culture",
       "system" : "snomed"
     }, {
       "code" : "708104000",
       "description" : "Agglutination technique",
+      "system" : "snomed"
+    }, {
+      "code" : "31051000205101",
+      "description" : "Anaerobic and aerobic culture technique",
       "system" : "snomed"
     }, {
       "code" : "703751005",
@@ -61,12 +69,24 @@
       "description" : "Cockcroft-Gault formula",
       "system" : "snomed"
     }, {
+      "code" : "31101000205101",
+      "description" : "Computer assisted testing technique",
+      "system" : "snomed"
+    }, {
       "code" : "702942001",
       "description" : "Concentration",
       "system" : "snomed"
     }, {
       "code" : "703690001",
       "description" : "Confirmatory technique",
+      "system" : "snomed"
+    }, {
+      "code" : "31091000205105",
+      "description" : "Creatinine based formula modified diet for renal disease testing technique",
+      "system" : "snomed"
+    }, {
+      "code" : "31081000205108",
+      "description" : "Creatinine-based formula chronic kidney disease - epidemiology technique",
       "system" : "snomed"
     }, {
       "code" : "703725008",
@@ -79,6 +99,14 @@
     }, {
       "code" : "702673004",
       "description" : "Deoxyribonucleic acid probe",
+      "system" : "snomed"
+    }, {
+      "code" : "703436002",
+      "description" : "Detection limit equal to or less than 0.005 mIU/L",
+      "system" : "snomed"
+    }, {
+      "code" : "703438001",
+      "description" : "Detection limit equal to or less than 0.05 mIU/L",
       "system" : "snomed"
     }, {
       "code" : "703439009",
@@ -113,8 +141,32 @@
       "description" : "Fungus stain method",
       "system" : "snomed"
     }, {
+      "code" : "1306895000",
+      "description" : "Gel column agglutination technique",
+      "system" : "snomed"
+    }, {
       "code" : "166900001",
       "description" : "Glucometer blood glucose",
+      "system" : "snomed"
+    }, {
+      "code" : "708061008",
+      "description" : "Gram stain",
+      "system" : "snomed"
+    }, {
+      "code" : "30991000205101",
+      "description" : "Greater than 1000 ng/mL screening testing technique",
+      "system" : "snomed"
+    }, {
+      "code" : "31011000205100",
+      "description" : "Greater than 200 ng/mL screening test technique",
+      "system" : "snomed"
+    }, {
+      "code" : "31021000205107",
+      "description" : "Greater than 300 ng/mL screening test technique",
+      "system" : "snomed"
+    }, {
+      "code" : "31001000205102",
+      "description" : "Greater than 50ng/mL screening test technique",
       "system" : "snomed"
     }, {
       "code" : "702662006",
@@ -123,6 +175,10 @@
     }, {
       "code" : "258035006",
       "description" : "High pressure liquid chromatography",
+      "system" : "snomed"
+    }, {
+      "code" : "30941000205107",
+      "description" : "High sensitivity technique",
       "system" : "snomed"
     }, {
       "code" : "726449005",
@@ -153,8 +209,16 @@
       "description" : "Laboratory test with detection limit of <20mg/L",
       "system" : "snomed"
     }, {
+      "code" : "30961000205108",
+      "description" : "Lactate to pyruvate testing technique",
+      "system" : "snomed"
+    }, {
       "code" : "702661004",
       "description" : "Light microscopy",
+      "system" : "snomed"
+    }, {
+      "code" : "31031000205109",
+      "description" : "Liquid chromatograhpy - mass spectrometery - mass spectrometry testing technique",
       "system" : "snomed"
     }, {
       "code" : "703451006",
@@ -189,12 +253,36 @@
       "description" : "Nephelometry",
       "system" : "snomed"
     }, {
+      "code" : "30931000205102",
+      "description" : "No addition of pyridoxal-5'-phosphatase technique",
+      "system" : "snomed"
+    }, {
+      "code" : "31111000205104",
+      "description" : "Non-probe target amplification technique",
+      "system" : "snomed"
+    }, {
       "code" : "703752003",
       "description" : "Organism specific culture",
       "system" : "snomed"
     }, {
+      "code" : "31071000205106",
+      "description" : "Oximetry testing technique",
+      "system" : "snomed"
+    }, {
+      "code" : "117249008",
+      "description" : "Platelet count, Rees-Ecker method",
+      "system" : "snomed"
+    }, {
       "code" : "702675006",
       "description" : "Probe with target amplification",
+      "system" : "snomed"
+    }, {
+      "code" : "30951000205105",
+      "description" : "Pyruvate to lactate testing technique",
+      "system" : "snomed"
+    }, {
+      "code" : "703449007",
+      "description" : "Radioimmunoassay",
       "system" : "snomed"
     }, {
       "code" : "708099001",
@@ -217,8 +305,16 @@
       "description" : "Respiratory microbial culture",
       "system" : "snomed"
     }, {
+      "code" : "1303848006",
+      "description" : "Rhodamine-auramine fluorochrome stain technique",
+      "system" : "snomed"
+    }, {
       "code" : "1287497009",
       "description" : "Screening technique",
+      "system" : "snomed"
+    }, {
+      "code" : "31041000205104",
+      "description" : "Second international reference preparation testing technique",
       "system" : "snomed"
     }, {
       "code" : "726451009",
@@ -233,6 +329,10 @@
       "description" : "Test strip",
       "system" : "snomed"
     }, {
+      "code" : "30971000205100",
+      "description" : "Third immune stain technique",
+      "system" : "snomed"
+    }, {
       "code" : "255374006",
       "description" : "Visual",
       "system" : "snomed"
@@ -245,7 +345,7 @@
       "description" : "Wet preparation technique",
       "system" : "snomed"
     } ],
-    "totalMembers" : 59,
+    "totalMembers" : 84,
     "isComplete" : true
   }
 }

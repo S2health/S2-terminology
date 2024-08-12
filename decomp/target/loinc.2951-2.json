@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2951-2",
-    "description" : "Sodium Ser/Plas SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "SodiumSCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

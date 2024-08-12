@@ -4,7 +4,7 @@
     "description" : "Escherichia coli enterotoxigenic ltA+st1a+st1b genes [Presence] in Stool",
     "system" : "loinc"
   },
-  "modelName" : "EscherichiacolienterotoxigenicltAst1ast1bgenesPrThrPtStoolOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.EscherichiacolienterotoxigenicltAst1ast1bgenesPrThrPtStoolOrd.v1.0.0.adls",
   "children" : {
     "80351-0" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Escherichia coli enterotoxigenic ltA+st1a+st1b genes [Presence] in Stool",
         "system" : "loinc"
       },
-      "model" : "EscherichiacolienterotoxigenicltAst1ast1bgenesPrThrPtStoolOrd.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.EscherichiacolienterotoxigenicltAst1ast1bgenesPrThrPtStoolOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31111000205104",
+          "description" : "Non-probe target amplification technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

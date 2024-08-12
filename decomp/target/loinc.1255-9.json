@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "1255-9",
-    "description" : "Minor crossmatch RBC Imp Pt Nom",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

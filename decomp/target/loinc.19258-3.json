@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "19258-3",
-    "description" : "Oxygen adjusted to patient's actual temperature BldV PPres Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

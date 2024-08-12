@@ -4,7 +4,7 @@
     "description" : "Rubella virus IgG Ab [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "RubellavirusAbIgGPrThrPtXXXOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.RubellavirusAbIgGPrThrPtXXXOrd.v1.0.0.adls",
   "children" : {
     "40667-8" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Rubella virus IgG Ab [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "RubellavirusAbIgGPrThrPtXXXOrd.v1.0.0",
+      "model" : "s2-EHR-Node.RubellavirusAbIgGPrThrPtXXXOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

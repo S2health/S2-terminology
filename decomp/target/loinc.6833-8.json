@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "6833-8",
-    "description" : "Cat dander Ab.IgE Ser ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CatDanderAbIgEACncPtSerQnLabObs.v1.0.0",
-  "children" : { }
-}

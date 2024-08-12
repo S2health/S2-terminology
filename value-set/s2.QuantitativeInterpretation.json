@@ -1,0 +1,39 @@
+{
+  "id" : "s2.QuantitativeInterpretation",
+  "creationDate" : "2024-08-07T17:01:05-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "QuantitativeInterpretation",
+    "description" : "Quantitative interpretation",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "31121000205106",
+      "description" : "Critical high",
+      "system" : "snomed"
+    }, {
+      "code" : "31131000205108",
+      "description" : "Critical low",
+      "system" : "snomed"
+    }, {
+      "code" : "1321000205102",
+      "description" : "Critically abnormal",
+      "system" : "snomed"
+    }, {
+      "code" : "75540009",
+      "description" : "High",
+      "system" : "snomed"
+    }, {
+      "code" : "62482003",
+      "description" : "Low",
+      "system" : "snomed"
+    }, {
+      "code" : "17621005",
+      "description" : "Normal",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 6,
+    "isComplete" : true
+  }
+}

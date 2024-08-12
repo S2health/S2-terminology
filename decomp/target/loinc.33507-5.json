@@ -4,6 +4,7 @@
     "description" : "Alpha-Phenyl-2-Piperidine acetate Urine MCnc Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.AlphaPhenyl2PiperidineacetateMCncPtUrineQn.v1.0.0.adls",
   "children" : {
     "72790-9" : {
       "source" : {
@@ -16,6 +17,7 @@
         "description" : "Alpha-Phenyl-2-Piperidine acetate Urine MCnc Pt Qn",
         "system" : "loinc"
       },
+      "model" : "s2-EHR-Node.AlphaPhenyl2PiperidineacetateMCncPtUrineQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "1003-3",
-    "description" : "Indirect antiglobulin test.complement specific reagent Ser/Plas PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

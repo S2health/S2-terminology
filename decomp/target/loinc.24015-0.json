@@ -4,7 +4,7 @@
     "description" : "Influenza virus A+B Ag PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "InfluenzaVirusABAgACncPtXXXOrdLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.InfluenzaVirusABAgACncPtXXXOrd.v1.0.0.adls",
   "children" : {
     "6437-8" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Influenza virus A+B Ag PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "InfluenzaVirusABAgACncPtXXXOrdLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.InfluenzaVirusABAgACncPtXXXOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

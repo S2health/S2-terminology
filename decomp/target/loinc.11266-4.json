@@ -4,7 +4,7 @@
     "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "StreptococcusagalactiaeAgPrThrPtXXXOrdLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.StreptococcusagalactiaeAgPrThrPtXXXOrd.v1.0.0.adls",
   "children" : {
     "582-7" : {
       "source" : {
@@ -17,36 +17,19 @@
         "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "StreptococcusagalactiaeAgPrThrPtXXXOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
-    },
-    "72607-5" : {
-      "source" : {
-        "code" : "72607-5",
-        "description" : "Streptococcus agalactiae Vag+Rectum PrThr Pt Ord Organism specific culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "11266-4",
-        "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
-        "system" : "loinc"
-      },
-      "model" : "StreptococcusagalactiaeAgPrThrPtXXXOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
-    },
-    "586-8" : {
-      "source" : {
-        "code" : "586-8",
-        "description" : "Streptococcus agalactiae PrThr Pt Ord Organism specific culture",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "11266-4",
-        "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
-        "system" : "loinc"
-      },
-      "model" : "StreptococcusagalactiaeAgPrThrPtXXXOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.StreptococcusagalactiaeAgPrThrPtXXXOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703752003",
+          "description" : "Organism specific culture technique",
+          "system" : "snomed"
+        }
+      } ]
     },
     "585-0" : {
       "source" : {
@@ -59,8 +42,69 @@
         "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "StreptococcusagalactiaeAgPrThrPtXXXOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.StreptococcusagalactiaeAgPrThrPtXXXOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703752003",
+          "description" : "Organism specific culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "586-8" : {
+      "source" : {
+        "code" : "586-8",
+        "description" : "Streptococcus agalactiae PrThr Pt Ord Organism specific culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "11266-4",
+        "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.StreptococcusagalactiaeAgPrThrPtXXXOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703752003",
+          "description" : "Organism specific culture technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "72607-5" : {
+      "source" : {
+        "code" : "72607-5",
+        "description" : "Streptococcus agalactiae Vag+Rectum PrThr Pt Ord Organism specific culture",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "11266-4",
+        "description" : "Streptococcus agalactiae Ag PrThr Pt Ord",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.StreptococcusagalactiaeAgPrThrPtXXXOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "703752003",
+          "description" : "Organism specific culture technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

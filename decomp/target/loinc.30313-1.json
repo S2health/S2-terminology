@@ -4,7 +4,7 @@
     "description" : "Hemoglobin BldA MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "HemoglobinMCncPtBldAQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.HemoglobinMCncPtBldAQn.v1.0.0.adls",
   "children" : {
     "14775-1" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Hemoglobin BldA MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "HemoglobinMCncPtBldAQnLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.HemoglobinMCncPtBldAQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31071000205106",
+          "description" : "Oximetry testing technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

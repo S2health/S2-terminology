@@ -4,7 +4,7 @@
     "description" : "Gardnerella vaginalis rRNA [Presence] in Genital specimen by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "GardnerellavaginalisrRNAPrThrPtGenitalOrdMolgen.v1.0.0",
+  "modelName" : "s2-EHR-Node.GardnerellavaginalisrRNAPrThrPtGenitalOrdMolgen.v1.0.0.adls",
   "children" : {
     "6410-5" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Gardnerella vaginalis rRNA [Presence] in Genital specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "GardnerellavaginalisrRNAPrThrPtGenitalOrdMolgen.v1.0.0",
+      "model" : "s2-EHR-Node.GardnerellavaginalisrRNAPrThrPtGenitalOrdMolgen.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

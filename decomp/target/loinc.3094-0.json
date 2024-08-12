@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "3094-0",
-    "description" : "Urea nitrogen Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "UreaNitrogenMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

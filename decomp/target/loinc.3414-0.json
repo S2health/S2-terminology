@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "3414-0",
-    "description" : "Buprenorphine Urine PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "modelName" : "BuprenorphineACncPtUrineOrdLabObs.v1.0.0",
-  "children" : { }
-}

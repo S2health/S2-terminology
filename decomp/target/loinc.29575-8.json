@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "29575-8",
-    "description" : "Thyrotropin Bld.dot ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "ThyrotropinACncPtBldDotQnLabObs.v1.0.0",
-  "children" : { }
-}

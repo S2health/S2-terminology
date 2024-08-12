@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "3091-6",
-    "description" : "Urea Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

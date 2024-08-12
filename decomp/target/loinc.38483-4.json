@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "38483-4",
-    "description" : "Creatinine Bld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CreatinineMCncPtBldQnLabObs.v1.0.0",
-  "children" : { }
-}

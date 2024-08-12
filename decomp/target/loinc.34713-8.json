@@ -4,7 +4,7 @@
     "description" : "Clostridioides difficile toxin A+B Stool PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "ClostridiumDifficileToxinABACncPtStoolOrdLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.ClostridiumDifficileToxinABACncPtStoolOrd.v1.0.0.adls",
   "children" : {
     "34468-9" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Clostridioides difficile toxin A+B Stool PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "ClostridiumDifficileToxinABACncPtStoolOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.ClostridiumDifficileToxinABACncPtStoolOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

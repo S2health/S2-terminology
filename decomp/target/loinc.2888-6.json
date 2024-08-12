@@ -4,20 +4,8 @@
     "description" : "Protein Urine MCnc Pt Qn",
     "system" : "loinc"
   },
+  "modelName" : "s2-EHR-Node.ProteinMCncPtUrineQn.v1.0.0.adls",
   "children" : {
-    "50561-0" : {
-      "source" : {
-        "code" : "50561-0",
-        "description" : "Protein Urine MCnc Pt SemiQn Test strip.automated",
-        "system" : "loinc"
-      },
-      "target" : {
-        "code" : "2888-6",
-        "description" : "Protein Urine MCnc Pt Qn",
-        "system" : "loinc"
-      },
-      "descriptors" : [ ]
-    },
     "5804-0" : {
       "source" : {
         "code" : "5804-0",
@@ -29,7 +17,44 @@
         "description" : "Protein Urine MCnc Pt Qn",
         "system" : "loinc"
       },
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.ProteinMCncPtUrineQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702660003",
+          "description" : "Test strip technique",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "50561-0" : {
+      "source" : {
+        "code" : "50561-0",
+        "description" : "Protein Urine MCnc Pt SemiQn Test strip.automated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "2888-6",
+        "description" : "Protein Urine MCnc Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.ProteinMCncPtUrineQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "737102004",
+          "description" : "Automated test strip technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

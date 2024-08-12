@@ -4,7 +4,7 @@
     "description" : "Triglyceride Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "TriglycerideMCncPtSerPlasQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.TriglycerideMCncPtSerPlasQn.v1.0.0.adls",
   "children" : {
     "12951-0" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Triglyceride Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "TriglycerideMCncPtSerPlasQnLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.TriglycerideMCncPtSerPlasQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "117337005",
+          "description" : "Calculated laboratory test method",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

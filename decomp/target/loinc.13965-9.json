@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "13965-9",
-    "description" : "Homocysteine Ser/Plas SCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "HomocysteineSCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

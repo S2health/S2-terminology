@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "32016-8",
-    "description" : "Glucose BldC MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -4,7 +4,7 @@
     "description" : "Ferritin Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "FerritinMCncPtSerPlasQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.FerritinMCncPtSerPlasQn.v1.0.0.adls",
   "children" : {
     "20567-4" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Ferritin Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "FerritinMCncPtSerPlasQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.FerritinMCncPtSerPlasQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

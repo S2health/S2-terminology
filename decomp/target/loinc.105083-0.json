@@ -4,12 +4,12 @@
     "description" : "Volume of Specimen",
     "system" : "loinc"
   },
-  "modelName" : "SpecimenvolumeVolTimeXXXQn.v1.0.0",
+  "modelName" : "s2-EHR-Node.SpecimenvolumeVolTimeXXXQn.v1.0.0.adls",
   "children" : {
-    "19153-6" : {
+    "3167-4" : {
       "source" : {
-        "code" : "19153-6",
-        "description" : "Specimen volume Urine Vol Qn",
+        "code" : "3167-4",
+        "description" : "Specimen volume Urine Vol 24H Qn",
         "system" : "loinc"
       },
       "target" : {
@@ -17,7 +17,7 @@
         "description" : "Volume of Specimen",
         "system" : "loinc"
       },
-      "model" : "SpecimenvolumeVolTimeXXXQn.v1.0.0",
+      "model" : "s2-EHR-Node.SpecimenvolumeVolTimeXXXQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "66746-9",
@@ -31,7 +31,43 @@
         }
       }, {
         "key" : {
-          "code" : "97-tim",
+          "code" : "LP70420-2",
+          "description" : "Timing",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "123027009",
+          "description" : "24 hours",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "19153-6" : {
+      "source" : {
+        "code" : "19153-6",
+        "description" : "Specimen volume Urine Vol Qn",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105083-0",
+        "description" : "Volume of Specimen",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.SpecimenvolumeVolTimeXXXQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "122575003",
+          "description" : "Urine specimen",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "LP70420-2",
           "description" : "Timing",
           "system" : "loinc"
         },

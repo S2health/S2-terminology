@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "46737-3",
-    "description" : "Galactosemias Bld.dot Imp Pt Nom",
-    "system" : "loinc"
-  },
-  "modelName" : "GalactosemiasImpPtBlddotNomLabObs.v1.0.0",
-  "children" : { }
-}

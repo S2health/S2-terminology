@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "24356-8",
-    "description" : "Urinalysis complete panel Urine - Pt -",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

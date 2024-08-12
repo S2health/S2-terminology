@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "9795-6",
-    "description" : "Composition Calculus Type Pt Nom",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

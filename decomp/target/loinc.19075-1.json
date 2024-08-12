@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "19075-1",
-    "description" : "Cells counted.total CSF Num Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

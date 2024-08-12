@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "3551-9",
-    "description" : "DiazePAM Urine MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

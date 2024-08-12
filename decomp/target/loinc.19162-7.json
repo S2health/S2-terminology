@@ -4,7 +4,7 @@
     "description" : "Varicella zoster virus Ab.IgG Ser PrThr Pt Ord",
     "system" : "loinc"
   },
-  "modelName" : "VaricellaZosterVirusAbIgGAcncPtSerOrdLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.VaricellaZosterVirusAbIgGAcncPtSerOrd.v1.0.0.adls",
   "children" : {
     "15410-4" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Varicella zoster virus Ab.IgG Ser PrThr Pt Ord",
         "system" : "loinc"
       },
-      "model" : "VaricellaZosterVirusAbIgGAcncPtSerOrdLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.VaricellaZosterVirusAbIgGAcncPtSerOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "726449005",
+          "description" : "Immunoassay technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

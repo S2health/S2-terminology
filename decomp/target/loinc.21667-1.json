@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "21667-1",
-    "description" : "F5 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal",
-    "system" : "loinc"
-  },
-  "modelName" : "F5genetargetedmutationanalysisPridPtBldTissNomMolgen.v1.0.0",
-  "children" : { }
-}

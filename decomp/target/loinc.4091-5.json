@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "4091-5",
-    "description" : "Vancomycin Random Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

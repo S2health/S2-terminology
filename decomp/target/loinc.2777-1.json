@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2777-1",
-    "description" : "Phosphate Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "PhosphateMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

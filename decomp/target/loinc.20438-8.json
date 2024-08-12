@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "20438-8",
-    "description" : "Glucose 1H post dose glucose Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "Glucose1HpostdoseglucoseMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

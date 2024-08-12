@@ -4,7 +4,7 @@
     "description" : "Monocytes Bld NCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "MonocytesNCncPtBldQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.MonocytesNCncPtBldQn.v1.0.0.adls",
   "children" : {
     "742-7" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Monocytes Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "MonocytesNCncPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.MonocytesNCncPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +42,7 @@
         "description" : "Monocytes Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "MonocytesNCncPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.MonocytesNCncPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

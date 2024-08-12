@@ -4,7 +4,7 @@
     "description" : "Mucus [Presence] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "MucusPrThrPtUrinesedOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.MucusPrThrPtUrinesedOrd.v1.0.0.adls",
   "children" : {
     "8247-9" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Mucus [Presence] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "MucusPrThrPtUrinesedOrd.v1.0.0",
+      "model" : "s2-EHR-Node.MucusPrThrPtUrinesedOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

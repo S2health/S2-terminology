@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "4d99ef8d-e74d-ef11-886e-6045bdc71c8b",
+    "description" : "Other cells/100 leukocytes Bld Nfr Pt Qn",
+    "system" : "loinc"
+  },
+  "modelName" : "s2-EHR-Node.Othercells100leukocytesNFrPtBldQn.v1.0.0.adls",
+  "children" : {
+    "58409-4" : {
+      "source" : {
+        "code" : "58409-4",
+        "description" : "Other cells/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "4d99ef8d-e74d-ef11-886e-6045bdc71c8b",
+        "description" : "Other cells/100 leukocytes Bld Nfr Pt Qn",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Othercells100leukocytesNFrPtBldQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "702659008",
+          "description" : "Automated count technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

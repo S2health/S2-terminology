@@ -4,7 +4,7 @@
     "description" : "Smudge cells [Presence] in Blood",
     "system" : "loinc"
   },
-  "modelName" : "SmudgecellsPrThrPtBldOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.SmudgecellsPrThrPtBldOrd.v1.0.0.adls",
   "children" : {
     "7798-2" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Smudge cells [Presence] in Blood",
         "system" : "loinc"
       },
-      "model" : "SmudgecellsPrThrPtBldOrd.v1.0.0",
+      "model" : "s2-EHR-Node.SmudgecellsPrThrPtBldOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

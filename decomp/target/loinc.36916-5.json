@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "36916-5",
-    "description" : "Immunoglobulin light chains.kappa.free Ser MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

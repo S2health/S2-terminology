@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "19146-0",
-    "description" : "Referral lab test results Referral lab test Find Pt Nar",
-    "system" : "loinc"
-  },
-  "modelName" : "ResultLabObs.v1.0.0",
-  "children" : { }
-}

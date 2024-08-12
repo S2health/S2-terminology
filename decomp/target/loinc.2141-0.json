@@ -4,7 +4,7 @@
     "description" : "Corticotropin Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "CorticotropinMCncPtPlasQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.CorticotropinMCncPtPlasQn.v1.0.0.adls",
   "children" : {
     "6879-1" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Corticotropin Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "CorticotropinMCncPtPlasQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.CorticotropinMCncPtPlasQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

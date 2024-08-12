@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "48344-6",
-    "description" : "Activated clotting time.kaolin induced PPP Time Pt Qn Coag",
-    "system" : "loinc"
-  },
-  "modelName" : "ActivatedclottingtimeTimePtPPPQnCoagkaolininducedLabObs.v1.0.0",
-  "children" : { }
-}

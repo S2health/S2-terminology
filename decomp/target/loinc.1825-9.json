@@ -4,7 +4,7 @@
     "description" : "Alpha 1 antitrypsin Ser/Plas MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "Alpha1AntitrypsinMCncPtSerPlasQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.Alpha1AntitrypsinMCncPtSerPlasQn.v1.0.0.adls",
   "children" : {
     "6771-0" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Alpha 1 antitrypsin Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "Alpha1AntitrypsinMCncPtSerPlasQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.Alpha1AntitrypsinMCncPtSerPlasQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

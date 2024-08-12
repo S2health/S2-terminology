@@ -4,7 +4,7 @@
     "description" : "Chlamydia trachomatis DNA [Presence] in Specimen by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "ChlamydiatrachomatisDNAPrThrPtXXXOrdMolgen.v1.0.0",
+  "modelName" : "s2-EHR-Node.ChlamydiatrachomatisDNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
   "children" : {
     "21613-5" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Chlamydia trachomatis DNA [Presence] in Specimen by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "ChlamydiatrachomatisDNAPrThrPtXXXOrdMolgen.v1.0.0",
+      "model" : "s2-EHR-Node.ChlamydiatrachomatisDNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

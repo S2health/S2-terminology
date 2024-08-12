@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "3093-2",
-    "description" : "Urea nitrogen Body fld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

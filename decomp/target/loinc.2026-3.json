@@ -4,7 +4,7 @@
     "description" : "Carbon dioxide BldA SCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "CarbondioxideSCncPtBldAQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.CarbondioxideSCncPtBldAQn.v1.0.0.adls",
   "children" : {
     "41647-9" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Carbon dioxide BldA SCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "CarbondioxideSCncPtBldAQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.CarbondioxideSCncPtBldAQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

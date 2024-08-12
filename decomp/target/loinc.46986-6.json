@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "46986-6",
-    "description" : "Cholesterol.in VLDL 3 Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CholesterolinVLDL3MCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

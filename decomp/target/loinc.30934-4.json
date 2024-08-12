@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "30934-4",
-    "description" : "Natriuretic peptide.B Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "NatriureticPeptideBMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

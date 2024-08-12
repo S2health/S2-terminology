@@ -1,0 +1,35 @@
+{
+  "target" : {
+    "code" : "105902-1",
+    "description" : "Astrovirus subtypes 1-8 RNA [Presence] in Stool",
+    "system" : "loinc"
+  },
+  "modelName" : "s2-EHR-Node.Astrovirussubtypes18RNAPrThrPtStoolOrd.v1.0.0.adls",
+  "children" : {
+    "82210-6" : {
+      "source" : {
+        "code" : "82210-6",
+        "description" : "Astrovirus subtypes 1-8 RNA Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105902-1",
+        "description" : "Astrovirus subtypes 1-8 RNA [Presence] in Stool",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.Astrovirussubtypes18RNAPrThrPtStoolOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31111000205104",
+          "description" : "Non-probe target amplification technique",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

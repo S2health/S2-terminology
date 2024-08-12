@@ -4,7 +4,7 @@
     "description" : "Stomatocytes [Presence] in Blood",
     "system" : "loinc"
   },
-  "modelName" : "StomatocytesPrThrPtBldOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.StomatocytesPrThrPtBldOrd.v1.0.0.adls",
   "children" : {
     "10380-4" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Stomatocytes [Presence] in Blood",
         "system" : "loinc"
       },
-      "model" : "StomatocytesPrThrPtBldOrd.v1.0.0",
+      "model" : "s2-EHR-Node.StomatocytesPrThrPtBldOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

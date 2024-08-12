@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "2498-4",
-    "description" : "Iron Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "IronMCncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

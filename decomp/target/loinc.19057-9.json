@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "19057-9",
-    "description" : "ABO & Rh group Bld Newborn Type Pt Nom",
-    "system" : "loinc"
-  },
-  "modelName" : "ABORhgroupTypePtBldnewbornNomLabObs.v1.0.0",
-  "children" : { }
-}

@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "1968-7",
-    "description" : "Bilirubin.glucuronidated+Bilirubin.albumin bound Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

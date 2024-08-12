@@ -4,7 +4,7 @@
     "description" : "Polychromasia [Presence] in Blood",
     "system" : "loinc"
   },
-  "modelName" : "PolychromasiaPrThrPtBldOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.PolychromasiaPrThrPtBldOrd.v1.0.0.adls",
   "children" : {
     "10378-8" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Polychromasia [Presence] in Blood",
         "system" : "loinc"
       },
-      "model" : "PolychromasiaPrThrPtBldOrd.v1.0.0",
+      "model" : "s2-EHR-Node.PolychromasiaPrThrPtBldOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

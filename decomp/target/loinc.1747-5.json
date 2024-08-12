@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "1747-5",
-    "description" : "Albumin Body fld MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "AlbuminMCncPtBodyFldQnLabObs.v1.0.0",
-  "children" : { }
-}

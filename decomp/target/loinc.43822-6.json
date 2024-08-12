@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "43822-6",
-    "description" : "Aspartate aminotransferase Body fld PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

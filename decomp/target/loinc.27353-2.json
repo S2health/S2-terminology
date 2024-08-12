@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "27353-2",
-    "description" : "Estimated average glucose Bld MCnc Pt Qn Estimated from glycated hemoglobin",
-    "system" : "loinc"
-  },
-  "modelName" : "EstimatedAverageGlucoseMCncPtBldQnEstimatedFromGlycatedHemoglobinLabObs.v1.0.0",
-  "children" : { }
-}

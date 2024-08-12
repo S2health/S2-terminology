@@ -4,7 +4,7 @@
     "description" : "Aspartate aminotransferase Ser/Plas CCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "AspartateAminotransferaseCCncPtSerPlasQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.AspartateAminotransferaseCCncPtSerPlasQn.v1.0.0.adls",
   "children" : {
     "30239-8" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Aspartate aminotransferase Ser/Plas CCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "AspartateAminotransferaseCCncPtSerPlasQnLabObs.v1.0.0",
-      "descriptors" : [ ]
+      "model" : "s2-EHR-Node.AspartateAminotransferaseCCncPtSerPlasQn.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "30921000205104",
+          "description" : "Addition of pyridoxal-5'-phosphate technique",
+          "system" : "snomed"
+        }
+      } ]
     }
   }
 }

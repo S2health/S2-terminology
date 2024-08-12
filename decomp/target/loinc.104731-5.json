@@ -4,7 +4,7 @@
     "description" : "Clostridioides difficile toxin genes [Presence] in Stool by Molecular genetics method",
     "system" : "loinc"
   },
-  "modelName" : "ClostridioidesdifficiletoxingenesPrThrPtStoolOrdMolgen.v1.0.0",
+  "modelName" : "s2-EHR-Node.ClostridioidesdifficiletoxingenesPrThrPtStoolOrdMolgen.v1.0.0.adls",
   "children" : {
     "54067-4" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Clostridioides difficile toxin genes [Presence] in Stool by Molecular genetics method",
         "system" : "loinc"
       },
-      "model" : "ClostridioidesdifficiletoxingenesPrThrPtStoolOrdMolgen.v1.0.0",
+      "model" : "s2-EHR-Node.ClostridioidesdifficiletoxingenesPrThrPtStoolOrdMolgen.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

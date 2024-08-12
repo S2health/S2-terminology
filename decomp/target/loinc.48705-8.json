@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "48705-8",
-    "description" : "Leukocytes+Platelets Bld Morph Pt Nom",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

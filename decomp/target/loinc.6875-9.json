@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "6875-9",
-    "description" : "Cancer Ag 15-3 Ser/Plas ACnc Pt Qn",
-    "system" : "loinc"
-  },
-  "modelName" : "CancerAg15Minus3ACncPtSerPlasQnLabObs.v1.0.0",
-  "children" : { }
-}

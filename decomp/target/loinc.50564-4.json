@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "50564-4",
-    "description" : "Urinalysis panel Urine - Pt - Auto",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

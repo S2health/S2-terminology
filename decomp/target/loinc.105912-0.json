@@ -1,0 +1,46 @@
+{
+  "target" : {
+    "code" : "105912-0",
+    "description" : "Sapovirus genogroups I+II+IV+V RNA [Presence] in Specimen",
+    "system" : "loinc"
+  },
+  "modelName" : "s2-EHR-Node.SapovirusgenogroupsIIIIVVRNAPrThrPtOrd.v1.0.0.adls",
+  "children" : {
+    "82213-0" : {
+      "source" : {
+        "code" : "82213-0",
+        "description" : "Sapovirus genogroups I+II+IV+V RNA Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "105912-0",
+        "description" : "Sapovirus genogroups I+II+IV+V RNA [Presence] in Specimen",
+        "system" : "loinc"
+      },
+      "model" : "s2-EHR-Node.SapovirusgenogroupsIIIIVVRNAPrThrPtOrd.v1.0.0.adls",
+      "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31111000205104",
+          "description" : "Non-probe target amplification technique",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "66746-9",
+          "description" : "Specimen type",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "119339001",
+          "description" : "Stool specimen",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

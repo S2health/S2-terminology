@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "4542-7",
-    "description" : "Haptoglobin Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -4,7 +4,7 @@
     "description" : "Glucose Bld MCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "GlucoseMCncPtBldQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.GlucoseMCncPtBldQn.v1.0.0.adls",
   "children" : {
     "2340-8" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Glucose Bld MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "GlucoseMCncPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.GlucoseMCncPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +42,7 @@
         "description" : "Glucose Bld MCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "GlucoseMCncPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.GlucoseMCncPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

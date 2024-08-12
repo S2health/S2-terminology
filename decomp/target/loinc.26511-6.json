@@ -4,7 +4,7 @@
     "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "Neutrophils100leukocytesNFrPtBldQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.Neutrophils100leukocytesNFrPtBldQn.v1.0.0.adls",
   "children" : {
     "770-8" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "Neutrophils100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.Neutrophils100leukocytesNFrPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
@@ -42,7 +42,7 @@
         "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn",
         "system" : "loinc"
       },
-      "model" : "Neutrophils100leukocytesNFrPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.Neutrophils100leukocytesNFrPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

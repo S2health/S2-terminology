@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "31045-8",
-    "description" : "Creatinine/Urea nitrogen Ser/Plas MRto Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "3243-3",
-    "description" : "Coagulation thrombin induced PPP Time Pt Qn Coag",
-    "system" : "loinc"
-  },
-  "modelName" : "CoagulationThrombinInducedTimePtPPPQnCoagLabObs.v1.0.0",
-  "children" : { }
-}

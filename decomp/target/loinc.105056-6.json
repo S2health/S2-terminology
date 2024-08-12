@@ -4,7 +4,7 @@
     "description" : "Rotavirus A RNA [Presence] in Specimen",
     "system" : "loinc"
   },
-  "modelName" : "RotavirusARNAPrThrPtXXXOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.RotavirusARNAPrThrPtXXXOrd.v1.0.0.adls",
   "children" : {
     "82212-2" : {
       "source" : {
@@ -17,8 +17,19 @@
         "description" : "Rotavirus A RNA [Presence] in Specimen",
         "system" : "loinc"
       },
-      "model" : "RotavirusARNAPrThrPtXXXOrd.v1.0.0",
+      "model" : "s2-EHR-Node.RotavirusARNAPrThrPtXXXOrd.v1.0.0.adls",
       "descriptors" : [ {
+        "key" : {
+          "code" : "85069-3",
+          "description" : "Lab test method [Type]",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31111000205104",
+          "description" : "Non-probe target amplification technique",
+          "system" : "snomed"
+        }
+      }, {
         "key" : {
           "code" : "66746-9",
           "description" : "Specimen type",

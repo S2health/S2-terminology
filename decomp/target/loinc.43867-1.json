@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "43867-1",
-    "description" : "Beta-2 transferrin Ser PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

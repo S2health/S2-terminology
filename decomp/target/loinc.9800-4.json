@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "9800-4",
-    "description" : "Number Calculus Num Pt Qn",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

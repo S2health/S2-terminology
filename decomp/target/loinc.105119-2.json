@@ -4,7 +4,7 @@
     "description" : "Turbidity [Presence] of Specimen Qualitative",
     "system" : "loinc"
   },
-  "modelName" : "TurbidityPrThrPtXXXOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.TurbidityPrThrPtXXXOrd.v1.0.0.adls",
   "children" : {
     "20513-8" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Turbidity [Presence] of Specimen Qualitative",
         "system" : "loinc"
       },
-      "model" : "TurbidityPrThrPtXXXOrd.v1.0.0",
+      "model" : "s2-EHR-Node.TurbidityPrThrPtXXXOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "66746-9",
@@ -42,7 +42,7 @@
         "description" : "Turbidity [Presence] of Specimen Qualitative",
         "system" : "loinc"
       },
-      "model" : "TurbidityPrThrPtXXXOrd.v1.0.0",
+      "model" : "s2-EHR-Node.TurbidityPrThrPtXXXOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "66746-9",

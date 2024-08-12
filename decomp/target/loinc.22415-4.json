@@ -1,9 +1,0 @@
-{
-  "target" : {
-    "code" : "22415-4",
-    "description" : "Mumps virus Ab.IgG Ser PrThr Pt Ord",
-    "system" : "loinc"
-  },
-  "modelName" : "MumpsVirusAbIgGACncPtSerOrdLabObs.v1.0.0",
-  "children" : { }
-}

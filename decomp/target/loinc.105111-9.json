@@ -4,7 +4,7 @@
     "description" : "Crystals.amorphous [Presence] in Urine sediment",
     "system" : "loinc"
   },
-  "modelName" : "CrystalsamorphousPrThrPtUrinesedOrd.v1.0.0",
+  "modelName" : "s2-EHR-Node.CrystalsamorphousPrThrPtUrinesedOrd.v1.0.0.adls",
   "children" : {
     "60340-7" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Crystals.amorphous [Presence] in Urine sediment",
         "system" : "loinc"
       },
-      "model" : "CrystalsamorphousPrThrPtUrinesedOrd.v1.0.0",
+      "model" : "s2-EHR-Node.CrystalsamorphousPrThrPtUrinesedOrd.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",

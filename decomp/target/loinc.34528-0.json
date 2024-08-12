@@ -1,8 +1,0 @@
-{
-  "target" : {
-    "code" : "34528-0",
-    "description" : "PT panel PPP - Pt Qn Coag",
-    "system" : "loinc"
-  },
-  "children" : { }
-}

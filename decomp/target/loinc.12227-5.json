@@ -4,7 +4,7 @@
     "description" : "Leukocytes corrected for nucleated erythrocytes Bld NCnc Pt Qn",
     "system" : "loinc"
   },
-  "modelName" : "LeukocytescorrectedfornucleatederythrocytesNCncPtBldQnLabObs.v1.0.0",
+  "modelName" : "s2-EHR-Node.LeukocytescorrectedfornucleatederythrocytesNCncPtBldQn.v1.0.0.adls",
   "children" : {
     "33256-9" : {
       "source" : {
@@ -17,7 +17,7 @@
         "description" : "Leukocytes corrected for nucleated erythrocytes Bld NCnc Pt Qn",
         "system" : "loinc"
       },
-      "model" : "LeukocytescorrectedfornucleatederythrocytesNCncPtBldQnLabObs.v1.0.0",
+      "model" : "s2-EHR-Node.LeukocytescorrectedfornucleatederythrocytesNCncPtBldQn.v1.0.0.adls",
       "descriptors" : [ {
         "key" : {
           "code" : "85069-3",
