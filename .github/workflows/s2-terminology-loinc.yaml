@@ -2,8 +2,8 @@ name: LOINC change automation
 on:
   push:
     branches:
-      - main
-      # - "**"
+      # - main
+      - "**"
     paths:
       - 'LOINC/S2_Elements-LOINC_Extension_map_master.csv'
       - '.github/workflows/s2-terminology-loinc.yaml'
@@ -13,7 +13,7 @@ jobs:
     runs-on: self-hosted
     concurrency:
       group: s2-terminology
-      cancel-in-progress: true
+      cancel-in-progress: false
     steps:
       - name: Checkout S2 s2-terminology repository
         uses: actions/checkout@v4
@@ -34,43 +34,50 @@ jobs:
           repository: 'S2health/S2-models-demo'
           path: S2-models-demo
           ssh-key: ${{ secrets.S2_MODELS_DEMO_DEPLOY_PRIVATE_KEY }}
-
-      - name: Get current date
-        id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H_%M')"
       
-      - name: Create a new branch
-        working-directory: ./S2-models-demo
-        run: git checkout -b BIND/update-loinc-master-$DATETIME
-        env:
-          DATETIME: ${{ steps.date.outputs.date }}
+      - name: Create PR in S2-models-demo
+        uses: S2health/tools/create-pr@v1
+        with:
+          branch_name: BIND/update-loinc-master
+          scripts_list: "['extract_master_loinc_bindings']"
+          target_repo_name: S2-models-demo
 
-      - name: Run scripts
-        working-directory: ./
-        run: |
-          PATH=tools/bin:$PATH
-          bash ./tools/bin/extract_master_loinc_bindings
+      # - name: Get current date
+      #   id: date
+      #   run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H_%M')"
+      
+      # - name: Create a new branch
+      #   working-directory: ./S2-models-demo
+      #   run: git checkout -b BIND/update-loinc-master-$DATETIME
+      #   env:
+      #     DATETIME: ${{ steps.date.outputs.date }}
 
-      - name: Push the new branch with changes after running extract_master_loinc_bindings
-        working-directory: ./S2-models-demo
-        run: |
-          git add --all
-          git commit -m "Github Actions script runner"
-          git push -f origin BIND/update-loinc-master-$DATETIME
-        env:
-          DATETIME: ${{ steps.date.outputs.date }}
+      # - name: Run scripts
+      #   working-directory: ./
+      #   run: |
+      #     export ${{ vars.S2_TOOLS_PATH }}
+      #     bash ./tools/bin/extract_master_loinc_bindings
 
-      - name: Create a PR in S2-models-demo repo
-        working-directory: ./S2-models-demo
-        run: |
-          echo "${{ secrets.EDONG_GITHUB_PAT }}" > token.txt
+      # - name: Push the new branch with changes after running extract_master_loinc_bindings
+      #   working-directory: ./S2-models-demo
+      #   run: |
+      #     git add --all
+      #     git commit -m "Github Actions script runner"
+      #     git push -f origin BIND/update-loinc-master-$DATETIME
+      #   env:
+      #     DATETIME: ${{ steps.date.outputs.date }}
 
-          gh auth login --with-token < token.txt
-          gh pr create \
-            --body "Auto PR created from change in models in S2 Terminology repo" \
-            --title "BIND/update-loinc-master-$DATETIME" \
-            --head "BIND/update-loinc-master-$DATETIME" \
-            --base "main"
-        env:
-          DATETIME: ${{ steps.date.outputs.date }}
+      # - name: Create a PR in S2-models-demo repo
+      #   working-directory: ./S2-models-demo
+      #   run: |
+      #     echo "${{ secrets.EDONG_GITHUB_PAT }}" > token.txt
+
+      #     gh auth login --with-token < token.txt
+      #     gh pr create \
+      #       --body "Auto PR created from change in models in S2 Terminology repo" \
+      #       --title "BIND/update-loinc-master-$DATETIME" \
+      #       --head "BIND/update-loinc-master-$DATETIME" \
+      #       --base "main"
+      #   env:
+      #     DATETIME: ${{ steps.date.outputs.date }}
       
