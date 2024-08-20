@@ -38,11 +38,11 @@ jobs:
       - name: Create PR in S2-models-demo
         uses: S2health/tools/.github/actions/create-pr@feature/github-actions-template
         with:
-          branch_name: BIND/update-loinc-master
+          branch_name: "BIND/update-loinc-master"
           scripts_list: "['extract_master_loinc_bindings']"
-          target_repo_name: S2-models-demo
-          git_pat: a
-          s2_tools_path: a
+          target_repo_name: "S2-models-demo"
+          git_pat: "${{ secrets.EDONG_GITHUB_PAT }}"
+          s2_tools_path: "${{ vars.S2_TOOLS_PATH }}"
 
       # - name: Get current date
       #   id: date
