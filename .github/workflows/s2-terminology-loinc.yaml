@@ -41,8 +41,8 @@ jobs:
           branch_name: "BIND/update-loinc-master"
           scripts_list: "['extract_master_loinc_bindings']"
           target_repo_name: "S2-models-demo"
-          git_pat: "${{ secrets.EDONG_GITHUB_PAT }}"
-          s2_tools_path: "${{ vars.S2_TOOLS_PATH }}"
+          git_pat: ${{ secrets.EDONG_GITHUB_PAT }}
+          s2_tools_path: ${{ vars.S2_TOOLS_PATH }}
 
       # - name: Get current date
       #   id: date
