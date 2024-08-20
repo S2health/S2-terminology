@@ -2,8 +2,8 @@ name: LOINC change automation
 on:
   push:
     branches:
-      # - main
-      - "**"
+      - main
+      # - "**"
     paths:
       - 'LOINC/S2_Elements-LOINC_Extension_map_master.csv'
       - '.github/workflows/s2-terminology-loinc.yaml'
@@ -39,47 +39,7 @@ jobs:
         uses: S2health/tools/.github/actions/create-pr@feature/github-actions-template
         with:
           branch_name: "BIND/update-loinc-master"
-          scripts_list: "extract_master_loinc_bindings export_opts"
+          scripts_list: "extract_master_loinc_bindings"
           target_repo_name: "S2-models-demo"
           git_pat: ${{ secrets.EDONG_GITHUB_PAT }}
           s2_tools_path: ${{ vars.S2_TOOLS_PATH }}
-
-      # - name: Get current date
-      #   id: date
-      #   run: echo "::set-output name=date::$(date +'%Y-%m-%d-%H_%M')"
-      
-      # - name: Create a new branch
-      #   working-directory: ./S2-models-demo
-      #   run: git checkout -b BIND/update-loinc-master-$DATETIME
-      #   env:
-      #     DATETIME: ${{ steps.date.outputs.date }}
-
-      # - name: Run scripts
-      #   working-directory: ./
-      #   run: |
-      #     export ${{ vars.S2_TOOLS_PATH }}
-      #     bash ./tools/bin/extract_master_loinc_bindings
-
-      # - name: Push the new branch with changes after running extract_master_loinc_bindings
-      #   working-directory: ./S2-models-demo
-      #   run: |
-      #     git add --all
-      #     git commit -m "Github Actions script runner"
-      #     git push -f origin BIND/update-loinc-master-$DATETIME
-      #   env:
-      #     DATETIME: ${{ steps.date.outputs.date }}
-
-      # - name: Create a PR in S2-models-demo repo
-      #   working-directory: ./S2-models-demo
-      #   run: |
-      #     echo "${{ secrets.EDONG_GITHUB_PAT }}" > token.txt
-
-      #     gh auth login --with-token < token.txt
-      #     gh pr create \
-      #       --body "Auto PR created from change in models in S2 Terminology repo" \
-      #       --title "BIND/update-loinc-master-$DATETIME" \
-      #       --head "BIND/update-loinc-master-$DATETIME" \
-      #       --base "main"
-      #   env:
-      #     DATETIME: ${{ steps.date.outputs.date }}
-      
