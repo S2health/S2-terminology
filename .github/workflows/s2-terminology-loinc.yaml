@@ -39,7 +39,7 @@ jobs:
         uses: S2health/tools/.github/actions/create-pr@feature/github-actions-template
         with:
           branch_name: "BIND/update-loinc-master"
-          scripts_list: "['extract_master_loinc_bindings']"
+          scripts_list: "extract_master_loinc_bindings export_opts"
           target_repo_name: "S2-models-demo"
           git_pat: ${{ secrets.EDONG_GITHUB_PAT }}
           s2_tools_path: ${{ vars.S2_TOOLS_PATH }}
