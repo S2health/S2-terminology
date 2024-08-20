@@ -36,11 +36,13 @@ jobs:
           ssh-key: ${{ secrets.S2_MODELS_DEMO_DEPLOY_PRIVATE_KEY }}
       
       - name: Create PR in S2-models-demo
-        uses: S2health/tools/.github/actions/create-pr@main
+        uses: S2health/tools/.github/actions/create-pr@feature/github-actions-template
         with:
           branch_name: BIND/update-loinc-master
           scripts_list: "['extract_master_loinc_bindings']"
           target_repo_name: S2-models-demo
+          git_pat: a
+          s2_tools_path: a
 
       # - name: Get current date
       #   id: date
