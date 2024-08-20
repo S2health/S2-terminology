@@ -36,7 +36,7 @@ jobs:
           ssh-key: ${{ secrets.S2_MODELS_DEMO_DEPLOY_PRIVATE_KEY }}
       
       - name: Create PR in S2-models-demo
-        uses: S2health/tools/.github/actions/create-pr@feature/github-actions-template
+        uses: S2health/tools/.github/actions/create-pr@main
         with:
           branch_name: "BIND/update-loinc-master"
           scripts_list: "extract_master_loinc_bindings"
