@@ -207,7 +207,7 @@
 5610,Blood product disposition BPU Type Pt Nom,Active,925-8,Blood product disposition BPU Type Pt Nom,Active,Lab Test,False,s2-EHR-Node.BloodProductDispositionTypePtBPUNomLabObs.v1.0.0,id1.1.1,/,
 5611,Blood product type BPU Type Pt Nom,Active,933-2,Blood product type BPU Type Pt Nom,Active,Lab Test,False,s2-EHR-Node.BloodProductTypeTypePtBPUNomLabObs.v1.0.0,id1.1.1,/,
 2331,Body length/height,Active,8302-2,Body height Patient Len Pt Qn,Active,General,False,s2-EHR-Direct_observation.growth_velocity.v0.0.1-alpha,id6,/data[id6],
-6545,Body mass index,Active,39156-5,Body mass index Patient Ratio Pt Qn,Active,General,False,s2-EHR-Direct_observation.body_mass_index.v2.0.6,id5,/data[id5],
+6545,Body mass index,Active,59574-4,Body mass index Patient Prctl Pt Qn,Active,General,False,s2-EHR-Direct_observation.body_mass_index.v2.0.6,id5,/data[id5],
 1977,Body position,Active,8361-8,Body position with respect to gravity Patient Type Pt Nom *,Active,General,False,s2-EHR-Direct_observation.body_segment_area.v1.0.2,id32,/state[id32],
 1989,Body position,Active,8361-8,Body position with respect to gravity Patient Type Pt Nom *,Active,General,False,s2-EHR-Direct_observation.body_segment_circumference.v1.0.1,id32,/state[id32],
 2011,Body position,Active,8361-8,Body position with respect to gravity Patient Type Pt Nom *,Active,General,False,s2-EHR-Direct_observation.body_segment_length.v1.1.1,id32,/state[id32],
