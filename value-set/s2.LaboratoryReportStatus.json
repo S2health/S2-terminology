@@ -1,0 +1,23 @@
+{
+  "id" : "s2.LaboratoryReportStatus",
+  "creationDate" : "2024-08-28T10:44:12-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "LaboratoryReportStatus",
+    "description" : "Laboratory report status",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "24571000205104",
+      "description" : "Final",
+      "system" : "snomed"
+    }, {
+      "code" : "261420005",
+      "description" : "Preliminary",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 2,
+    "isComplete" : true
+  }
+}
