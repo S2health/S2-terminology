@@ -39,6 +39,7 @@
 6691,Address,Active,99953-2,Address Entity Addr Pt Nom,Active,General,False,s2-EHR-Node.person.v1.0.3,id6,/items[id6],s2-EHR-Node.address.v1.1.1
 3614,Address details,Active,99952-4,Address panel Entity - Pt -,Active,General,False,s2-EHR-Node.housing_record.v1.0.0,id5,/items[id5],s2-EHR-Node.address.v1.1.0
 2764,Address line,Active,106181-1,Entity Address line,Active,General,False,s2-EHR-Node.address.v1.1.0,id2,/items[id2],
+6705,Address line,Active,106181-1,Address line Entity Addr Pt Nom,Active,General,False,s2-EHR-Node.address.v1.1.1,id2,/items[id2],
 5420,Address lines,Active,106181-1,Entity Address line,Active,General,False,s2-Entity-Address.address.v0.0.1-alpha,id3,/description[id3],
 5647,Adenovirus DNA [Presence] in Specimen,Active,105887-4,Adenovirus DNA [Presence] in Specimen,Active,General,False,s2-EHR-Node.AdenovirusDNAPrThrPtXXXOrdLabObs.v1.0.0,id1.1.1,/,
 4466,Administration device,Active,82307-0,Vendor device information panel {Device} - Pt -,Active,General,False,s2-EHR-Order.medication_order.v3.1.0,id96,/activities[id2]/description[id96],s2-EHR-Node.device.v1.1.2
@@ -101,6 +102,7 @@
 5895,ALPRAZolam Urine MCnc Pt Qn,Active,3313-4,ALPRAZolam Urine MCnc Pt Qn,Active,Lab Test,False,s2-EHR-Node.ALPRAZolamMCncPtUrineQnLabObs.v1.0.0,id1.1.1,/,
 5926,Alternaria alternata Ab.IgE Ser ACnc Pt Qn,Active,6020-2,Alternaria alternata Ab.IgE Ser ACnc Pt Qn,Active,Lab Test,False,s2-EHR-Node.AlternariaalternataAbIgEACncPtSerQnLabObs.v1.0.0,id1.1.1,/,
 3878,Alternate amount,Active,104823-0,Medication alternate amount,Active,General,False,s2-EHR-Node.medication.v2.0.1,id149,/items[id149],
+5596,Alternate amount,Active,104823-0,Medication alternate amount,Active,General,False,s2-EHR-Node.medication.v3.0.0,id149,/items[id149],
 5574,Alternative name representations/Alternative representation,Active,56798-2,Alias Patient Pn Pt Nom,Active,General,False,s2-Entity-Party_identity.person_name.v0.0.1-alpha,id23,/description[id8]/items[id23],
 2760,Altitude,Active,41905-1,Altitude Patient Len Pt Qn,Active,General,False,s2-EHR-Node.address.v1.1.0,id10,/items[id10],
 5927,Ambrosia elatior Ab.IgE Ser ACnc Pt Qn,Active,6085-5,Ambrosia elatior Ab.IgE Ser ACnc Pt Qn,Active,Lab Test,False,s2-EHR-Node.AmbrosiaElatiorAbIgEACncPtSerQnLabObs.v1.0.0,id1.1.1,/,
@@ -207,6 +209,7 @@
 5610,Blood product disposition BPU Type Pt Nom,Active,925-8,Blood product disposition BPU Type Pt Nom,Active,Lab Test,False,s2-EHR-Node.BloodProductDispositionTypePtBPUNomLabObs.v1.0.0,id1.1.1,/,
 5611,Blood product type BPU Type Pt Nom,Active,933-2,Blood product type BPU Type Pt Nom,Active,Lab Test,False,s2-EHR-Node.BloodProductTypeTypePtBPUNomLabObs.v1.0.0,id1.1.1,/,
 2331,Body length/height,Active,8302-2,Body height Patient Len Pt Qn,Active,General,False,s2-EHR-Direct_observation.growth_velocity.v0.0.1-alpha,id6,/data[id6],
+1962,Body mass index,Active,59574-4,Body mass index Patient Prctl Pt Qn,Active,General,False,s2-EHR-Direct_observation.body_mass_index.v2.0.6,id1,/,
 6545,Body mass index,Active,59574-4,Body mass index Patient Prctl Pt Qn,Active,General,False,s2-EHR-Direct_observation.body_mass_index.v2.0.6,id5,/data[id5],
 1977,Body position,Active,8361-8,Body position with respect to gravity Patient Type Pt Nom *,Active,General,False,s2-EHR-Direct_observation.body_segment_area.v1.0.2,id32,/state[id32],
 1989,Body position,Active,8361-8,Body position with respect to gravity Patient Type Pt Nom *,Active,General,False,s2-EHR-Direct_observation.body_segment_circumference.v1.0.1,id32,/state[id32],
@@ -733,7 +736,7 @@
 6566,Confounding factors,Active,106176-1,Confounding factors,Active,General,False,s2-EHR-Direct_observation.body_temperature.v2.1.5,id67,/state[id67],
 6595,Confounding factors,Active,106176-1,Confounding factors,Active,General,False,s2-EHR-Lab_result.laboratory_test_result.v1.2.4,id114,/state[id114],
 3932,Confounding issues,Active,106176-1,Confounding factors,Active,General,False,s2-EHR-Node.microscopy_breast_carcinoma.v1.0.0,id44,/items[id16]/items[id21]/items[id44],
-4064,Contact person,Active,90057-1,Contact name Organization Pn Pt Nom,Active,General,False,s2-EHR-Node.organization.v1.0.1,id3,/items[id3],s2-EHR-Node.person.v1.0.2
+4064,Contact person,Active,104976-6,Person information panel Person,Active,General,False,s2-EHR-Node.organization.v1.0.1,id3,/items[id3],s2-EHR-Node.person.v1.0.2
 1661,Contact type,Active,75525-6,Type of encounter [MSCDM],Active,General,False,s2-EHR-Assessment.reason_for_encounter.v1.0.2,id3,/data[id3],
 4204,Container type,Active,74384-9,Specimen container Specimen Type Pt Nom,Active,Lab Test,False,s2-EHR-Node.specimen_container.v1.0.0,id6,/items[id6],
 1294,Contraindication,Active,64100-1,Contraindication Patient Find Pt Nom,Active,General,False,s2-EHR-Assessment.contraindication.v1.1.1,id1,/,
@@ -911,6 +914,7 @@
 4421,Description,Active,1c814f9b-cbe7-ee11-8869-6045bdc71c8b,Description,Active,General,False,s2-EHR-Order.informed_consent_request.v0.0.1-alpha,id22,/qualifiers[id20]/items[id22],
 4471,Description,Active,1c814f9b-cbe7-ee11-8869-6045bdc71c8b,Description,Active,General,False,s2-EHR-Order.notification.v0.0.1-alpha,id5,/activities[id2]/description[id5],
 4489,Description,Active,1c814f9b-cbe7-ee11-8869-6045bdc71c8b,Description,Active,General,False,s2-EHR-Order.supplemental_oxygen_order.v0.0.1-alpha,id42,/activities[id2]/description[id42],
+5598,Description,Active,1c814f9b-cbe7-ee11-8869-6045bdc71c8b,Description,Active,General,False,s2-EHR-Node.medication.v3.0.0,id134,/items[id134],
 1103,Destination category,Active,104913-9,Transfer destination category Narrative,Active,General,False,s2-EHR-Admin_entry.episode_institution.v0.0.1-alpha,id4,/data[id4],
 1110,Destination category,Active,104913-9,Transfer destination category Narrative,Active,General,False,s2-EHR-Admin_entry.transfer_of_care.v0.0.1-alpha,id4,/data[id4],
 1020,Device,Active,82307-0,Vendor device information panel {Device} - Pt -,Active,General,False,s2-EHR-Action.medication.v1.2.2,id145,/description[id141]/items[id145],s2-EHR-Node.device.v1.1.2
@@ -984,6 +988,7 @@
 2830,Disposition,Active,59775-7,Procedure disposition Patient Find Pt Nar,Active,Clinical Document,False,s2-EHR-Node.art_container_details.v0.0.1-alpha,id10,/items[id10],
 2796,Distance from landmark,Active,106179-5,Distance from landmark,Active,General,False,s2-EHR-Node.anatomical_location_circle.v1.0.1,id81,/items[id81],
 2805,Distance from landmark,Active,106179-5,Distance from landmark,Active,General,False,s2-EHR-Node.anatomical_location_relative.v2.0.1,id23,/items[id21]/items[id23],
+6701,District or County,Active,104933-7,District or county {Setting} ID Pt Nom,Active,Clinical Document,False,s2-EHR-Node.address.v1.1.1,id4,/items[id4],
 2769,District/County,Active,104933-7,District or county Narrative,Active,General,False,s2-EHR-Node.address.v1.1.0,id4,/items[id4],
 3568,DNA change,Active,48004-6,DNA change Bld/Tiss Find Pt Nom Molgen,Active,Lab Test,False,s2-EHR-Node.genomic_variant_result.v1.0.3,id12,/items[id9]/items[id12],
 6109,DNA double strand Ab Ser ACnc Pt Qn,Active,5130-0,DNA double strand Ab Ser ACnc Pt Qn,Active,Lab Test,False,s2-EHR-Node.DNAdoublestrandAbACncPtSerQnLabObs.v1.0.0,id1.1.1,/,
@@ -1125,6 +1130,7 @@
 3450,Genetic predisposition?,Active,104894-1,Genetic predisposition indicator Person Narrative,Active,General,False,s2-EHR-Node.family_prevalence.v1.0.5,id56,/items[id56],
 3486,Genetic Variant Finding,Active,69548-6,Genetic variant assessment Bld/Tiss Find Pt Nom Molgen,Active,Lab Test,False,s2-EHR-Node.genetic_variant_presence.v0.0.1-alpha,id3,/items[id3],
 2767,Geolocation code,Active,104912-1,Geolocation code Person,Active,General,False,s2-EHR-Node.address.v1.1.0,id22,/items[id22],
+6700,Geolocation code,Active,104912-1,Geolocation code Person,Active,General,False,s2-EHR-Node.address.v1.1.1,id22,/items[id22],
 2305,Gestational age,Active,18185-9,Gestational age Fetus Time Pt Qn,Active,Procedure - Imaging,False,s2-EHR-Direct_observation.gestational_age.v0.0.1-alpha,id1,/,
 2308,Gestational age,Active,18185-9,Gestational age Fetus Time Pt Qn,Active,Procedure - Imaging,False,s2-EHR-Direct_observation.gestational_age.v0.0.1-alpha,id5,/data[id5],
 2854,Gestational age,Active,18185-9,Gestational age Fetus Time Pt Qn,Active,Procedure - Imaging,False,s2-EHR-Node.birth_detail.v0.0.1-alpha,id19,/items[id19],
@@ -1169,6 +1175,7 @@
 3638,Heart rate,Active,8867-4,Heart rate NRat Pt Qn,Active,General,False,s2-EHR-Node.imaging_exam-foetus.v1.0.0,id0.12,/items[id0.12],
 6541,Heart Rate,Active,8867-4,Heart rate NRat Pt Qn,Active,General,False,s2-EHR-Direct_observation.heart_rate.v1.0.0,id5,/data[id5],
 6542,Heart Rate,Active,8867-4,Heart rate NRat Pt Qn,Active,General,False,s2-EHR-Direct_observation.heart_rate.v1.0.0,id5,/data_series[id1043]/items[id5],
+6704,Height Method,Active,83844-1,Body height method Type Pt Nom *,Active,General,False,s2-EHR-Direct_observation.height.v2.1.0,id40,/qualifiers[id40],
 2348,Height/Length,Active,8302-2,Body height Patient Len Pt Qn,Active,General,False,s2-EHR-Direct_observation.height.v2.0.8,id1,/,
 2350,Height/Length,Active,8302-2,Body height Patient Len Pt Qn,Active,General,False,s2-EHR-Direct_observation.height.v2.0.8,id5,/data[id5],
 5745,Helicobacter pylori Ab.IgG Ser PrThr Pt Ord,Active,16126-5,Helicobacter pylori Ab.IgG Ser PrThr Pt Ord,Active,Lab Test,False,s2-EHR-Node.HelicobacterpyloriAbIgGPrThrPtSerOrdLabObs.v1.0.0,id1.1.1,/,
@@ -1370,6 +1377,7 @@
 2806,Laterality,Active,63930-2,Laterality Patient Find Pt Nom PhenX,Active,General,False,s2-EHR-Node.anatomical_location_relative.v2.0.1,id63,/items[id21]/items[id63],
 2813,Laterality,Active,63930-2,Laterality Patient Find Pt Nom PhenX,Active,General,False,s2-EHR-Node.anatomical_location.v1.2.2,id3,/items[id3],
 2773,Latitude,Active,104966-7,Latitude [Identifier],Active,General,False,s2-EHR-Node.address.v1.1.0,id8,/items[id8],
+6702,Latitude,Active,104966-7,Latitude [Identifier],Active,General,False,s2-EHR-Node.address.v1.1.1,id8,/items[id8],
 6258,Lead Bld MCnc Pt Qn,Active,5671-3,Lead Bld MCnc Pt Qn,Retired,Lab Test,False,s2-EHR-Node.LeadMCncPtBldQnLabObs.v1.0.0,id1.1.1,/,
 5783,Legionella pneumophila 1 Ag [Presence] in Specimen,Active,105074-9,Legionella pneumophila 1 Ag [Presence] in Specimen,Active,General,False,s2-EHR-Node.Legionellapneumophila1AgPrThrPtXXXOrdLabObs.v1.0.0,id1.1.1,/,
 5784,Legionella pneumophila Ag Urine PrThr Pt Ord,Active,31870-9,Legionella pneumophila Ag Urine PrThr Pt Ord,Active,Lab Test,False,s2-EHR-Node.LegionellapneumophilaAgPrThrPtUrineOrdLabObs.v1.0.0,id1.1.1,/,
@@ -1400,6 +1408,7 @@
 6540,Location of measurement,Active,39111-0,Body site Patient Anat Pt Nom,Active,General,False,s2-EHR-Direct_observation.heart_rate.v1.0.0,id15,/qualifiers[id15],
 1094,Location onset,Active,104969-1,Location start date and time,Active,General,False,s2-EHR-Admin_entry.episode_institution.v0.0.1-alpha,id20,/data[id19]/items[id20],
 2774,Longitude,Active,104897-4,Longitude [Identifier],Active,General,False,s2-EHR-Node.address.v1.1.0,id9,/items[id9],
+6703,Longitude,Active,104897-4,Longitude [Identifier],Active,General,False,s2-EHR-Node.address.v1.1.1,id9,/items[id9],
 6248,LORazepam Urine MCnc Pt Qn,Active,3725-9,LORazepam Urine MCnc Pt Qn,Active,Lab Test,False,s2-EHR-Node.LORazepamMCncPtUrineQnLabObs.v1.0.0,id1.1.1,/,
 6272,Lutropin Ser/Plas ACnc Pt Qn,Active,10501-5,Lutropin Ser/Plas ACnc Pt Qn,Active,Lab Test,False,s2-EHR-Node.LutropinACncPtSerPlasQnLabObs.v1.0.0,id1.1.1,/,
 3841,Lymph node involvement,Active,76397-9,Lymph node involvement Lymph node Find Pt Ord,Active,Lab Test,False,s2-EHR-Node.macroscopy_lung_carcinoma.v0.0.1-alpha,id7,/items[id7],s2-EHR-Node.lymph_node_metastases.v0.0.1-alpha
@@ -1421,6 +1430,7 @@
 3880,Manufacturer,Active,74058-9,Manufacturer name of Medication,Active,General,False,s2-EHR-Node.medication.v2.0.1,id152,/items[id152],
 5591,Manufacturer,Active,8434eda9-3a5b-ef11-886e-6045bdc71c8b,Medication manufacturer name,Active,General,False,s2-EHR-Node.medication.v3.0.0,id152,/items[id152],
 2765,Map URL,Active,104970-9,Map URL [Address] Person Narrative,Active,General,False,s2-EHR-Node.address.v1.1.0,id20,/items[id20],
+6699,Map URL,Active,104970-9,Map URL [Address] Person Narrative,Active,General,False,s2-EHR-Node.address.v1.1.1,id20,/items[id20],
 5511,Marital status,Active,45404-1,Marital status Patient Type Pt Nom,Active,General,False,s2-Entity-Node.person_additional_data_br.v0.0.1-alpha,id2,/items[id2],
 6678,Master problem List,Active,11450-4,Problem list Patient Find Pt Nom Reported,Active,General,False,s2-EHR-Composition.simple_problem_list.v1.0.0,id1,/,
 4459,Maximum amount,Active,104822-2,Medication maximum dose amount [#] Medication,Active,General,False,s2-EHR-Order.medication_order.v3.1.0,id131,/activities[id2]/description[id63]/items[id52]/items[id131],
@@ -1438,12 +1448,13 @@
 1092,Medical record number,Active,46106-1,Medical record number Patient ID Pt Nom,Active,General,False,s2-EHR-Admin_entry.episode_institution.v0.0.1-alpha,id17,/data[id17],
 1017,Medication Administration Details,Active,80565-5,Medication administration flowsheet {Setting} Find Pt Doc {Role},Active,Clinical Document,False,s2-EHR-Action.medication.v1.2.2,id141,/description[id141],
 3851,Medication authorization,Active,71573-0,Medication authorization Patient Type Pt Nom NEMSIS,Active,General,False,s2-EHR-Node.medication_authorisation.v0.0.1-alpha,id1,/,
+3879,Medication Batch ID,Active,74714-7,Lot or batch number {Device} ID Pt Nom,Active,General,False,s2-EHR-Node.medication.v2.0.1,id151,/items[id151],
 3877,Medication Category,Active,74075-3,Medication type [AHRQ],Active,General,False,s2-EHR-Node.medication.v2.0.1,id143,/items[id143],
 5588,Medication Category,Active,74075-3,Medication type [AHRQ],Active,General,False,s2-EHR-Node.medication.v3.0.0,id143,/items[id143],
 3871,Medication details,Active,74078-7,Medication or other substance details panel [AHRQ],Active,General,False,s2-EHR-Node.medication.v2.0.1,id1,/,
 5600,Medication details,Active,74078-7,Medication or other substance details panel [AHRQ],Active,General,False,s2-EHR-Node.medication.v3.0.0,id1,/,
 6624,Medication details,Active,74078-7,Medication or other substance details panel [AHRQ],Active,General,False,s2-EHR-Order.medication_order.v3.1.0,id144,/activities[id2]/description[id144],s2-EHR-Node.medication.v2.0.1
-6640,Medication details,Active,57833-6,Prescription for medication {Setting} Find Pt Doc {Role},Active,Clinical Document,False,s2-EHR-Order.medication_order.v4.0.0,id144,/activities[id2]/description[id144],s2-EHR-Node.medication.v3.0.0
+6640,Medication details,Active,74078-7,Medication or other substance details panel [AHRQ],Active,General,False,s2-EHR-Order.medication_order.v4.0.0,id144,/activities[id2]/description[id144],s2-EHR-Node.medication.v3.0.0
 4438,Medication Dispense Priority,Active,104808-1,Medication dispense priority Medication Narrative,Active,General,False,s2-EHR-Order.medication_order.v3.1.0,id140,/activities[id2]/description[id130]/items[id140],
 3885,Medication Form,Active,74055-5,Dose form Medication Type Pt Nom,Active,General,False,s2-EHR-Node.medication.v2.0.1,id72,/items[id72],
 5587,Medication Form,Active,74055-5,Dose form Medication Type Pt Nom,Active,General,False,s2-EHR-Node.medication.v3.0.0,id72,/items[id72],
@@ -1853,6 +1864,7 @@
 1446,Risk factors,Active,46467-7,Risk factors Patient Find Pt Nom,Active,General,False,s2-EHR-Assessment.health_risk.v1.1.8,id17,/data[id17],
 4066,Role,Active,104974-1,Organization role Organization Narrative,Active,General,False,s2-EHR-Node.organization.v1.0.1,id5,/items[id5],
 4082,Role,Active,104900-6,Entity Role,Active,General,False,s2-EHR-Node.person.v1.0.2,id5,/items[id5],
+5597,Role,Active,104723-2,Medication role,Active,General,False,s2-EHR-Node.medication.v3.0.0,id128,/items[id128],
 6690,Role,Active,104900-6,Entity Role,Active,General,False,s2-EHR-Node.person.v1.0.3,id5,/items[id5],
 1097,Room,Active,45403-3,Room number Patient Loc Pt Nom,Active,General,False,s2-EHR-Admin_entry.episode_institution.v0.0.1-alpha,id24,/data[id19]/items[id24],
 5838,Rotavirus A RNA [Presence] in Specimen,Active,105056-6,Rotavirus A RNA [Presence] in Specimen,Active,General,False,s2-EHR-Node.RotavirusARNAPrThrPtXXXOrdLabObs.v1.0.0,id1.1.1,/,
@@ -2138,8 +2150,8 @@
 3236,Wound Area,Active,89260-4,Area of wound Wound Area Pt Qn,Active,General,False,s2-EHR-Node.exam_wound.v0.0.1-alpha,id40,/items[id40],
 3249,Wound bed color,Active,39132-6,Color Wound.base Type Pt Nom,Active,General,False,s2-EHR-Node.exam_wound.v0.0.1-alpha,id55,/items[id55],
 3250,Wound Bed Color,Active,39132-6,Color Wound.base Type Pt Nom,Active,General,False,s2-EHR-Node.exam_wound.v0.0.1-alpha,id56,/items[id55]/items[id56],
-3251,Wound Bed Color Proportion,Active,89255-4,Area of identified wound bed color/Area of wound bed Wound.base Area Pt Qn,Active,General,False,s2-EHR-Node.exam_wound.v0.0.1-alpha,id57,/items[id55]/items[id57],
-3248,Wound Bed Tissue Proportion,Active,72370-0,Area of identified wound bed appearance/Area of wound bed Wound.base Area Pt Qn,Active,General,False,s2-EHR-Node.exam_wound.v0.0.1-alpha,id54,/items[id52]/items[id54],
+3251,Wound Bed Color Proportion,Active,89255-4,Area of identified wound bed color/Area of wound bed Wound.base ArArea Pt Qn,Active,General,False,s2-EHR-Node.exam_wound.v0.0.1-alpha,id57,/items[id55]/items[id57],
+3248,Wound Bed Tissue Proportion,Active,72370-0,Area of identified wound bed appearance/Area of wound bed Wound.base ArArea Pt Qn,Active,General,False,s2-EHR-Node.exam_wound.v0.0.1-alpha,id54,/items[id52]/items[id54],
 3247,Wound Bed Tissue type,Active,72371-8,Appearance Wound.base Aper Pt Nom,Active,General,False,s2-EHR-Node.exam_wound.v0.0.1-alpha,id53,/items[id52]/items[id53],
 3234,Wound Depth,Active,39127-6,Depth Wound Len Pt Qn,Active,General,False,s2-EHR-Node.exam_wound.v0.0.1-alpha,id39,/items[id39],
 3245,Wound Edge color,Active,39133-4,Color Wound.edge Type Pt Nom,Active,General,False,s2-EHR-Node.exam_wound.v0.0.1-alpha,id50,/items[id50],
