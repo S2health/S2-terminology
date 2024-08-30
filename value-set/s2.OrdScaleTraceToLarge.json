@@ -1,0 +1,35 @@
+{
+  "id" : "s2.OrdScaleTraceToLarge",
+  "creationDate" : "2024-08-30T14:53:10-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "OrdScaleTraceToLarge",
+    "description" : "Ord scale trace to large",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "255509001",
+      "description" : "Large",
+      "system" : "snomed"
+    }, {
+      "code" : "1255665007",
+      "description" : "Moderate",
+      "system" : "snomed"
+    }, {
+      "code" : "260385009",
+      "description" : "Negative",
+      "system" : "snomed"
+    }, {
+      "code" : "255507004",
+      "description" : "Small",
+      "system" : "snomed"
+    }, {
+      "code" : "260405006",
+      "description" : "Trace",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 5,
+    "isComplete" : true
+  }
+}

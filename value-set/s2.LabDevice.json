@@ -1,0 +1,1151 @@
+{
+  "id" : "s2.LabDevice",
+  "creationDate" : "2024-08-30T14:53:09-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "LabDevice",
+    "description" : "Lab device",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "733479001",
+      "description" : "Adhesive slide",
+      "system" : "snomed"
+    }, {
+      "code" : "468904004",
+      "description" : "Aerobic laboratory incubator",
+      "system" : "snomed"
+    }, {
+      "code" : "444603008",
+      "description" : "Air sampling plate",
+      "system" : "snomed"
+    }, {
+      "code" : "469844003",
+      "description" : "Ampule",
+      "system" : "snomed"
+    }, {
+      "code" : "713441002",
+      "description" : "Ampule for autoclave sterility testing",
+      "system" : "snomed"
+    }, {
+      "code" : "470070009",
+      "description" : "Ampule opener",
+      "system" : "snomed"
+    }, {
+      "code" : "469692001",
+      "description" : "Anaerobic chamber",
+      "system" : "snomed"
+    }, {
+      "code" : "470132007",
+      "description" : "Anaerobic laboratory incubator",
+      "system" : "snomed"
+    }, {
+      "code" : "701863001",
+      "description" : "Analog durometer",
+      "system" : "snomed"
+    }, {
+      "code" : "705237007",
+      "description" : "Analytical balance",
+      "system" : "snomed"
+    }, {
+      "code" : "700900009",
+      "description" : "Analytical balance chamber",
+      "system" : "snomed"
+    }, {
+      "code" : "463159002",
+      "description" : "Animal cage",
+      "system" : "snomed"
+    }, {
+      "code" : "702251002",
+      "description" : "Antimicrobial sensitivity disc dispenser",
+      "system" : "snomed"
+    }, {
+      "code" : "470699000",
+      "description" : "Apheresis system",
+      "system" : "snomed"
+    }, {
+      "code" : "706061002",
+      "description" : "Apheresis system column",
+      "system" : "snomed"
+    }, {
+      "code" : "704840007",
+      "description" : "Apheresis system filter, plasma",
+      "system" : "snomed"
+    }, {
+      "code" : "704696003",
+      "description" : "Apheresis system filter, whole blood",
+      "system" : "snomed"
+    }, {
+      "code" : "465104004",
+      "description" : "Assisted reproduction freezer",
+      "system" : "snomed"
+    }, {
+      "code" : "464495008",
+      "description" : "Assisted reproduction procedure dish",
+      "system" : "snomed"
+    }, {
+      "code" : "464708002",
+      "description" : "Assisted reproduction vitrification block",
+      "system" : "snomed"
+    }, {
+      "code" : "465053002",
+      "description" : "Assisted reproduction vitrification carrier",
+      "system" : "snomed"
+    }, {
+      "code" : "464212009",
+      "description" : "Assisted-reproduction micromanipulator, electric",
+      "system" : "snomed"
+    }, {
+      "code" : "720865009",
+      "description" : "Automated laboratory incubator",
+      "system" : "snomed"
+    }, {
+      "code" : "465571000",
+      "description" : "Automatic blood lancet",
+      "system" : "snomed"
+    }, {
+      "code" : "705235004",
+      "description" : "Balance",
+      "system" : "snomed"
+    }, {
+      "code" : "465755002",
+      "description" : "Balance weight",
+      "system" : "snomed"
+    }, {
+      "code" : "700846005",
+      "description" : "Basic laboratory freezer",
+      "system" : "snomed"
+    }, {
+      "code" : "700618005",
+      "description" : "Basic laboratory mixer",
+      "system" : "snomed"
+    }, {
+      "code" : "466396006",
+      "description" : "Blood bank centrifuge",
+      "system" : "snomed"
+    }, {
+      "code" : "466488002",
+      "description" : "Blood cell diluter",
+      "system" : "snomed"
+    }, {
+      "code" : "700941004",
+      "description" : "Blood cell freeze/thaw system",
+      "system" : "snomed"
+    }, {
+      "code" : "466766003",
+      "description" : "Blood cell washer bag",
+      "system" : "snomed"
+    }, {
+      "code" : "701947005",
+      "description" : "Blood centrifugation system",
+      "system" : "snomed"
+    }, {
+      "code" : "701945002",
+      "description" : "Blood centrifugation system processing unit",
+      "system" : "snomed"
+    }, {
+      "code" : "700956008",
+      "description" : "Blood collection needle, basic",
+      "system" : "snomed"
+    }, {
+      "code" : "466460008",
+      "description" : "Blood collection paper",
+      "system" : "snomed"
+    }, {
+      "code" : "466722000",
+      "description" : "Blood collection tube holder/needle",
+      "system" : "snomed"
+    }, {
+      "code" : "466676007",
+      "description" : "Blood gas tonometer",
+      "system" : "snomed"
+    }, {
+      "code" : "706059006",
+      "description" : "Blood separation device",
+      "system" : "snomed"
+    }, {
+      "code" : "467883006",
+      "description" : "Bunsen burner",
+      "system" : "snomed"
+    }, {
+      "code" : "467415001",
+      "description" : "Burette",
+      "system" : "snomed"
+    }, {
+      "code" : "467301004",
+      "description" : "Carbon dioxide laboratory incubator",
+      "system" : "snomed"
+    }, {
+      "code" : "718265004",
+      "description" : "Cell culture bioreactor",
+      "system" : "snomed"
+    }, {
+      "code" : "701445008",
+      "description" : "Cell culture environment monitoring system",
+      "system" : "snomed"
+    }, {
+      "code" : "468100007",
+      "description" : "Cell disrupter",
+      "system" : "snomed"
+    }, {
+      "code" : "702252009",
+      "description" : "Cell washer",
+      "system" : "snomed"
+    }, {
+      "code" : "467736003",
+      "description" : "Centrifugal sample concentrator",
+      "system" : "snomed"
+    }, {
+      "code" : "705223003",
+      "description" : "Centrifuge",
+      "system" : "snomed"
+    }, {
+      "code" : "700995009",
+      "description" : "Centrifuge bucket/tube holder adaptor",
+      "system" : "snomed"
+    }, {
+      "code" : "705238002",
+      "description" : "Centrifuge rotor",
+      "system" : "snomed"
+    }, {
+      "code" : "467668003",
+      "description" : "Centrifuge rotor, adjustable angle",
+      "system" : "snomed"
+    }, {
+      "code" : "467506005",
+      "description" : "Centrifuge rotor, fixed angle",
+      "system" : "snomed"
+    }, {
+      "code" : "467741006",
+      "description" : "Centrifuge rotor, ultracentrifuge",
+      "system" : "snomed"
+    }, {
+      "code" : "722303004",
+      "description" : "Centrifuge tube counterbalance",
+      "system" : "snomed"
+    }, {
+      "code" : "467536001",
+      "description" : "Chemical fume hood",
+      "system" : "snomed"
+    }, {
+      "code" : "468026000",
+      "description" : "Clean-room laboratory oven",
+      "system" : "snomed"
+    }, {
+      "code" : "467455004",
+      "description" : "Clinical laboratory information system",
+      "system" : "snomed"
+    }, {
+      "code" : "467742004",
+      "description" : "Clinical pharmacy information system",
+      "system" : "snomed"
+    }, {
+      "code" : "702250001",
+      "description" : "Coagulation timer",
+      "system" : "snomed"
+    }, {
+      "code" : "702265000",
+      "description" : "Colony counter, automated/semi-automated",
+      "system" : "snomed"
+    }, {
+      "code" : "702227007",
+      "description" : "Colony counter, manual",
+      "system" : "snomed"
+    }, {
+      "code" : "445173004",
+      "description" : "Contact slide",
+      "system" : "snomed"
+    }, {
+      "code" : "738501001",
+      "description" : "Cooled/mixing laboratory incubator",
+      "system" : "snomed"
+    }, {
+      "code" : "701909000",
+      "description" : "Cooling laboratory mixer",
+      "system" : "snomed"
+    }, {
+      "code" : "718281009",
+      "description" : "Cooling laboratory mixer solution transfer tubing",
+      "system" : "snomed"
+    }, {
+      "code" : "468152008",
+      "description" : "Cooling utility supply system",
+      "system" : "snomed"
+    }, {
+      "code" : "709498009",
+      "description" : "Cough culture plate",
+      "system" : "snomed"
+    }, {
+      "code" : "468145006",
+      "description" : "Cryobiological storage container",
+      "system" : "snomed"
+    }, {
+      "code" : "467876004",
+      "description" : "Cryogenic laboratory freezer, liquid nitrogen",
+      "system" : "snomed"
+    }, {
+      "code" : "701143005",
+      "description" : "Cryogenic laboratory freezer, vapor-phase nitrogen",
+      "system" : "snomed"
+    }, {
+      "code" : "467379003",
+      "description" : "Cryogenic safety glove",
+      "system" : "snomed"
+    }, {
+      "code" : "700569000",
+      "description" : "Cryoprecipitation fibrin sealant system",
+      "system" : "snomed"
+    }, {
+      "code" : "467647004",
+      "description" : "Cryostat microtome",
+      "system" : "snomed"
+    }, {
+      "code" : "467901009",
+      "description" : "Culture medium control",
+      "system" : "snomed"
+    }, {
+      "code" : "439857004",
+      "description" : "Culture plate",
+      "system" : "snomed"
+    }, {
+      "code" : "468135009",
+      "description" : "Culture tube",
+      "system" : "snomed"
+    }, {
+      "code" : "467824003",
+      "description" : "Cytological centrifuge",
+      "system" : "snomed"
+    }, {
+      "code" : "702273009",
+      "description" : "Densitometry analyzer, automated",
+      "system" : "snomed"
+    }, {
+      "code" : "702274003",
+      "description" : "Densitometry analyzer, semi-automated",
+      "system" : "snomed"
+    }, {
+      "code" : "468718001",
+      "description" : "Dental casting furnace",
+      "system" : "snomed"
+    }, {
+      "code" : "468845008",
+      "description" : "Dental laboratory drilling system",
+      "system" : "snomed"
+    }, {
+      "code" : "468615007",
+      "description" : "Dental porcelain furnace",
+      "system" : "snomed"
+    }, {
+      "code" : "469060003",
+      "description" : "Desiccating chamber",
+      "system" : "snomed"
+    }, {
+      "code" : "468500002",
+      "description" : "Desiccator",
+      "system" : "snomed"
+    }, {
+      "code" : "701862006",
+      "description" : "Digital durometer",
+      "system" : "snomed"
+    }, {
+      "code" : "444940002",
+      "description" : "Dipslide culture slide",
+      "system" : "snomed"
+    }, {
+      "code" : "468503000",
+      "description" : "Dissection board",
+      "system" : "snomed"
+    }, {
+      "code" : "468252002",
+      "description" : "Dissection scissors",
+      "system" : "snomed"
+    }, {
+      "code" : "468700004",
+      "description" : "Dissection table",
+      "system" : "snomed"
+    }, {
+      "code" : "468771001",
+      "description" : "Distillation water purification system",
+      "system" : "snomed"
+    }, {
+      "code" : "468948009",
+      "description" : "Drying rack, thin-layer chromatography plate",
+      "system" : "snomed"
+    }, {
+      "code" : "705233006",
+      "description" : "Durometer",
+      "system" : "snomed"
+    }, {
+      "code" : "705228007",
+      "description" : "Electrochemical electrode",
+      "system" : "snomed"
+    }, {
+      "code" : "468476007",
+      "description" : "Electromechanical tachometer",
+      "system" : "snomed"
+    }, {
+      "code" : "434533009",
+      "description" : "Electron microscopy grid",
+      "system" : "snomed"
+    }, {
+      "code" : "468928002",
+      "description" : "Electronic analytical balance",
+      "system" : "snomed"
+    }, {
+      "code" : "469000000",
+      "description" : "Electronic precision balance",
+      "system" : "snomed"
+    }, {
+      "code" : "468258003",
+      "description" : "Environmental air sampling unit",
+      "system" : "snomed"
+    }, {
+      "code" : "701241001",
+      "description" : "Ethylene oxide analyzer",
+      "system" : "snomed"
+    }, {
+      "code" : "701516009",
+      "description" : "Evacuated blood collection tube transport container",
+      "system" : "snomed"
+    }, {
+      "code" : "468228009",
+      "description" : "Evaporation/filtration sample concentrator",
+      "system" : "snomed"
+    }, {
+      "code" : "718594007",
+      "description" : "Ex vivo cell culture medium",
+      "system" : "snomed"
+    }, {
+      "code" : "469721006",
+      "description" : "Eye splash shield",
+      "system" : "snomed"
+    }, {
+      "code" : "469194004",
+      "description" : "Face splash shield",
+      "system" : "snomed"
+    }, {
+      "code" : "469841006",
+      "description" : "Fluorescence light microscope",
+      "system" : "snomed"
+    }, {
+      "code" : "469901003",
+      "description" : "Forced-air laboratory oven",
+      "system" : "snomed"
+    }, {
+      "code" : "469560005",
+      "description" : "Forceps warmer",
+      "system" : "snomed"
+    }, {
+      "code" : "469544006",
+      "description" : "Freezing chamber",
+      "system" : "snomed"
+    }, {
+      "code" : "702267008",
+      "description" : "Gas chromatography analyzer injection port",
+      "system" : "snomed"
+    }, {
+      "code" : "470270004",
+      "description" : "Gas isotope ratio mass spectrometry system",
+      "system" : "snomed"
+    }, {
+      "code" : "470506008",
+      "description" : "Gas proportional radiation counting system",
+      "system" : "snomed"
+    }, {
+      "code" : "470290008",
+      "description" : "Gas/liquid chromatography syringe",
+      "system" : "snomed"
+    }, {
+      "code" : "701394007",
+      "description" : "General specimen receptacle transport container",
+      "system" : "snomed"
+    }, {
+      "code" : "470584008",
+      "description" : "General-purpose drying cabinet",
+      "system" : "snomed"
+    }, {
+      "code" : "470734003",
+      "description" : "General-purpose tabletop centrifuge",
+      "system" : "snomed"
+    }, {
+      "code" : "700837004",
+      "description" : "General-purpose thermostat",
+      "system" : "snomed"
+    }, {
+      "code" : "470350008",
+      "description" : "Glutaraldehyde dosimeter",
+      "system" : "snomed"
+    }, {
+      "code" : "470668001",
+      "description" : "Gravity-convection laboratory oven",
+      "system" : "snomed"
+    }, {
+      "code" : "702259000",
+      "description" : "High performance liquid chromatography analyzer injection port",
+      "system" : "snomed"
+    }, {
+      "code" : "738556001",
+      "description" : "Histological tissue processing/storage cassette",
+      "system" : "snomed"
+    }, {
+      "code" : "433467007",
+      "description" : "Histology laboratory equipment",
+      "system" : "snomed"
+    }, {
+      "code" : "470310005",
+      "description" : "Image display monitor, monochrome",
+      "system" : "snomed"
+    }, {
+      "code" : "1141929001",
+      "description" : "Immunoadsorption apheresis system column",
+      "system" : "snomed"
+    }, {
+      "code" : "470573001",
+      "description" : "Immunoassay sample processor",
+      "system" : "snomed"
+    }, {
+      "code" : "702228002",
+      "description" : "Inoculating loop",
+      "system" : "snomed"
+    }, {
+      "code" : "462835003",
+      "description" : "Inoculating-loop sterilizer",
+      "system" : "snomed"
+    }, {
+      "code" : "463057003",
+      "description" : "Instrument cleaning jet pistol",
+      "system" : "snomed"
+    }, {
+      "code" : "705229004",
+      "description" : "Ion-selective electrode",
+      "system" : "snomed"
+    }, {
+      "code" : "469343001",
+      "description" : "Ionizing-radiation blood irradiator",
+      "system" : "snomed"
+    }, {
+      "code" : "470460003",
+      "description" : "Laboratory apron",
+      "system" : "snomed"
+    }, {
+      "code" : "470593009",
+      "description" : "Laboratory apron rack",
+      "system" : "snomed"
+    }, {
+      "code" : "719706005",
+      "description" : "Laboratory biohazard waste bag",
+      "system" : "snomed"
+    }, {
+      "code" : "470468005",
+      "description" : "Laboratory casework",
+      "system" : "snomed"
+    }, {
+      "code" : "705216004",
+      "description" : "Laboratory chamber",
+      "system" : "snomed"
+    }, {
+      "code" : "470665003",
+      "description" : "Laboratory dialyzer",
+      "system" : "snomed"
+    }, {
+      "code" : "470455002",
+      "description" : "Laboratory diluter",
+      "system" : "snomed"
+    }, {
+      "code" : "470627005",
+      "description" : "Laboratory distillation unit, solvent",
+      "system" : "snomed"
+    }, {
+      "code" : "470731006",
+      "description" : "Laboratory environmental chamber",
+      "system" : "snomed"
+    }, {
+      "code" : "430853006",
+      "description" : "Laboratory equipment",
+      "system" : "snomed"
+    }, {
+      "code" : "470435003",
+      "description" : "Laboratory evaporator",
+      "system" : "snomed"
+    }, {
+      "code" : "470233008",
+      "description" : "Laboratory freeze-dryer",
+      "system" : "snomed"
+    }, {
+      "code" : "705226006",
+      "description" : "Laboratory freezer",
+      "system" : "snomed"
+    }, {
+      "code" : "470358001",
+      "description" : "Laboratory gel dryer",
+      "system" : "snomed"
+    }, {
+      "code" : "705222008",
+      "description" : "Laboratory incubator",
+      "system" : "snomed"
+    }, {
+      "code" : "701188006",
+      "description" : "Laboratory incubator carbon dioxide analyzer",
+      "system" : "snomed"
+    }, {
+      "code" : "720994003",
+      "description" : "Laboratory instrument/analyzer guard",
+      "system" : "snomed"
+    }, {
+      "code" : "470651000",
+      "description" : "Laboratory liquid dispenser, electronic",
+      "system" : "snomed"
+    }, {
+      "code" : "470631004",
+      "description" : "Laboratory liquid dispenser, manual",
+      "system" : "snomed"
+    }, {
+      "code" : "705221001",
+      "description" : "Laboratory oven",
+      "system" : "snomed"
+    }, {
+      "code" : "470225007",
+      "description" : "Laboratory pump, high pressure",
+      "system" : "snomed"
+    }, {
+      "code" : "470563003",
+      "description" : "Laboratory pump, vacuum",
+      "system" : "snomed"
+    }, {
+      "code" : "470224006",
+      "description" : "Laboratory refractometer",
+      "system" : "snomed"
+    }, {
+      "code" : "470533007",
+      "description" : "Laboratory refrigerator",
+      "system" : "snomed"
+    }, {
+      "code" : "470581000",
+      "description" : "Laboratory refrigerator, chromatography",
+      "system" : "snomed"
+    }, {
+      "code" : "470739008",
+      "description" : "Laboratory scale, electronic",
+      "system" : "snomed"
+    }, {
+      "code" : "470191003",
+      "description" : "Laboratory scale, mechanical",
+      "system" : "snomed"
+    }, {
+      "code" : "470694005",
+      "description" : "Laboratory shaker",
+      "system" : "snomed"
+    }, {
+      "code" : "470616008",
+      "description" : "Laboratory sink system",
+      "system" : "snomed"
+    }, {
+      "code" : "470489001",
+      "description" : "Laboratory syringe filter",
+      "system" : "snomed"
+    }, {
+      "code" : "470360004",
+      "description" : "Laboratory thermometer",
+      "system" : "snomed"
+    }, {
+      "code" : "470693004",
+      "description" : "Laboratory thermostat",
+      "system" : "snomed"
+    }, {
+      "code" : "470504006",
+      "description" : "Laboratory tubing clamp",
+      "system" : "snomed"
+    }, {
+      "code" : "718590003",
+      "description" : "Laboratory tubing welder",
+      "system" : "snomed"
+    }, {
+      "code" : "470537008",
+      "description" : "Laboratory ware dryer",
+      "system" : "snomed"
+    }, {
+      "code" : "470412001",
+      "description" : "Laboratory ware washer",
+      "system" : "snomed"
+    }, {
+      "code" : "470409004",
+      "description" : "Laboratory Y-piece connector",
+      "system" : "snomed"
+    }, {
+      "code" : "701310004",
+      "description" : "Lactate analyzer",
+      "system" : "snomed"
+    }, {
+      "code" : "470513008",
+      "description" : "Laminar airflow hood",
+      "system" : "snomed"
+    }, {
+      "code" : "701283006",
+      "description" : "Lead (Pb) analyzer",
+      "system" : "snomed"
+    }, {
+      "code" : "463076001",
+      "description" : "Liquid nitrogen container",
+      "system" : "snomed"
+    }, {
+      "code" : "462902009",
+      "description" : "Liquid scintillation counter",
+      "system" : "snomed"
+    }, {
+      "code" : "469932002",
+      "description" : "Logistics-management information system",
+      "system" : "snomed"
+    }, {
+      "code" : "700903006",
+      "description" : "Low-pressure tubing connector",
+      "system" : "snomed"
+    }, {
+      "code" : "469922009",
+      "description" : "Low-speed floor centrifuge, nonrefrigerated",
+      "system" : "snomed"
+    }, {
+      "code" : "469522001",
+      "description" : "Low-speed floor centrifuge, refrigerated",
+      "system" : "snomed"
+    }, {
+      "code" : "701829003",
+      "description" : "Macular pigment analyzer",
+      "system" : "snomed"
+    }, {
+      "code" : "701889001",
+      "description" : "Magnetic cell separation system",
+      "system" : "snomed"
+    }, {
+      "code" : "701890005",
+      "description" : "Magnetic cell separation system processing unit",
+      "system" : "snomed"
+    }, {
+      "code" : "701893007",
+      "description" : "Magnetic cell separation system processing unit magnet",
+      "system" : "snomed"
+    }, {
+      "code" : "701900001",
+      "description" : "Magnetic cell separation system reagent",
+      "system" : "snomed"
+    }, {
+      "code" : "463369001",
+      "description" : "Mechanical analytical balance",
+      "system" : "snomed"
+    }, {
+      "code" : "463798000",
+      "description" : "Mechanical precision balance",
+      "system" : "snomed"
+    }, {
+      "code" : "463611001",
+      "description" : "Mechanical tachometer",
+      "system" : "snomed"
+    }, {
+      "code" : "463992009",
+      "description" : "Melting pot unit",
+      "system" : "snomed"
+    }, {
+      "code" : "463538001",
+      "description" : "Mercury vacuum cleaner",
+      "system" : "snomed"
+    }, {
+      "code" : "701280009",
+      "description" : "Mercury vapor meter",
+      "system" : "snomed"
+    }, {
+      "code" : "463557005",
+      "description" : "Microanalytical balance",
+      "system" : "snomed"
+    }, {
+      "code" : "463755004",
+      "description" : "Microhaematocrit centrifuge",
+      "system" : "snomed"
+    }, {
+      "code" : "706583006",
+      "description" : "Micromanipulator",
+      "system" : "snomed"
+    }, {
+      "code" : "463484009",
+      "description" : "Microsample centrifuge",
+      "system" : "snomed"
+    }, {
+      "code" : "708550006",
+      "description" : "Microscope accessory",
+      "system" : "snomed"
+    }, {
+      "code" : "706582001",
+      "description" : "Microscope camera",
+      "system" : "snomed"
+    }, {
+      "code" : "463382009",
+      "description" : "Microscope cine camera",
+      "system" : "snomed"
+    }, {
+      "code" : "463850000",
+      "description" : "Microscope discussion bridge",
+      "system" : "snomed"
+    }, {
+      "code" : "463333009",
+      "description" : "Microscope micrometer",
+      "system" : "snomed"
+    }, {
+      "code" : "433466003",
+      "description" : "Microscope slide",
+      "system" : "snomed"
+    }, {
+      "code" : "700807008",
+      "description" : "Microscope slide box",
+      "system" : "snomed"
+    }, {
+      "code" : "700808003",
+      "description" : "Microscope slide cabinet",
+      "system" : "snomed"
+    }, {
+      "code" : "433472003",
+      "description" : "Microscope slide coverslip",
+      "system" : "snomed"
+    }, {
+      "code" : "463416001",
+      "description" : "Microscope slide dispenser",
+      "system" : "snomed"
+    }, {
+      "code" : "463927005",
+      "description" : "Microscope slide dryer",
+      "system" : "snomed"
+    }, {
+      "code" : "700809006",
+      "description" : "Microscope slide folder",
+      "system" : "snomed"
+    }, {
+      "code" : "705239005",
+      "description" : "Microscope slide holder",
+      "system" : "snomed"
+    }, {
+      "code" : "463695009",
+      "description" : "Microscope slide holder, preparation/staining",
+      "system" : "snomed"
+    }, {
+      "code" : "702231001",
+      "description" : "Microscope slide stainer",
+      "system" : "snomed"
+    }, {
+      "code" : "700810001",
+      "description" : "Microscope slide tray",
+      "system" : "snomed"
+    }, {
+      "code" : "463455000",
+      "description" : "Microscope still camera",
+      "system" : "snomed"
+    }, {
+      "code" : "463356000",
+      "description" : "Microscope video camera",
+      "system" : "snomed"
+    }, {
+      "code" : "705219006",
+      "description" : "Microtome",
+      "system" : "snomed"
+    }, {
+      "code" : "464170002",
+      "description" : "Microtome drive",
+      "system" : "snomed"
+    }, {
+      "code" : "463781000",
+      "description" : "Microtome freezing attachment",
+      "system" : "snomed"
+    }, {
+      "code" : "463644007",
+      "description" : "Microwave radiation measuring probe",
+      "system" : "snomed"
+    }, {
+      "code" : "702291004",
+      "description" : "Multi-volume microplate cuvette/holder",
+      "system" : "snomed"
+    }, {
+      "code" : "701220007",
+      "description" : "Nitrogen body-fluid-sample analyzer",
+      "system" : "snomed"
+    }, {
+      "code" : "462668008",
+      "description" : "Nitrogen cylinder",
+      "system" : "snomed"
+    }, {
+      "code" : "462820004",
+      "description" : "Nitrogen quick-connect coupling, female",
+      "system" : "snomed"
+    }, {
+      "code" : "463068003",
+      "description" : "Nitrogen quick-connect coupling, male",
+      "system" : "snomed"
+    }, {
+      "code" : "1287328008",
+      "description" : "Ophthalmic surgery micromanipulator",
+      "system" : "snomed"
+    }, {
+      "code" : "704916000",
+      "description" : "Ophthalmic surgical microscope data overlay unit",
+      "system" : "snomed"
+    }, {
+      "code" : "464680004",
+      "description" : "Oxygen controller",
+      "system" : "snomed"
+    }, {
+      "code" : "464746009",
+      "description" : "Ozone generator, portable",
+      "system" : "snomed"
+    }, {
+      "code" : "700869008",
+      "description" : "Package sealing unit",
+      "system" : "snomed"
+    }, {
+      "code" : "464234006",
+      "description" : "Paraffin wax bath",
+      "system" : "snomed"
+    }, {
+      "code" : "464826009",
+      "description" : "Paraffin wax dispenser",
+      "system" : "snomed"
+    }, {
+      "code" : "464618004",
+      "description" : "Paraffin wax knife",
+      "system" : "snomed"
+    }, {
+      "code" : "465165000",
+      "description" : "Paraffin wax oven",
+      "system" : "snomed"
+    }, {
+      "code" : "462600003",
+      "description" : "Petri dish processor",
+      "system" : "snomed"
+    }, {
+      "code" : "462796006",
+      "description" : "Petri dish, tissue culture",
+      "system" : "snomed"
+    }, {
+      "code" : "462867000",
+      "description" : "Pharmaceutical laminar airflow unit",
+      "system" : "snomed"
+    }, {
+      "code" : "463022001",
+      "description" : "Pharmacy casework",
+      "system" : "snomed"
+    }, {
+      "code" : "463127009",
+      "description" : "Pharmacy refrigerator",
+      "system" : "snomed"
+    }, {
+      "code" : "462262000",
+      "description" : "Phase-contrast light microscope",
+      "system" : "snomed"
+    }, {
+      "code" : "700726005",
+      "description" : "Photometer, absorbance/transmission, automated",
+      "system" : "snomed"
+    }, {
+      "code" : "700727001",
+      "description" : "Photometer, absorbance/transmission, manual",
+      "system" : "snomed"
+    }, {
+      "code" : "462768000",
+      "description" : "Photometer, reflectance",
+      "system" : "snomed"
+    }, {
+      "code" : "462747001",
+      "description" : "Photopheresis system",
+      "system" : "snomed"
+    }, {
+      "code" : "464099009",
+      "description" : "Pipette safety filler",
+      "system" : "snomed"
+    }, {
+      "code" : "463342002",
+      "description" : "Pipette station",
+      "system" : "snomed"
+    }, {
+      "code" : "701416006",
+      "description" : "Platelet agitator",
+      "system" : "snomed"
+    }, {
+      "code" : "720031007",
+      "description" : "Platelet storage incubator",
+      "system" : "snomed"
+    }, {
+      "code" : "463621009",
+      "description" : "Polarimeter",
+      "system" : "snomed"
+    }, {
+      "code" : "705236003",
+      "description" : "Precision balance",
+      "system" : "snomed"
+    }, {
+      "code" : "713906005",
+      "description" : "Rapid-contact laboratory freezer",
+      "system" : "snomed"
+    }, {
+      "code" : "736897008",
+      "description" : "Red blood cell separation reagent",
+      "system" : "snomed"
+    }, {
+      "code" : "466016004",
+      "description" : "Refrigerator alarm",
+      "system" : "snomed"
+    }, {
+      "code" : "465734004",
+      "description" : "Rh-typing view box",
+      "system" : "snomed"
+    }, {
+      "code" : "466277005",
+      "description" : "Rotary microtome",
+      "system" : "snomed"
+    }, {
+      "code" : "705217008",
+      "description" : "Sample concentrator",
+      "system" : "snomed"
+    }, {
+      "code" : "464817006",
+      "description" : "Scalpel blade remover, non-sterile",
+      "system" : "snomed"
+    }, {
+      "code" : "464806005",
+      "description" : "Scanning electron microscope",
+      "system" : "snomed"
+    }, {
+      "code" : "464990005",
+      "description" : "Scanning laser optical microscope",
+      "system" : "snomed"
+    }, {
+      "code" : "465107006",
+      "description" : "Scanning/transmission electron microscope",
+      "system" : "snomed"
+    }, {
+      "code" : "444893002",
+      "description" : "Settle plate",
+      "system" : "snomed"
+    }, {
+      "code" : "465735003",
+      "description" : "Sliding microtome",
+      "system" : "snomed"
+    }, {
+      "code" : "465787004",
+      "description" : "Solution agitator",
+      "system" : "snomed"
+    }, {
+      "code" : "433453003",
+      "description" : "Specimen container component",
+      "system" : "snomed"
+    }, {
+      "code" : "434473001",
+      "description" : "Specimen container lid",
+      "system" : "snomed"
+    }, {
+      "code" : "700905004",
+      "description" : "Specimen container mailer, insulated",
+      "system" : "snomed"
+    }, {
+      "code" : "700906003",
+      "description" : "Specimen container mailer, non-insulated",
+      "system" : "snomed"
+    }, {
+      "code" : "466146004",
+      "description" : "Stopcock",
+      "system" : "snomed"
+    }, {
+      "code" : "466534005",
+      "description" : "Tensiometer",
+      "system" : "snomed"
+    }, {
+      "code" : "706062009",
+      "description" : "Therapeutic blood separation system",
+      "system" : "snomed"
+    }, {
+      "code" : "467180007",
+      "description" : "Therapeutic plasma exchange system",
+      "system" : "snomed"
+    }, {
+      "code" : "464673001",
+      "description" : "Thermocycling laboratory incubator",
+      "system" : "snomed"
+    }, {
+      "code" : "464275004",
+      "description" : "Thermometer shaker",
+      "system" : "snomed"
+    }, {
+      "code" : "434464009",
+      "description" : "Tissue cassette",
+      "system" : "snomed"
+    }, {
+      "code" : "434708008",
+      "description" : "Tissue cassette for microarray",
+      "system" : "snomed"
+    }, {
+      "code" : "464932000",
+      "description" : "Tissue embedding unit",
+      "system" : "snomed"
+    }, {
+      "code" : "465036009",
+      "description" : "Tissue trolley",
+      "system" : "snomed"
+    }, {
+      "code" : "464305002",
+      "description" : "Titrator",
+      "system" : "snomed"
+    }, {
+      "code" : "465981006",
+      "description" : "Transmission electron microscope",
+      "system" : "snomed"
+    }, {
+      "code" : "465853001",
+      "description" : "Tube stripper",
+      "system" : "snomed"
+    }, {
+      "code" : "466370009",
+      "description" : "Ultrahigh-speed floor centrifuge",
+      "system" : "snomed"
+    }, {
+      "code" : "466810006",
+      "description" : "Ultralow-temperature laboratory freezer",
+      "system" : "snomed"
+    }, {
+      "code" : "466454008",
+      "description" : "Ultramicrotome",
+      "system" : "snomed"
+    }, {
+      "code" : "466948002",
+      "description" : "Ultraviolet germicidal light",
+      "system" : "snomed"
+    }, {
+      "code" : "700925000",
+      "description" : "Ultraviolet germicidal light radiometer",
+      "system" : "snomed"
+    }, {
+      "code" : "466979003",
+      "description" : "Ultraviolet view box",
+      "system" : "snomed"
+    }, {
+      "code" : "466512008",
+      "description" : "Ultraviolet water purification system",
+      "system" : "snomed"
+    }, {
+      "code" : "465133003",
+      "description" : "Utility glove",
+      "system" : "snomed"
+    }, {
+      "code" : "464678005",
+      "description" : "Vacuum laboratory oven",
+      "system" : "snomed"
+    }, {
+      "code" : "466222001",
+      "description" : "Viscometer, electronic",
+      "system" : "snomed"
+    }, {
+      "code" : "466575003",
+      "description" : "Viscometer, mechanical",
+      "system" : "snomed"
+    }, {
+      "code" : "466353001",
+      "description" : "Water bath circulator",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 284,
+    "isComplete" : true
+  }
+}

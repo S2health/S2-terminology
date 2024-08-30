@@ -1,0 +1,47 @@
+{
+  "id" : "s2.KetonesInUrineTestStripValues",
+  "creationDate" : "2024-08-30T14:54:29-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "KetonesInUrineTestStripValues",
+    "description" : "Ketones in urine test strip values",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "255509001",
+      "description" : "Large",
+      "system" : "snomed"
+    }, {
+      "code" : "1255665007",
+      "description" : "Moderate",
+      "system" : "snomed"
+    }, {
+      "code" : "260385009",
+      "description" : "Negative",
+      "system" : "snomed"
+    }, {
+      "code" : "441614007",
+      "description" : "Present one plus out of three plus",
+      "system" : "snomed"
+    }, {
+      "code" : "441521003",
+      "description" : "Present three plus out of three plus",
+      "system" : "snomed"
+    }, {
+      "code" : "441517005",
+      "description" : "Present two plus out of three plus",
+      "system" : "snomed"
+    }, {
+      "code" : "255507004",
+      "description" : "Small",
+      "system" : "snomed"
+    }, {
+      "code" : "260405006",
+      "description" : "Trace",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 8,
+    "isComplete" : true
+  }
+}
