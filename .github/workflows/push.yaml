@@ -2,7 +2,6 @@ name: Build & Release
 
 on:
   push:
-    paths: [ 'decomp/target/**' ]
     branches: [ "main" ,"GH-457-1"]
 
 permissions:
