@@ -1449,6 +1449,7 @@
 1017,Medication Administration Details,Active,80565-5,Medication administration flowsheet {Setting} Find Pt Doc {Role},Active,Clinical Document,False,s2-EHR-Action.medication.v1.2.2,id141,/description[id141],
 3851,Medication authorization,Active,71573-0,Medication authorization Patient Type Pt Nom NEMSIS,Active,General,False,s2-EHR-Node.medication_authorisation.v0.0.1-alpha,id1,/,
 3879,Medication Batch ID,Active,74714-7,Lot or batch number {Device} ID Pt Nom,Active,General,False,s2-EHR-Node.medication.v2.0.1,id151,/items[id151],
+5592,Medication Batch ID,Active,74714-7,Lot or batch number {Device} ID Pt Nom,Active,General,False,s2-EHR-Node.medication.v3.0.0,id151,/items[id151],
 3877,Medication Category,Active,74075-3,Medication type [AHRQ],Active,General,False,s2-EHR-Node.medication.v2.0.1,id143,/items[id143],
 5588,Medication Category,Active,74075-3,Medication type [AHRQ],Active,General,False,s2-EHR-Node.medication.v3.0.0,id143,/items[id143],
 3871,Medication details,Active,74078-7,Medication or other substance details panel [AHRQ],Active,General,False,s2-EHR-Node.medication.v2.0.1,id1,/,
