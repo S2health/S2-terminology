@@ -20,8 +20,8 @@
       "model" : "s2-EHR-Direct_observation.height.v2.1.0.adls",
       "descriptors" : [ {
         "key" : {
-          "code" : "106191-0",
-          "description" : "General method Unspecified body region",
+          "code" : "83844-1",
+          "description" : "Body height method",
           "system" : "loinc"
         },
         "value" : {
