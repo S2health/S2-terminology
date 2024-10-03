@@ -1,0 +1,111 @@
+{
+  "id" : "s2.DischargeDisposition",
+  "creationDate" : "2024-10-03T10:33:01-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "DischargeDisposition",
+    "description" : "Discharge disposition",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "306701001",
+      "description" : "Discharge to community hospital",
+      "system" : "snomed"
+    }, {
+      "code" : "405807003",
+      "description" : "Discharge to convalescence",
+      "system" : "snomed"
+    }, {
+      "code" : "306707002",
+      "description" : "Discharge to day ward",
+      "system" : "snomed"
+    }, {
+      "code" : "306685000",
+      "description" : "Discharge to establishment",
+      "system" : "snomed"
+    }, {
+      "code" : "306689006",
+      "description" : "Discharge to home",
+      "system" : "snomed"
+    }, {
+      "code" : "306699001",
+      "description" : "Discharge to hospital",
+      "system" : "snomed"
+    }, {
+      "code" : "306700000",
+      "description" : "Discharge to long stay hospital",
+      "system" : "snomed"
+    }, {
+      "code" : "306694006",
+      "description" : "Discharge to nursing home",
+      "system" : "snomed"
+    }, {
+      "code" : "306696008",
+      "description" : "Discharge to part III accommodation",
+      "system" : "snomed"
+    }, {
+      "code" : "306693000",
+      "description" : "Discharge to part III residential home",
+      "system" : "snomed"
+    }, {
+      "code" : "306705005",
+      "description" : "Discharge to police custody",
+      "system" : "snomed"
+    }, {
+      "code" : "306695007",
+      "description" : "Discharge to private nursing home",
+      "system" : "snomed"
+    }, {
+      "code" : "306692005",
+      "description" : "Discharge to private residential home",
+      "system" : "snomed"
+    }, {
+      "code" : "306690002",
+      "description" : "Discharge to relative's home",
+      "system" : "snomed"
+    }, {
+      "code" : "306691003",
+      "description" : "Discharge to residential home",
+      "system" : "snomed"
+    }, {
+      "code" : "306697004",
+      "description" : "Discharge to sheltered housing",
+      "system" : "snomed"
+    }, {
+      "code" : "306703003",
+      "description" : "Discharge to tertiary referral hospital",
+      "system" : "snomed"
+    }, {
+      "code" : "306706006",
+      "description" : "Discharge to ward",
+      "system" : "snomed"
+    }, {
+      "code" : "306698009",
+      "description" : "Discharge to warden controlled accommodation",
+      "system" : "snomed"
+    }, {
+      "code" : "89334003",
+      "description" : "Patient discharge, deceased, to anatomic board",
+      "system" : "snomed"
+    }, {
+      "code" : "86400002",
+      "description" : "Patient discharge, to home, ambulatory",
+      "system" : "snomed"
+    }, {
+      "code" : "65537008",
+      "description" : "Patient discharge, to home, routine",
+      "system" : "snomed"
+    }, {
+      "code" : "10161009",
+      "description" : "Patient discharge, to home, with assistance",
+      "system" : "snomed"
+    }, {
+      "code" : "50861005",
+      "description" : "Patient discharge, to legal custody",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 24,
+    "isComplete" : true
+  }
+}
