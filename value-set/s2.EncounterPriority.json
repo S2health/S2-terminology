@@ -1,0 +1,43 @@
+{
+  "id" : "s2.EncounterPriority",
+  "creationDate" : "2024-10-08T11:25:10-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "EncounterPriority",
+    "description" : "Encounter priority",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "709122007",
+      "description" : "As soon as possible",
+      "system" : "snomed"
+    }, {
+      "code" : "103390000",
+      "description" : "Elective",
+      "system" : "snomed"
+    }, {
+      "code" : "25876001",
+      "description" : "Emergency",
+      "system" : "snomed"
+    }, {
+      "code" : "262068006",
+      "description" : "Preoperative",
+      "system" : "snomed"
+    }, {
+      "code" : "50811001",
+      "description" : "Routine",
+      "system" : "snomed"
+    }, {
+      "code" : "49499008",
+      "description" : "Stat",
+      "system" : "snomed"
+    }, {
+      "code" : "103391001",
+      "description" : "Urgent",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 7,
+    "isComplete" : true
+  }
+}
