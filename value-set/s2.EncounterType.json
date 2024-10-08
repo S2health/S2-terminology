@@ -1,0 +1,47 @@
+{
+  "id" : "s2.EncounterType",
+  "creationDate" : "2024-10-08T15:13:01-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "EncounterType",
+    "description" : "Encounter type",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "185349003",
+      "description" : "Encounter for check up",
+      "system" : "snomed"
+    }, {
+      "code" : "185348006",
+      "description" : "Encounter for fear",
+      "system" : "snomed"
+    }, {
+      "code" : "711458003",
+      "description" : "Encounter for fitness for duty exam",
+      "system" : "snomed"
+    }, {
+      "code" : "185347001",
+      "description" : "Encounter for problem",
+      "system" : "snomed"
+    }, {
+      "code" : "185346005",
+      "description" : "Encounter for sign",
+      "system" : "snomed"
+    }, {
+      "code" : "185345009",
+      "description" : "Encounter for symptom",
+      "system" : "snomed"
+    }, {
+      "code" : "30808008",
+      "description" : "Encounter group therapy",
+      "system" : "snomed"
+    }, {
+      "code" : "390906007",
+      "description" : "Follow-up encounter",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 8,
+    "isComplete" : true
+  }
+}
