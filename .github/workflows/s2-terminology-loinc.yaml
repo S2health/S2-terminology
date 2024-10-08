@@ -1,4 +1,4 @@
-name: LOINC change automation
+name: LOINC master file change automation
 on:
   push:
     branches:
@@ -27,19 +27,13 @@ jobs:
           repository: 'S2health/tools'
           path: tools
           ssh-key: ${{ secrets.TOOLS_DEPLOY_PRIVATE_KEY }}
-
-      - name: Checkout S2-models-demo repository
-        uses: actions/checkout@v4
-        with:
-          repository: 'S2health/S2-models-demo'
-          path: S2-models-demo
-          ssh-key: ${{ secrets.S2_MODELS_DEMO_DEPLOY_PRIVATE_KEY }}
       
-      - name: Create PR in S2-models-demo
+      - name: Create PR in this repo
         uses: S2health/tools/.github/actions/create-pr@main
         with:
-          branch_name: "BIND/update-loinc-master"
-          scripts_list: "extract_master_loinc_bindings"
-          target_repo_name: "S2-models-demo"
+          branch_name: "wf/extract_loinc_injection_file"
+          target_repo_name: ${{ github.event.repository.name }}
           git_pat: ${{ secrets.EDONG_GITHUB_PAT }}
           s2_tools_path: ${{ vars.S2_TOOLS_PATH }}
+          scripts_list: |
+            extract_master_loinc_bindings --source_repo ${{ github.event.repository.name }}
