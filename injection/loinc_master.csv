@@ -1,706 +1,558 @@
-Source Archetype ID,Source Archetype Node ID,TargetSourceCode
-s2-ADMIN-Billing_encounter.encounter_general.v1,id1,a82d501b-5274-ef11-8870-6045bdc71c8b
-s2-ADMIN-Billing_encounter.encounter_general.v1,id17,8661-1
-s2-ADMIN-Billing_encounter.encounter_general.v1,id18,8651-2
-s2-ADMIN-Billing_encounter.encounter_general.v1,id19,55128-3
-s2-ADMIN-Billing_encounter.encounter_general.v1,id2,c8062e25-5274-ef11-8870-6045bdc71c8b
-s2-ADMIN-Billing_encounter.encounter_general.v1,id20,9ff0f853-5274-ef11-8870-6045bdc71c8b
-s2-ADMIN-Billing_encounter.encounter_general.v1,id21,52428-0
-s2-ADMIN-Billing_encounter.encounter_general.v1,id22,104915-4
-s2-ADMIN-Billing_encounter.encounter_general.v1,id23,74213-0
-s2-ADMIN-Billing_encounter.encounter_general.v1,id3,106197-7
-s2-ADMIN-Billing_encounter.encounter_general.v1,id4,106180-3
-s2-ADMIN-Billing_encounter.encounter_general.v1,id5,73980-5
-s2-ADMIN-Billing_encounter.encounter_general.v1,id6,e46b4216-e475-ef11-8870-6045bdc71c8b
-s2-ADMIN-Billing_encounter.encounter_general.v1,id7,42548-8
-s2-ADMIN-Billing_encounter.encounter_general.v1,id8,93ff9f33-5274-ef11-8870-6045bdc71c8b
-s2-ADMIN-Billing_encounter.encounter_general.v1,id9,c385d443-5274-ef11-8870-6045bdc71c8b
-s2-EHR-Action.medication.v1,id1,d4effea9-ec6e-ef11-8870-6045bdc71c8b
-s2-EHR-Action.medication.v1,id104,104756-2
-s2-EHR-Action.medication.v1,id133,9773f90d-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Action.medication.v1,id134,8161fa14-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Action.medication.v1,id141,80565-5
-s2-EHR-Action.medication.v1,id142,39111-0
-s2-EHR-Action.medication.v1,id143,72369-2
-s2-EHR-Action.medication.v1,id144,104817-2
-s2-EHR-Action.medication.v1,id145,82307-0
-s2-EHR-Action.medication.v1,id148,71468-3
-s2-EHR-Action.medication.v1,id150,6af40340-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Action.medication.v1,id155,f075b022-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Action.medication.v1,id156,a24db229-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Action.medication.v1,id157,104720-8
-s2-EHR-Action.medication.v1,id21,74060-5
-s2-EHR-Action.medication.v1,id22,6ab52531-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Action.medication.v1,id25,106173-8
-s2-EHR-Action.medication.v1,id26,8cd55646-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Action.medication.v1,id34,e9928739-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Action.medication.v1,id44,0974bb1b-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Action.medication.v1,id54,46696-1
-s2-EHR-Assessment.adverse_reaction_risk.v2,id1,e7a25771-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Assessment.adverse_reaction_risk.v2,id102,82606-5
-s2-EHR-Assessment.adverse_reaction_risk.v2,id118,66947-3
-s2-EHR-Assessment.adverse_reaction_risk.v2,id121,104948-5
-s2-EHR-Assessment.adverse_reaction_risk.v2,id130,104949-3
-s2-EHR-Assessment.adverse_reaction_risk.v2,id131,a7affd63-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Assessment.adverse_reaction_risk.v2,id134,104914-7
-s2-EHR-Assessment.adverse_reaction_risk.v2,id3,104986-5
-s2-EHR-Assessment.adverse_reaction_risk.v2,id48,104987-3
-s2-EHR-Assessment.adverse_reaction_risk.v2,id59,104924-6
-s2-EHR-Assessment.adverse_reaction_risk.v2,id63,106177-9
-s2-EHR-Assessment.adverse_reaction_risk.v2,id64,104932-9
-s2-EHR-Assessment.adverse_reaction_risk.v2,id7,106173-8
-s2-EHR-Assessment.family_history.v2,id1,8670-2
-s2-EHR-Assessment.family_history.v2,id10,29308-4
-s2-EHR-Assessment.family_history.v2,id11,75273-3
-s2-EHR-Assessment.family_history.v2,id12,39016-1
-s2-EHR-Assessment.family_history.v2,id13,61133-5
-s2-EHR-Assessment.family_history.v2,id15,104954-3
-s2-EHR-Assessment.family_history.v2,id17,54136-7
-s2-EHR-Assessment.family_history.v2,id21,56798-2
-s2-EHR-Assessment.family_history.v2,id23,104901-4
-s2-EHR-Assessment.family_history.v2,id24,104923-8
-s2-EHR-Assessment.family_history.v2,id25,104958-4
-s2-EHR-Assessment.family_history.v2,id27,106177-9
-s2-EHR-Assessment.family_history.v2,id28,104901-4
-s2-EHR-Assessment.family_history.v2,id29,74023-3
-s2-EHR-Assessment.family_history.v2,id3,10157-6
-s2-EHR-Assessment.family_history.v2,id30,29548-5
-s2-EHR-Assessment.family_history.v2,id31,1c814f9b-cbe7-ee11-8869-6045bdc71c8b
-s2-EHR-Assessment.family_history.v2,id4,54114-4
-s2-EHR-Assessment.family_history.v2,id47,106173-8
-s2-EHR-Assessment.family_history.v2,id5,54138-3
-s2-EHR-Assessment.family_history.v2,id54,104973-3
-s2-EHR-Assessment.family_history.v2,id59,81954-0
-s2-EHR-Assessment.family_history.v2,id6,54124-3
-s2-EHR-Assessment.family_history.v2,id61,46098-0
-s2-EHR-Assessment.family_history.v2,id65,104984-0
-s2-EHR-Assessment.family_history.v2,id69,104908-9
-s2-EHR-Assessment.family_history.v2,id9,5b65d07a-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Assessment.goal.v1,id1,b90d46e3-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Assessment.goal.v1,id10,106180-3
-s2-EHR-Assessment.goal.v1,id11,104720-8
-s2-EHR-Assessment.goal.v1,id12,c52ef8ae-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Assessment.goal.v1,id13,87cdd18a-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Assessment.goal.v1,id14,e9f6d1a6-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Assessment.goal.v1,id19,1e6c5ed5-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Assessment.goal.v1,id23,106173-8
-s2-EHR-Assessment.goal.v1,id24,106173-8
-s2-EHR-Assessment.goal.v1,id25,1b5426be-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Assessment.goal.v1,id3,80b97d82-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Assessment.goal.v1,id30,106177-9
-s2-EHR-Assessment.goal.v1,id4,bc56099f-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Assessment.goal.v1,id5,106180-3
-s2-EHR-Assessment.goal.v1,id6,1d981cdc-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Assessment.goal.v1,id7,f1b860c5-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Assessment.goal.v1,id8,578925b7-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Assessment.goal.v1,id9,afe6e0cb-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Assessment.problem_diagnosis.v1,id1,75326-9
-s2-EHR-Assessment.problem_diagnosis.v1,id10,61133-5
-s2-EHR-Assessment.problem_diagnosis.v1,id13,39111-0
-s2-EHR-Assessment.problem_diagnosis.v1,id3,29548-5
-s2-EHR-Assessment.problem_diagnosis.v1,id31,104919-6
-s2-EHR-Assessment.problem_diagnosis.v1,id4,63931-0
-s2-EHR-Assessment.problem_diagnosis.v1,id40,72369-2
-s2-EHR-Assessment.problem_diagnosis.v1,id44,46696-1
-s2-EHR-Assessment.problem_diagnosis.v1,id47,99493-9
-s2-EHR-Assessment.problem_diagnosis.v1,id6,99499-6
-s2-EHR-Assessment.problem_diagnosis.v1,id70,106173-8
-s2-EHR-Assessment.problem_diagnosis.v1,id71,106177-9
-s2-EHR-Assessment.problem_diagnosis.v1,id73,89261-2
-s2-EHR-Assessment.problem_diagnosis.v1,id74,100303-7
-s2-EHR-Assessment.problem_diagnosis.v1,id78,76425-8
-s2-EHR-Assessment.problem_diagnosis.v1,id79,99496-2
-s2-EHR-Assessment.problem_diagnosis.v1,id80,a30eb7ea-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Composition.allergies_intolerances_list.v1,id1,106203-3
-s2-EHR-Composition.care_plan.v1,id1,56851-9
-s2-EHR-Composition.care_plan.v1,id10,e8b31e31-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Composition.care_plan.v1,id11,08a63943-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Composition.care_plan.v1,id12,3ae85dde-6582-ef11-8870-6045bdc71c8b
-s2-EHR-Composition.care_plan.v1,id12,c71dfbec-6582-ef11-8870-6045bdc71c8b
-s2-EHR-Composition.care_plan.v1,id2,67492-9
-s2-EHR-Composition.care_plan.v1,id3,69542-9
-s2-EHR-Composition.care_plan.v1,id4,bc7f4b0f-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Composition.care_plan.v1,id5,95235e1b-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Composition.care_plan.v1,id6,77b10e3b-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Composition.care_plan.v1,id7,29300-1
-s2-EHR-Composition.care_plan.v1,id9,8e647228-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Composition.encounter.v1,id1,b222fc49-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Composition.encounter.v1,id3,75519-9
-s2-EHR-Composition.family_history.v1,id1,8670-2
-s2-EHR-Composition.lab_report.v1,id1,c6368655-6682-ef11-8870-6045bdc71c8b
-s2-EHR-Composition.lab_report.v1,id3,90084-5
-s2-EHR-Composition.lab_report.v1,id9,91582-7
-s2-EHR-Composition.medication_list.v1,id1,104207-6
-s2-EHR-Composition.problem_list.v1,id1,11450-4
-s2-EHR-Composition.problem_list.v1,id2,67492-9
-s2-EHR-Composition.problem_list.v1,id4,66299-9
-s2-EHR-Composition.simple_medication_list.v1,id1,104207-6
-s2-EHR-Composition.simple_problem_list.v1,id1,11450-4
-s2-EHR-Composition.simple_problem_list.v1,id2,75326-9
-s2-EHR-Direct_observation.blood_pressure.v2,id1,35094-2
-s2-EHR-Direct_observation.blood_pressure.v2,id1006,8360-0
-s2-EHR-Direct_observation.blood_pressure.v2,id1007,8478-0
-s2-EHR-Direct_observation.blood_pressure.v2,id1008,41e8c360-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.blood_pressure.v2,id1008,a84a7424-6882-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.blood_pressure.v2,id1011,fe27400b-6882-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.blood_pressure.v2,id1026,82307-0
-s2-EHR-Direct_observation.blood_pressure.v2,id1031,f3f6ed70-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.blood_pressure.v2,id1036,8357-6
-s2-EHR-Direct_observation.blood_pressure.v2,id1039,96dabcea-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.blood_pressure.v2,id1043,97844-5
-s2-EHR-Direct_observation.blood_pressure.v2,id1044,41de0bac-6882-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.blood_pressure.v2,id1053,106176-1
-s2-EHR-Direct_observation.blood_pressure.v2,id1055,a97dc4f6-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.blood_pressure.v2,id1056,17a06f01-6882-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.blood_pressure.v2,id1058,72369-2
-s2-EHR-Direct_observation.blood_pressure.v2,id1060,64110-0
-s2-EHR-Direct_observation.blood_pressure.v2,id14,8358-4
-s2-EHR-Direct_observation.blood_pressure.v2,id15,39111-0
-s2-EHR-Direct_observation.blood_pressure.v2,id34,48767-8
-s2-EHR-Direct_observation.blood_pressure.v2,id5,8480-6
-s2-EHR-Direct_observation.blood_pressure.v2,id6,8462-4
-s2-EHR-Direct_observation.blood_pressure.v2,id9,8361-8
-s2-EHR-Direct_observation.body_mass_index.v2,id1,59574-4
-s2-EHR-Direct_observation.body_mass_index.v2,id11,97a5406b-6882-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.body_mass_index.v2,id12,106176-1
-s2-EHR-Direct_observation.body_mass_index.v2,id13,106173-8
-s2-EHR-Direct_observation.body_mass_index.v2,id14,64110-0
-s2-EHR-Direct_observation.body_mass_index.v2,id5,59574-4
-s2-EHR-Direct_observation.body_mass_index.v2,id7,106191-0
-s2-EHR-Direct_observation.body_temperature.v2,id1,8310-5
-s2-EHR-Direct_observation.body_temperature.v2,id22,39111-0
-s2-EHR-Direct_observation.body_temperature.v2,id31,b18e717a-6882-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.body_temperature.v2,id42,57476e83-6882-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.body_temperature.v2,id5,8310-5
-s2-EHR-Direct_observation.body_temperature.v2,id58,f3f6ed70-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.body_temperature.v2,id60,74720-4
-s2-EHR-Direct_observation.body_temperature.v2,id64,106173-8
-s2-EHR-Direct_observation.body_temperature.v2,id65,72369-2
-s2-EHR-Direct_observation.body_temperature.v2,id66,9b8ec08a-6882-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.body_temperature.v2,id67,106176-1
-s2-EHR-Direct_observation.body_weight.v2,id1,29463-7
-s2-EHR-Direct_observation.body_weight.v2,id10,8352-7
-s2-EHR-Direct_observation.body_weight.v2,id21,74720-4
-s2-EHR-Direct_observation.body_weight.v2,id25,106173-8
-s2-EHR-Direct_observation.body_weight.v2,id26,106176-1
-s2-EHR-Direct_observation.body_weight.v2,id27,8339-4
-s2-EHR-Direct_observation.body_weight.v2,id5,29463-7
-s2-EHR-Direct_observation.heart_rate.v1,id1,8867-4
-s2-EHR-Direct_observation.heart_rate.v1,id1006,41de0bac-6882-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.heart_rate.v1,id1031,f3f6ed70-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.heart_rate.v1,id1036,106191-0
-s2-EHR-Direct_observation.heart_rate.v1,id1053,106168-8
-s2-EHR-Direct_observation.heart_rate.v1,id1060,64110-0
-s2-EHR-Direct_observation.heart_rate.v1,id15,39111-0
-s2-EHR-Direct_observation.heart_rate.v1,id5,8867-4
-s2-EHR-Direct_observation.heart_rate.v1,id9,8361-8
-s2-EHR-Direct_observation.height.v2,id1,8302-2
-s2-EHR-Direct_observation.height.v2,id12,74720-4
-s2-EHR-Direct_observation.height.v2,id15,8361-8
-s2-EHR-Direct_observation.height.v2,id19,106173-8
-s2-EHR-Direct_observation.height.v2,id20,106176-1
-s2-EHR-Direct_observation.height.v2,id22,89269-5
-s2-EHR-Direct_observation.height.v2,id40,83844-1
-s2-EHR-Direct_observation.height.v2,id5,8302-2
-s2-EHR-Direct_observation.pulse_oximetry.v1,id1,24336-0
-s2-EHR-Direct_observation.pulse_oximetry.v1,id10,20081-6
-s2-EHR-Direct_observation.pulse_oximetry.v1,id16,19996-8
-s2-EHR-Direct_observation.pulse_oximetry.v1,id17,100752-5
-s2-EHR-Direct_observation.pulse_oximetry.v1,id19,82307-0
-s2-EHR-Direct_observation.pulse_oximetry.v1,id35,f3f6ed70-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.pulse_oximetry.v1,id37,48767-8
-s2-EHR-Direct_observation.pulse_oximetry.v1,id45,57800-5
-s2-EHR-Direct_observation.pulse_oximetry.v1,id46,86904-0
-s2-EHR-Direct_observation.pulse_oximetry.v1,id47,2614-6
-s2-EHR-Direct_observation.pulse_oximetry.v1,id55,4175e0c4-6882-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.pulse_oximetry.v1,id59,64110-0
-s2-EHR-Direct_observation.pulse_oximetry.v1,id62,81b001d6-6882-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.pulse_oximetry.v1,id7,59408-5
-s2-EHR-Direct_observation.respiratory_rate.v1,id1,9279-1
-s2-EHR-Direct_observation.respiratory_rate.v1,id1026,82307-0
-s2-EHR-Direct_observation.respiratory_rate.v1,id1031,f3f6ed70-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.respiratory_rate.v1,id1036,106191-0
-s2-EHR-Direct_observation.respiratory_rate.v1,id1060,64110-0
-s2-EHR-Direct_observation.respiratory_rate.v1,id5,9279-1
-s2-EHR-Direct_observation.respiratory_rate.v1,id9,8361-8
-s2-EHR-Entity_ref_node.device_ref.v1,id2,74720-4
-s2-EHR-Entity_ref_node.device_ref.v1,id4,66464-9
-s2-EHR-Entity_ref_node.device_ref.v1,id5,74719-6
-s2-EHR-Entity_ref_node.lab_organization_ref.v1,id0.1,90057-1
-s2-EHR-Entity_ref_node.organization_ref.v1,id2,76469-6
-s2-EHR-Entity_ref_node.organization_ref.v1,id3,90052-2
-s2-EHR-Entity_ref_node.organization_ref.v1,id4,76468-8
-s2-EHR-Entity_ref_node.organization_ref.v1,id5,90054-8
-s2-EHR-Entity_ref_node.person_ref.v1,id2,90d847a8-6c82-ef11-8870-6045bdc71c8b
-s2-EHR-Entity_ref_node.person_ref.v1,id4,106193-6
-s2-EHR-Entity_ref_node.person_ref.v1,id5,44767-2
-s2-EHR-Info_node.ABOGroupTypePtBldNomLabObs.v1,id1.1.1,883-9
-s2-EHR-Info_node.AlanineAminotransferaseCCncPtSerPlasQnLabObs.v1,id1.1.1,1742-6
-s2-EHR-Info_node.AlbuminGlobulinMRtoPtSerPlasQnLabObs.v1,id1.1.1,1759-0
-s2-EHR-Info_node.AlbuminMCncPtSerPlasQnLabObs.v1,id1.1.1,1751-7
-s2-EHR-Info_node.AlkalinePhosphataseCCncPtSerPlasQnLabObs.v1,id1.1.1,6768-6
-s2-EHR-Info_node.AmphetaminesMCncPtUrineQnLabObs.v1,id1.1.1,8150-5
-s2-EHR-Info_node.AniongapSCncPtSerPlasQnLabObs.v1,id1.1.1,33037-3
-s2-EHR-Info_node.AspartateAminotransferaseCCncPtSerPlasQnLabObs.v1,id1.1.1,1920-8
-s2-EHR-Info_node.BaseExcessSCncPtBldAQnLabObs.v1,id1.1.1,1925-7
-s2-EHR-Info_node.BaseExcessSCncPtBldVQnLabObs.v1,id1.1.1,1927-3
-s2-EHR-Info_node.BasedeficitSCncPtBldAQnLabObs.v1,id1.1.1,1922-4
-s2-EHR-Info_node.BasedeficitSCncPtBldVQnLabObs.v1,id1.1.1,1924-0
-s2-EHR-Info_node.BenzoylecgonineMCncPtUrineQnLabObs.v1,id1.1.1,3394-4
-s2-EHR-Info_node.BicarbonateSCncPtBldAQnLabObs.v1,id1.1.1,1960-4
-s2-EHR-Info_node.BicarbonateSCncPtBldVQnLabObs.v1,id1.1.1,14627-4
-s2-EHR-Info_node.BicarbonateSCncPtSerPlasQnLabObs.v1,id1.1.1,1963-8
-s2-EHR-Info_node.BilirubinMCncPtSerPlasQnLabObs.v1,id1.1.1,1975-2
-s2-EHR-Info_node.BilirubinMCncPtUrineQnLabObs.v1,id1.1.1,1978-6
-s2-EHR-Info_node.BilirubinPrThrPtUrineOrdLabObs.v1,id1.1.1,1977-8
-s2-EHR-Info_node.BilirubinglucuronidatedBilirubinalbuminboundMCncPtSerPlasQnLabObs.v1,id1.1.1,1968-7
-s2-EHR-Info_node.CalciumMCncPtSerPlasQnLabObs.v1,id1.1.1,17861-6
-s2-EHR-Info_node.CalciumionizedMCncPtSerPlasQnLabObs.v1,id1.1.1,17863-2
-s2-EHR-Info_node.CannabinoidsMCncPtUrineQnLabObs.v1,id1.1.1,42860-7
-s2-EHR-Info_node.CarbonDioxideAdjustedToPatientsActualTemperaturePPresPtBldAQnLabObs.v1,id1.1.1,32771-8
-s2-EHR-Info_node.CarbonDioxidePPresPtBldAQnLabObs.v1,id1.1.1,2019-8
-s2-EHR-Info_node.CarbonDioxidePPresPtBldVQnLabObs.v1,id1.1.1,2021-4
-s2-EHR-Info_node.CarbonDioxideSCncPtSerPlasQnLabObs.v1,id1.1.1,2028-9
-s2-EHR-Info_node.CarbondioxideSCncPtBldAQnLabObs.v1,id1.1.1,2026-3
-s2-EHR-Info_node.CarbondioxideSCncPtBldVQnLabObs.v1,id1.1.1,2027-1
-s2-EHR-Info_node.CarbondioxideadjustedtopatientsactualtemperaturePPresPtBldVQnLabObs.v1,id1.1.1,40619-9
-s2-EHR-Info_node.ChlorideSCncPtSerPlasQnLabObs.v1,id1.1.1,2075-0
-s2-EHR-Info_node.CholesterolInHDLMCncPtSerPlasQnLabObs.v1,id1.1.1,2085-9
-s2-EHR-Info_node.CholesterolInLDLCholesterolInHDLMRtoPtSerPlasQnLabObs.v1,id1.1.1,11054-4
-s2-EHR-Info_node.CholesterolInLDLMCncPtSerPlasQnLabObs.v1,id1.1.1,2089-1
-s2-EHR-Info_node.CholesterolMCncPtSerPlasQnLabObs.v1,id1.1.1,2093-3
-s2-EHR-Info_node.CholesterolinVLDLMCncPtSerPlasQnLabObs.v1,id1.1.1,2091-7
-s2-EHR-Info_node.CholesteroltotalCholesterolinHDLMRtoPtSerPlasQnLabObs.v1,id1.1.1,9830-1
-s2-EHR-Info_node.ClarityTypePtUrineNomLabObs.v1,id1.1.1,32167-9
-s2-EHR-Info_node.CoagulationTissueFactorInducedTimePtPPPQnCoagLabObs.v1,id1.1.1,5902-2
-s2-EHR-Info_node.ColorTypePtUrineNomLabObs.v1,id1.1.1,5778-6
-s2-EHR-Info_node.CreatinineMCncPtSerPlasQnLabObs.v1,id1.1.1,2160-0
-s2-EHR-Info_node.ErythrocyteDistributionWidthRatioPtRBCQnLabObs.v1,id1.1.1,30385-9
-s2-EHR-Info_node.ErythrocyteMeanCorpuscularHemoglobinConcentrationMCncPtRBCQnLabObs.v1,id1.1.1,28540-3
-s2-EHR-Info_node.ErythrocyteMeanCorpuscularHemoglobinEntMassPtRBCQnLabObs.v1,id1.1.1,28539-5
-s2-EHR-Info_node.ErythrocytemeancorpuscularvolumeEntVolPtRBCQnLabObs.v1,id1.1.1,30428-7
-s2-EHR-Info_node.ErythrocytesNCncPtBldQnLabObs.v1,id1.1.1,26453-1
-s2-EHR-Info_node.GlobulinMCncPtPlasQnLabObs.v1,id1.1.1,13536-8
-s2-EHR-Info_node.GlobulinMCncPtSerQnLabObs.v1,id1.1.1,2336-6
-s2-EHR-Info_node.Glomerularfiltrationrate173sqMpredictedArVRatPtSerPlasBldQnLabObs.v1,id1.1.1,69405-9
-s2-EHR-Info_node.GlucoseMCncPtSerPlasQnLabObs.v1,id1.1.1,2345-7
-s2-EHR-Info_node.GlucoseMCncPtUrineQnLabObs.v1,id1.1.1,2350-7
-s2-EHR-Info_node.GlucosePrThrPtUrineOrdLabObs.v1,id1.1.1,2349-9
-s2-EHR-Info_node.HematocritVFrPtBldQnLabObs.v1,id1.1.1,20570-8
-s2-EHR-Info_node.HemoglobinMCncPtBldAQnLabObs.v1,id1.1.1,30313-1
-s2-EHR-Info_node.HemoglobinMCncPtBldQnLabObs.v1,id1.1.1,718-7
-s2-EHR-Info_node.HemoglobinMCncPtBldVQnLabObs.v1,id1.1.1,30350-3
-s2-EHR-Info_node.HemoglobinPrThrPtUrineOrdLabObs.v1,id1.1.1,725-2
-s2-EHR-Info_node.INRCoagulationtissuefactorinducedINRRelTimePtPPPQnCoagLabObs.v1,id1.1.1,6301-6
-s2-EHR-Info_node.IronBindingCapacityMCncPtSerPlasQnLabObs.v1,id1.1.1,2500-7
-s2-EHR-Info_node.IronMCncPtSerPlasQnLabObs.v1,id1.1.1,2498-4
-s2-EHR-Info_node.IronSaturationMCrtoPtSerPlasQnLabObs.v1,id1.1.1,2502-3
-s2-EHR-Info_node.IronbindingcapacityunsaturatedMCncPtSerPlasQnLabObs.v1,id1.1.1,2501-5
-s2-EHR-Info_node.KetonesMCncPtUrineQnLabObs.v1,id1.1.1,49779-2
-s2-EHR-Info_node.KetonesPrThrPtUrineOrdLabObs.v1,id1.1.1,33903-6
-s2-EHR-Info_node.LeukocyteesterasePrThrPtUrineOrdLabObs.v1,id1.1.1,105103-6
-s2-EHR-Info_node.LeukocytesNCncPtBldQnLabObs.v1,id1.1.1,26464-8
-s2-EHR-Info_node.NitritePrThrPtUrineOrdLabObs.v1,id1.1.1,32710-6
-s2-EHR-Info_node.OdorTypePtUrineNomLabObs.v1,id1.1.1,34533-0
-s2-EHR-Info_node.OpiatesMCncPtUrineQnLabObs.v1,id1.1.1,8220-6
-s2-EHR-Info_node.OxygenContentSCncPtBldAQnLabObs.v1,id1.1.1,19218-7
-s2-EHR-Info_node.OxygenPPresPtBldAQnLabObs.v1,id1.1.1,2703-7
-s2-EHR-Info_node.OxygenPPresPtBldVQnLabObs.v1,id1.1.1,2705-2
-s2-EHR-Info_node.OxygenadjustedtopatientsactualtemperaturePPresPtBldAQnLabObs.v1,id1.1.1,19255-9
-s2-EHR-Info_node.OxygenadjustedtopatientsactualtemperaturePPresPtBldVQnLabObs.v1,id1.1.1,19258-3
-s2-EHR-Info_node.OxygensaturationMFrPtBldAQnLabObs.v1,id1.1.1,2708-6
-s2-EHR-Info_node.OxygensaturationMFrPtBldVQnLabObs.v1,id1.1.1,2711-0
-s2-EHR-Info_node.PHAdjustedToPatientsActualTemperatureLsCncPtBldAQnLabObs.v1,id1.1.1,33254-4
-s2-EHR-Info_node.PHLsCncPtBldAQnLabObs.v1,id1.1.1,2744-1
-s2-EHR-Info_node.PHLsCncPtBldVQnLabObs.v1,id1.1.1,2746-6
-s2-EHR-Info_node.PHLsCncPtUrineQnLabObs.v1,id1.1.1,2756-5
-s2-EHR-Info_node.PHadjustedtopatientsactualtemperatureLsCncPtBldVQnLabObs.v1,id1.1.1,39486-6
-s2-EHR-Info_node.PhencyclidineMCncPtUrineQnLabObs.v1,id1.1.1,3937-0
-s2-EHR-Info_node.PhosphateMCncPtSerPlasQnLabObs.v1,id1.1.1,2777-1
-s2-EHR-Info_node.PlateletMeanVolumeEntVolPtBldQnLabObs.v1,id1.1.1,28542-9
-s2-EHR-Info_node.PlateletdistributionwidthEntVolPtBldQnLabObs.v1,id1.1.1,32207-3
-s2-EHR-Info_node.PlateletsNCncPtBldQnLabObs.v1,id1.1.1,26515-7
-s2-EHR-Info_node.PotassiumSCncPtSerPlasQnLabObs.v1,id1.1.1,2823-3
-s2-EHR-Info_node.ProprostatespecificAgisoform2MCncPtSerPlasIAQnLabObs.v1,id1.1.1,97149-9
-s2-EHR-Info_node.ProstateSpecificAgFreeMCncPtSerPlasQnLabObs.v1,id1.1.1,10886-0
-s2-EHR-Info_node.ProstateSpecificAgFreeProstateSpecificAgTotalMFrPtSerPlasQnLabObs.v1,id1.1.1,12841-3
-s2-EHR-Info_node.ProstateSpecificAgMCncPtSerPlasQnLabObs.v1,id1.1.1,2857-1
-s2-EHR-Info_node.ProstatehealthindexScorePtSerPlasCalculatedQnLabObs.v1,id1.1.1,97150-7
-s2-EHR-Info_node.ProteinMCncPtSerPlasQnLabObs.v1,id1.1.1,2885-2
-s2-EHR-Info_node.ProteinMCncPtUrineQnLabObs.v1,id1.1.1,2888-6
-s2-EHR-Info_node.ProteinPrThrPtUrineOrdLabObs.v1,id1.1.1,2887-8
-s2-EHR-Info_node.ReducingsubstancesPrThrPtUrineOrdLabObs.v1,id1.1.1,5809-9
-s2-EHR-Info_node.RhTypePtBldNomLabObs.v1,id1.1.1,10331-7
-s2-EHR-Info_node.SodiumSCncPtSerPlasQnLabObs.v1,id1.1.1,2951-2
-s2-EHR-Info_node.SpecificgravityRdenPtUrineQnLabObs.v1,id1.1.1,2965-2
-s2-EHR-Info_node.TriglycerideMCncPtSerPlasQnLabObs.v1,id1.1.1,2571-8
-s2-EHR-Info_node.UreaNitrogenMCncPtSerPlasQnLabObs.v1,id1.1.1,3094-0
-s2-EHR-Info_node.UreanitrogenCreatinineMRtoPtSerPlasQnLabObs.v1,id1.1.1,3097-3
-s2-EHR-Info_node.UrobilinogenMCncPtUrineQnLabObs.v1,id1.1.1,3107-0
-s2-EHR-Info_node.adverse_reaction_event.v1,id1,c15eb7b6-6c82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.adverse_reaction_event.v1,id10,104888-3
-s2-EHR-Info_node.adverse_reaction_event.v1,id11,106196-9
-s2-EHR-Info_node.adverse_reaction_event.v1,id15,46696-1
-s2-EHR-Info_node.adverse_reaction_event.v1,id16,94652-5
-s2-EHR-Info_node.adverse_reaction_event.v1,id17,104905-5
-s2-EHR-Info_node.adverse_reaction_event.v1,id18,104965-9
-s2-EHR-Info_node.adverse_reaction_event.v1,id19,104964-2
-s2-EHR-Info_node.adverse_reaction_event.v1,id2,88636-6
-s2-EHR-Info_node.adverse_reaction_event.v1,id21,104928-7
-s2-EHR-Info_node.adverse_reaction_event.v1,id25,106173-8
-s2-EHR-Info_node.adverse_reaction_event.v1,id3,104955-0
-s2-EHR-Info_node.adverse_reaction_event.v1,id7,104950-1
-s2-EHR-Info_node.adverse_reaction_event.v1,id8,104949-3
-s2-EHR-Info_node.adverse_reaction_event.v1,id9,76425-8
-s2-EHR-Info_node.anatomical_location.v1,id1,72369-2
-s2-EHR-Info_node.anatomical_location.v1,id2,39111-0
-s2-EHR-Info_node.anatomical_location.v1,id24,1c814f9b-cbe7-ee11-8869-6045bdc71c8b
-s2-EHR-Info_node.anatomical_location.v1,id3,63930-2
-s2-EHR-Info_node.anatomical_location.v1,id55,104973-3
-s2-EHR-Info_node.anatomical_location.v1,id56,11b1bdca-6c82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.anatomical_location.v1,id65,9f59afc2-6c82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.anatomical_location.v1,id66,39111-0
-s2-EHR-Info_node.anatomical_location_circle.v1,id0.62,106172-0
-s2-EHR-Info_node.anatomical_location_circle.v1,id0.66,a4b8b2d9-6c82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.anatomical_location_circle.v1,id0.80,106185-2
-s2-EHR-Info_node.anatomical_location_circle.v1,id0.81,106179-5
-s2-EHR-Info_node.anatomical_location_circle.v1,id1.1,0fb2c5e1-6c82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.anatomical_location_classical.v1,id0.2,39111-0
-s2-EHR-Info_node.anatomical_location_classical.v1,id0.3,63930-2
-s2-EHR-Info_node.anatomical_location_classical.v1,id0.56,11b1bdca-6c82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.anatomical_location_classical.v1,id0.65,9f59afc2-6c82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.anatomical_location_classical.v1,id0.66,39111-0
-s2-EHR-Info_node.anatomical_location_classical.v1,id1.1,72369-2
-s2-EHR-Info_node.anatomical_location_precise.v1,id0.2,a8a2a4f7-6c82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.anatomical_location_precise.v1,id0.3,096cef88-6e82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.anatomical_location_precise.v1,id0.4,b3090190-6e82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.anatomical_location_precise.v1,id1.1,109b0e9f-6e82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.anatomical_location_relative.v2,id0.21,035dbdaf-6e82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.anatomical_location_relative.v2,id0.22,106185-2
-s2-EHR-Info_node.anatomical_location_relative.v2,id0.23,106179-5
-s2-EHR-Info_node.anatomical_location_relative.v2,id0.63,63930-2
-s2-EHR-Info_node.anatomical_location_relative.v2,id0.7,81e123a6-6e82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.change.v1,id1,e00b05f7-6e82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.change.v1,id10,22ba4be4-6e82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.change.v1,id11,399d60ea-6e82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.change.v1,id12,106173-8
-s2-EHR-Info_node.change.v1,id2,5be1ddb8-6e82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.change.v1,id3,07b049c0-6e82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.change.v1,id4,06c90ec8-6e82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.change.v1,id6,1491abce-6e82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.change.v1,id7,717f4fd5-6e82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.change.v1,id9,80fad5dc-6e82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.citation.v1,id1,ae4d3052-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.citation.v1,id2,42d1fefd-6e82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.citation.v1,id3,6862f14a-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.citation.v1,id4,106173-8
-s2-EHR-Info_node.citation.v1,id5,1c814f9b-cbe7-ee11-8869-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id1,104971-7
-s2-EHR-Info_node.device_details.v1,id11,a3b68a84-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id12,949de094-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id13,a5ce039b-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id14,fcce039b-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id15,3abb5da3-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id16,9535eca9-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id17,f7adc1db-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id18,95aa6cc3-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id2,76468-8
-s2-EHR-Info_node.device_details.v1,id20,fa2849ea-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id21,4eaec1db-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id22,a119c4e3-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id23,478d78bb-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id24,db3e3159-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id25,36f01760-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id26,a4aa4467-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id27,90057-1
-s2-EHR-Info_node.device_details.v1,id3,67716-1
-s2-EHR-Info_node.device_details.v1,id8,a5148f6f-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.device_details.v1,id9,cdbfbc7c-6f82-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.dosage.v2,id1,18817-7
-s2-EHR-Info_node.dosage.v2,id103,91383-0
-s2-EHR-Info_node.dosage.v2,id135,52426-4
-s2-EHR-Info_node.dosage.v2,id136,edf5b68a-7082-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.dosage.v2,id145,30973-2
-s2-EHR-Info_node.dosage.v2,id165,a45a1001-7082-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.dosage.v2,id177,f4469b91-7082-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.dosage.v2,id179,9d469b91-7082-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.dosage.v2,id38,18818-5
-s2-EHR-Info_node.environmental_conditions.v1,id1,6a144fae-7082-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.environmental_conditions.v1,id11,0979ffa6-7082-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.environmental_conditions.v1,id12,20053-5
-s2-EHR-Info_node.environmental_conditions.v1,id2,60832-3
-s2-EHR-Info_node.environmental_conditions.v1,id3,65643-9
-s2-EHR-Info_node.environmental_conditions.v1,id4,f6edd699-7082-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.environmental_conditions.v1,id6,a373e59f-7082-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.family_prevalence.v1,id1,104979-0
-s2-EHR-Info_node.family_prevalence.v1,id31,104978-2
-s2-EHR-Info_node.family_prevalence.v1,id32,104929-5
-s2-EHR-Info_node.family_prevalence.v1,id33,54136-7
-s2-EHR-Info_node.family_prevalence.v1,id34,46098-0
-s2-EHR-Info_node.family_prevalence.v1,id35,104899-0
-s2-EHR-Info_node.family_prevalence.v1,id52,104908-9
-s2-EHR-Info_node.family_prevalence.v1,id55,104892-5
-s2-EHR-Info_node.family_prevalence.v1,id56,104894-1
-s2-EHR-Info_node.family_prevalence.v1,id57,104909-7
-s2-EHR-Info_node.inhaled_oxygen_flow_rate.v1,id1.1.1,3150-0
-s2-EHR-Info_node.inspired_oxygen.v1,id1,e9d427da-7082-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.inspired_oxygen.v1,id52,3151-8
-s2-EHR-Info_node.inspired_oxygen.v1,id53,71835-3
-s2-EHR-Info_node.inspired_oxygen.v1,id54,3150-0
-s2-EHR-Info_node.inspired_oxygen.v1,id55,df90d9cb-7082-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.inspired_oxygen.v1,id58,b52cfec2-7082-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.inspired_oxygen.v1,id59,272160d3-7082-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.lab_analyte.v1,id1,cbfb8ff4-7082-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.lab_analyte.v1,id3,92236-9
-s2-EHR-Info_node.lab_analyte.v1,id5,90056-3
-s2-EHR-Info_node.lab_analyte.v1,id8,85069-3
-s2-EHR-Info_node.lab_analyte.v1,id9,66746-9
-s2-EHR-Info_node.language.v1,id1,104916-2
-s2-EHR-Info_node.language.v1,id2,54505-3
-s2-EHR-Info_node.language.v1,id3,104930-3
-s2-EHR-Info_node.language.v1,id5,106173-8
-s2-EHR-Info_node.language.v1,id7,91878-9
-s2-EHR-Info_node.level_of_exertion.v1,id1,a72c7856-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.level_of_exertion.v1,id11,4fbbd615-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.level_of_exertion.v1,id12,74008-4
-s2-EHR-Info_node.media_file.v1,id1,d9eea4aa-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.media_file.v1,id12,82307-0
-s2-EHR-Info_node.media_file.v1,id13,104976-6
-s2-EHR-Info_node.media_file.v1,id14,0ccd039e-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.media_file.v1,id2,c0b9e266-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.media_file.v1,id3,0764e579-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.media_file.v1,id5,f76feb90-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.media_file.v1,id6,104973-3
-s2-EHR-Info_node.media_file.v1,id8,106173-8
-s2-EHR-Info_node.medication.v3,id1,74078-7
-s2-EHR-Info_node.medication.v3,id116,74057-1
-s2-EHR-Info_node.medication.v3,id128,104723-2
-s2-EHR-Info_node.medication.v3,id133,74058-9
-s2-EHR-Info_node.medication.v3,id134,1c814f9b-cbe7-ee11-8869-6045bdc71c8b
-s2-EHR-Info_node.medication.v3,id140,82767-5
-s2-EHR-Info_node.medication.v3,id142,d78806bb-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication.v3,id143,74075-3
-s2-EHR-Info_node.medication.v3,id149,104823-0
-s2-EHR-Info_node.medication.v3,id151,74714-7
-s2-EHR-Info_node.medication.v3,id152,74719-6
-s2-EHR-Info_node.medication.v3,id153,6a8a94b8-624f-ef11-886e-6045bdc71c8b
-s2-EHR-Info_node.medication.v3,id4,74066-2
-s2-EHR-Info_node.medication.v3,id72,74055-5
-s2-EHR-Info_node.medication_authorisation.v1,id1,7e21bae4-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_authorisation.v1,id26,82775-8
-s2-EHR-Info_node.medication_authorisation.v1,id47,b88dccce-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_authorisation.v1,id73,fef7d1d4-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_authorisation.v1,id74,71573-0
-s2-EHR-Info_node.medication_authorisation.v1,id79,2b5f8cc6-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_authorisation.v1,id80,825f8cc6-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_authorisation.v1,id81,b9d481db-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_order_summary.v1,id1,eb2c16f7-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_order_summary.v1,id2,d521bae4-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_order_summary.v1,id29,90089-4
-s2-EHR-Info_node.medication_order_summary.v1,id3,6629d5ec-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_supply_amount.v1,id1,540c1425-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_supply_amount.v1,id132,82767-5
-s2-EHR-Info_node.medication_supply_amount.v1,id143,e55abf1c-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_supply_amount.v1,id148,ca63130b-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_supply_amount.v1,id159,2164130b-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_supply_amount.v1,id160,2e815113-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_supply_amount.v1,id161,8e5abf1c-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_supply_amount.v1,id162,6cf95804-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.percent_oxygen.v1,id1.1.1,3150-0
-s2-EHR-Info_node.problem_qualifier.v2,id1,687ae935-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.problem_qualifier.v2,id103,623df12b-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.problem_qualifier.v2,id108,104921-2
-s2-EHR-Info_node.problem_qualifier.v2,id111,106173-8
-s2-EHR-Info_node.problem_qualifier.v2,id2,104925-3
-s2-EHR-Info_node.problem_qualifier.v2,id4,99493-9
-s2-EHR-Info_node.problem_qualifier.v2,id5,33999-4
-s2-EHR-Info_node.problem_qualifier.v2,id61,104918-8
-s2-EHR-Info_node.problem_qualifier.v2,id64,104963-4
-s2-EHR-Info_node.problem_qualifier.v2,id72,104887-5
-s2-EHR-Info_node.problem_qualifier.v2,id74,78026-2
-s2-EHR-Info_node.problem_qualifier.v2,id78,66020-9
-s2-EHR-Info_node.problem_qualifier.v2,id84,104896-6
-s2-EHR-Info_node.problem_qualifier.v2,id90,104886-7
-s2-EHR-Info_node.problem_qualifier.v2,id99,104904-8
-s2-EHR-Info_node.specimen_details.v1,id1,68992-7
-s2-EHR-Info_node.specimen_details.v1,id16,68963-8
-s2-EHR-Info_node.specimen_details.v1,id30,66746-9
-s2-EHR-Info_node.specimen_details.v1,id9,e83b6448-0651-ef11-886e-6045bdc71c8b
-s2-EHR-Info_node.therapeutic_direction.v1,id1,8a93e549-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.therapeutic_direction.v1,id157,0ccd039e-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.therapeutic_direction.v1,id173,104733-1
-s2-EHR-Info_node.therapeutic_direction.v1,id177,18817-7
-s2-EHR-Info_node.therapeutic_direction.v1,id178,104749-7
-s2-EHR-Info_node.therapeutic_direction.v1,id179,104782-8
-s2-EHR-Info_node.therapeutic_direction.v1,id180,104748-9
-s2-EHR-Info_node.therapeutic_direction.v1,id58,104824-8
-s2-EHR-Info_node.therapeutic_direction.v1,id67,104793-5
-s2-EHR-Info_node.therapeutic_direction.v1,id91,104719-0
-s2-EHR-Info_node.timing_daily.v1,id1,22c0179b-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_daily.v1,id15,f03ca851-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_daily.v1,id24,4fe26062-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_daily.v1,id25,6f622e6c-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_daily.v1,id26,c6622e6c-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_daily.v1,id27,f082e473-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_daily.v1,id28,db04a85a-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_daily.v1,id36,d42db293-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_daily.v1,id37,88657184-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_daily.v1,id38,8d51568d-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_daily.v1,id39,7d2db293-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_daily.v1,id4,e193e549-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_daily.v1,id40,f8a1bd7c-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_daily.v1,id41,a1a1bd7c-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_daily.v1,id5,8404a85a-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_nondaily.v1,id1,88ef7c02-7382-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_nondaily.v1,id10,a1a1bd7c-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_nondaily.v1,id11,6d54abf3-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_nondaily.v1,id12,88657184-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_nondaily.v1,id13,8d51568d-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_nondaily.v1,id14,7d2db293-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_nondaily.v1,id15,510ba8aa-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_nondaily.v1,id2,319dd6b7-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_nondaily.v1,id22,263ddcca-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_nondaily.v1,id23,fe164fb1-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_nondaily.v1,id3,c01580a1-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_nondaily.v1,id4,90a31fbe-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_nondaily.v1,id5,e7a31fbe-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_nondaily.v1,id6,f082e473-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.timing_nondaily.v1,id7,333eb0db-7282-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.waveform.v1,id1,43d28a55-7382-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.waveform.v1,id10,9621cc33-7382-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.waveform.v1,id11,f71afb20-7382-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.waveform.v1,id2,a901270f-7382-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.waveform.v1,id3,32ef4c17-7382-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.waveform.v1,id7,767ae249-7382-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.waveform.v1,id8,28e9512b-7382-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.waveform.v1,id9,aee48d3e-7382-ef11-8870-6045bdc71c8b
-s2-EHR-Order.medication_order.v4,id1,57833-6
-s2-EHR-Order.medication_order.v4,id10,104818-0
-s2-EHR-Order.medication_order.v4,id106,74772-5
-s2-EHR-Order.medication_order.v4,id107,104763-8
-s2-EHR-Order.medication_order.v4,id108,78fbdb06-6982-ef11-8870-6045bdc71c8b
-s2-EHR-Order.medication_order.v4,id113,8fc58633-6982-ef11-8870-6045bdc71c8b
-s2-EHR-Order.medication_order.v4,id114,ee02613c-6982-ef11-8870-6045bdc71c8b
-s2-EHR-Order.medication_order.v4,id12,104784-4
-s2-EHR-Order.medication_order.v4,id13,95895-9
-s2-EHR-Order.medication_order.v4,id130,fcb29648-6982-ef11-8870-6045bdc71c8b
-s2-EHR-Order.medication_order.v4,id131,104822-2
-s2-EHR-Order.medication_order.v4,id133,104804-0
-s2-EHR-Order.medication_order.v4,id14,104748-9
-s2-EHR-Order.medication_order.v4,id140,104808-1
-s2-EHR-Order.medication_order.v4,id144,74078-7
-s2-EHR-Order.medication_order.v4,id149,104803-2
-s2-EHR-Order.medication_order.v4,id151,104775-2
-s2-EHR-Order.medication_order.v4,id152,104810-7
-s2-EHR-Order.medication_order.v4,id155,104703-4
-s2-EHR-Order.medication_order.v4,id156,106197-7
-s2-EHR-Order.medication_order.v4,id162,104791-9
-s2-EHR-Order.medication_order.v4,id163,104777-8
-s2-EHR-Order.medication_order.v4,id166,72d04cf1-6882-ef11-8870-6045bdc71c8b
-s2-EHR-Order.medication_order.v4,id167,46696-1
-s2-EHR-Order.medication_order.v4,id168,106173-8
-s2-EHR-Order.medication_order.v4,id17,104746-3
-s2-EHR-Order.medication_order.v4,id171,46696-1
-s2-EHR-Order.medication_order.v4,id172,104725-7
-s2-EHR-Order.medication_order.v4,id174,104792-7
-s2-EHR-Order.medication_order.v4,id175,104809-9
-s2-EHR-Order.medication_order.v4,id178,57833-6
-s2-EHR-Order.medication_order.v4,id179,104707-5
-s2-EHR-Order.medication_order.v4,id180,104736-4
-s2-EHR-Order.medication_order.v4,id19,104720-8
-s2-EHR-Order.medication_order.v4,id45,104796-8
-s2-EHR-Order.medication_order.v4,id48,104818-0
-s2-EHR-Order.medication_order.v4,id5,104756-2
-s2-EHR-Order.medication_order.v4,id51,104787-7
-s2-EHR-Order.medication_order.v4,id52,104778-6
-s2-EHR-Order.medication_order.v4,id54,104790-1
-s2-EHR-Order.medication_order.v4,id61,61b18a29-6982-ef11-8870-6045bdc71c8b
-s2-EHR-Order.medication_order.v4,id63,d98767fb-6882-ef11-8870-6045bdc71c8b
-s2-EHR-Order.medication_order.v4,id65,104729-9
-s2-EHR-Order.medication_order.v4,id66,82767-5
-s2-EHR-Order.medication_order.v4,id70,71573-0
-s2-EHR-Order.medication_order.v4,id71,104717-4
-s2-EHR-Order.medication_order.v4,id92,71468-3
-s2-EHR-Order.medication_order.v4,id93,39111-0
-s2-EHR-Order.medication_order.v4,id94,72369-2
-s2-EHR-Order.medication_order.v4,id95,104817-2
-s2-EHR-Order.medication_order.v4,id96,82307-0
-s2-EHR-Section.medication_history_heading.v1,id1,a591c089-6982-ef11-8870-6045bdc71c8b
-s2-EHR-Section.medication_history_heading.v1,id2,57833-6
-s2-EHR-Section.medication_history_heading.v1,id3,11492282-6982-ef11-8870-6045bdc71c8b
-s2-EHR-Section.medication_history_heading.v1,id4,14f2d87b-6982-ef11-8870-6045bdc71c8b
-s2-EHR-Section.problem_list_headings.v1,id1,75326-9
-s2-EHR-Section.problem_list_headings.v1,id4,75326-9
-s2-EHR-Section.problem_list_headings.v1,id5,104895-8
-s2-EHR-Section.problem_list_headings.v1,id6,5dd4f991-6982-ef11-8870-6045bdc71c8b
-s2-ENTITY-Artifact_kind.device_general.v1,id1,82307-0
-s2-ENTITY-Artifact_kind.device_general.v1,id16,9535eca9-6f82-ef11-8870-6045bdc71c8b
-s2-ENTITY-Artifact_kind.device_general.v1,id23,104927-9
-s2-ENTITY-Artifact_kind.device_general.v1,id24,74717-0
-s2-ENTITY-Artifact_kind.device_general.v1,id26,55081-4
-s2-ENTITY-Artifact_kind.device_general.v1,id28,104973-3
-s2-ENTITY-Artifact_kind.device_general.v1,id3,104961-8
-s2-ENTITY-Artifact_kind.device_general.v1,id4,66464-9
-s2-ENTITY-Artifact_kind.device_general.v1,id5,74719-6
-s2-ENTITY-Artifact_kind.device_general.v1,id9,106173-8
-s2-ENTITY-Artifact_kind.imaging_device.v1,id0.0.12,949de094-6f82-ef11-8870-6045bdc71c8b
-s2-ENTITY-Artifact_kind.imaging_device.v1,id0.0.13,a5ce039b-6f82-ef11-8870-6045bdc71c8b
-s2-ENTITY-Artifact_kind.imaging_device.v1,id0.0.14,fcce039b-6f82-ef11-8870-6045bdc71c8b
-s2-ENTITY-Artifact_kind.imaging_device.v1,id0.0.15,3abb5da3-6f82-ef11-8870-6045bdc71c8b
-s2-ENTITY-Artifact_kind.imaging_device.v1,id1.1.1,b7eabab9-7482-ef11-8870-6045bdc71c8b
-s2-ENTITY-Artifact_kind.medical_device.v1,id1.1,09732ba3-7482-ef11-8870-6045bdc71c8b
-s2-ENTITY-Comms_address_use.comms_address_use_general.v1,id1,99953-2
-s2-ENTITY-Info_node.structured_address.v1,id1,99952-4
-s2-ENTITY-Info_node.structured_name.v1,id1,97845-2
-s2-ENTITY-Info_node.structured_name.v1,id2,97849-4
-s2-ENTITY-Info_node.structured_name.v1,id3,97848-6
-s2-ENTITY-Info_node.structured_name.v1,id6,97847-8
-s2-ENTITY-Info_node.structured_name.v1,id7,97850-2
-s2-ENTITY-Location_address_use.location_address_use_general.v1,id1,99953-2
-s2-ENTITY-Location_address_use.location_address_use_general.v1,id10,41905-1
-s2-ENTITY-Location_address_use.location_address_use_general.v1,id2,106181-1
-s2-ENTITY-Location_address_use.location_address_use_general.v1,id20,104970-9
-s2-ENTITY-Location_address_use.location_address_use_general.v1,id22,104912-1
-s2-ENTITY-Location_address_use.location_address_use_general.v1,id3,68997-6
-s2-ENTITY-Location_address_use.location_address_use_general.v1,id4,104933-7
-s2-ENTITY-Location_address_use.location_address_use_general.v1,id5,99950-8
-s2-ENTITY-Location_address_use.location_address_use_general.v1,id6,99951-6
-s2-ENTITY-Location_address_use.location_address_use_general.v1,id7,99955-7
-s2-ENTITY-Location_address_use.location_address_use_general.v1,id8,104966-7
-s2-ENTITY-Material_entity.artifact.v1,id1,82307-0
-s2-ENTITY-Material_entity.artifact.v1,id21,74715-4
-s2-ENTITY-Material_entity.artifact.v1,id22,74711-3
-s2-ENTITY-Material_entity.artifact.v1,id25,104960-0
-s2-ENTITY-Material_entity.artifact.v1,id26,55081-4
-s2-ENTITY-Material_entity.artifact.v1,id6,104926-1
-s2-ENTITY-Material_entity.artifact.v1,id7,74714-7
-s2-ENTITY-Material_entity.artifact.v1,id8,74712-1
-s2-ENTITY-Material_entity.artifact.v1,id9,106173-8
-s2-ENTITY-Material_entity.imaging_device.v1,id1.1,91625f5e-7382-ef11-8870-6045bdc71c8b
-s2-ENTITY-Material_entity.medical_device.v1,id0.17,f7adc1db-6f82-ef11-8870-6045bdc71c8b
-s2-ENTITY-Material_entity.medical_device.v1,id0.2,74720-4
-s2-ENTITY-Material_entity.medical_device.v1,id0.23,478d78bb-6f82-ef11-8870-6045bdc71c8b
-s2-ENTITY-Material_entity.medical_device.v1,id1.1,82307-0
-s2-ENTITY-Material_entity.prosthesis.v1,id1.1,023d3ae2-7382-ef11-8870-6045bdc71c8b
-s2-ENTITY-Organization.organization.v1,id1,90055-5
-s2-ENTITY-Organization.organization.v1,id2,99953-2
-s2-ENTITY-Organization.organization.v1,id3,90052-2
-s2-ENTITY-Party_relationship.patient.v1,id1,79191-3
-s2-ENTITY-Party_relationship.patient.v1,id2,7db499d1-7482-ef11-8870-6045bdc71c8b
-s2-ENTITY-Party_relationship.patient.v1,id22,ab0804c3-7482-ef11-8870-6045bdc71c8b
-s2-ENTITY-Party_relationship.patient.v1,id23,89061-6
-s2-ENTITY-Party_relationship.patient.v1,id24,b4788aca-7482-ef11-8870-6045bdc71c8b
-s2-ENTITY-Party_relationship.patient.v1,id3,95727-4
-s2-ENTITY-Person.person.v1,id1,104976-6
-s2-ENTITY-Person.person.v1,id10,72170-4
-s2-ENTITY-Person.person.v1,id11,48767-8
-s2-ENTITY-Person.person.v1,id12,46098-0
-s2-ENTITY-Person.person.v1,id13,81954-0
-s2-ENTITY-Person.person.v1,id14,104923-8
-s2-ENTITY-Person.person.v1,id15,76691-5
-s2-ENTITY-Person.person.v1,id16,45404-1
-s2-ENTITY-Person.person.v1,id2,104902-2
-s2-ENTITY-Person.person.v1,id3,97845-2
-s2-ENTITY-Person.person.v1,id6,99953-2
-s2-ENTITY-Person.person.v1,id8,21112-8
-s2-ENTITY-Person.person.v1,id9,21842-0
+24 Hour Average Pulse pressure,Active,Active
+ABO group Bld Type Pt Nom,Active,Active
+Additional comments [RFC],Active,Active
+Additional details,Active,Active
+Address Entity Addr Pt Nom,Active,Active
+Address Organization Addr Pt Nom,Active,Active
+Address line Entity Addr Pt Nom,Active,Active
+Address panel Entity - Pt -,Active,Active
+Administered medication, Rate,Active,Active
+Administrations completed,Active,Active
+Admission medication list,Active,Active
+Adverse reaction category Patient Find Pt Nom,Active,Active
+Adverse reaction event summary Patient Find Pt Nar,Active,Active
+Adverse reaction information panel,Active,Active
+Adverse reaction risk information panel,Active,Active
+Adverse reaction status,Active,Active
+Age at death Patient Time Pt Qn,Active,Active
+Age at event onset Family member Time Pt Qn,Active,Active
+Alanine aminotransferase Ser/Plas CCnc Pt Qn,Active,Active
+Albumin Ser/Plas MCnc Pt Qn,Active,Active
+Albumin/Globulin Ser/Plas MRto Pt Qn,Active,Active
+Alias Patient Pn Pt Nom,Active,Active
+Alkaline phosphatase Ser/Plas CCnc Pt Qn,Active,Active
+Allergy intolerance list Patient Find Pt Nom,Active,Active
+Allergy or intolerance criticality Patient Imp Pt Ord,Active,Active
+Alternate dosage,Active,Active
+Altitude Patient Len Pt Qn,Active,Active
+Amount dispensed Medication Num Pt Qn,Active,Active
+Amphetamines Urine MCnc Pt Qn,Active,Active
+Anatomical line,Active,Active
+Anion gap Ser/Plas SCnc Pt Qn,Active,Active
+Annotation comment {system} Imp Pt Nar,Active,Active
+As required timing criterion,Active,Active
+As required timing indicator,Active,Active
+Aspartate aminotransferase Ser/Plas CCnc Pt Qn,Active,Active
+Assessement for related issues,Active,Active
+Associated sign or symptom Patient Find Pt Nom,Active,Active
+Associated situation Patient Find Pt Nom,Active,Active
+Authorization expiration date,Active,Active
+BMI Formula,Active,Active
+Barriers to change,Active,Active
+Base deficit BldA SCnc Pt Qn,Active,Active
+Base deficit BldV SCnc Pt Qn,Active,Active
+Base excess BldA SCnc Pt Qn Calculated,Active,Active
+Base excess BldV SCnc Pt Qn Calculated,Active,Active
+Benzoylecgonine Urine MCnc Pt Qn,Active,Active
+Bicarbonate BldA SCnc Pt Qn,Active,Active
+Bicarbonate BldV SCnc Pt Qn,Active,Active
+Bicarbonate Ser/Plas SCnc Pt Qn,Active,Active
+Bilirubin Ser/Plas MCnc Pt Qn,Active,Active
+Bilirubin Urine MCnc Pt Qn,Active,Active
+Bilirubin Urine PrThr Pt Ord,Active,Active
+Bilirubin.glucuronidated+Bilirubin.albumin bound Ser/Plas MCnc Pt Qn,Active,Active
+Billing encounter information panel,Active,Active
+Birth date Family member,Active,Active
+Birth date Patient TmStp Pt Qn,Active,Active
+Birthplace Patient Loc Pt Nom,Active,Active
+Blood pressure method Patient Type Pt Nom *,Active,Active
+Blood pressure panel Patient - Pt -,Active,Active
+Blood pressure panel Patient Pres 24H Mean Qn,Active,Active
+Body exposure,Active,Active
+Body height At birth Patient Len Pt Qn Measured,Active,Active
+Body height Patient Len Pt Qn,Active,Active
+Body height method Type Pt Nom *,Active,Active
+Body mass index Patient Prctl Pt Qn,Active,Active
+Body position head tilt Patient Angle Pt Qn *,Active,Active
+Body position with respect to gravity Patient Type Pt Nom *,Active,Active
+Body site Patient Anat Pt Nom,Active,Active
+Body site aspect,Active,Active
+Body site identification panel Patient - Pt -,Active,Active
+Body temperature Patient Temp Pt Qn,Active,Active
+Body weight At birth Patient Mass Pt Qn Measured,Active,Active
+Body weight Patient Mass Pt Qn,Active,Active
+Brand name of Medication,Active,Active
+Breaths Respiratory system NRat Pt Qn,Active,Active
+Calcium Ser/Plas MCnc Pt Qn,Active,Active
+Calcium.ionized Ser/Plas MCnc Pt Qn,Active,Active
+Cannabinoids Urine MCnc Pt Qn,Active,Active
+Carbon dioxide BldA PPres Pt Qn,Active,Active
+Carbon dioxide BldA SCnc Pt Qn,Active,Active
+Carbon dioxide BldV PPres Pt Qn,Active,Active
+Carbon dioxide BldV SCnc Pt Qn,Active,Active
+Carbon dioxide Ser/Plas SCnc Pt Qn,Active,Active
+Carbon dioxide adjusted to patient's actual temperature BldA PPres Pt Qn,Active,Active
+Carbon dioxide adjusted to patient's actual temperature BldV PPres Pt Qn,Active,Active
+Carboxyhemoglobin/Hemoglobin.total BldA MFr Pt Qn Pulse oximetry,Active,Active
+Care plan monitoring,Active,Active
+Care process or plan Patient Prid Pt Nom,Active,Active
+Catalog number {Device} ID Pt Nom,Active,Active
+Cause of death indicator Person Find Pt Nom,Active,Active
+Certainty of presence Patient Find Pt Nom,Active,Active
+Chief complaint Patient Find Pt Nom Reported,Active,Active
+Chloride Ser/Plas SCnc Pt Qn,Active,Active
+Cholesterol Ser/Plas MCnc Pt Qn,Active,Active
+Cholesterol.in HDL Ser/Plas MCnc Pt Qn,Active,Active
+Cholesterol.in LDL Ser/Plas MCnc Pt Qn,Active,Active
+Cholesterol.in LDL/Cholesterol.in HDL Ser/Plas MRto Pt Qn,Active,Active
+Cholesterol.in VLDL Ser/Plas MCnc Pt Qn,Active,Active
+Cholesterol.total/Cholesterol.in HDL Ser/Plas MRto Pt Qn,Active,Active
+Circular anatomical location panel,Active,Active
+Circular reference direction,Active,Active
+Citation information panel,Active,Active
+Citation original URI,Active,Active
+Citation value,Active,Active
+City,Active,Active
+Clarity Urine Type Pt Nom,Active,Active
+Clinical course Patient Find Pt Nom,Active,Active
+Clinical impression [TIMP],Active,Active
+Clinical indication Patient Find Pt Nar,Active,Active
+Clinical management information Patient Find Pt Nar,Active,Active
+Clinician guidance Medication Type Pt Nar,Active,Active
+Clock face direction Patient Find Pt Nom,Active,Active
+Clothing worn during measure Patient Type Pt Nom,Active,Active
+Coagulation tissue factor induced PPP Time Pt Qn Coag,Active,Active
+Coagulation tissue factor induced.INR PPP RelTime Pt Qn Coag,Active,Active
+Collection date & time Specimen TmStp Pt Qn,Active,Active
+Color Urine Type Pt Nom,Active,Active
+Condition biomarker description Patient Find Pt Nar,Active,Active
+Condition biomarker information Patient Find Pt Nar,Active,Active
+Condition cause Patient Find Pt Nom,Active,Active
+Condition certainty of presence Patient Imp Pt Ord,Active,Active
+Condition clinical status Patient Find Pt Nom,Active,Active
+Condition severity Patient Find Pt Nom,Active,Active
+Confounding factors Patient Find Pt Nom,Active,Active
+Contact name Organization Pn Pt Nom,Active,Active
+Country Entity Loc Pt Nom,Active,Active
+Course of disorder Patient Find Pt Nom,Active,Active
+Creatinine Ser/Plas MCnc Pt Qn,Active,Active
+Cuff size Blood pressure device Len Pt OrdQn,Active,Active
+Date and time lab result reported Patient TmStp Pt Qn,Active,Active
+Date and time of condition resolution Patient TmStp Pt Qn,Active,Active
+Date and time of last update of data Patient Date Pt Qn,Active,Active
+Date and time report was released Report TmStp Pt Qn,Active,Active
+Date first reaction Patient Date Pt Qn,Active,Active
+Date last reaction Patient Date Pt Qn PhenX,Active,Active
+Date of death Patient Date Pt Qn,Active,Active
+Date of diagnosis Patient Date Pt Qn,Active,Active
+Date of onset Patient Date Pt Qn Reported,Active,Active
+Deceased indicator Person Find Pt Nar,Active,Active
+Defvice accuracy,Active,Active
+Description,Active,Active
+Device calibration date/time,Active,Active
+Device capable range,Active,Active
+Device cleaned date/time,Active,Active
+Device formula information,Active,Active
+Device identifier of unspecified type Patient ID Pt Nom,Active,Active
+Device location,Active,Active
+Device manufacture date {Device} Date Pt Qn,Active,Active
+Device name {Device} ID Pt Nom,Active,Active
+Device narrative description Patient Find Pt Nar,Active,Active
+Device network address,Active,Active
+Device owner,Active,Active
+Device part number,Active,Active
+Device regulatory status,Active,Active
+Device resolution,Active,Active
+Device result formula ID,Active,Active
+Device result formula name,Active,Active
+Device service date/time,Active,Active
+Diagnosis Patient Imp Pt Nar,Active,Active
+Diagnosis Patient Imp Pt Nom,Active,Active
+Diagnosis category Patient Find Pt Nom,Active,Active
+Diagnosis present on admission,Active,Active
+Diastolic endpoint,Active,Active
+Diastolic pressure formula,Active,Active
+Direction from landmark,Active,Active
+Direction repetition timing Patient Time Pt Qn,Active,Active
+Discharge disposition,Active,Active
+Discharge instructions {Setting} Find Pt Doc {Role},Active,Active
+Discharge medication, Identifier,Active,Active
+Disease of interest Family member Find Pt Nom,Active,Active
+Disorder variant,Active,Active
+Dispense directions,Active,Active
+Distance from landmark Patient Len Pt Qn,Active,Active
+District or county {Setting} ID Pt Nom,Active,Active
+Dosage description,Active,Active
+Dosage formula,Active,Active
+Dosage time of day,Active,Active
+Dosage timing description,Active,Active
+Dose form Medication Type Pt Nom,Active,Active
+Dose number Patient Num Pt Qn,Active,Active
+Duration of exposure Patient Time Pt Qn,Active,Active
+Duration of reaction Patient Time Pt Qn,Active,Active
+Electronic communication information Patient Type Pt Nom,Active,Active
+Email address Organization EmailAddr Pt Nom,Active,Active
+Encounter identifier,Active,Active
+Encounter information panel,Active,Active
+Encounter priority,Active,Active
+Encounter purpose coded,Active,Active
+End date and time Patient Date Pt Qn,Active,Active
+Environmental conditions panel,Active,Active
+Episode status Patient Find Pt Nar,Active,Active
+Erythrocyte distribution width RBC Ratio Pt Qn,Active,Active
+Erythrocyte mean corpuscular hemoglobin RBC EntMass Pt Qn,Active,Active
+Erythrocyte mean corpuscular hemoglobin concentration RBC MCnc Pt Qn,Active,Active
+Erythrocyte mean corpuscular volume RBC EntVol Pt Qn,Active,Active
+Erythrocytes Bld NCnc Pt Qn,Active,Active
+Exacerbating factors Patient Find Pt Nom Reported,Active,Active
+Exercise intensity Patient Type Pt Ord,Active,Active
+Exercise intensity information panel,Active,Active
+Exertion Phase,Active,Active
+Expiration date of Medication [AHRQ],Active,Active
+Expiration date {Device} Date Pt Qn,Active,Active
+Exposure description Patient Find Pt Nar,Active,Active
+Exposure route Patient Find Pt Nar,Active,Active
+Facility panel [ESRD],Active,Active
+Family member clinical history information panel,Active,Active
+Family member health history [USSG-FHT] Family member,Active,Active
+Family member problem Family member Type Pt Nar,Active,Active
+First name Person Pn Pt Nom,Active,Active
+Gas panel BldA - Pt Qn,Active,Active
+Gender identity Patient Type Pt Nom Reported,Active,Active
+General comment Patient Find Pt Nar,Active,Active
+General method Find Pt Nom,Active,Active
+Genetic predisposition indicator Person Find Pt Nar,Active,Active
+Geolocation code Person ID Pt Nom,Active,Active
+Globulin Plas MCnc Pt Qn,Active,Active
+Globulin Ser MCnc Pt Qn,Active,Active
+Glomerular filtration rate/1.73 sq M.predicted Ser/Plas/Bld ArVRat Pt Qn,Active,Active
+Glucose Ser/Plas MCnc Pt Qn,Active,Active
+Glucose Urine MCnc Pt Qn,Active,Active
+Glucose Urine PrThr Pt Ord,Active,Active
+Goal target ID,Active,Active
+Goal target information panel,Active,Active
+Goal target name,Active,Active
+Hardware revision,Active,Active
+Health care goal description,Active,Active
+Health care goal information panel,Active,Active
+Health care goal list,Active,Active
+Health care goal name,Active,Active
+Healthcare professional type [AHRQ],Active,Active
+Heart rate NRat Pt Qn,Active,Active
+Hematocrit Bld VFr Pt Qn,Active,Active
+Hemoglobin Bld MCnc Pt Qn,Active,Active
+Hemoglobin BldA MCnc Pt Qn,Active,Active
+Hemoglobin BldV MCnc Pt Qn,Active,Active
+Hemoglobin Urine PrThr Pt Ord,Active,Active
+History of family member diseases Family member Hx Pt Nar,Active,Active
+History of family member diseases Family member Hx Pt Nom,Active,Active
+Hospital discharge Dx Patient Imp Pt Nom,Active,Active
+Imaging device,Active,Active
+Incoming referral identifier,Active,Active
+Information panel Person - Pt -,Active,Active
+Inheritance type Patient Find Pt Nar,Active,Active
+Inspired oxygen information panel,Active,Active
+Insurance group number Patient ID Pt Nom,Active,Active
+Insurance information panel,Active,Active
+Insurance member ID,Active,Active
+Insurance organization,Active,Active
+Interpretation Patient Imp Pt Nom,Active,Active
+Intervention action,Active,Active
+Intervention list,Active,Active
+Intervention target,Active,Active
+Intravascular diastolic Arterial system Pres Pt Qn,Active,Active
+Intravascular mean Arterial system Pres Pt Qn,Active,Active
+Intravascular systolic Arterial system Pres Pt Qn,Active,Active
+Iron Ser/Plas MCnc Pt Qn,Active,Active
+Iron binding capacity Ser/Plas MCnc Pt Qn,Active,Active
+Iron binding capacity.unsaturated Ser/Plas MCnc Pt Qn,Active,Active
+Iron saturation Ser/Plas MFr Pt Qn,Active,Active
+Ketones Urine MCnc Pt Qn,Active,Active
+Ketones Urine PrThr Pt Ord,Active,Active
+Known exposure Patient Prid Pt Nom,Active,Active
+Known exposure date Patient Date Pt Qn,Active,Active
+Lab Test Specimen Collection Context,Active,Active
+Lab observation result status Patient Type Pt Nom,Active,Active
+Lab report, structured,Active,Active
+Lab result detais panel,Active,Active
+Lab test method Specimen Type Pt Nom *,Active,Active
+Landmark description Patient Find Pt Nom,Active,Active
+Language of communication information Person Type Pt Nom,Active,Active
+Language variant Person Find Pt Nar,Active,Active
+Language,Active,Active
+Last name Person Pn Pt Nom,Active,Active
+Laterality Patient Find Pt Nom PhenX,Active,Active
+Latitude {Setting} ID Pt Nom,Active,Active
+Leukocyte esterase Urine PrThr Pt Ord,Active,Active
+Leukocytes Bld NCnc Pt Qn,Active,Active
+Level of exertion panel,Active,Active
+Longitude {Setting} ID Pt Nom,Active,Active
+Lot or batch number {Device} ID Pt Nom,Active,Active
+Manufacturer name of Medication,Active,Active
+Manufacturer name {Device} ID Pt Nom,Active,Active
+Map URL Person Addr Pt Nar,Active,Active
+Marital status Patient Type Pt Nom,Active,Active
+Maximum number of administrations Patient Num Pt Qn,Active,Active
+Mean arterial pressure formula,Active,Active
+Media file Content name,Active,Active
+Media file Content,Active,Active
+Media file Created date,Active,Active
+Media file panel,Active,Active
+Medical Device Description panel,Active,Active
+Medical Device Description,Active,Active
+Medical device details Patient Pn Pt Nom,Active,Active
+Medical device type Patient Type Pt Nom PhenX,Active,Active
+Medication action ,Active,Active
+Medication action history list,Active,Active
+Medication additional instruction Medication Doc Pt Nar,Active,Active
+Medication administration flowsheet {Setting} Find Pt Doc {Role},Active,Active
+Medication administration list Pharmacy ID Episode Nom,Active,Active
+Medication administration method Medication Find Pt Nom,Active,Active
+Medication administration specific directions Patient Find Pt Nar,Active,Active
+Medication alternate amount Patient Num Pt Qn,Active,Active
+Medication authorization Patient Type Pt Nom NEMSIS,Active,Active
+Medication authorization panel,Active,Active
+Medication daily frequency,Active,Active
+Medication daily interval,Active,Active
+Medication daily timing panel,Active,Active
+Medication details, structured panel,Active,Active
+Medication dispense expiry date Medication Date Pt Qn,Active,Active
+Medication dispense instructions Medication Prid Pt Nar,Active,Active
+Medication dispense priority Medication Find Pt Nar,Active,Active
+Medication dosage justification Medication Find Pt Nar,Active,Active
+Medication dosage sequence,Active,Active
+Medication dose,Active,Active
+Medication duration Patient Time Pt Qn Reported,Active,Active
+Medication duration completed Medication Time RptPeriod Nar,Active,Active
+Medication duration of supply,Active,Active
+Medication exceptional safety override Patient Find Pt Nar,Active,Active
+Medication history information panel,Active,Active
+Medication key order date(s),Active,Active
+Medication management information panel,Active,Active
+Medication management reason,Active,Active
+Medication maximum dose Medication Dosage Pt Qn,Active,Active
+Medication maximum dose allowed period Medication Time Pt Qn,Active,Active
+Medication maximum dose amount Medication Num Pt Qn,Active,Active
+Medication name Medication ID Pt Nom,Active,Active
+Medication non-daily timing panel,Active,Active
+Medication non-substitution reason Patient Find Pt Nom,Active,Active
+Medication or other substance details panel [AHRQ],Active,Active
+Medication order sequence number,Active,Active
+Medication order status,Active,Active
+Medication order stop Patient Date Pt Qn,Active,Active
+Medication order summary panel,Active,Active
+Medication overridden safety advice Medication Find Pt Nar,Active,Active
+Medication pack size,Active,Active
+Medication pack unit equivalents,Active,Active
+Medication packs,Active,Active
+Medication parsable directions Medication Type Pt Nar,Active,Active
+Medication restart criterion,Active,Active
+Medication role Patient Type Pt Nom,Active,Active
+Medication safety override Patient Find Pt Nar,Active,Active
+Medication safety override reason Patient Find Pt Nom,Active,Active
+Medication safety,Active,Active
+Medication start criterion Patient Find Pt Nar,Active,Active
+Medication stop criteria Patient Find Pt Nom,Active,Active
+Medication strength (formulation),Active,Active
+Medication strength,Active,Active
+Medication substitution criterion Medication Find Pt Nar,Active,Active
+Medication substitution reason,Active,Active
+Medication supply description,Active,Active
+Medication supply panel,Active,Active
+Medication timing + Quantity,Active,Active
+Medication total daily amount Medication Num 24H Qn,Active,Active
+Medication total daily effective dose Medication Dosage Pt Qn,Active,Active
+Medication type [AHRQ],Active,Active
+Medication units,Active,Active
+Medication verified indicator,Active,Active
+Menstrual cycle day, int,Active,Active
+Methemoglobin/Hemoglobin.total Bld MFr Pt Qn,Active,Active
+Mode of communication Event Type Pt Nom,Active,Active
+Monitoring instruction,Active,Active
+Multimedia representation Patient Find Pt Nar,Active,Active
+Name Contact Pn Pt Nom,Active,Active
+Name Family member,Active,Active
+Name Organization ID Pt Nom,Active,Active
+Name Provider,Active,Active
+Name panel Person - Pt -,Active,Active
+Name prefix Person Pn Pt Nom,Active,Active
+Name suffix Person Pn Pt Nom,Active,Active
+National provider ID Organization ID Pt Nom,Active,Active
+Negative aspects of change,Active,Active
+Negative aspects of current behavior,Active,Active
+Nitrite Urine PrThr Pt Ord,Active,Active
+Non-daily timiing repetition interval,Active,Active
+Non-daily timing activities per time period,Active,Active
+Non-daily timing day of month,Active,Active
+Non-daily timing days per time period,Active,Active
+Non-daily timing description,Active,Active
+Non-daily timing on-off cycle panel,Active,Active
+Non-daily timing specific date,Active,Active
+Non-daily timing specific day of week,Active,Active
+Non-daily timing specific event panel,Active,Active
+Number of affected family members Patient Num Pt Qn,Active,Active
+Number of potentially affected by condition Family member Num Pt Qn,Active,Active
+Odor Urine Type Pt Nom,Active,Active
+On room air indicator,Active,Active
+Ongoing problem episode reason Patient Find Pt Nar,Active,Active
+Opiates Urine MCnc Pt Qn,Active,Active
+Order details,Active,Active
+Order identifier Patient ID Pt Nom,Active,Active
+Order start date Patient Date Pt Qn,Active,Active
+Order summary,Active,Active
+Organization contact information panel Organization - Pt -,Active,Active
+Other physical or medical problem Patient Hx Pt Nom PhenX,Active,Active
+Outcome of goal target,Active,Active
+Outcome of goal,Active,Active
+Oxygen BldA PPres Pt Qn,Active,Active
+Oxygen BldV PPres Pt Qn,Active,Active
+Oxygen adjusted to patient's actual temperature BldA PPres Pt Qn,Active,Active
+Oxygen adjusted to patient's actual temperature BldV PPres Pt Qn,Active,Active
+Oxygen content Bld VFr Pt Qn Calculated,Active,Active
+Oxygen content BldA SCnc Pt Qn,Active,Active
+Oxygen delivery description,Active,Active
+Oxygen delivery method,Active,Active
+Oxygen inhaled Inhl gas VRat Pt Qn,Active,Active
+Oxygen saturation BldA MFr Pt Qn Pulse oximetry,Active,Active
+Oxygen saturation BldA MFr Pt Qn,Active,Active
+Oxygen saturation BldV MFr Pt Qn,Active,Active
+Oxygen/Gas.total Inhl gas VFr Pt Qn,Active,Active
+Oxygen/Gas.total Inhl gas VFr.DF Pt Qn,Active,Active
+Oxygen/Inspired gas On ventilator Respiratory system VFr Pt Qn,Active,Active
+PH BldA LsCnc Pt SemiQn,Active,Active
+PH BldV LsCnc Pt SemiQn,Active,Active
+PH Urine LsCnc Pt SemiQn,Active,Active
+PH adjusted to patient's actual temperature BldA LsCnc Pt SemiQn,Active,Active
+PH adjusted to patient's actual temperature BldV LsCnc Pt SemiQn,Active,Active
+Patient Information [AHRQ],Active,Active
+Patient demographics panel Patient - Pt -,Active,Active
+Patient medication guidance,Active,Active
+Performing laboratory panel Patient - Pt -,Active,Active
+Person Patient ID Pt Nom,Active,Active
+Phencyclidine Urine MCnc Pt Qn,Active,Active
+Phosphate Ser/Plas MCnc Pt Qn,Active,Active
+Photographic image {Setting} Find Pt Doc {Role},Active,Active
+Plan of care description,Active,Active
+Planned achievement date,Active,Active
+Platelet distribution width Bld EntVol Pt Qn Automated count,Active,Active
+Platelet mean volume Bld EntVol Pt Qn,Active,Active
+Platelets Bld NCnc Pt Qn,Active,Active
+Position frame of reference,Active,Active
+Positive aspects of change,Active,Active
+Positive aspects of current behavior,Active,Active
+Postal code Entity Loc Pt Nom,Active,Active
+Potassium Ser/Plas SCnc Pt Qn,Active,Active
+Pre/post-ductal,Active,Active
+Precise anatomic location panel,Active,Active
+Prescriber endorsement,Active,Active
+Prescription for medication {Setting} Find Pt Doc {Role},Active,Active
+Pressure Atmosphere Pres Pt Qn,Active,Active
+Primary ProblemDiagnosis,Active,Active
+Primary problem Patient Imp Pt Nom NEMSIS,Active,Active
+Pro prostate specific Ag isoform 2 Ser/Plas MCnc Pt Qn IA,Active,Active
+Problem Patient Find Pt Nom,Active,Active
+Problem family prevalence description Patient Find Pt Nar,Active,Active
+Problem family prevalence details Patient Pn Pt Nom,Active,Active
+Problem historical indicator Patient Find Pt Nar,Active,Active
+Problem level of control Patient Find Pt Nar,Active,Active
+Problem list Patient Find Pt Nom Reported,Active,Active
+Problem occurrence Patient Find Pt Nar,Active,Active
+Problem related issues Patient Find Pt Nar,Active,Active
+Problem/Diagnosis qualifiers panel,Active,Active
+Procedure Patient Type Pt Nom,Active,Active
+Product version code Software,Active,Active
+Professional Registration,Active,Active
+Progression of problem,Active,Active
+Propsed date/time,Active,Active
+Prostate health index Ser/Plas Score Pt Qn Calculated,Active,Active
+Prostate specific Ag Ser/Plas MCnc Pt Qn,Active,Active
+Prostate specific Ag.free Ser/Plas MCnc Pt Qn,Active,Active
+Prostate specific Ag.free/Prostate specific Ag.total Ser/Plas MFr Pt Qn,Active,Active
+Prosthesis device panel,Active,Active
+Protein Ser/Plas MCnc Pt Qn,Active,Active
+Protein Urine MCnc Pt Qn,Active,Active
+Protein Urine PrThr Pt Ord,Active,Active
+Protocol revision,Active,Active
+Provider Information,Retired,Active
+Pulse oximetry site S2-models-demo S2-terminology tools tools-binary Anat Pt Nom,Active,Active
+Pulse pressure,Active,Active
+Reaction mechanism Patient Find Pt Nar,Active,Active
+Readiness for change information panel,Active,Active
+Readiness to change,Active,Active
+Readmission indicator,Active,Active
+Ready to change reason,Active,Active
+Ready to change trigger,Active,Active
+Reason for encounter Patient Find Pt Nar,Active,Active
+Reducing substances Urine PrThr Pt Ord,Active,Active
+Refill interval,Active,Active
+Refills issued,Active,Active
+Refills prescribed Medication Num Pt Qn,Active,Active
+Refills remaining,Active,Active
+Related Problem/Diagnosis,Active,Active
+Relationship degree Person Find Pt Nom,Active,Active
+Relationship family line Person Find Pt Nar,Active,Active
+Relationship of subject to patient Patient Type Pt Nom,Active,Active
+Relationship to patient Family member Type Pt Nom,Active,Active
+Relative humidity Air RelMCnc Pt Qn,Active,Active
+Relative location panel,Active,Active
+Remission status Patient Find Pt Nar,Active,Active
+Report identifier Report ID Pt Nom,Active,Active
+Report status Report Type Pt Nom,Active,Active
+Resolution phase Patient Find Pt Nar,Active,Active
+Resource path for target information,Active,Active
+Restart date time,Active,Active
+Review criteria Patient Find Pt Nar,Active,Active
+Rh Bld Type Pt Nom,Active,Active
+Route Medication,Active,Active
+Sample period,Active,Active
+Sampling frequency,Active,Active
+Scheduled start date/time,Active,Active
+Secondary problem Patient Imp Pt Nom NEMSIS,Active,Active
+Service Patient Find Pt Nom Observed.MERSTH,Active,Active
+Severity of reaction Patient Find Pt Nom,Active,Active
+Sex Patient Type Pt Nom,Active,Active
+Simple person name,Active,Active
+Sleep status,Active,Active
+Sodium Ser/Plas SCnc Pt Qn,Active,Active
+Specific gravity Urine Rden Pt Qn,Active,Active
+Specimen type Specimen Type Pt Nom,Active,Active
+Specimen-related information panel Specimen - Pt -,Active,Active
+Start date Event Date Pt Qn,Active,Active
+Start date and time Date Pt Qn,Active,Active
+State Entity Loc Pt Nom,Active,Active
+Status {Diagnosis} Class Pt Nom,Active,Active
+Subsitution indicator,Active,Active
+Substance Patient Find Pt Nom,Active,Active
+Supporting clinical information Patient ID Pt Nom,Active,Active
+Systolic pressure formula,Active,Active
+Target description,Active,Active
+TargetDescription,TargetTermStatus,SourceTermStatus
+Temperature.ambient Room Temp Pt Qn,Active,Active
+Therapeutic direction duration Patient Time Pt Qn,Active,Active
+Therapeutic direction panel,Active,Active
+Therapeutic direction sequence Patient Find Pt Nom,Active,Active
+Therapeutic intent Patient Imp Pt Nar,Active,Active
+Thermal stress description,Active,Active
+Timing criticality indicator,Active,Active
+Timing event name,Active,Active
+Timing event offset,Active,Active
+Timing event panel,Active,Active
+Timing off cycle duration,Active,Active
+Timing on cycle duration,Active,Active
+Timing on-off cycle panel,Active,Active
+Timinig on-off cycle repetitions,Active,Active
+Total daily effective dose - Purpose,Active,Active
+Triglyceride Ser/Plas MCnc Pt Qn,Active,Active
+Unique device identifier {Device} ID Pt Nom,Active,Active
+Urea nitrogen Ser/Plas MCnc Pt Qn,Active,Active
+Urea nitrogen/Creatinine Ser/Plas MRto Pt Qn,Active,Active
+Urobilinogen Urine MCnc Pt Qn,Active,Active
+Vendor device information panel {Device} - Pt -,Active,Active
+Vendor device model {Device} ID Pt Nom,Active,Active
+Vendor model number {Device} ID Pt Nom,Active,Active
+Vendor serial number {Device} ID Pt Nom,Active,Active
+Verification status Patient Find Pt Nar,Active,Active
+Visit duration Patient Time Pt Qn,Active,Active
+Waveform image,Active,Active
+Waveform name,Active,Active
+Waveform observation,Active,Active
+Waveform observation/Digits series,Active,Active
+Waveform observation/Origin,Active,Active
+Waveform observation/Scaling factor,Active,Active
+Waveform panel,Active,Active
+Waveform,Active,Active
+Wet bulb globe temperature,Active,Active
+Wind chill temperature,Active,Active
+Wind velocity,Active,Active
+X Offset,Active,Active
+Y Offset,Active,Active
