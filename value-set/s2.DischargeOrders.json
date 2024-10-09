@@ -1,0 +1,27 @@
+{
+  "id" : "s2.DischargeOrders",
+  "creationDate" : "2024-10-09T11:13:21-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "DischargeOrders",
+    "description" : "Discharge orders",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "387517004",
+      "description" : "Acetaminophen",
+      "system" : "snomed"
+    }, {
+      "code" : "387207008",
+      "description" : "Ibuprofen",
+      "system" : "snomed"
+    }, {
+      "code" : "764146007",
+      "description" : "Penicillin",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}
