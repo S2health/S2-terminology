@@ -1,0 +1,43 @@
+{
+  "id" : "s2.AnatomicalLine",
+  "creationDate" : "2024-10-10T10:13:54-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "AnatomicalLine",
+    "description" : "Anatomical line",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "698966004",
+      "description" : "Anterior axillary line of abdomen",
+      "system" : "snomed"
+    }, {
+      "code" : "362660002",
+      "description" : "Entire posterior axillary line",
+      "system" : "snomed"
+    }, {
+      "code" : "31161000205102",
+      "description" : "Mid-calvicular line",
+      "system" : "snomed"
+    }, {
+      "code" : "31171000205105",
+      "description" : "Mid-pupillary line",
+      "system" : "snomed"
+    }, {
+      "code" : "31181000205107",
+      "description" : "Mid-scapular line",
+      "system" : "snomed"
+    }, {
+      "code" : "260515002",
+      "description" : "Midaxillary line",
+      "system" : "snomed"
+    }, {
+      "code" : "399488007",
+      "description" : "Midline",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 7,
+    "isComplete" : true
+  }
+}

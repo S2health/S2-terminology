@@ -1,0 +1,31 @@
+{
+  "id" : "s2.DiagnosticStatus",
+  "creationDate" : "2024-10-10T10:13:55-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "DiagnosticStatus",
+    "description" : "Diagnostic status",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "14657009",
+      "description" : "Established diagnosis",
+      "system" : "snomed"
+    }, {
+      "code" : "148006",
+      "description" : "Preliminary diagnosis",
+      "system" : "snomed"
+    }, {
+      "code" : "723511001",
+      "description" : "Refuted",
+      "system" : "snomed"
+    }, {
+      "code" : "5558000",
+      "description" : "Working diagnosis",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 4,
+    "isComplete" : true
+  }
+}

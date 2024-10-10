@@ -1,0 +1,31 @@
+{
+  "id" : "s2.Progression",
+  "creationDate" : "2024-10-10T10:13:56-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "Progression",
+    "description" : "Progression",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "385633008",
+      "description" : "Improving",
+      "system" : "snomed"
+    }, {
+      "code" : "82334004",
+      "description" : "Indeterminate",
+      "system" : "snomed"
+    }, {
+      "code" : "58158008",
+      "description" : "Stable",
+      "system" : "snomed"
+    }, {
+      "code" : "230993007",
+      "description" : "Worsening",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 4,
+    "isComplete" : true
+  }
+}

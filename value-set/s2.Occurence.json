@@ -1,0 +1,23 @@
+{
+  "id" : "s2.Occurence",
+  "creationDate" : "2024-10-10T10:13:56-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "Occurence",
+    "description" : "Occurence",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "255217005",
+      "description" : "First episode",
+      "system" : "snomed"
+    }, {
+      "code" : "161917009",
+      "description" : "Recurrence of problem",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 2,
+    "isComplete" : true
+  }
+}

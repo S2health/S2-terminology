@@ -1,0 +1,39 @@
+{
+  "id" : "s2.ConditionResolutionPhase",
+  "creationDate" : "2024-10-10T10:13:56-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "ConditionResolutionPhase",
+    "description" : "Condition resolution phase",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "82334004",
+      "description" : "Indeterminate",
+      "system" : "snomed"
+    }, {
+      "code" : "31201000205106",
+      "description" : "Not resolving",
+      "system" : "snomed"
+    }, {
+      "code" : "263855007",
+      "description" : "Relapse phase",
+      "system" : "snomed"
+    }, {
+      "code" : "723506003",
+      "description" : "Resolved",
+      "system" : "snomed"
+    }, {
+      "code" : "31191000205109",
+      "description" : "Resolving",
+      "system" : "snomed"
+    }, {
+      "code" : "263921008",
+      "description" : "Unresolved",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 6,
+    "isComplete" : true
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id" : "s2.BodyLocationAspect",
+  "creationDate" : "2024-10-10T10:13:54-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "BodyLocationAspect",
+    "description" : "Body location aspect",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "255549009",
+      "description" : "Anterior",
+      "system" : "snomed"
+    }, {
+      "code" : "46053002",
+      "description" : "Distal",
+      "system" : "snomed"
+    }, {
+      "code" : "255554000",
+      "description" : "Dorsal",
+      "system" : "snomed"
+    }, {
+      "code" : "261089000",
+      "description" : "Inferior",
+      "system" : "snomed"
+    }, {
+      "code" : "49370004",
+      "description" : "Lateral",
+      "system" : "snomed"
+    }, {
+      "code" : "255561001",
+      "description" : "Medial",
+      "system" : "snomed"
+    }, {
+      "code" : "255562008",
+      "description" : "Mid",
+      "system" : "snomed"
+    }, {
+      "code" : "738956005",
+      "description" : "Oral",
+      "system" : "snomed"
+    }, {
+      "code" : "781000124109",
+      "description" : "Palmar",
+      "system" : "snomed"
+    }, {
+      "code" : "255551008",
+      "description" : "Posterior",
+      "system" : "snomed"
+    }, {
+      "code" : "40415009",
+      "description" : "Proximal",
+      "system" : "snomed"
+    }, {
+      "code" : "26283006",
+      "description" : "Superficial",
+      "system" : "snomed"
+    }, {
+      "code" : "264217000",
+      "description" : "Superior",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 13,
+    "isComplete" : true
+  }
+}
