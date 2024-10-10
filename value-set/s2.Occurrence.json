@@ -1,11 +1,11 @@
 {
-  "id" : "s2.Occurence",
+  "id" : "s2.Occurrence",
   "creationDate" : "2024-10-10T10:13:56-0400",
   "source" : "symedical",
   "set" : {
     "issuer" : "s2",
-    "code" : "Occurence",
-    "description" : "Occurence",
+    "code" : "Occurrence",
+    "description" : "Occurrence",
     "type" : "vset",
     "system" : "snomed",
     "members" : [ {
