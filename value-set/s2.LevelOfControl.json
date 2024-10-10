@@ -1,0 +1,27 @@
+{
+  "id" : "s2.LevelOfControl",
+  "creationDate" : "2024-10-10T10:13:55-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "LevelOfControl",
+    "description" : "Level of control",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "31509003",
+      "description" : "Controlled",
+      "system" : "snomed"
+    }, {
+      "code" : "82334004",
+      "description" : "Indeterminate",
+      "system" : "snomed"
+    }, {
+      "code" : "19032002",
+      "description" : "Uncontrolled",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}

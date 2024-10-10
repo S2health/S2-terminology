@@ -1,0 +1,27 @@
+{
+  "id" : "s2.DiagnosticCategory",
+  "creationDate" : "2024-10-10T10:13:57-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "DiagnosticCategory",
+    "description" : "Diagnostic category",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "263718001",
+      "description" : "Complication",
+      "system" : "snomed"
+    }, {
+      "code" : "8319008",
+      "description" : "Principal diagnosis",
+      "system" : "snomed"
+    }, {
+      "code" : "85097005",
+      "description" : "Secondary diagnosis",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}

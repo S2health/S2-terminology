@@ -1,0 +1,23 @@
+{
+  "id" : "s2.CurrentPastIndicator",
+  "creationDate" : "2024-10-10T10:13:55-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "CurrentPastIndicator",
+    "description" : "Current past indicator",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "15240007",
+      "description" : "Current",
+      "system" : "snomed"
+    }, {
+      "code" : "410513005",
+      "description" : "Past",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 2,
+    "isComplete" : true
+  }
+}

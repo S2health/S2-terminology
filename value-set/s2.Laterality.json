@@ -1,0 +1,23 @@
+{
+  "id" : "s2.Laterality",
+  "creationDate" : "2024-10-10T10:13:54-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "Laterality",
+    "description" : "Laterality",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "7771000",
+      "description" : "Left",
+      "system" : "snomed"
+    }, {
+      "code" : "24028007",
+      "description" : "Right",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 2,
+    "isComplete" : true
+  }
+}

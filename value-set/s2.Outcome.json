@@ -1,0 +1,27 @@
+{
+  "id" : "s2.Outcome",
+  "creationDate" : "2024-10-10T10:13:58-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "Outcome",
+    "description" : "Outcome",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "390802008",
+      "description" : "Goal achieved",
+      "system" : "snomed"
+    }, {
+      "code" : "390801001",
+      "description" : "Goal not achieved",
+      "system" : "snomed"
+    }, {
+      "code" : "706907002",
+      "description" : "Some progress toward goal",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}
