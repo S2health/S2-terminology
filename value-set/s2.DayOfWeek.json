@@ -1,0 +1,43 @@
+{
+  "id" : "s2.DayOfWeek",
+  "creationDate" : "2024-10-17T12:23:17-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "DayOfWeek",
+    "description" : "Day of week",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "307150005",
+      "description" : "Friday",
+      "system" : "snomed"
+    }, {
+      "code" : "307145004",
+      "description" : "Monday",
+      "system" : "snomed"
+    }, {
+      "code" : "307151009",
+      "description" : "Saturday",
+      "system" : "snomed"
+    }, {
+      "code" : "307146003",
+      "description" : "Sunday",
+      "system" : "snomed"
+    }, {
+      "code" : "307149005",
+      "description" : "Thursday",
+      "system" : "snomed"
+    }, {
+      "code" : "307147007",
+      "description" : "Tuesday",
+      "system" : "snomed"
+    }, {
+      "code" : "307148002",
+      "description" : "Wednesday",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 7,
+    "isComplete" : true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id" : "s2.OrderStatus",
+  "creationDate" : "2024-10-17T12:23:16-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "OrderStatus",
+    "description" : "Order status",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "55561003",
+      "description" : "Active",
+      "system" : "snomed"
+    }, {
+      "code" : "31241000205109",
+      "description" : "Draft order",
+      "system" : "snomed"
+    }, {
+      "code" : "41228009",
+      "description" : "Obsolete",
+      "system" : "snomed"
+    }, {
+      "code" : "31231000205104",
+      "description" : "Order finalized",
+      "system" : "snomed"
+    }, {
+      "code" : "31211000205108",
+      "description" : "Order incomplete",
+      "system" : "snomed"
+    }, {
+      "code" : "31221000205101",
+      "description" : "Order not activated",
+      "system" : "snomed"
+    }, {
+      "code" : "385655000",
+      "description" : "Suspended",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 7,
+    "isComplete" : true
+  }
+}
