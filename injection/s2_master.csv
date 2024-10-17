@@ -106,3 +106,5 @@ s2-EHR-Info_node.family_prevalence.v1.0.5,ac3,http://s2health.org/id/s2.Biologic
 s2-EHR-Assessment.family_history.v2.0.6,ac1,http://s2health.org/id/s2.RelationshipDegree
 s2-EHR-Assessment.family_history.v2.0.6,ac2,http://s2health.org/id/s2.FamilyLine
 s2-EHR-Assessment.family_history.v2.0.6,ac3,http://s2health.org/id/s2.CauseOfDeathRelationship
+s2-ENTITY-Substance_kind.t_medication-test.v1.0.0,ac2,http://s2health.org/id/s2.MedicationRole
+s2-ENTITY-Substance_kind.t_medication-test.v1.0.0,ac1,http://s2health.org/id/s2.MedicationCategory
