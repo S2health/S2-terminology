@@ -1,0 +1,27 @@
+{
+  "id" : "s2.ExertionIntensity",
+  "creationDate" : "2024-10-17T16:40:09-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "ExertionIntensity",
+    "description" : "Exertion intensity",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "31321000205109",
+      "description" : "High intensity exercise",
+      "system" : "snomed"
+    }, {
+      "code" : "31301000205104",
+      "description" : "Low intensity exercise",
+      "system" : "snomed"
+    }, {
+      "code" : "31311000205102",
+      "description" : "Medium intensity exercise",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}

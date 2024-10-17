@@ -1,0 +1,27 @@
+{
+  "id" : "s2.ExertionPhase",
+  "creationDate" : "2024-10-17T16:40:09-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "ExertionPhase",
+    "description" : "Exertion phase",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "255214003",
+      "description" : "After exercise",
+      "system" : "snomed"
+    }, {
+      "code" : "307166007",
+      "description" : "Before exercise",
+      "system" : "snomed"
+    }, {
+      "code" : "309604004",
+      "description" : "During exercise",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}

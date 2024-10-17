@@ -1,0 +1,470 @@
+{
+  "id" : "iana_media-types",
+  "creationDate" : "2024-10-17T15:12:01-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "iana",
+    "description" : "Media types",
+    "type" : "cset",
+    "system" : "iana_media-types",
+    "members" : [ {
+      "code" : "audio/DVI4",
+      "description" : "audio/DVI4",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/G722",
+      "description" : "audio/G722",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/G723",
+      "description" : "audio/G723",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/G726-16",
+      "description" : "audio/G726-16",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/G726-24",
+      "description" : "audio/G726-24",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/G726-32",
+      "description" : "audio/G726-32",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/G726-40",
+      "description" : "audio/G726-40",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/G728",
+      "description" : "audio/G728",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/L8",
+      "description" : "audio/L8",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/L16",
+      "description" : "audio/L16",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/LPC",
+      "description" : "audio/LPC",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/G729",
+      "description" : "audio/G729",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/G729D",
+      "description" : "audio/G729D",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/G729E",
+      "description" : "audio/G729E",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "video/BT656",
+      "description" : "video/BT656",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "video/CelB",
+      "description" : "video/CelB",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "video/JPEG",
+      "description" : "video/JPEG",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "video/H261",
+      "description" : "video/H261",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "video/H261",
+      "description" : "video/H261",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "video/H263",
+      "description" : "video/H263",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "video/H263-1998",
+      "description" : "video/H263-1998",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "video/H263-2000",
+      "description" : "video/H263-2000",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "video/H264",
+      "description" : "video/H264",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "video/MPV",
+      "description" : "video/MPV",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "video/mp4",
+      "description" : "video/mp4",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "video/ogg",
+      "description" : "video/ogg",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "video/mpeg",
+      "description" : "video/mpeg",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/basic",
+      "description" : "audio/basic",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/mpeg",
+      "description" : "audio/mpeg",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/mpeg3",
+      "description" : "audio/mpeg3",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/mpeg4-generic",
+      "description" : "audio/mpeg4-generic",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/mp4",
+      "description" : "audio/mp4",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/L20",
+      "description" : "audio/L20",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/L24",
+      "description" : "audio/L24",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/telephone-event",
+      "description" : "audio/telephone-event",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/ogg",
+      "description" : "audio/ogg",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "audio/vorbis",
+      "description" : "audio/vorbis",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "video/quicktime",
+      "description" : "video/quicktime",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "cs",
+      "description" : "Czech",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "text/calendar",
+      "description" : "text/calendar",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "text/directory",
+      "description" : "text/directory",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "text/html",
+      "description" : "text/html",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "text/plain",
+      "description" : "text/plain",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "text/richtext",
+      "description" : "text/richtext",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "text/rtf",
+      "description" : "text/rtf",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "text/rfc822-headers",
+      "description" : "text/rfc822-headers",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "text/sgml",
+      "description" : "text/sgml",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "text/tab-separated-values",
+      "description" : "text/tab-separated-values",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "text/uri-list",
+      "description" : "text/uri-list",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "text/xml",
+      "description" : "text/xml",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "text/xml-external-parsed-entity",
+      "description" : "text/xml-external-parsed-entity",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "image/avif",
+      "description" : "image/avif",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "image/bmp",
+      "description" : "image/bmp",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "image/cgm",
+      "description" : "image/cgm",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "image/gif",
+      "description" : "image/gif",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "image/png",
+      "description" : "image/png",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "image/tiff",
+      "description" : "image/tiff",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "image/jpeg",
+      "description" : "image/jpeg",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "image/jp2",
+      "description" : "image/jp2",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "image/svg+xml",
+      "description" : "image/svg+xml",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "image/dicom-rle",
+      "description" : "image/dicom-rle",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "image/jls",
+      "description" : "image/jls",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "model/mtl",
+      "description" : "model/mtl",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "model/obj",
+      "description" : "model/obj",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "model/stl",
+      "description" : "model/stl",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/cda+xml",
+      "description" : "application/cda+xml",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/EDIFACT",
+      "description" : "application/EDIFACT",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/fhir+json",
+      "description" : "application/fhir+json",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/fhir+xml",
+      "description" : "application/fhir+xml",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/hl7v2+xml",
+      "description" : "application/hl7v2+xml",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/gzip",
+      "description" : "application/gzip",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/json",
+      "description" : "application/json",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/msword",
+      "description" : "application/msword",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/pdf",
+      "description" : "application/pdf",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/rtf",
+      "description" : "application/rtf",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/dicom",
+      "description" : "application/dicom",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/dicom+json",
+      "description" : "application/dicom+json",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/dicom+xml",
+      "description" : "application/dicom+xml",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/octet-stream",
+      "description" : "application/octet-stream",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/ogg",
+      "description" : "Kapplication/ogg",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.base",
+      "description" : "application/vnd.oasis.opendocument.base",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.chart",
+      "description" : "application/vnd.oasis.opendocument.chart",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.chart-template",
+      "description" : "application/vnd.oasis.opendocument.chart-template",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "pplication/vnd.oasis.opendocument.formula",
+      "description" : "pplication/vnd.oasis.opendocument.formula",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.formula-template",
+      "description" : "application/vnd.oasis.opendocument.formula-template",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.graphics",
+      "description" : "application/vnd.oasis.opendocument.graphics",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.graphics-template",
+      "description" : "application/vnd.oasis.opendocument.graphics-template",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.image",
+      "description" : "application/vnd.oasis.opendocument.image",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.image-template",
+      "description" : "application/vnd.oasis.opendocument.image-template",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.presentation",
+      "description" : "application/vnd.oasis.opendocument.presentation",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.presentation-template",
+      "description" : "application/vnd.oasis.opendocument.presentation-template",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.spreadsheet",
+      "description" : "application/vnd.oasis.opendocument.spreadsheet",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.spreadsheet-template",
+      "description" : "application/vnd.oasis.opendocument.spreadsheet-template",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.text",
+      "description" : "application/vnd.oasis.opendocument.text",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.text-master",
+      "description" : "application/vnd.oasis.opendocument.text-master",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.text-template",
+      "description" : "application/vnd.oasis.opendocument.text-template",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.oasis.opendocument.text-web",
+      "description" : "application/vnd.oasis.opendocument.text-web",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.ms-word.document.macroEnabled.12",
+      "description" : "application/vnd.ms-word.document.macroEnabled.12",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "description" : "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.ms-word.template.macroEnabled.12",
+      "description" : "application/vnd.ms-word.template.macroEnabled.12",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.openxmlformats-officedocument.wordprocessingml.template",
+      "description" : "application/vnd.openxmlformats-officedocument.wordprocessingml.template",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.ms-powerpoint.slideshow.macroEnabled.12",
+      "description" : "application/vnd.ms-powerpoint.slideshow.macroEnabled.12",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.openxmlformats-officedocument.presentationml.slideshow",
+      "description" : "application/vnd.openxmlformats-officedocument.presentationml.slideshow",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.ms-powerpoint.presentation.macroEnabled.12",
+      "description" : "application/vnd.ms-powerpoint.presentation.macroEnabled.12",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "description" : "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.ms-excel.sheet.binary.macroEnabled.12",
+      "description" : "application/vnd.ms-excel.sheet.binary.macroEnabled.12",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.ms-excel.sheet.macroEnabled.12",
+      "description" : "application/vnd.ms-excel.sheet.macroEnabled.12",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "description" : "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.ms-xpsdocument",
+      "description" : "application/vnd.ms-xpsdocument",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.ms-excel",
+      "description" : "application/vnd.ms-excel",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.ms-outlook",
+      "description" : "application/vnd.ms-outlook",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.ms-powerpoint",
+      "description" : "application/vnd.ms-powerpoint",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/vnd.rar",
+      "description" : "application/vnd.rar",
+      "system" : "iana_media-types"
+    }, {
+      "code" : "application/zip",
+      "description" : "application/zip",
+      "system" : "iana_media-types"
+    } ],
+    "totalMembers" : 112,
+    "isComplete" : true
+  }
+}
