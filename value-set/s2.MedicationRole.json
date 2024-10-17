@@ -1,0 +1,27 @@
+{
+  "id" : "s2.MedicationRole",
+  "creationDate" : "2024-10-17T16:57:37-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "MedicationRole",
+    "description" : "Medication role",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "373846009",
+      "description" : "Adjuvant - intent",
+      "system" : "snomed"
+    }, {
+      "code" : "43747001",
+      "description" : "Drug excipient",
+      "system" : "snomed"
+    }, {
+      "code" : "262202000",
+      "description" : "Therapeutic",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}

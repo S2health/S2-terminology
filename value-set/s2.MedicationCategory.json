@@ -1,0 +1,35 @@
+{
+  "id" : "s2.MedicationCategory",
+  "creationDate" : "2024-10-17T16:57:37-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "MedicationCategory",
+    "description" : "Medication category",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "31391000205107",
+      "description" : "Ad-hoc medication mixture",
+      "system" : "snomed"
+    }, {
+      "code" : "31431000205103",
+      "description" : "Combination product",
+      "system" : "snomed"
+    }, {
+      "code" : "31401000205105",
+      "description" : "Medication ingredient",
+      "system" : "snomed"
+    }, {
+      "code" : "31411000205107",
+      "description" : "Multi-ingredient product",
+      "system" : "snomed"
+    }, {
+      "code" : "31421000205100",
+      "description" : "Single-ingredient product",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 5,
+    "isComplete" : true
+  }
+}
