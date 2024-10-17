@@ -1,0 +1,27 @@
+{
+  "id" : "s2.BiologicSex",
+  "creationDate" : "2024-10-17T12:23:18-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "BiologicSex",
+    "description" : "Biologic sex",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "248152002",
+      "description" : "Female",
+      "system" : "snomed"
+    }, {
+      "code" : "37791004",
+      "description" : "Indeterminate sex",
+      "system" : "snomed"
+    }, {
+      "code" : "248153007",
+      "description" : "Male",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id" : "s2.SubstitutionPerformed",
+  "creationDate" : "2024-10-17T12:23:15-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "SubstitutionPerformed",
+    "description" : "Substitution performed",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "262008008",
+      "description" : "Not performed",
+      "system" : "snomed"
+    }, {
+      "code" : "398166005",
+      "description" : "Performed",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 2,
+    "isComplete" : true
+  }
+}

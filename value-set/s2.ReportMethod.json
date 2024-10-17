@@ -1,0 +1,23 @@
+{
+  "id" : "s2.ReportMethod",
+  "creationDate" : "2024-10-17T12:23:17-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "ReportMethod",
+    "description" : "Report method",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "1184584003",
+      "description" : "Information gathering from automated entry",
+      "system" : "snomed"
+    }, {
+      "code" : "1184585002",
+      "description" : "Information gathering from manual entry",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 2,
+    "isComplete" : true
+  }
+}

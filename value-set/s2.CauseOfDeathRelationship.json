@@ -1,0 +1,31 @@
+{
+  "id" : "s2.CauseOfDeathRelationship",
+  "creationDate" : "2024-10-17T12:23:19-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "CauseOfDeathRelationship",
+    "description" : "Cause of death relationship",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "31371000205108",
+      "description" : "Closely related cause of death",
+      "system" : "snomed"
+    }, {
+      "code" : "31361000205100",
+      "description" : "Direct cause of death",
+      "system" : "snomed"
+    }, {
+      "code" : "82334004",
+      "description" : "Indeterminate",
+      "system" : "snomed"
+    }, {
+      "code" : "31381000205105",
+      "description" : "Unrelated to cause of death",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 4,
+    "isComplete" : true
+  }
+}
