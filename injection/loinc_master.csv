@@ -496,8 +496,11 @@ s2-EHR-Info_node.language.v1,id3,104930-3
 s2-EHR-Info_node.language.v1,id5,106173-8
 s2-EHR-Info_node.language.v1,id7,91878-9
 s2-EHR-Info_node.level_of_exertion.v0,id1,a72c7856-7182-ef11-8870-6045bdc71c8b
+s2-EHR-Info_node.level_of_exertion.v0,id10,f3f6ed70-6782-ef11-8870-6045bdc71c8b
 s2-EHR-Info_node.level_of_exertion.v0,id11,4fbbd615-7182-ef11-8870-6045bdc71c8b
 s2-EHR-Info_node.level_of_exertion.v0,id12,74008-4
+s2-EHR-Info_node.level_of_exertion.v0,id17,1c814f9b-cbe7-ee11-8869-6045bdc71c8b
+s2-EHR-Info_node.level_of_exertion.v0,id6,812642a7-c58c-ef11-8872-6045bdc71c8b
 s2-EHR-Info_node.media_file.v2,id1,d9eea4aa-7182-ef11-8870-6045bdc71c8b
 s2-EHR-Info_node.media_file.v2,id11,c9beaf97-5f86-ef11-8870-6045bdc71c8b
 s2-EHR-Info_node.media_file.v2,id12,82307-0
