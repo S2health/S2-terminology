@@ -95,7 +95,9 @@ s2-EHR-Info_node.medication_authorisation.v0.0.1-alpha,ac1,http://s2health.org/i
 s2-EHR-Order.medication_order.v4.0.1,ac1,http://s2health.org/id/s2.SubstitutionDirection
 s2-EHR-Action.medication.v1.2.3,ac2,http://s2health.org/id/s2.SubstitutionPerformed
 s2-EHR-Direct_observation.t_vital_signs-minimal-body_temp.v1.0.0,ac2,http://s2health.org/id/s2.BodyTemperatureMeasBodyLocationPrecoord
+s2-EHR-Direct_observation.body_temperature.v2.1.7,ac2,http://s2health.org/id/s2.BodyTemperatureMeasBodyLocationPrecoord
 s2-EHR-Direct_observation.t_vital_signs-minimal-resp_rate.v1.0.0,ac5,http://s2health.org/id/s2.RespiratoryRateMeasMethod
+s2-EHR-Direct_observation.respiratory_rate.v1.0.1,ac5,http://s2health.org/id/s2.RespiratoryRateMeasMethod
 s2-EHR-Info_node.level_of_exertion.v0.0.1-alpha,ac2,http://s2health.org/id/s2.ExertionPhase
 s2-EHR-Info_node.level_of_exertion.v0.0.1-alpha,ac1,http://s2health.org/id/s2.ExertionIntensity
 s2-EHR-Direct_observation.body_mass_index.v2.0.7,ac1,http://s2health.org/id/s2.ReportMethod
@@ -108,3 +110,7 @@ s2-EHR-Assessment.family_history.v2.0.6,ac2,http://s2health.org/id/s2.FamilyLine
 s2-EHR-Assessment.family_history.v2.0.6,ac3,http://s2health.org/id/s2.CauseOfDeathRelationship
 s2-ENTITY-Substance_kind.t_medication-test.v1.0.0,ac2,http://s2health.org/id/s2.MedicationRole
 s2-ENTITY-Substance_kind.t_medication-test.v1.0.0,ac1,http://s2health.org/id/s2.MedicationCategory
+s2-ENTITY-Comms_address_use.comms_address_use_general.v1.0.0,ac1,http://s2health.org/id/CommsSystemType
+s2-ENTITY-Comms_address_use.comms_address_use_general.v1.0.0,ac3,http://s2health.org/id/CommsSystemPlatform
+s2-ENTITY-Comms_address_use.comms_address_use_general.v1.0.0,ac4,http://s2health.org/id/CommunicationPurpose
+s2-ENTITY-Location_address_use.location_address_use_general.v1.0.0,ac1,AddressType
