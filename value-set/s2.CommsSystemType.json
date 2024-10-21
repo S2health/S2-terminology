@@ -1,0 +1,27 @@
+{
+  "id" : "s2.CommsSystemType",
+  "creationDate" : "2024-10-21T14:21:56-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "CommsSystemType",
+    "description" : "Comms system type",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "31451000205106",
+      "description" : "Instant message",
+      "system" : "snomed"
+    }, {
+      "code" : "31461000205109",
+      "description" : "Social media message",
+      "system" : "snomed"
+    }, {
+      "code" : "31441000205108",
+      "description" : "Text message",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}

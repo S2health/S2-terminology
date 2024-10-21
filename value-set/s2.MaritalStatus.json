@@ -1,0 +1,39 @@
+{
+  "id" : "s2.MaritalStatus",
+  "creationDate" : "2024-10-21T14:22:01-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "MaritalStatus",
+    "description" : "Marital status",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "20295000",
+      "description" : "Divorced",
+      "system" : "snomed"
+    }, {
+      "code" : "54986009",
+      "description" : "Engaged to be married",
+      "system" : "snomed"
+    }, {
+      "code" : "36629006",
+      "description" : "Legally married",
+      "system" : "snomed"
+    }, {
+      "code" : "87915002",
+      "description" : "Married",
+      "system" : "snomed"
+    }, {
+      "code" : "125725006",
+      "description" : "Single, never married",
+      "system" : "snomed"
+    }, {
+      "code" : "33553000",
+      "description" : "Widowed",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 6,
+    "isComplete" : true
+  }
+}
