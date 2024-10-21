@@ -113,4 +113,5 @@ s2-ENTITY-Substance_kind.t_medication-test.v1.0.0,ac1,http://s2health.org/id/s2.
 s2-ENTITY-Comms_address_use.comms_address_use_general.v1.0.0,ac1,http://s2health.org/id/CommsSystemType
 s2-ENTITY-Comms_address_use.comms_address_use_general.v1.0.0,ac3,http://s2health.org/id/CommsSystemPlatform
 s2-ENTITY-Comms_address_use.comms_address_use_general.v1.0.0,ac4,http://s2health.org/id/CommunicationPurpose
-s2-ENTITY-Location_address_use.location_address_use_general.v1.0.0,ac1,AddressType
+s2-ENTITY-Location_address_use.location_address_use_general.v1.0.0,ac1,http://s2health.org/id/AddressType
+s2-ENTITY-Info_node.patient_contact.v1.0.0,ac2,http://s2health.org/id/RelatedPersonRole
