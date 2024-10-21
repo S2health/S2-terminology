@@ -1,0 +1,31 @@
+{
+  "id" : "s2.RelatedPersonRole",
+  "creationDate" : "2024-10-21T14:22:09-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "RelatedPersonRole",
+    "description" : "Related person role",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "90921004",
+      "description" : "Foster parent",
+      "system" : "snomed"
+    }, {
+      "code" : "58626002",
+      "description" : "Legal guardian",
+      "system" : "snomed"
+    }, {
+      "code" : "5161000124101",
+      "description" : "Parent in-law",
+      "system" : "snomed"
+    }, {
+      "code" : "160503002",
+      "description" : "Parent of",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 4,
+    "isComplete" : true
+  }
+}

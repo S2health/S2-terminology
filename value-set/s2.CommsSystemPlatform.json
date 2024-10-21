@@ -1,0 +1,27 @@
+{
+  "id" : "s2.CommsSystemPlatform",
+  "creationDate" : "2024-10-21T14:21:58-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "CommsSystemPlatform",
+    "description" : "Comms system platform",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "31471000205101",
+      "description" : "Facebook",
+      "system" : "snomed"
+    }, {
+      "code" : "31481000205104",
+      "description" : "LinkedIn",
+      "system" : "snomed"
+    }, {
+      "code" : "31491000205102",
+      "description" : "X/Twitter",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}

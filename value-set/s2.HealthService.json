@@ -1,0 +1,1347 @@
+{
+  "id" : "s2.HealthService",
+  "creationDate" : "2024-10-21T14:22:08-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "HealthService",
+    "description" : "Health service",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "736622005",
+      "description" : "Aboriginal health service",
+      "system" : "snomed"
+    }, {
+      "code" : "310000008",
+      "description" : "Accident and Emergency service",
+      "system" : "snomed"
+    }, {
+      "code" : "445449000",
+      "description" : "Acute care hospice service",
+      "system" : "snomed"
+    }, {
+      "code" : "2421000175108",
+      "description" : "Acute care inpatient service",
+      "system" : "snomed"
+    }, {
+      "code" : "310072004",
+      "description" : "Acute pain service",
+      "system" : "snomed"
+    }, {
+      "code" : "788125002",
+      "description" : "Addiction service",
+      "system" : "snomed"
+    }, {
+      "code" : "24271000087103",
+      "description" : "Adult chronic pain management service",
+      "system" : "snomed"
+    }, {
+      "code" : "310013002",
+      "description" : "Adult cochlear implant service",
+      "system" : "snomed"
+    }, {
+      "code" : "23871000087101",
+      "description" : "Adult dermatology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310006002",
+      "description" : "Adult diagnostic audiology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310016005",
+      "description" : "Adult hearing aid service",
+      "system" : "snomed"
+    }, {
+      "code" : "23891000087102",
+      "description" : "Adult hematology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310033003",
+      "description" : "Adult intensive care service",
+      "system" : "snomed"
+    }, {
+      "code" : "788002001",
+      "description" : "Adult mental health service",
+      "system" : "snomed"
+    }, {
+      "code" : "840587001",
+      "description" : "Aerospace medical service",
+      "system" : "snomed"
+    }, {
+      "code" : "1259941004",
+      "description" : "Alcohol treatment service",
+      "system" : "snomed"
+    }, {
+      "code" : "711332004",
+      "description" : "Allergy service",
+      "system" : "snomed"
+    }, {
+      "code" : "34911000087100",
+      "description" : "Amputation care service",
+      "system" : "snomed"
+    }, {
+      "code" : "708183009",
+      "description" : "Anatomic pathology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310001007",
+      "description" : "Anesthetic service",
+      "system" : "snomed"
+    }, {
+      "code" : "310083008",
+      "description" : "Art therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310082003",
+      "description" : "Arts therapy services",
+      "system" : "snomed"
+    }, {
+      "code" : "310002000",
+      "description" : "Assessment service",
+      "system" : "snomed"
+    }, {
+      "code" : "310021008",
+      "description" : "Assistive listening device service",
+      "system" : "snomed"
+    }, {
+      "code" : "310008001",
+      "description" : "Audiological screening service",
+      "system" : "snomed"
+    }, {
+      "code" : "310004004",
+      "description" : "Audiological service",
+      "system" : "snomed"
+    }, {
+      "code" : "310011000",
+      "description" : "Aural rehabilitation service",
+      "system" : "snomed"
+    }, {
+      "code" : "706901001",
+      "description" : "Bacteriology service",
+      "system" : "snomed"
+    }, {
+      "code" : "2391000175104",
+      "description" : "Bariatric surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "408452007",
+      "description" : "Behavioral intervention team",
+      "system" : "snomed"
+    }, {
+      "code" : "892791000000108",
+      "description" : "Blood and marrow transplantation service",
+      "system" : "snomed"
+    }, {
+      "code" : "708194008",
+      "description" : "Blood bank service",
+      "system" : "snomed"
+    }, {
+      "code" : "1304102007",
+      "description" : "Blood transfusion service",
+      "system" : "snomed"
+    }, {
+      "code" : "310126000",
+      "description" : "Breast screening service",
+      "system" : "snomed"
+    }, {
+      "code" : "310139001",
+      "description" : "Breast surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "24051000087102",
+      "description" : "Breast surgical oncology service",
+      "system" : "snomed"
+    }, {
+      "code" : "1255914002",
+      "description" : "Burns service",
+      "system" : "snomed"
+    }, {
+      "code" : "395104009",
+      "description" : "Cancer primary healthcare multidisciplinary team",
+      "system" : "snomed"
+    }, {
+      "code" : "1230045006",
+      "description" : "Cardiac diagnostic service",
+      "system" : "snomed"
+    }, {
+      "code" : "1255878009",
+      "description" : "Cardiac electrophysiology service",
+      "system" : "snomed"
+    }, {
+      "code" : "733459009",
+      "description" : "Cardiac rehabilitation service",
+      "system" : "snomed"
+    }, {
+      "code" : "1230044005",
+      "description" : "Cardiac specialist nursing service",
+      "system" : "snomed"
+    }, {
+      "code" : "310142007",
+      "description" : "Cardiac surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "708172000",
+      "description" : "Cardiac ultrasound service",
+      "system" : "snomed"
+    }, {
+      "code" : "789718008",
+      "description" : "Cardiology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310140004",
+      "description" : "Cardiothoracic surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "700221004",
+      "description" : "Care of elderly service",
+      "system" : "snomed"
+    }, {
+      "code" : "1230046007",
+      "description" : "Cervical cancer screening service",
+      "system" : "snomed"
+    }, {
+      "code" : "310117003",
+      "description" : "Child and adolescent psychiatry service",
+      "system" : "snomed"
+    }, {
+      "code" : "310003005",
+      "description" : "Child assessment service",
+      "system" : "snomed"
+    }, {
+      "code" : "788127005",
+      "description" : "Child health service",
+      "system" : "snomed"
+    }, {
+      "code" : "310099002",
+      "description" : "Child physiotherapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310104001",
+      "description" : "Child speech and language therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "722170006",
+      "description" : "Chiropractic service",
+      "system" : "snomed"
+    }, {
+      "code" : "830038007",
+      "description" : "Clinical allergy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310076001",
+      "description" : "Clinical biochemistry service",
+      "system" : "snomed"
+    }, {
+      "code" : "1304106005",
+      "description" : "Clinical cytogenetics service",
+      "system" : "snomed"
+    }, {
+      "code" : "788004000",
+      "description" : "Clinical genetics service",
+      "system" : "snomed"
+    }, {
+      "code" : "788121006",
+      "description" : "Clinical immunology and allergy service",
+      "system" : "snomed"
+    }, {
+      "code" : "830037002",
+      "description" : "Clinical immunology service",
+      "system" : "snomed"
+    }, {
+      "code" : "1304107001",
+      "description" : "Clinical molecular genetics service",
+      "system" : "snomed"
+    }, {
+      "code" : "830149003",
+      "description" : "Clinical neurophysiology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310022001",
+      "description" : "Clinical oncology service",
+      "system" : "snomed"
+    }, {
+      "code" : "708184003",
+      "description" : "Clinical pathology service",
+      "system" : "snomed"
+    }, {
+      "code" : "700436003",
+      "description" : "Clinical pharmacology service",
+      "system" : "snomed"
+    }, {
+      "code" : "700435004",
+      "description" : "Clinical physiology service",
+      "system" : "snomed"
+    }, {
+      "code" : "708193002",
+      "description" : "Coagulation service",
+      "system" : "snomed"
+    }, {
+      "code" : "310012007",
+      "description" : "Cochlear implant service",
+      "system" : "snomed"
+    }, {
+      "code" : "1231391000",
+      "description" : "Colonoscopy service",
+      "system" : "snomed"
+    }, {
+      "code" : "1163003002",
+      "description" : "Colorectal cancer screening service",
+      "system" : "snomed"
+    }, {
+      "code" : "310155008",
+      "description" : "Colorectal surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "310024000",
+      "description" : "Colposcopy service",
+      "system" : "snomed"
+    }, {
+      "code" : "699650006",
+      "description" : "Community based physiotherapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "413294000",
+      "description" : "Community health services",
+      "system" : "snomed"
+    }, {
+      "code" : "408451000",
+      "description" : "Community learning disabilities team",
+      "system" : "snomed"
+    }, {
+      "code" : "714089006",
+      "description" : "Community midwifery service",
+      "system" : "snomed"
+    }, {
+      "code" : "1234796008",
+      "description" : "Community nursing service",
+      "system" : "snomed"
+    }, {
+      "code" : "310108003",
+      "description" : "Community orthoptics service",
+      "system" : "snomed"
+    }, {
+      "code" : "310111002",
+      "description" : "Community orthotics service",
+      "system" : "snomed"
+    }, {
+      "code" : "310067008",
+      "description" : "Community pediatric service",
+      "system" : "snomed"
+    }, {
+      "code" : "310131003",
+      "description" : "Community rehabilitation service",
+      "system" : "snomed"
+    }, {
+      "code" : "395086005",
+      "description" : "Community specialist palliative care",
+      "system" : "snomed"
+    }, {
+      "code" : "310114005",
+      "description" : "Community surgical fitting service",
+      "system" : "snomed"
+    }, {
+      "code" : "310091004",
+      "description" : "Community-based dietetics service",
+      "system" : "snomed"
+    }, {
+      "code" : "310094007",
+      "description" : "Community-based occupational therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310088004",
+      "description" : "Community-based podiatry service",
+      "system" : "snomed"
+    }, {
+      "code" : "310102002",
+      "description" : "Community-based speech and language therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310025004",
+      "description" : "Complementary therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310128004",
+      "description" : "Computed tomography service",
+      "system" : "snomed"
+    }, {
+      "code" : "310026003",
+      "description" : "Counseling service",
+      "system" : "snomed"
+    }, {
+      "code" : "788128000",
+      "description" : "Critical care medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "700231006",
+      "description" : "Critical care physician service",
+      "system" : "snomed"
+    }, {
+      "code" : "708178001",
+      "description" : "Cytogenetics service",
+      "system" : "snomed"
+    }, {
+      "code" : "310200001",
+      "description" : "Cytology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310084002",
+      "description" : "Dance therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310143002",
+      "description" : "Dental surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "722176000",
+      "description" : "Dentistry service",
+      "system" : "snomed"
+    }, {
+      "code" : "700241009",
+      "description" : "Dermatology service",
+      "system" : "snomed"
+    }, {
+      "code" : "708180007",
+      "description" : "Dermatopathology service",
+      "system" : "snomed"
+    }, {
+      "code" : "1584731000168109",
+      "description" : "Developmental disability management service",
+      "system" : "snomed"
+    }, {
+      "code" : "444913002",
+      "description" : "Diabetes mellitus service",
+      "system" : "snomed"
+    }, {
+      "code" : "734920002",
+      "description" : "Diabetic education service",
+      "system" : "snomed"
+    }, {
+      "code" : "310005003",
+      "description" : "Diagnostic audiology service",
+      "system" : "snomed"
+    }, {
+      "code" : "708175003",
+      "description" : "Diagnostic imaging service",
+      "system" : "snomed"
+    }, {
+      "code" : "310028002",
+      "description" : "Diagnostic investigation service",
+      "system" : "snomed"
+    }, {
+      "code" : "431051000124102",
+      "description" : "Dialysis service",
+      "system" : "snomed"
+    }, {
+      "code" : "310090003",
+      "description" : "Dietetics service",
+      "system" : "snomed"
+    }, {
+      "code" : "1241741000168101",
+      "description" : "Disability support service",
+      "system" : "snomed"
+    }, {
+      "code" : "310010004",
+      "description" : "Distraction test audiological screening service",
+      "system" : "snomed"
+    }, {
+      "code" : "705150003",
+      "description" : "Domiciliary physiotherapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310029005",
+      "description" : "Domiciliary visit service",
+      "system" : "snomed"
+    }, {
+      "code" : "310085001",
+      "description" : "Drama therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310149003",
+      "description" : "Ear, nose and throat service",
+      "system" : "snomed"
+    }, {
+      "code" : "413299005",
+      "description" : "Early years services",
+      "system" : "snomed"
+    }, {
+      "code" : "1163002007",
+      "description" : "Electrocardiography service",
+      "system" : "snomed"
+    }, {
+      "code" : "792847005",
+      "description" : "Emergency ambulance service",
+      "system" : "snomed"
+    }, {
+      "code" : "409971007",
+      "description" : "Emergency medical services",
+      "system" : "snomed"
+    }, {
+      "code" : "2471000175109",
+      "description" : "Employee health service",
+      "system" : "snomed"
+    }, {
+      "code" : "310150003",
+      "description" : "Endocrine surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "700434000",
+      "description" : "Endocrinology service",
+      "system" : "snomed"
+    }, {
+      "code" : "734862008",
+      "description" : "Endodontic service",
+      "system" : "snomed"
+    }, {
+      "code" : "310030000",
+      "description" : "Endoscopy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310031001",
+      "description" : "Family planning service",
+      "system" : "snomed"
+    }, {
+      "code" : "1135871000168104",
+      "description" : "Forensic pathology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310118008",
+      "description" : "Forensic psychiatry service",
+      "system" : "snomed"
+    }, {
+      "code" : "700433006",
+      "description" : "Gastroenterology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310151004",
+      "description" : "Gastrointestinal surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "1163054002",
+      "description" : "Gastroscopy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310144008",
+      "description" : "General dental surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "310152006",
+      "description" : "General gastrointestinal surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "700232004",
+      "description" : "General medical service",
+      "system" : "snomed"
+    }, {
+      "code" : "788007007",
+      "description" : "General practice service",
+      "system" : "snomed"
+    }, {
+      "code" : "310156009",
+      "description" : "General surgical service",
+      "system" : "snomed"
+    }, {
+      "code" : "788006003",
+      "description" : "Genetic laboratory service",
+      "system" : "snomed"
+    }, {
+      "code" : "1304105009",
+      "description" : "Genetics service",
+      "system" : "snomed"
+    }, {
+      "code" : "830039004",
+      "description" : "Genitourinary medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "24291000087104",
+      "description" : "Geriatric chronic pain management service",
+      "system" : "snomed"
+    }, {
+      "code" : "3531000175102",
+      "description" : "Geriatric service",
+      "system" : "snomed"
+    }, {
+      "code" : "7261000175100",
+      "description" : "Gynecologic surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "1303748004",
+      "description" : "Gynecological cytology service",
+      "system" : "snomed"
+    }, {
+      "code" : "1264044008",
+      "description" : "Gynecology oncology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310061009",
+      "description" : "Gynecology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310157000",
+      "description" : "Hand surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "1231390004",
+      "description" : "Hand therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310130002",
+      "description" : "Head injury rehabilitation service",
+      "system" : "snomed"
+    }, {
+      "code" : "1293061000168108",
+      "description" : "Health promotion service",
+      "system" : "snomed"
+    }, {
+      "code" : "310015009",
+      "description" : "Hearing aid service",
+      "system" : "snomed"
+    }, {
+      "code" : "310020009",
+      "description" : "Hearing therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "708196005",
+      "description" : "Hematology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310158005",
+      "description" : "Hepatobiliary surgical service",
+      "system" : "snomed"
+    }, {
+      "code" : "23901000087101",
+      "description" : "Hepatology service",
+      "system" : "snomed"
+    }, {
+      "code" : "708182004",
+      "description" : "Histology service",
+      "system" : "snomed"
+    }, {
+      "code" : "788124003",
+      "description" : "Histopathology service",
+      "system" : "snomed"
+    }, {
+      "code" : "24081000087105",
+      "description" : "HIV (human immunodeficiency virus) nurse practitioner service",
+      "system" : "snomed"
+    }, {
+      "code" : "24101000087102",
+      "description" : "HIV (human immunodeficiency virus) social work service",
+      "system" : "snomed"
+    }, {
+      "code" : "444933003",
+      "description" : "Home hospice service",
+      "system" : "snomed"
+    }, {
+      "code" : "1256098007",
+      "description" : "Home hospitalization",
+      "system" : "snomed"
+    }, {
+      "code" : "310107008",
+      "description" : "Hospital orthoptics service",
+      "system" : "snomed"
+    }, {
+      "code" : "310110001",
+      "description" : "Hospital orthotics service",
+      "system" : "snomed"
+    }, {
+      "code" : "310113004",
+      "description" : "Hospital surgical fitting service",
+      "system" : "snomed"
+    }, {
+      "code" : "310092006",
+      "description" : "Hospital-based dietetics service",
+      "system" : "snomed"
+    }, {
+      "code" : "310096009",
+      "description" : "Hospital-based occupational therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310098005",
+      "description" : "Hospital-based physiotherapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310089007",
+      "description" : "Hospital-based podiatry service",
+      "system" : "snomed"
+    }, {
+      "code" : "310103007",
+      "description" : "Hospital-based speech and language therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "1163004008",
+      "description" : "Hyperbaric medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "708190004",
+      "description" : "Immunology service",
+      "system" : "snomed"
+    }, {
+      "code" : "788001008",
+      "description" : "Infectious disease service",
+      "system" : "snomed"
+    }, {
+      "code" : "1186717003",
+      "description" : "Intellectual disability psychiatry service",
+      "system" : "snomed"
+    }, {
+      "code" : "310032008",
+      "description" : "Intensive care service",
+      "system" : "snomed"
+    }, {
+      "code" : "892601000000108",
+      "description" : "Intermediate care service",
+      "system" : "snomed"
+    }, {
+      "code" : "792848000",
+      "description" : "Internal medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "708174004",
+      "description" : "Interventional radiology service",
+      "system" : "snomed"
+    }, {
+      "code" : "47451000087103",
+      "description" : "Kinesiology service",
+      "system" : "snomed"
+    }, {
+      "code" : "722393008",
+      "description" : "Legal medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "310119000",
+      "description" : "Liaison psychiatry service",
+      "system" : "snomed"
+    }, {
+      "code" : "310127009",
+      "description" : "Magnetic resonance imaging service",
+      "system" : "snomed"
+    }, {
+      "code" : "710028007",
+      "description" : "Maxillofacial surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "310078000",
+      "description" : "Medical microbiology service",
+      "system" : "snomed"
+    }, {
+      "code" : "373654008",
+      "description" : "Medical referral service",
+      "system" : "snomed"
+    }, {
+      "code" : "23911000087104",
+      "description" : "Medication review service",
+      "system" : "snomed"
+    }, {
+      "code" : "310027007",
+      "description" : "Mental health counseling service",
+      "system" : "snomed"
+    }, {
+      "code" : "708168004",
+      "description" : "Mental health service",
+      "system" : "snomed"
+    }, {
+      "code" : "714088003",
+      "description" : "Midwifery service",
+      "system" : "snomed"
+    }, {
+      "code" : "45671000087103",
+      "description" : "Military medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "708179009",
+      "description" : "Molecular pathology service",
+      "system" : "snomed"
+    }, {
+      "code" : "28541000087101",
+      "description" : "Musculoskeletal service",
+      "system" : "snomed"
+    }, {
+      "code" : "310086000",
+      "description" : "Music therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "706903003",
+      "description" : "Mycobacteriology service",
+      "system" : "snomed"
+    }, {
+      "code" : "706902008",
+      "description" : "Mycology service",
+      "system" : "snomed"
+    }, {
+      "code" : "23941000087103",
+      "description" : "Narcotic addiction service",
+      "system" : "snomed"
+    }, {
+      "code" : "24331000087108",
+      "description" : "Narcotic addiction service with chronic pain management",
+      "system" : "snomed"
+    }, {
+      "code" : "310009009",
+      "description" : "Neonatal audiological screening service",
+      "system" : "snomed"
+    }, {
+      "code" : "741073001",
+      "description" : "Neonatal intensive care service",
+      "system" : "snomed"
+    }, {
+      "code" : "840586005",
+      "description" : "Neonatal service",
+      "system" : "snomed"
+    }, {
+      "code" : "788003006",
+      "description" : "Nephrology service",
+      "system" : "snomed"
+    }, {
+      "code" : "788005004",
+      "description" : "Neurology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310079008",
+      "description" : "Neuropathology service",
+      "system" : "snomed"
+    }, {
+      "code" : "1255633009",
+      "description" : "Neuroradiology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310159002",
+      "description" : "Neurosurgical service",
+      "system" : "snomed"
+    }, {
+      "code" : "788009005",
+      "description" : "Nuclear medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "708170008",
+      "description" : "Nursing service",
+      "system" : "snomed"
+    }, {
+      "code" : "1240781000168102",
+      "description" : "Nutrition service",
+      "system" : "snomed"
+    }, {
+      "code" : "708173005",
+      "description" : "Obstetric ultrasound service",
+      "system" : "snomed"
+    }, {
+      "code" : "310060005",
+      "description" : "Obstetrics and gynecology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310063007",
+      "description" : "Obstetrics service",
+      "system" : "snomed"
+    }, {
+      "code" : "310064001",
+      "description" : "Occupational health service",
+      "system" : "snomed"
+    }, {
+      "code" : "310093001",
+      "description" : "Occupational therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "1335967008",
+      "description" : "Oncology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310065000",
+      "description" : "Open access service",
+      "system" : "snomed"
+    }, {
+      "code" : "310160007",
+      "description" : "Ophthalmology service",
+      "system" : "snomed"
+    }, {
+      "code" : "23951000087100",
+      "description" : "Opioid dependence service",
+      "system" : "snomed"
+    }, {
+      "code" : "310105000",
+      "description" : "Optometry service",
+      "system" : "snomed"
+    }, {
+      "code" : "788008002",
+      "description" : "Oral and maxillofacial surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "1237575008",
+      "description" : "Oral medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "310145009",
+      "description" : "Oral surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "310146005",
+      "description" : "Orthodontics service",
+      "system" : "snomed"
+    }, {
+      "code" : "310161006",
+      "description" : "Orthopedic service",
+      "system" : "snomed"
+    }, {
+      "code" : "310106004",
+      "description" : "Orthoptics service",
+      "system" : "snomed"
+    }, {
+      "code" : "310109006",
+      "description" : "Orthotics service",
+      "system" : "snomed"
+    }, {
+      "code" : "310071006",
+      "description" : "Pain management service",
+      "system" : "snomed"
+    }, {
+      "code" : "310073009",
+      "description" : "Palliative care service",
+      "system" : "snomed"
+    }, {
+      "code" : "310162004",
+      "description" : "Pancreatic surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "706900000",
+      "description" : "Parasitology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310074003",
+      "description" : "Pathology service",
+      "system" : "snomed"
+    }, {
+      "code" : "45691000087104",
+      "description" : "Patient safety service",
+      "system" : "snomed"
+    }, {
+      "code" : "789717003",
+      "description" : "Pediatric cardiology service",
+      "system" : "snomed"
+    }, {
+      "code" : "24351000087104",
+      "description" : "Pediatric chronic pain management service",
+      "system" : "snomed"
+    }, {
+      "code" : "792849008",
+      "description" : "Pediatric clinical genetics service",
+      "system" : "snomed"
+    }, {
+      "code" : "1280012007",
+      "description" : "Pediatric clinical immunology and allergy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310014008",
+      "description" : "Pediatric cochlear implant service",
+      "system" : "snomed"
+    }, {
+      "code" : "310147001",
+      "description" : "Pediatric dentistry service",
+      "system" : "snomed"
+    }, {
+      "code" : "1280011000",
+      "description" : "Pediatric dermatology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310007006",
+      "description" : "Pediatric diagnostic audiology service",
+      "system" : "snomed"
+    }, {
+      "code" : "3751000175100",
+      "description" : "Pediatric emergency medical service",
+      "system" : "snomed"
+    }, {
+      "code" : "3761000175103",
+      "description" : "Pediatric endocrinology service",
+      "system" : "snomed"
+    }, {
+      "code" : "3771000175106",
+      "description" : "Pediatric gastroenterology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310017001",
+      "description" : "Pediatric hearing aid service",
+      "system" : "snomed"
+    }, {
+      "code" : "1343445000",
+      "description" : "Pediatric hematology oncology service",
+      "system" : "snomed"
+    }, {
+      "code" : "897188002",
+      "description" : "Pediatric hematology service",
+      "system" : "snomed"
+    }, {
+      "code" : "3781000175109",
+      "description" : "Pediatric infectious disease service",
+      "system" : "snomed"
+    }, {
+      "code" : "310034009",
+      "description" : "Pediatric intensive care service",
+      "system" : "snomed"
+    }, {
+      "code" : "3791000175107",
+      "description" : "Pediatric nephrology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310068003",
+      "description" : "Pediatric neurology service",
+      "system" : "snomed"
+    }, {
+      "code" : "1280013002",
+      "description" : "Pediatric neurosurgical service",
+      "system" : "snomed"
+    }, {
+      "code" : "310069006",
+      "description" : "Pediatric oncology service",
+      "system" : "snomed"
+    }, {
+      "code" : "1231392007",
+      "description" : "Pediatric orthopedic service",
+      "system" : "snomed"
+    }, {
+      "code" : "789716007",
+      "description" : "Pediatric otolaryngology service",
+      "system" : "snomed"
+    }, {
+      "code" : "24001000087103",
+      "description" : "Pediatric plastic surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "3801000175108",
+      "description" : "Pediatric pulmonology service",
+      "system" : "snomed"
+    }, {
+      "code" : "789715006",
+      "description" : "Pediatric respiratory therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "789714005",
+      "description" : "Pediatric rheumatology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310066004",
+      "description" : "Pediatric service",
+      "system" : "snomed"
+    }, {
+      "code" : "310163009",
+      "description" : "Pediatric surgical service",
+      "system" : "snomed"
+    }, {
+      "code" : "1231394008",
+      "description" : "Pediatric urology service",
+      "system" : "snomed"
+    }, {
+      "code" : "2451000175103",
+      "description" : "Perinatology service",
+      "system" : "snomed"
+    }, {
+      "code" : "1255186006",
+      "description" : "Periodontic service",
+      "system" : "snomed"
+    }, {
+      "code" : "45851000087108",
+      "description" : "Pharmacotherapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310080006",
+      "description" : "Pharmacy service",
+      "system" : "snomed"
+    }, {
+      "code" : "722424008",
+      "description" : "Physical medicine and rehabilitation service",
+      "system" : "snomed"
+    }, {
+      "code" : "773558007",
+      "description" : "Physical medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "1304108006",
+      "description" : "Physician service",
+      "system" : "snomed"
+    }, {
+      "code" : "722140001",
+      "description" : "Physiotherapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310164003",
+      "description" : "Plastic surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "310100005",
+      "description" : "Play therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310087009",
+      "description" : "Podiatry service",
+      "system" : "snomed"
+    }, {
+      "code" : "840585009",
+      "description" : "Postnatal service",
+      "system" : "snomed"
+    }, {
+      "code" : "310062002",
+      "description" : "Pregnancy termination service",
+      "system" : "snomed"
+    }, {
+      "code" : "278032008",
+      "description" : "Preventive service",
+      "system" : "snomed"
+    }, {
+      "code" : "1586771000168103",
+      "description" : "Primary healthcare service",
+      "system" : "snomed"
+    }, {
+      "code" : "310081005",
+      "description" : "Professional allied to medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "816075004",
+      "description" : "Prosthetic and orthotic service",
+      "system" : "snomed"
+    }, {
+      "code" : "788126001",
+      "description" : "Prosthetic service",
+      "system" : "snomed"
+    }, {
+      "code" : "734863003",
+      "description" : "Prosthodontic service",
+      "system" : "snomed"
+    }, {
+      "code" : "310116007",
+      "description" : "Psychiatry service",
+      "system" : "snomed"
+    }, {
+      "code" : "47461000087100",
+      "description" : "Psychoeducation service",
+      "system" : "snomed"
+    }, {
+      "code" : "310121005",
+      "description" : "Psychogeriatric service",
+      "system" : "snomed"
+    }, {
+      "code" : "310123008",
+      "description" : "Psychology service",
+      "system" : "snomed"
+    }, {
+      "code" : "722175001",
+      "description" : "Psychosomatic medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "310124002",
+      "description" : "Psychotherapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310115006",
+      "description" : "Public health service",
+      "system" : "snomed"
+    }, {
+      "code" : "722174002",
+      "description" : "Pulmonary medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "2461000175101",
+      "description" : "Pulmonary rehabilitation service",
+      "system" : "snomed"
+    }, {
+      "code" : "3601000175107",
+      "description" : "Pulmonary service",
+      "system" : "snomed"
+    }, {
+      "code" : "788123009",
+      "description" : "Radiation oncology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310125001",
+      "description" : "Radiology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310023006",
+      "description" : "Radiotherapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "1231786003",
+      "description" : "Refugee healthcare service",
+      "system" : "snomed"
+    }, {
+      "code" : "310122003",
+      "description" : "Rehabilitation psychiatry service",
+      "system" : "snomed"
+    }, {
+      "code" : "310129007",
+      "description" : "Rehabilitation service",
+      "system" : "snomed"
+    }, {
+      "code" : "708169007",
+      "description" : "Respiratory therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310148006",
+      "description" : "Restorative dentistry service",
+      "system" : "snomed"
+    }, {
+      "code" : "3621000175101",
+      "description" : "Rheumatology service",
+      "system" : "snomed"
+    }, {
+      "code" : "708188000",
+      "description" : "Serology service",
+      "system" : "snomed"
+    }, {
+      "code" : "788122004",
+      "description" : "Sexual health service",
+      "system" : "snomed"
+    }, {
+      "code" : "1136421000168109",
+      "description" : "Sleep medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "310095008",
+      "description" : "Social services occupational therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310070007",
+      "description" : "Special care baby service",
+      "system" : "snomed"
+    }, {
+      "code" : "408458006",
+      "description" : "Specialist multidisciplinary team",
+      "system" : "snomed"
+    }, {
+      "code" : "1148679005",
+      "description" : "Specialist palliative care service",
+      "system" : "snomed"
+    }, {
+      "code" : "310101009",
+      "description" : "Speech and language therapy service",
+      "system" : "snomed"
+    }, {
+      "code" : "310018006",
+      "description" : "Speech-reading training service",
+      "system" : "snomed"
+    }, {
+      "code" : "893121000000102",
+      "description" : "Spinal surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "24141000087104",
+      "description" : "Spine orthopedic surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "1231393002",
+      "description" : "Spirometry service",
+      "system" : "snomed"
+    }, {
+      "code" : "2351000175106",
+      "description" : "Sports medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "310137004",
+      "description" : "Stroke service",
+      "system" : "snomed"
+    }, {
+      "code" : "310112009",
+      "description" : "Surgical fitting service",
+      "system" : "snomed"
+    }, {
+      "code" : "699478002",
+      "description" : "Surgical oncology service",
+      "system" : "snomed"
+    }, {
+      "code" : "708187005",
+      "description" : "Surgical pathology service",
+      "system" : "snomed"
+    }, {
+      "code" : "310138009",
+      "description" : "Surgical service",
+      "system" : "snomed"
+    }, {
+      "code" : "310133000",
+      "description" : "Swallow clinic",
+      "system" : "snomed"
+    }, {
+      "code" : "911221000000100",
+      "description" : "Telecare monitoring service",
+      "system" : "snomed"
+    }, {
+      "code" : "1240399006",
+      "description" : "Telehealth service",
+      "system" : "snomed"
+    }, {
+      "code" : "310141000",
+      "description" : "Thoracic surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "310019003",
+      "description" : "Tinnitus management service",
+      "system" : "snomed"
+    }, {
+      "code" : "708191000",
+      "description" : "Toxicology service",
+      "system" : "snomed"
+    }, {
+      "code" : "896974005",
+      "description" : "Transgender health service",
+      "system" : "snomed"
+    }, {
+      "code" : "733921009",
+      "description" : "Transplant medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "310165002",
+      "description" : "Transplant surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "45721000087105",
+      "description" : "Trauma care service",
+      "system" : "snomed"
+    }, {
+      "code" : "310166001",
+      "description" : "Trauma surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "310169008",
+      "description" : "Ultrasonography service",
+      "system" : "snomed"
+    }, {
+      "code" : "310153001",
+      "description" : "Upper gastrointestinal surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "310167005",
+      "description" : "Urology service",
+      "system" : "snomed"
+    }, {
+      "code" : "24011000087101",
+      "description" : "Vascular imaging service",
+      "system" : "snomed"
+    }, {
+      "code" : "722352000",
+      "description" : "Vascular medicine service",
+      "system" : "snomed"
+    }, {
+      "code" : "310168000",
+      "description" : "Vascular surgery service",
+      "system" : "snomed"
+    }, {
+      "code" : "708171007",
+      "description" : "Vascular ultrasound service",
+      "system" : "snomed"
+    }, {
+      "code" : "45731000087107",
+      "description" : "Vestibular rehabilitation service",
+      "system" : "snomed"
+    }, {
+      "code" : "708185002",
+      "description" : "Virology service",
+      "system" : "snomed"
+    }, {
+      "code" : "45741000087101",
+      "description" : "Vision care service",
+      "system" : "snomed"
+    }, {
+      "code" : "310132005",
+      "description" : "Young disabled service",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 333,
+    "isComplete" : true
+  }
+}
