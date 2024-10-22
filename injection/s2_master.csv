@@ -115,3 +115,7 @@ s2-ENTITY-Comms_address_use.comms_address_use_general.v1.0.0,ac3,http://s2health
 s2-ENTITY-Comms_address_use.comms_address_use_general.v1.0.0,ac4,http://s2health.org/id/s2.CommunicationPurpose
 s2-ENTITY-Location_address_use.location_address_use_general.v1.0.0,ac1,http://s2health.org/id/s2.AddressType
 s2-ENTITY-Info_node.patient_contact.v1.0.0,ac2,http://s2health.org/id/s2.RelatedPersonRole
+s2-ADMIN-Billing_encounter.encounter_general.v1.0.0,ac8010,http://s2health.org/id/s2.EncounterDomainType
+s2-ENTITY-Party_relationship.patient.v1.0.0,ac8010,http://s2health.org/id/s2.PartyRelationshipDomainType
+s2-ENTITY-Person.person.v1.0.0,ac8010,http://s2health.org/id/s2.PartyDomainType
+s2-ENTITY-Organization.organization.v1.0.0,ac8010,http://s2health.org/id/s2.PartyDomainType
