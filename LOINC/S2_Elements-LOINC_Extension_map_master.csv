@@ -190,6 +190,7 @@
 1829,Comms addresses,Active,90054-8,Email address Organization EmailAddr Pt Nom,Active,General,False,s2-ENTITY-Info_node.patient_contact.v1,id4,/items[id4],s2-ENTITY-Comms_address_use.comms_address_use_general.v1
 1740,"Communications address, including postal",Active,99953-2,Address Entity Addr Pt Nom,Active,General,False,s2-ENTITY-Comms_address_use.comms_address_use_general.v1,id1,/,
 1768,Communications addresses,Active,99953-2,Address Entity Addr Pt Nom,Active,General,False,s2-ENTITY-Organization.organization.v1,id2,/comms_addresses[id2],s2-ENTITY-Comms_address_use.comms_address_use_general.v1
+1894,Communications purpose,Active,104911-3,Communication purpose Person Find Pt Nar,Active,General,False,s2-ENTITY-Comms_address_use.comms_address_use_general.v1,id4,/purposes[id4],
 1188,Confounding factors,Active,106176-1,Confounding factors Patient Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id1053,/state[id1053],
 1218,Confounding factors,Active,106176-1,Confounding factors Patient Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.body_mass_index.v2,id12,/state[id12],
 1228,Confounding factors,Active,106176-1,Confounding factors Patient Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.body_temperature.v2,id67,/state[id67],
@@ -292,6 +293,7 @@
 1815,Encounter - Author,Active,52457-9,Provider Information,Retired,General,False,s2-EHR-Composition.encounter.v1,id21,/author[id21],s2-EHR-Entity_ref_node.healthcare_professional_ref.v1
 1032,Encounter Id,Active,75519-9,Encounter identifier,Active,General,False,s2-EHR-Composition.encounter.v1,id3,/context[id2]/other_context[id3],
 1820,Encounter identifier,Active,75519-9,Encounter identifier,Active,General,False,s2-EHR-Entity_ref_node.encounter_ref.v1,id0.3,/items[id3],
+1893,Encounter interaction type,Active,59c3123d-048c-ef11-8872-6045bdc71c8b,Interaction type,Active,General,False,s2-EHR-Entity_ref_node.encounter_ref.v1,id0.2,/value[id0.2],
 1013,Encounter purpose narrative,Active,104915-4,Reason for encounter Patient Find Pt Nar,Active,General,False,s2-ADMIN-Billing_encounter.encounter_general.v1,id22,/other_details[id22],
 1819,Encounter reference,Active,a82d501b-5274-ef11-8870-6045bdc71c8b,Billing encounter information panel,Active,General,False,s2-EHR-Entity_ref_node.encounter_ref.v1,id1.1,/,
 1229,Environmental conditions,Active,6a144fae-7082-ef11-8870-6045bdc71c8b,Environmental conditions panel,Active,General,False,s2-EHR-Direct_observation.body_temperature.v2,id57,/state[id57],s2-EHR-Info_node.environmental_conditions.v0
@@ -629,6 +631,7 @@
 1184,Pulse pressure,Active,41e8c360-6782-ef11-8870-6045bdc71c8b,Pulse pressure,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id1008,/data[id1008],
 1204,Pulse pressure,Active,a84a7424-6882-ef11-8870-6045bdc71c8b,24 Hour Average Pulse pressure,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id1008,/data_series[id1043]/items[id1008],
 1326,Purpose,Active,72d04cf1-6882-ef11-8870-6045bdc71c8b,Total daily effective dose - Purpose,Active,General,False,s2-EHR-Order.medication_order.v4,id166,/activities[id2]/description[id63]/items[id151]/items[id166],
+1895,Purpose,Active,99958-1,Address use Entity Type Pt Nom,Active,General,False,s2-ENTITY-Location_address_use.location_address_use_general.v1,id14,/purposes[id14],
 1524,Quantitative lab analyte result,Active,43f93831-318e-ef11-8872-6045bdc71c8b,Quantitative laboratory test details panel,Active,General,False,s2-EHR-Info_node.lab_analyte_quantitative.v0,id1.1,/,
 1459,Range,Active,a5ce039b-6f82-ef11-8870-6045bdc71c8b,Device capable range,Active,General,False,s2-EHR-Info_node.device_details.v0,id13,/items[id13],
 1798,Range,Active,a5ce039b-6f82-ef11-8870-6045bdc71c8b,Device capable range,Active,General,False,s2-ENTITY-Artifact_kind.imaging_device.v1,id0.0.13,/items[id0.0.13],
