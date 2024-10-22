@@ -398,6 +398,7 @@
 1662,Key order dates,Active,6629d5ec-7182-ef11-8870-6045bdc71c8b,Medication key order date(s),Active,General,False,s2-EHR-Info_node.medication_order_summary.v0,id3,/items[id3],
 1508,Lab analyte result structure,Active,cbfb8ff4-7082-ef11-8870-6045bdc71c8b,Lab result detais panel,Active,General,False,s2-EHR-Info_node.lab_analyte.v0,id1,/,
 1377,Lab organization ref,Active,106205-8,Performing laboratory panel Patient - Pt -,Active,General,False,s2-EHR-Entity_ref_node.lab_organization_ref.v1,id1.1.1,/,
+1897,Lab panel,Active,104922-0,Laboratory test details panel Patient - Pt -,Active,General,False,s2-EHR-Composition.t_lab_report-generic.v1,id0.1,/content[id0.1],
 1038,Lab report,Active,c6368655-6682-ef11-8870-6045bdc71c8b,"Lab report, structured",Active,General,False,s2-EHR-Composition.lab_report.v1,id1,/,
 1818,Lab report - Author,Active,52457-9,Provider Information,Retired,General,False,s2-EHR-Composition.lab_report.v1,id21,/author[id21],s2-EHR-Entity_ref_node.healthcare_professional_ref.v1
 1515,Lab result with coded ordinal value,Active,8dbff427-318e-ef11-8872-6045bdc71c8b,Ordinal laboratory test details panel,Active,General,False,s2-EHR-Info_node.lab_analyte_ordinal.v0,id1.1,/,
