@@ -649,6 +649,7 @@
 1434,Reasons,Active,07b049c0-6e82-ef11-8870-6045bdc71c8b,Ready to change reason,Active,General,False,s2-EHR-Info_node.change.v0,id3,/items[id3],
 1523,Reducing substances Urine PrThr Pt Ord,Active,5809-9,Reducing substances Urine PrThr Pt Ord,Active,Lab Test,False,s2-EHR-Info_node.ReducingsubstancesPrThrPtUrineOrdLabObs.v1,id1.1.1,/,
 1411,Reference direction,Active,a4b8b2d9-6c82-ef11-8870-6045bdc71c8b,Circular reference direction,Active,General,False,s2-EHR-Info_node.anatomical_location_circle.v1,id0.66,/items[id0.66],
+1896,Reference ranges,Active,f8d749e3-728a-ef11-8872-6045bdc71c8b,Reference Range information panel,Active,General,False,s2-EHR-Info_node.lab_analyte_quantitative.v0.0.1,id0.10,/value[id0.1]/reference_ranges[id0.10],
 1826,Reference to a Patient contact,Active,42efa0c7-338e-ef11-8872-6045bdc71c8b,Patient contact information panel,Active,General,False,s2-ENTITY-Info_node.patient_contact.v1,id1,/,
 1381,Reference to a Person,Active,104976-6,Information panel Person - Pt -,Active,General,False,s2-EHR-Entity_ref_node.person_ref.v1,id1.1,/,
 1382,Reference to a Person,Active,104976-6,Information panel Person - Pt -,Active,General,False,s2-EHR-Entity_ref_node.self_ref.v1,id1.1,/,
