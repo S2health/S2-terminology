@@ -267,6 +267,7 @@ s2-EHR-Entity_ref_node.device_ref.v1,id1,82307-0
 s2-EHR-Entity_ref_node.device_ref.v1,id2,74720-4
 s2-EHR-Entity_ref_node.device_ref.v1,id4,66464-9
 s2-EHR-Entity_ref_node.device_ref.v1,id5,74719-6
+s2-EHR-Entity_ref_node.encounter_ref.v1,id0.2,59c3123d-048c-ef11-8872-6045bdc71c8b
 s2-EHR-Entity_ref_node.encounter_ref.v1,id0.3,75519-9
 s2-EHR-Entity_ref_node.encounter_ref.v1,id1.1,a82d501b-5274-ef11-8870-6045bdc71c8b
 s2-EHR-Entity_ref_node.encounter_ref.v1,id2,59c3123d-048c-ef11-8872-6045bdc71c8b
@@ -518,6 +519,7 @@ s2-EHR-Info_node.lab_analyte.v0,id9,66746-9
 s2-EHR-Info_node.lab_analyte_coded.v0,id1.1,cb54981e-318e-ef11-8872-6045bdc71c8b
 s2-EHR-Info_node.lab_analyte_ordinal.v0,id1.1,8dbff427-318e-ef11-8872-6045bdc71c8b
 s2-EHR-Info_node.lab_analyte_quantitative.v0,id1.1,43f93831-318e-ef11-8872-6045bdc71c8b
+s2-EHR-Info_node.lab_analyte_quantitative.v0.0.1,id0.10,f8d749e3-728a-ef11-8872-6045bdc71c8b
 s2-EHR-Info_node.language.v1,id1,104916-2
 s2-EHR-Info_node.language.v1,id2,54505-3
 s2-EHR-Info_node.language.v1,id3,104930-3
@@ -720,6 +722,7 @@ s2-ENTITY-Artifact_kind.imaging_device.v1,id0.0.15,3abb5da3-6f82-ef11-8870-6045b
 s2-ENTITY-Artifact_kind.imaging_device.v1,id1.1.1,b7eabab9-7482-ef11-8870-6045bdc71c8b
 s2-ENTITY-Artifact_kind.medical_device.v1,id1.1,09732ba3-7482-ef11-8870-6045bdc71c8b
 s2-ENTITY-Comms_address_use.comms_address_use_general.v1,id1,99953-2
+s2-ENTITY-Comms_address_use.comms_address_use_general.v1,id4,104911-3
 s2-ENTITY-Entity_ref_node.medication_type_ref.v1,id1,74078-7
 s2-ENTITY-Entity_ref_node.medication_type_ref.v1,id133,74058-9
 s2-ENTITY-Entity_ref_node.medication_type_ref.v1,id152,74719-6
@@ -749,6 +752,7 @@ s2-ENTITY-Info_node.structured_name.v1,id6,97847-8
 s2-ENTITY-Info_node.structured_name.v1,id7,97850-2
 s2-ENTITY-Location_address_use.location_address_use_general.v1,id1,99953-2
 s2-ENTITY-Location_address_use.location_address_use_general.v1,id10,41905-1
+s2-ENTITY-Location_address_use.location_address_use_general.v1,id14,99958-1
 s2-ENTITY-Location_address_use.location_address_use_general.v1,id2,106181-1
 s2-ENTITY-Location_address_use.location_address_use_general.v1,id20,104970-9
 s2-ENTITY-Location_address_use.location_address_use_general.v1,id22,104912-1
