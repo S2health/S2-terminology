@@ -1,0 +1,35 @@
+{
+  "id" : "s2.PartyRelationshipDomainType",
+  "creationDate" : "2024-10-22T17:54:17-0400",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "PartyRelationshipDomainType",
+    "description" : "Party relationship domain type",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "70924004",
+      "description" : "Brother",
+      "system" : "snomed"
+    }, {
+      "code" : "31531000205102",
+      "description" : "Employment",
+      "system" : "snomed"
+    }, {
+      "code" : "127849001",
+      "description" : "Husband",
+      "system" : "snomed"
+    }, {
+      "code" : "774164004",
+      "description" : "Supplier",
+      "system" : "snomed"
+    }, {
+      "code" : "127850001",
+      "description" : "Wife",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 5,
+    "isComplete" : true
+  }
+}
