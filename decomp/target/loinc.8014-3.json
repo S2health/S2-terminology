@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "8014-3",
-    "description" : "Rubella virus Ab.IgG Ser ACnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "8014-3",
+    "description": "Rubella virus Ab.IgG Ser ACnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.RubellavirusAbIgGACncPtSerQn.v1.0.0.adls",
-  "children" : {
-    "5334-8" : {
-      "source" : {
-        "code" : "5334-8",
-        "description" : "Rubella virus Ab.IgG Ser/Plas ACnc Pt Qn IA",
-        "system" : "loinc"
+  "children": {
+    "5334-8": {
+      "source": {
+        "code": "5334-8",
+        "description": "Rubella virus Ab.IgG Ser/Plas ACnc Pt Qn IA",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "8014-3",
-        "description" : "Rubella virus Ab.IgG Ser ACnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "8014-3",
+        "description": "Rubella virus Ab.IgG Ser ACnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.RubellavirusAbIgGACncPtSerQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "726449005",
-          "description" : "Immunoassay technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

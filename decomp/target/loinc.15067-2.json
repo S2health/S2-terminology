@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "15067-2",
-    "description" : "Follitropin Ser/Plas ACnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "15067-2",
+    "description": "Follitropin Ser/Plas ACnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.FollitropinACncPtSerPlasQn.v1.0.0.adls",
-  "children" : {
-    "20433-9" : {
-      "source" : {
-        "code" : "20433-9",
-        "description" : "Follitropin Ser/Plas ACnc Pt Qn 2nd IRP",
-        "system" : "loinc"
+  "children": {
+    "20433-9": {
+      "source": {
+        "code": "20433-9",
+        "description": "Follitropin Ser/Plas ACnc Pt Qn 2nd IRP",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "15067-2",
-        "description" : "Follitropin Ser/Plas ACnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "15067-2",
+        "description": "Follitropin Ser/Plas ACnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.FollitropinACncPtSerPlasQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "31041000205104",
-          "description" : "Second international reference preparation testing technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31041000205104",
+            "description": "Second international reference preparation testing technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "890-4",
-    "description" : "Blood group antibody screen Ser/Plas PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "890-4",
+    "description": "Blood group antibody screen Ser/Plas PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.BloodGroupAntibodyScreenACncPtSerPlasOrd.v1.0.0.adls",
-  "children" : {
-    "75263-4" : {
-      "source" : {
-        "code" : "75263-4",
-        "description" : "Blood group antibody screen Ser/Plas PrThr Pt Ord GEL",
-        "system" : "loinc"
+  "children": {
+    "75263-4": {
+      "source": {
+        "code": "75263-4",
+        "description": "Blood group antibody screen Ser/Plas PrThr Pt Ord GEL",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "890-4",
-        "description" : "Blood group antibody screen Ser/Plas PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "890-4",
+        "description": "Blood group antibody screen Ser/Plas PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.BloodGroupAntibodyScreenACncPtSerPlasOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "1306895000",
-          "description" : "Gel column agglutination technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1306895000",
+            "description": "Gel column agglutination technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

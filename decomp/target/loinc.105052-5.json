@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105052-5",
-    "description" : "Bacteria [Presence] in Urine sediment by Microscopy",
-    "system" : "loinc"
+  "target": {
+    "code": "105052-5",
+    "description": "Bacteria [Presence] in Urine sediment by Microscopy",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.BacteriaPrThrPtUrinesedOrdMicroscopy.v1.0.0.adls",
-  "children" : {
-    "25145-4" : {
-      "source" : {
-        "code" : "25145-4",
-        "description" : "Bacteria Urine sed PrThr Pt Ord Microscopy.light",
-        "system" : "loinc"
+  "children": {
+    "25145-4": {
+      "source": {
+        "code": "25145-4",
+        "description": "Bacteria Urine sed PrThr Pt Ord Microscopy.light",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105052-5",
-        "description" : "Bacteria [Presence] in Urine sediment by Microscopy",
-        "system" : "loinc"
+      "target": {
+        "code": "105052-5",
+        "description": "Bacteria [Presence] in Urine sediment by Microscopy",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.BacteriaPrThrPtUrinesedOrdMicroscopy.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702661004",
-          "description" : "Light microscopy technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702661004",
+            "description": "Light microscopy technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "87829-8",
-    "description" : "Bacteria Urine PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "87829-8",
+    "description": "Bacteria Urine PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.BacteriaPrThrPtUrineOrd.v1.0.0.adls",
-  "children" : {
-    "50221-1" : {
-      "source" : {
-        "code" : "50221-1",
-        "description" : "Bacteria Urine PrThr Pt Ord Automated",
-        "system" : "loinc"
+  "children": {
+    "50221-1": {
+      "source": {
+        "code": "50221-1",
+        "description": "Bacteria Urine PrThr Pt Ord Automated",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "87829-8",
-        "description" : "Bacteria Urine PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "87829-8",
+        "description": "Bacteria Urine PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.BacteriaPrThrPtUrineOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "8359006",
-          "description" : "Automated",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "8359006",
+            "description": "Automated",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

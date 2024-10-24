@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "22592-0",
-    "description" : "Treponema pallidum Ab.IgG Ser ACnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "22592-0",
+    "description": "Treponema pallidum Ab.IgG Ser ACnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.TreponemapallidumAbIgGACncPtSerQn.v1.0.0.adls",
-  "children" : {
-    "51838-1" : {
-      "source" : {
-        "code" : "51838-1",
-        "description" : "Treponema pallidum Ab.IgG Ser ACnc Pt Qn IA",
-        "system" : "loinc"
+  "children": {
+    "51838-1": {
+      "source": {
+        "code": "51838-1",
+        "description": "Treponema pallidum Ab.IgG Ser ACnc Pt Qn IA",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "22592-0",
-        "description" : "Treponema pallidum Ab.IgG Ser ACnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "22592-0",
+        "description": "Treponema pallidum Ab.IgG Ser ACnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.TreponemapallidumAbIgGACncPtSerQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "726449005",
-          "description" : "Immunoassay technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

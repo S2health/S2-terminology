@@ -1,60 +1,61 @@
 {
-  "target" : {
-    "code" : "3393-6",
-    "description" : "Benzoylecgonine Urine PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "3393-6",
+    "description": "Benzoylecgonine Urine PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.BenzoylecgoninePrThrPtUrineOrd.v1.0.0.adls",
-  "children" : {
-    "43985-1" : {
-      "source" : {
-        "code" : "43985-1",
-        "description" : "Benzoylecgonine Urine PrThr Pt Ord Screen>300 ng/mL",
-        "system" : "loinc"
+  "children": {
+    "43985-1": {
+      "source": {
+        "code": "43985-1",
+        "description": "Benzoylecgonine Urine PrThr Pt Ord Screen>300 ng/mL",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "3393-6",
-        "description" : "Benzoylecgonine Urine PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "3393-6",
+        "description": "Benzoylecgonine Urine PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.BenzoylecgoninePrThrPtUrineOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "31021000205107",
-          "description" : "Greater than 300 ng/mL screening test technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31021000205107",
+            "description": "Greater than 300 ng/mL screening test technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     },
-    "14314-9" : {
-      "source" : {
-        "code" : "14314-9",
-        "description" : "Benzoylecgonine Urine PrThr Pt Ord Screen",
-        "system" : "loinc"
+    "14314-9": {
+      "source": {
+        "code": "14314-9",
+        "description": "Benzoylecgonine Urine PrThr Pt Ord Screen",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "3393-6",
-        "description" : "Benzoylecgonine Urine PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "3393-6",
+        "description": "Benzoylecgonine Urine PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.BenzoylecgoninePrThrPtUrineOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "1287497009",
-          "description" : "Screening technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1287497009",
+            "description": "Screening technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

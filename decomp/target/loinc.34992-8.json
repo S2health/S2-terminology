@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "34992-8",
-    "description" : "Smudge cells/100 leukocytes Bld NFr Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "34992-8",
+    "description": "Smudge cells/100 leukocytes Bld NFr Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.Smudgecells100leukocytesNFrPtBldQn.v1.0.0.adls",
-  "children" : {
-    "14912-0" : {
-      "source" : {
-        "code" : "14912-0",
-        "description" : "Smudge cells/100 leukocytes Bld NFr Pt Qn Manual count",
-        "system" : "loinc"
+  "children": {
+    "14912-0": {
+      "source": {
+        "code": "14912-0",
+        "description": "Smudge cells/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "34992-8",
-        "description" : "Smudge cells/100 leukocytes Bld NFr Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "34992-8",
+        "description": "Smudge cells/100 leukocytes Bld NFr Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.Smudgecells100leukocytesNFrPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702663001",
-          "description" : "Manual count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702663001",
+            "description": "Manual count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105060-8",
-    "description" : "Trichomonas vaginalis [Presence] in Specimen",
-    "system" : "loinc"
+  "target": {
+    "code": "105060-8",
+    "description": "Trichomonas vaginalis [Presence] in Specimen",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.TrichomonasvaginalisPrThrPtXXXOrd.v1.0.0.adls",
-  "children" : {
-    "14367-7" : {
-      "source" : {
-        "code" : "14367-7",
-        "description" : "Trichomonas vaginalis Vag PrThr Pt Ord Wet preparation",
-        "system" : "loinc"
+  "children": {
+    "14367-7": {
+      "source": {
+        "code": "14367-7",
+        "description": "Trichomonas vaginalis Vag PrThr Pt Ord Wet preparation",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105060-8",
-        "description" : "Trichomonas vaginalis [Presence] in Specimen",
-        "system" : "loinc"
+      "target": {
+        "code": "105060-8",
+        "description": "Trichomonas vaginalis [Presence] in Specimen",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.TrichomonasvaginalisPrThrPtXXXOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703457005",
-          "description" : "Wet preparation technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703457005",
+            "description": "Wet preparation technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

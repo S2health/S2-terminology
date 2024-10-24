@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "40715-5",
-    "description" : "Granulocytes.immature Bld PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "40715-5",
+    "description": "Granulocytes.immature Bld PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.GranulocytesimmaturePrThrPtBldOrd.v1.0.0.adls",
-  "children" : {
-    "34165-1" : {
-      "source" : {
-        "code" : "34165-1",
-        "description" : "Granulocytes.immature Bld PrThr Pt Ord Automated count",
-        "system" : "loinc"
+  "children": {
+    "34165-1": {
+      "source": {
+        "code": "34165-1",
+        "description": "Granulocytes.immature Bld PrThr Pt Ord Automated count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "40715-5",
-        "description" : "Granulocytes.immature Bld PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "40715-5",
+        "description": "Granulocytes.immature Bld PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.GranulocytesimmaturePrThrPtBldOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702659008",
-          "description" : "Automated count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

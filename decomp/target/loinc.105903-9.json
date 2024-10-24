@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105903-9",
-    "description" : "Escherichia coli enteroaggregative pAA plasmid aggR+aatA genes [Presence] in Stool",
-    "system" : "loinc"
+  "target": {
+    "code": "105903-9",
+    "description": "Escherichia coli enteroaggregative pAA plasmid aggR+aatA genes [Presence] in Stool",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.EscherichiacolienteroaggregativepAAplasmidaggRaatAgenesPrThrPtStoolOrd.v1.0.0.adls",
-  "children" : {
-    "80349-4" : {
-      "source" : {
-        "code" : "80349-4",
-        "description" : "Escherichia coli enteroaggregative pAA plasmid aggR+aatA genes Stool PrThr Pt Ord Non-probe.amp.tar",
-        "system" : "loinc"
+  "children": {
+    "80349-4": {
+      "source": {
+        "code": "80349-4",
+        "description": "Escherichia coli enteroaggregative pAA plasmid aggR+aatA genes Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105903-9",
-        "description" : "Escherichia coli enteroaggregative pAA plasmid aggR+aatA genes [Presence] in Stool",
-        "system" : "loinc"
+      "target": {
+        "code": "105903-9",
+        "description": "Escherichia coli enteroaggregative pAA plasmid aggR+aatA genes [Presence] in Stool",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.EscherichiacolienteroaggregativepAAplasmidaggRaatAgenesPrThrPtStoolOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "31111000205104",
-          "description" : "Non-probe target amplification technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31111000205104",
+            "description": "Non-probe target amplification technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

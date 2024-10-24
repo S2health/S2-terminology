@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "2708-6",
-    "description" : "Oxygen saturation BldA MFr Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "2708-6",
+    "description": "Oxygen saturation BldA MFr Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.OxygensaturationMFrPtBldAQn.v1.0.0.adls",
-  "children" : {
-    "51733-4" : {
-      "source" : {
-        "code" : "51733-4",
-        "description" : "Oxygen saturation BldA MFr Pt Qn Calculated from oxygen partial pressure",
-        "system" : "loinc"
+  "children": {
+    "51733-4": {
+      "source": {
+        "code": "51733-4",
+        "description": "Oxygen saturation BldA MFr Pt Qn Calculated from oxygen partial pressure",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "2708-6",
-        "description" : "Oxygen saturation BldA MFr Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "2708-6",
+        "description": "Oxygen saturation BldA MFr Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.OxygensaturationMFrPtBldAQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703463001",
-          "description" : "Calculation from oxygen partial pressure",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703463001",
+            "description": "Calculation from oxygen partial pressure",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

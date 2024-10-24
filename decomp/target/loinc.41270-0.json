@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "41270-0",
-    "description" : "Drugs identified Urine Prid Pt Nom",
-    "system" : "loinc"
+  "target": {
+    "code": "41270-0",
+    "description": "Drugs identified Urine Prid Pt Nom",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.DrugsidentifiedPridPtUrineNom.v1.0.0.adls",
-  "children" : {
-    "12286-1" : {
-      "source" : {
-        "code" : "12286-1",
-        "description" : "Drugs identified Urine Prid Pt Nom Screen",
-        "system" : "loinc"
+  "children": {
+    "12286-1": {
+      "source": {
+        "code": "12286-1",
+        "description": "Drugs identified Urine Prid Pt Nom Screen",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "41270-0",
-        "description" : "Drugs identified Urine Prid Pt Nom",
-        "system" : "loinc"
+      "target": {
+        "code": "41270-0",
+        "description": "Drugs identified Urine Prid Pt Nom",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.DrugsidentifiedPridPtUrineNom.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "1287497009",
-          "description" : "Screening technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1287497009",
+            "description": "Screening technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

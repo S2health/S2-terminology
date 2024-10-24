@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "13047-6",
-    "description" : "Plasma cells/100 leukocytes Bld NFr Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "13047-6",
+    "description": "Plasma cells/100 leukocytes Bld NFr Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.PlasmaCells100LeukocytesNFrPtBldQn.v1.0.0.adls",
-  "children" : {
-    "79426-3" : {
-      "source" : {
-        "code" : "79426-3",
-        "description" : "Plasma cells/100 leukocytes Bld NFr Pt Qn Manual count",
-        "system" : "loinc"
+  "children": {
+    "79426-3": {
+      "source": {
+        "code": "79426-3",
+        "description": "Plasma cells/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "13047-6",
-        "description" : "Plasma cells/100 leukocytes Bld NFr Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "13047-6",
+        "description": "Plasma cells/100 leukocytes Bld NFr Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.PlasmaCells100LeukocytesNFrPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702663001",
-          "description" : "Manual count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702663001",
+            "description": "Manual count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

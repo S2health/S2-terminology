@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "53379-4",
-    "description" : "HIV 1 Ab PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "53379-4",
+    "description": "HIV 1 Ab PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.HIV1AbPrThrPtXXXOrd.v1.0.0.adls",
-  "children" : {
-    "29893-5" : {
-      "source" : {
-        "code" : "29893-5",
-        "description" : "HIV 1 Ab Ser/Plas PrThr Pt Ord IA",
-        "system" : "loinc"
+  "children": {
+    "29893-5": {
+      "source": {
+        "code": "29893-5",
+        "description": "HIV 1 Ab Ser/Plas PrThr Pt Ord IA",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "53379-4",
-        "description" : "HIV 1 Ab PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "53379-4",
+        "description": "HIV 1 Ab PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.HIV1AbPrThrPtXXXOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "726449005",
-          "description" : "Immunoassay technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

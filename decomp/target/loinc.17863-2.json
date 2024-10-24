@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "17863-2",
-    "description" : "Calcium.ionized Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "17863-2",
+    "description": "Calcium.ionized Ser/Plas MCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.CalciumionizedMCncPtSerPlasQn.v1.0.0.adls",
-  "children" : {
-    "17864-0" : {
-      "source" : {
-        "code" : "17864-0",
-        "description" : "Calcium.ionized Ser/Plas MCnc Pt Qn ISE",
-        "system" : "loinc"
+  "children": {
+    "17864-0": {
+      "source": {
+        "code": "17864-0",
+        "description": "Calcium.ionized Ser/Plas MCnc Pt Qn ISE",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "17863-2",
-        "description" : "Calcium.ionized Ser/Plas MCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "17863-2",
+        "description": "Calcium.ionized Ser/Plas MCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.CalciumionizedMCncPtSerPlasQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703445001",
-          "description" : "Ion selective electrode measurement technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703445001",
+            "description": "Ion selective electrode measurement technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

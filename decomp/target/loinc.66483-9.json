@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "66483-9",
-    "description" : "Heparin.unfractionated PPP ACnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "66483-9",
+    "description": "Heparin.unfractionated PPP ACnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.HeparinunfractionatedACncPtPPPQn.v1.0.0.adls",
-  "children" : {
-    "3274-8" : {
-      "source" : {
-        "code" : "3274-8",
-        "description" : "Heparin.unfractionated PPP ACnc Pt Qn Chromo",
-        "system" : "loinc"
+  "children": {
+    "3274-8": {
+      "source": {
+        "code": "3274-8",
+        "description": "Heparin.unfractionated PPP ACnc Pt Qn Chromo",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "66483-9",
-        "description" : "Heparin.unfractionated PPP ACnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "66483-9",
+        "description": "Heparin.unfractionated PPP ACnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.HeparinunfractionatedACncPtPPPQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "708069005",
-          "description" : "Chromogenic technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "708069005",
+            "description": "Chromogenic technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

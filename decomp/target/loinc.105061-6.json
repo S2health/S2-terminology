@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105061-6",
-    "description" : "Streptococcus pyogenes exotoxin B speB gene [Presence] in Specimen",
-    "system" : "loinc"
+  "target": {
+    "code": "105061-6",
+    "description": "Streptococcus pyogenes exotoxin B speB gene [Presence] in Specimen",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.StreptococcuspyogenesexotoxinBspeBgenePrThrPtXXXOrd.v1.0.0.adls",
-  "children" : {
-    "72268-6" : {
-      "source" : {
-        "code" : "72268-6",
-        "description" : "Streptococcus pyogenes exotoxin B speB gene PrThr Pt Ord Probe.amp.tar",
-        "system" : "loinc"
+  "children": {
+    "72268-6": {
+      "source": {
+        "code": "72268-6",
+        "description": "Streptococcus pyogenes exotoxin B speB gene PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105061-6",
-        "description" : "Streptococcus pyogenes exotoxin B speB gene [Presence] in Specimen",
-        "system" : "loinc"
+      "target": {
+        "code": "105061-6",
+        "description": "Streptococcus pyogenes exotoxin B speB gene [Presence] in Specimen",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.StreptococcuspyogenesexotoxinBspeBgenePrThrPtXXXOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702675006",
-          "description" : "Probe with target amplification technique technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "3772-1",
-    "description" : "Methadone Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "3772-1",
+    "description": "Methadone Ser/Plas MCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.MethadoneMCncPtSerPlasQn.v1.0.0.adls",
-  "children" : {
-    "59705-4" : {
-      "source" : {
-        "code" : "59705-4",
-        "description" : "Methadone Ser/Plas PrThr Pt Ord Screen",
-        "system" : "loinc"
+  "children": {
+    "59705-4": {
+      "source": {
+        "code": "59705-4",
+        "description": "Methadone Ser/Plas PrThr Pt Ord Screen",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "3772-1",
-        "description" : "Methadone Ser/Plas MCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "3772-1",
+        "description": "Methadone Ser/Plas MCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.MethadoneMCncPtSerPlasQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "1287497009",
-          "description" : "Screening technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1287497009",
+            "description": "Screening technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

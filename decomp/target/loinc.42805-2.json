@@ -1,82 +1,85 @@
 {
-  "target" : {
-    "code" : "42805-2",
-    "description" : "Fungus identified Prid Pt Nom",
-    "system" : "loinc"
+  "target": {
+    "code": "42805-2",
+    "description": "Fungus identified Prid Pt Nom",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.FungusidentifiedPridPtXXXNom.v1.0.0.adls",
-  "children" : {
-    "601-5" : {
-      "source" : {
-        "code" : "601-5",
-        "description" : "Fungus identified Bld Prid Pt Nom Culture",
-        "system" : "loinc"
+  "children": {
+    "601-5": {
+      "source": {
+        "code": "601-5",
+        "description": "Fungus identified Bld Prid Pt Nom Culture",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "42805-2",
-        "description" : "Fungus identified Prid Pt Nom",
-        "system" : "loinc"
+      "target": {
+        "code": "42805-2",
+        "description": "Fungus identified Prid Pt Nom",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.FungusidentifiedPridPtXXXNom.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703725008",
+            "description": "Culture technique",
+            "system": "snomed"
+          }
         },
-        "value" : {
-          "code" : "703725008",
-          "description" : "Culture technique",
-          "system" : "snomed"
+        {
+          "key": {
+            "code": "66746-9",
+            "description": "Specimen type",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "119297000",
+            "description": "Blood specimen",
+            "system": "snomed"
+          }
         }
-      }, {
-        "key" : {
-          "code" : "66746-9",
-          "description" : "Specimen type",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "119297000",
-          "description" : "Blood specimen",
-          "system" : "snomed"
-        }
-      } ]
+      ]
     },
-    "580-1" : {
-      "source" : {
-        "code" : "580-1",
-        "description" : "Fungus identified Prid Pt Nom Culture",
-        "system" : "loinc"
+    "580-1": {
+      "source": {
+        "code": "580-1",
+        "description": "Fungus identified Prid Pt Nom Culture",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "42805-2",
-        "description" : "Fungus identified Prid Pt Nom",
-        "system" : "loinc"
+      "target": {
+        "code": "42805-2",
+        "description": "Fungus identified Prid Pt Nom",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.FungusidentifiedPridPtXXXNom.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703725008",
+            "description": "Culture technique",
+            "system": "snomed"
+          }
         },
-        "value" : {
-          "code" : "703725008",
-          "description" : "Culture technique",
-          "system" : "snomed"
+        {
+          "key": {
+            "code": "66746-9",
+            "description": "Specimen type",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "430304001",
+            "description": "Specimen from unspecified body site",
+            "system": "snomed"
+          }
         }
-      }, {
-        "key" : {
-          "code" : "66746-9",
-          "description" : "Specimen type",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "430304001",
-          "description" : "Specimen from unspecified body site",
-          "system" : "snomed"
-        }
-      } ]
+      ]
     }
   }
 }

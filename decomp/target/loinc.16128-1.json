@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "16128-1",
-    "description" : "Hepatitis C virus Ab Ser PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "16128-1",
+    "description": "Hepatitis C virus Ab Ser PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.HepatitisCVirusAbACncPtSerOrd.v1.0.0.adls",
-  "children" : {
-    "13955-0" : {
-      "source" : {
-        "code" : "13955-0",
-        "description" : "Hepatitis C virus Ab Ser/Plas PrThr Pt Ord IA",
-        "system" : "loinc"
+  "children": {
+    "13955-0": {
+      "source": {
+        "code": "13955-0",
+        "description": "Hepatitis C virus Ab Ser/Plas PrThr Pt Ord IA",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "16128-1",
-        "description" : "Hepatitis C virus Ab Ser PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "16128-1",
+        "description": "Hepatitis C virus Ab Ser PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.HepatitisCVirusAbACncPtSerOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "726449005",
-          "description" : "Immunoassay technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

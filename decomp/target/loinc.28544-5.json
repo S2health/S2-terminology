@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "28544-5",
-    "description" : "Mesothelial cells/100 leukocytes Body fld NFr Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "28544-5",
+    "description": "Mesothelial cells/100 leukocytes Body fld NFr Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.Mesothelialcells100leukocytesNFrPtBodyfldQn.v1.0.0.adls",
-  "children" : {
-    "12234-1" : {
-      "source" : {
-        "code" : "12234-1",
-        "description" : "Mesothelial cells/100 leukocytes Body fld NFr Pt Qn Manual count",
-        "system" : "loinc"
+  "children": {
+    "12234-1": {
+      "source": {
+        "code": "12234-1",
+        "description": "Mesothelial cells/100 leukocytes Body fld NFr Pt Qn Manual count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "28544-5",
-        "description" : "Mesothelial cells/100 leukocytes Body fld NFr Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "28544-5",
+        "description": "Mesothelial cells/100 leukocytes Body fld NFr Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.Mesothelialcells100leukocytesNFrPtBodyfldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702663001",
-          "description" : "Manual count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702663001",
+            "description": "Manual count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

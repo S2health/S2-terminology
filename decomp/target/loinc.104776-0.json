@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "104776-0",
-    "description" : "Parainfluenza virus 2 RNA [Presence] in Specimen by Molecular genetics method",
-    "system" : "loinc"
+  "target": {
+    "code": "104776-0",
+    "description": "Parainfluenza virus 2 RNA [Presence] in Specimen by Molecular genetics method",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.Parainfluenzavirus2RNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
-  "children" : {
-    "29909-9" : {
-      "source" : {
-        "code" : "29909-9",
-        "description" : "Parainfluenza virus 2 RNA PrThr Pt Ord Probe.amp.tar",
-        "system" : "loinc"
+  "children": {
+    "29909-9": {
+      "source": {
+        "code": "29909-9",
+        "description": "Parainfluenza virus 2 RNA PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "104776-0",
-        "description" : "Parainfluenza virus 2 RNA [Presence] in Specimen by Molecular genetics method",
-        "system" : "loinc"
+      "target": {
+        "code": "104776-0",
+        "description": "Parainfluenza virus 2 RNA [Presence] in Specimen by Molecular genetics method",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.Parainfluenzavirus2RNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702675006",
-          "description" : "Probe with target amplification technique technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

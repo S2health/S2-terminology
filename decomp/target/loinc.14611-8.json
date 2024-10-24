@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "14611-8",
-    "description" : "Nuclear Ab pattern Ser Imp Pt Nom",
-    "system" : "loinc"
+  "target": {
+    "code": "14611-8",
+    "description": "Nuclear Ab pattern Ser Imp Pt Nom",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.NuclearAbpatternImpPtSerNom.v1.0.0.adls",
-  "children" : {
-    "13068-2" : {
-      "source" : {
-        "code" : "13068-2",
-        "description" : "Nuclear Ab pattern Ser Imp Pt Nom IF",
-        "system" : "loinc"
+  "children": {
+    "13068-2": {
+      "source": {
+        "code": "13068-2",
+        "description": "Nuclear Ab pattern Ser Imp Pt Nom IF",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "14611-8",
-        "description" : "Nuclear Ab pattern Ser Imp Pt Nom",
-        "system" : "loinc"
+      "target": {
+        "code": "14611-8",
+        "description": "Nuclear Ab pattern Ser Imp Pt Nom",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.NuclearAbpatternImpPtSerNom.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "406867009",
-          "description" : "Immunofluorescent stain method",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "406867009",
+            "description": "Immunofluorescent stain method",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

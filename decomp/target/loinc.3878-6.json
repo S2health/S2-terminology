@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "3878-6",
-    "description" : "Opiates Ser/Plas PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "3878-6",
+    "description": "Opiates Ser/Plas PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.OpiatesPrThrPtSerPlasOrd.v1.0.0.adls",
-  "children" : {
-    "8219-8" : {
-      "source" : {
-        "code" : "8219-8",
-        "description" : "Opiates Ser/Plas PrThr Pt Ord Screen",
-        "system" : "loinc"
+  "children": {
+    "8219-8": {
+      "source": {
+        "code": "8219-8",
+        "description": "Opiates Ser/Plas PrThr Pt Ord Screen",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "3878-6",
-        "description" : "Opiates Ser/Plas PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "3878-6",
+        "description": "Opiates Ser/Plas PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.OpiatesPrThrPtSerPlasOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "1287497009",
-          "description" : "Screening technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1287497009",
+            "description": "Screening technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

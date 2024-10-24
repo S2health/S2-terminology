@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105072-3",
-    "description" : "Escherichia coli enterotoxigenic ltA+st1a+st1b genes [Presence] in Stool",
-    "system" : "loinc"
+  "target": {
+    "code": "105072-3",
+    "description": "Escherichia coli enterotoxigenic ltA+st1a+st1b genes [Presence] in Stool",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.EscherichiacolienterotoxigenicltAst1ast1bgenesPrThrPtStoolOrd.v1.0.0.adls",
-  "children" : {
-    "80351-0" : {
-      "source" : {
-        "code" : "80351-0",
-        "description" : "Escherichia coli enterotoxigenic ltA+st1a+st1b genes Stool PrThr Pt Ord Non-probe.amp.tar",
-        "system" : "loinc"
+  "children": {
+    "80351-0": {
+      "source": {
+        "code": "80351-0",
+        "description": "Escherichia coli enterotoxigenic ltA+st1a+st1b genes Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105072-3",
-        "description" : "Escherichia coli enterotoxigenic ltA+st1a+st1b genes [Presence] in Stool",
-        "system" : "loinc"
+      "target": {
+        "code": "105072-3",
+        "description": "Escherichia coli enterotoxigenic ltA+st1a+st1b genes [Presence] in Stool",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.EscherichiacolienterotoxigenicltAst1ast1bgenesPrThrPtStoolOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "31111000205104",
-          "description" : "Non-probe target amplification technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31111000205104",
+            "description": "Non-probe target amplification technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

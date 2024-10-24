@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "2986-8",
-    "description" : "Testosterone Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "2986-8",
+    "description": "Testosterone Ser/Plas MCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.TestosteroneMCncPtSerPlasQn.v1.0.0.adls",
-  "children" : {
-    "49041-7" : {
-      "source" : {
-        "code" : "49041-7",
-        "description" : "Testosterone Ser/Plas MCnc Pt Qn Detection limit <= 1.0 ng/dL",
-        "system" : "loinc"
+  "children": {
+    "49041-7": {
+      "source": {
+        "code": "49041-7",
+        "description": "Testosterone Ser/Plas MCnc Pt Qn Detection limit <= 1.0 ng/dL",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "2986-8",
-        "description" : "Testosterone Ser/Plas MCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "2986-8",
+        "description": "Testosterone Ser/Plas MCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.TestosteroneMCncPtSerPlasQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703439009",
-          "description" : "Measurement technique with detection limit equal to or less than 1.0 ng/dL",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703439009",
+            "description": "Measurement technique with detection limit equal to or less than 1.0 ng/dL",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

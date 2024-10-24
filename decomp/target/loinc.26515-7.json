@@ -1,60 +1,61 @@
 {
-  "target" : {
-    "code" : "26515-7",
-    "description" : "Platelets Bld NCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "26515-7",
+    "description": "Platelets Bld NCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.PlateletsNCncPtBldQn.v1.0.0.adls",
-  "children" : {
-    "777-3" : {
-      "source" : {
-        "code" : "777-3",
-        "description" : "Platelets Bld NCnc Pt Qn Automated count",
-        "system" : "loinc"
+  "children": {
+    "777-3": {
+      "source": {
+        "code": "777-3",
+        "description": "Platelets Bld NCnc Pt Qn Automated count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "26515-7",
-        "description" : "Platelets Bld NCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "26515-7",
+        "description": "Platelets Bld NCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.PlateletsNCncPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702659008",
-          "description" : "Automated count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     },
-    "49497-1" : {
-      "source" : {
-        "code" : "49497-1",
-        "description" : "Platelets Bld NCnc Pt Qn Estimate",
-        "system" : "loinc"
+    "49497-1": {
+      "source": {
+        "code": "49497-1",
+        "description": "Platelets Bld NCnc Pt Qn Estimate",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "26515-7",
-        "description" : "Platelets Bld NCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "26515-7",
+        "description": "Platelets Bld NCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.PlateletsNCncPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "414135002",
-          "description" : "Estimated",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "414135002",
+            "description": "Estimated",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

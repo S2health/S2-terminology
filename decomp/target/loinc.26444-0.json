@@ -1,60 +1,61 @@
 {
-  "target" : {
-    "code" : "26444-0",
-    "description" : "Basophils Bld NCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "26444-0",
+    "description": "Basophils Bld NCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.BasophilsNCncPtBldQn.v1.0.0.adls",
-  "children" : {
-    "704-7" : {
-      "source" : {
-        "code" : "704-7",
-        "description" : "Basophils Bld NCnc Pt Qn Automated count",
-        "system" : "loinc"
+  "children": {
+    "704-7": {
+      "source": {
+        "code": "704-7",
+        "description": "Basophils Bld NCnc Pt Qn Automated count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "26444-0",
-        "description" : "Basophils Bld NCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "26444-0",
+        "description": "Basophils Bld NCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.BasophilsNCncPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702659008",
-          "description" : "Automated count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     },
-    "705-4" : {
-      "source" : {
-        "code" : "705-4",
-        "description" : "Basophils Bld NCnc Pt Qn Manual count",
-        "system" : "loinc"
+    "705-4": {
+      "source": {
+        "code": "705-4",
+        "description": "Basophils Bld NCnc Pt Qn Manual count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "26444-0",
-        "description" : "Basophils Bld NCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "26444-0",
+        "description": "Basophils Bld NCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.BasophilsNCncPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702663001",
-          "description" : "Manual count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702663001",
+            "description": "Manual count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

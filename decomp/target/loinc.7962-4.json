@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "7962-4",
-    "description" : "Measles virus Ab.IgG Ser ACnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "7962-4",
+    "description": "Measles virus Ab.IgG Ser ACnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.MeaslesvirusAbIgGACncPtSerQn.v1.0.0.adls",
-  "children" : {
-    "5244-9" : {
-      "source" : {
-        "code" : "5244-9",
-        "description" : "Measles virus Ab.IgG Ser ACnc Pt Qn IA",
-        "system" : "loinc"
+  "children": {
+    "5244-9": {
+      "source": {
+        "code": "5244-9",
+        "description": "Measles virus Ab.IgG Ser ACnc Pt Qn IA",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "7962-4",
-        "description" : "Measles virus Ab.IgG Ser ACnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "7962-4",
+        "description": "Measles virus Ab.IgG Ser ACnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.MeaslesvirusAbIgGACncPtSerQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "726449005",
-          "description" : "Immunoassay technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

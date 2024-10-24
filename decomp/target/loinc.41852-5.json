@@ -1,60 +1,61 @@
 {
-  "target" : {
-    "code" : "41852-5",
-    "description" : "Microorganism or agent identified Prid Pt Nom",
-    "system" : "loinc"
+  "target": {
+    "code": "41852-5",
+    "description": "Microorganism or agent identified Prid Pt Nom",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.MicroorganismidentifiedPridPtXXXNom.v1.0.0.adls",
-  "children" : {
-    "11475-1" : {
-      "source" : {
-        "code" : "11475-1",
-        "description" : "Microorganism identified Prid Pt Nom Culture",
-        "system" : "loinc"
+  "children": {
+    "11475-1": {
+      "source": {
+        "code": "11475-1",
+        "description": "Microorganism identified Prid Pt Nom Culture",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "41852-5",
-        "description" : "Microorganism or agent identified Prid Pt Nom",
-        "system" : "loinc"
+      "target": {
+        "code": "41852-5",
+        "description": "Microorganism or agent identified Prid Pt Nom",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.MicroorganismidentifiedPridPtXXXNom.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703725008",
-          "description" : "Culture technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703725008",
+            "description": "Culture technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     },
-    "18482-0" : {
-      "source" : {
-        "code" : "18482-0",
-        "description" : "Yeast PrThr Pt Ord Organism specific culture",
-        "system" : "loinc"
+    "18482-0": {
+      "source": {
+        "code": "18482-0",
+        "description": "Yeast PrThr Pt Ord Organism specific culture",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "41852-5",
-        "description" : "Microorganism or agent identified Prid Pt Nom",
-        "system" : "loinc"
+      "target": {
+        "code": "41852-5",
+        "description": "Microorganism or agent identified Prid Pt Nom",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.MicroorganismidentifiedPridPtXXXNom.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703752003",
-          "description" : "Organism specific culture technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703752003",
+            "description": "Organism specific culture technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

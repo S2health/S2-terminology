@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105095-4",
-    "description" : "Transitional cells [#/area] in Urine sediment",
-    "system" : "loinc"
+  "target": {
+    "code": "105095-4",
+    "description": "Transitional cells [#/area] in Urine sediment",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.TransitionalcellsNaricPtUrinesedQn.v1.0.0.adls",
-  "children" : {
-    "30089-7" : {
-      "source" : {
-        "code" : "30089-7",
-        "description" : "Transitional cells Urine sed Naric Pt Qn Microscopy.light.HPF",
-        "system" : "loinc"
+  "children": {
+    "30089-7": {
+      "source": {
+        "code": "30089-7",
+        "description": "Transitional cells Urine sed Naric Pt Qn Microscopy.light.HPF",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105095-4",
-        "description" : "Transitional cells [#/area] in Urine sediment",
-        "system" : "loinc"
+      "target": {
+        "code": "105095-4",
+        "description": "Transitional cells [#/area] in Urine sediment",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.TransitionalcellsNaricPtUrinesedQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702662006",
-          "description" : "High power field light microscopy",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702662006",
+            "description": "High power field light microscopy",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

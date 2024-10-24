@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "88973-3",
-    "description" : "Crystals.amorphous Urine sed Naric Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "88973-3",
+    "description": "Crystals.amorphous Urine sed Naric Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.CrystalsamorphousNaricPtUrinesedQn.v1.0.0.adls",
-  "children" : {
-    "53332-3" : {
-      "source" : {
-        "code" : "53332-3",
-        "description" : "Crystals.amorphous Urine Naric Pt Qn Computer assisted",
-        "system" : "loinc"
+  "children": {
+    "53332-3": {
+      "source": {
+        "code": "53332-3",
+        "description": "Crystals.amorphous Urine Naric Pt Qn Computer assisted",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "88973-3",
-        "description" : "Crystals.amorphous Urine sed Naric Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "88973-3",
+        "description": "Crystals.amorphous Urine sed Naric Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.CrystalsamorphousNaricPtUrinesedQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "31101000205101",
-          "description" : "Computer assisted testing technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31101000205101",
+            "description": "Computer assisted testing technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

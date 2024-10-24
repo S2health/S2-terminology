@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105084-8",
-    "description" : "Trichomonas vaginalis rRNA [Presence] in Specimen",
-    "system" : "loinc"
+  "target": {
+    "code": "105084-8",
+    "description": "Trichomonas vaginalis rRNA [Presence] in Specimen",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.TrichomonasvaginalisrRNAPrThrPtXXXOrd.v1.0.0.adls",
-  "children" : {
-    "46154-1" : {
-      "source" : {
-        "code" : "46154-1",
-        "description" : "Trichomonas vaginalis rRNA PrThr Pt Ord Probe.amp.tar",
-        "system" : "loinc"
+  "children": {
+    "46154-1": {
+      "source": {
+        "code": "46154-1",
+        "description": "Trichomonas vaginalis rRNA PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105084-8",
-        "description" : "Trichomonas vaginalis rRNA [Presence] in Specimen",
-        "system" : "loinc"
+      "target": {
+        "code": "105084-8",
+        "description": "Trichomonas vaginalis rRNA [Presence] in Specimen",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.TrichomonasvaginalisrRNAPrThrPtXXXOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702675006",
-          "description" : "Probe with target amplification technique technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

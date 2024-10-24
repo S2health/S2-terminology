@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "30436-0",
-    "description" : "Monocytes+Macrophages/100 leukocytes CSF NFr Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "30436-0",
+    "description": "Monocytes+Macrophages/100 leukocytes CSF NFr Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.MonocytesMacrophages100leukocytesNFrPtCSFQn.v1.0.0.adls",
-  "children" : {
-    "23904-6" : {
-      "source" : {
-        "code" : "23904-6",
-        "description" : "Monocytes+Macrophages/100 leukocytes CSF NFr Pt Qn Manual count",
-        "system" : "loinc"
+  "children": {
+    "23904-6": {
+      "source": {
+        "code": "23904-6",
+        "description": "Monocytes+Macrophages/100 leukocytes CSF NFr Pt Qn Manual count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "30436-0",
-        "description" : "Monocytes+Macrophages/100 leukocytes CSF NFr Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "30436-0",
+        "description": "Monocytes+Macrophages/100 leukocytes CSF NFr Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.MonocytesMacrophages100leukocytesNFrPtCSFQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702663001",
-          "description" : "Manual count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702663001",
+            "description": "Manual count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

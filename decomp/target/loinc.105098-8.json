@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105098-8",
-    "description" : "Yeast [#/area] in Urine sediment",
-    "system" : "loinc"
+  "target": {
+    "code": "105098-8",
+    "description": "Yeast [#/area] in Urine sediment",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.YeastNaricPtUrinesedQn.v1.0.0.adls",
-  "children" : {
-    "5822-2" : {
-      "source" : {
-        "code" : "5822-2",
-        "description" : "Yeast Urine sed Naric Pt Qn Microscopy.light.HPF",
-        "system" : "loinc"
+  "children": {
+    "5822-2": {
+      "source": {
+        "code": "5822-2",
+        "description": "Yeast Urine sed Naric Pt Qn Microscopy.light.HPF",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105098-8",
-        "description" : "Yeast [#/area] in Urine sediment",
-        "system" : "loinc"
+      "target": {
+        "code": "105098-8",
+        "description": "Yeast [#/area] in Urine sediment",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.YeastNaricPtUrinesedQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702662006",
-          "description" : "High power field light microscopy",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702662006",
+            "description": "High power field light microscopy",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

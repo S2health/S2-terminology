@@ -1,60 +1,61 @@
 {
-  "target" : {
-    "code" : "26511-6",
-    "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "26511-6",
+    "description": "Neutrophils/100 leukocytes Bld NFr Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.Neutrophils100leukocytesNFrPtBldQn.v1.0.0.adls",
-  "children" : {
-    "770-8" : {
-      "source" : {
-        "code" : "770-8",
-        "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn Automated count",
-        "system" : "loinc"
+  "children": {
+    "770-8": {
+      "source": {
+        "code": "770-8",
+        "description": "Neutrophils/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "26511-6",
-        "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "26511-6",
+        "description": "Neutrophils/100 leukocytes Bld NFr Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.Neutrophils100leukocytesNFrPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702659008",
-          "description" : "Automated count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     },
-    "23761-0" : {
-      "source" : {
-        "code" : "23761-0",
-        "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn Manual count",
-        "system" : "loinc"
+    "23761-0": {
+      "source": {
+        "code": "23761-0",
+        "description": "Neutrophils/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "26511-6",
-        "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "26511-6",
+        "description": "Neutrophils/100 leukocytes Bld NFr Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.Neutrophils100leukocytesNFrPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702663001",
-          "description" : "Manual count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702663001",
+            "description": "Manual count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

@@ -1,60 +1,61 @@
 {
-  "target" : {
-    "code" : "26449-9",
-    "description" : "Eosinophils Bld NCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "26449-9",
+    "description": "Eosinophils Bld NCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.EosinophilsNCncPtBldQn.v1.0.0.adls",
-  "children" : {
-    "711-2" : {
-      "source" : {
-        "code" : "711-2",
-        "description" : "Eosinophils Bld NCnc Pt Qn Automated count",
-        "system" : "loinc"
+  "children": {
+    "711-2": {
+      "source": {
+        "code": "711-2",
+        "description": "Eosinophils Bld NCnc Pt Qn Automated count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "26449-9",
-        "description" : "Eosinophils Bld NCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "26449-9",
+        "description": "Eosinophils Bld NCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.EosinophilsNCncPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702659008",
-          "description" : "Automated count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     },
-    "712-0" : {
-      "source" : {
-        "code" : "712-0",
-        "description" : "Eosinophils Bld NCnc Pt Qn Manual count",
-        "system" : "loinc"
+    "712-0": {
+      "source": {
+        "code": "712-0",
+        "description": "Eosinophils Bld NCnc Pt Qn Manual count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "26449-9",
-        "description" : "Eosinophils Bld NCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "26449-9",
+        "description": "Eosinophils Bld NCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.EosinophilsNCncPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702663001",
-          "description" : "Manual count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702663001",
+            "description": "Manual count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

@@ -1,60 +1,61 @@
 {
-  "target" : {
-    "code" : "104722-4",
-    "description" : "Chlamydia trachomatis rRNA [Presence] in Specimen by Molecular genetics method",
-    "system" : "loinc"
+  "target": {
+    "code": "104722-4",
+    "description": "Chlamydia trachomatis rRNA [Presence] in Specimen by Molecular genetics method",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.ChlamydiatrachomatisrRNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
-  "children" : {
-    "4993-2" : {
-      "source" : {
-        "code" : "4993-2",
-        "description" : "Chlamydia trachomatis rRNA PrThr Pt Ord Probe",
-        "system" : "loinc"
+  "children": {
+    "4993-2": {
+      "source": {
+        "code": "4993-2",
+        "description": "Chlamydia trachomatis rRNA PrThr Pt Ord Probe",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "104722-4",
-        "description" : "Chlamydia trachomatis rRNA [Presence] in Specimen by Molecular genetics method",
-        "system" : "loinc"
+      "target": {
+        "code": "104722-4",
+        "description": "Chlamydia trachomatis rRNA [Presence] in Specimen by Molecular genetics method",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.ChlamydiatrachomatisrRNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702673004",
-          "description" : "Deoxyribonucleic acid probe technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702673004",
+            "description": "Deoxyribonucleic acid probe technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     },
-    "43304-5" : {
-      "source" : {
-        "code" : "43304-5",
-        "description" : "Chlamydia trachomatis rRNA PrThr Pt Ord Probe.amp.tar",
-        "system" : "loinc"
+    "43304-5": {
+      "source": {
+        "code": "43304-5",
+        "description": "Chlamydia trachomatis rRNA PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "104722-4",
-        "description" : "Chlamydia trachomatis rRNA [Presence] in Specimen by Molecular genetics method",
-        "system" : "loinc"
+      "target": {
+        "code": "104722-4",
+        "description": "Chlamydia trachomatis rRNA [Presence] in Specimen by Molecular genetics method",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.ChlamydiatrachomatisrRNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702675006",
-          "description" : "Probe with target amplification technique technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

@@ -1,60 +1,61 @@
 {
-  "target" : {
-    "code" : "32710-6",
-    "description" : "Nitrite [Presence] in Urine",
-    "system" : "loinc"
+  "target": {
+    "code": "32710-6",
+    "description": "Nitrite [Presence] in Urine",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.NitritePrThrPtUrineOrd.v1.0.0.adls",
-  "children" : {
-    "50558-6" : {
-      "source" : {
-        "code" : "50558-6",
-        "description" : "Nitrite Urine PrThr Pt Ord Test strip.automated",
-        "system" : "loinc"
+  "children": {
+    "50558-6": {
+      "source": {
+        "code": "50558-6",
+        "description": "Nitrite Urine PrThr Pt Ord Test strip.automated",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "32710-6",
-        "description" : "Nitrite [Presence] in Urine",
-        "system" : "loinc"
+      "target": {
+        "code": "32710-6",
+        "description": "Nitrite [Presence] in Urine",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.NitritePrThrPtUrineOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "737102004",
-          "description" : "Automated test strip technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "737102004",
+            "description": "Automated test strip technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     },
-    "5802-4" : {
-      "source" : {
-        "code" : "5802-4",
-        "description" : "Nitrite Urine PrThr Pt Ord Test strip",
-        "system" : "loinc"
+    "5802-4": {
+      "source": {
+        "code": "5802-4",
+        "description": "Nitrite Urine PrThr Pt Ord Test strip",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "32710-6",
-        "description" : "Nitrite [Presence] in Urine",
-        "system" : "loinc"
+      "target": {
+        "code": "32710-6",
+        "description": "Nitrite [Presence] in Urine",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.NitritePrThrPtUrineOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702660003",
-          "description" : "Test strip technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702660003",
+            "description": "Test strip technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

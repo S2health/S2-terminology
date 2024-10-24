@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "32684-3",
-    "description" : "Heparin.low molecular weight PPP ACnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "32684-3",
+    "description": "Heparin.low molecular weight PPP ACnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.HeparinlowmolecularweightACncPtPPPQn.v1.0.0.adls",
-  "children" : {
-    "3271-4" : {
-      "source" : {
-        "code" : "3271-4",
-        "description" : "Heparin.low molecular weight PPP ACnc Pt Qn Chromo",
-        "system" : "loinc"
+  "children": {
+    "3271-4": {
+      "source": {
+        "code": "3271-4",
+        "description": "Heparin.low molecular weight PPP ACnc Pt Qn Chromo",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "32684-3",
-        "description" : "Heparin.low molecular weight PPP ACnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "32684-3",
+        "description": "Heparin.low molecular weight PPP ACnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.HeparinlowmolecularweightACncPtPPPQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "708069005",
-          "description" : "Chromogenic technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "708069005",
+            "description": "Chromogenic technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

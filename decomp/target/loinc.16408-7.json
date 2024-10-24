@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "16408-7",
-    "description" : "Ascorbate Urine MCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "16408-7",
+    "description": "Ascorbate Urine MCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.AscorbateMCncPtUrineQn.v1.0.0.adls",
-  "children" : {
-    "5768-7" : {
-      "source" : {
-        "code" : "5768-7",
-        "description" : "Ascorbate Urine MCnc Pt SemiQn Test strip",
-        "system" : "loinc"
+  "children": {
+    "5768-7": {
+      "source": {
+        "code": "5768-7",
+        "description": "Ascorbate Urine MCnc Pt SemiQn Test strip",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "16408-7",
-        "description" : "Ascorbate Urine MCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "16408-7",
+        "description": "Ascorbate Urine MCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.AscorbateMCncPtUrineQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702660003",
-          "description" : "Test strip technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702660003",
+            "description": "Test strip technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

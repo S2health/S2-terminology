@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "22587-0",
-    "description" : "Treponema pallidum Ab Ser PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "22587-0",
+    "description": "Treponema pallidum Ab Ser PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.TreponemapallidumAbPrThrPtSerOrd.v1.0.0.adls",
-  "children" : {
-    "5393-4" : {
-      "source" : {
-        "code" : "5393-4",
-        "description" : "Treponema pallidum Ab Ser PrThr Pt Ord IF",
-        "system" : "loinc"
+  "children": {
+    "5393-4": {
+      "source": {
+        "code": "5393-4",
+        "description": "Treponema pallidum Ab Ser PrThr Pt Ord IF",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "22587-0",
-        "description" : "Treponema pallidum Ab Ser PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "22587-0",
+        "description": "Treponema pallidum Ab Ser PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.TreponemapallidumAbPrThrPtSerOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "406867009",
-          "description" : "Immunofluorescent stain method",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "406867009",
+            "description": "Immunofluorescent stain method",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }
