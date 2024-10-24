@@ -15,8 +15,8 @@
 1042,Additional problem information,Active,66299-9,Other physical or medical problem Patient Hx Pt Nom PhenX,Active,General,False,s2-EHR-Composition.problem_list.v1,id5,/content[id4]/items[id5],s2-EHR-Section.problem_list_headings.v1
 1846,Additional problem information,Active,0ccd039e-7182-ef11-8870-6045bdc71c8b,Additional details,Active,General,False,s2-EHR-Composition.problem_list.v1,id5,/content[id4]/items[id5],s2-EHR-Section.problem_list_headings.v1
 1043,Additional problems,Active,c24ce03e-918d-ef11-8872-6045bdc71c8b,Secondary problem/diagnosis list,Active,General,False,s2-EHR-Composition.problem_list.v1,id4,/content[id4],
+1741,Address,Active,99952-4,Address panel Entity - Pt -,Active,General,False,s2-ENTITY-Location_address_use.location_address_use_general.v1,id2,/description[id2],
 1752,Address,Active,99953-2,Address Entity Addr Pt Nom,Active,General,False,s2-ENTITY-Location_address_use.location_address_use_general.v1,id1,/,
-1741,Address line,Active,106181-1,Address line Entity Addr Pt Nom,Active,General,False,s2-ENTITY-Location_address_use.location_address_use_general.v1,id2,/description[id2],
 1173,Administration details,Active,80565-5,Medication administration flowsheet {Setting} Find Pt Doc {Role},Active,Clinical Document,False,s2-EHR-Action.medication.v1,id141,/description[id141],
 1172,Administration device,Active,82307-0,Vendor device information panel {Device} - Pt -,Active,General,False,s2-EHR-Action.medication.v1,id145,/description[id141]/items[id145],s2-EHR-Entity_ref_node.device_ref.v1
 1313,Administration device,Active,82307-0,Vendor device information panel {Device} - Pt -,Active,General,False,s2-EHR-Order.medication_order.v4,id96,/activities[id2]/description[id96],s2-EHR-Entity_ref_node.device_ref.v1
