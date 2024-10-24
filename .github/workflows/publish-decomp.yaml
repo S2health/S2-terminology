@@ -1,4 +1,4 @@
-name: Publish to Artifactory
+name: Publish Decomp to Artifactory
 
 on:
   push:
@@ -29,7 +29,7 @@ jobs:
         uses: docker/metadata-action@v5
         id: meta
         with:
-          images: ${{ vars.CONTAINER_REGISTRY }}/${{ github.repository }}
+          images: ${{ vars.CONTAINER_REGISTRY }}/${{ github.repository }}/decomp
           tags: type=semver,pattern={{version}},value=${{ env.VERSION }}
       - name: Docker Build
         uses: docker/build-push-action@v5
