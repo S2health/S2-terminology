@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "104751-3",
-    "description" : "Smudge cells [Presence] in Blood",
-    "system" : "loinc"
+  "target": {
+    "code": "104751-3",
+    "description": "Smudge cells [Presence] in Blood",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.SmudgecellsPrThrPtBldOrd.v1.0.0.adls",
-  "children" : {
-    "7798-2" : {
-      "source" : {
-        "code" : "7798-2",
-        "description" : "Smudge cells Bld PrThr Pt Ord Microscopy.light",
-        "system" : "loinc"
+  "children": {
+    "7798-2": {
+      "source": {
+        "code": "7798-2",
+        "description": "Smudge cells Bld PrThr Pt Ord Microscopy.light",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "104751-3",
-        "description" : "Smudge cells [Presence] in Blood",
-        "system" : "loinc"
+      "target": {
+        "code": "104751-3",
+        "description": "Smudge cells [Presence] in Blood",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.SmudgecellsPrThrPtBldOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702661004",
-          "description" : "Light microscopy technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702661004",
+            "description": "Light microscopy technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

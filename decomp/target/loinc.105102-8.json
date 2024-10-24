@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105102-8",
-    "description" : "Leukocyte clumps [#/volume] in Urine",
-    "system" : "loinc"
+  "target": {
+    "code": "105102-8",
+    "description": "Leukocyte clumps [#/volume] in Urine",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.LeukocyteclumpsNCncPtUrineQn.v1.0.0.adls",
-  "children" : {
-    "33768-3" : {
-      "source" : {
-        "code" : "33768-3",
-        "description" : "Leukocyte clumps Urine NCnc Pt Qn Automated count",
-        "system" : "loinc"
+  "children": {
+    "33768-3": {
+      "source": {
+        "code": "33768-3",
+        "description": "Leukocyte clumps Urine NCnc Pt Qn Automated count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105102-8",
-        "description" : "Leukocyte clumps [#/volume] in Urine",
-        "system" : "loinc"
+      "target": {
+        "code": "105102-8",
+        "description": "Leukocyte clumps [#/volume] in Urine",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.LeukocyteclumpsNCncPtUrineQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702659008",
-          "description" : "Automated count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

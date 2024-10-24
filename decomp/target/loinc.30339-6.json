@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "30339-6",
-    "description" : "Epstein Barr virus capsid Ab.IgG Ser PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "30339-6",
+    "description": "Epstein Barr virus capsid Ab.IgG Ser PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.EpsteinBarrviruscapsidAbIgGPrThrPtSerOrd.v1.0.0.adls",
-  "children" : {
-    "24114-1" : {
-      "source" : {
-        "code" : "24114-1",
-        "description" : "Epstein Barr virus capsid Ab.IgG Ser PrThr Pt Ord IA",
-        "system" : "loinc"
+  "children": {
+    "24114-1": {
+      "source": {
+        "code": "24114-1",
+        "description": "Epstein Barr virus capsid Ab.IgG Ser PrThr Pt Ord IA",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "30339-6",
-        "description" : "Epstein Barr virus capsid Ab.IgG Ser PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "30339-6",
+        "description": "Epstein Barr virus capsid Ab.IgG Ser PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.EpsteinBarrviruscapsidAbIgGPrThrPtSerOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "726449005",
-          "description" : "Immunoassay technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

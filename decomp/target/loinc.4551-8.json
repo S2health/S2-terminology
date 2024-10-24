@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "4551-8",
-    "description" : "Hemoglobin A2/Hemoglobin.total Bld MFr Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "4551-8",
+    "description": "Hemoglobin A2/Hemoglobin.total Bld MFr Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.HemoglobinA2HemoglobinTotalMFrPtBldQn.v1.0.0.adls",
-  "children" : {
-    "4552-6" : {
-      "source" : {
-        "code" : "4552-6",
-        "description" : "Hemoglobin A2/Hemoglobin.total Bld MFr Pt Qn Electrophoresis",
-        "system" : "loinc"
+  "children": {
+    "4552-6": {
+      "source": {
+        "code": "4552-6",
+        "description": "Hemoglobin A2/Hemoglobin.total Bld MFr Pt Qn Electrophoresis",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "4551-8",
-        "description" : "Hemoglobin A2/Hemoglobin.total Bld MFr Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "4551-8",
+        "description": "Hemoglobin A2/Hemoglobin.total Bld MFr Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.HemoglobinA2HemoglobinTotalMFrPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703450007",
-          "description" : "Electrophoresis technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703450007",
+            "description": "Electrophoresis technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "18481-2",
-    "description" : "Streptococcus pyogenes Ag Thrt PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "18481-2",
+    "description": "Streptococcus pyogenes Ag Thrt PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.StreptococcuspyogenesAgPrThrPtThrtOrd.v1.0.0.adls",
-  "children" : {
-    "78012-2" : {
-      "source" : {
-        "code" : "78012-2",
-        "description" : "Streptococcus pyogenes Ag Thrt PrThr Pt Ord IA.rapid",
-        "system" : "loinc"
+  "children": {
+    "78012-2": {
+      "source": {
+        "code": "78012-2",
+        "description": "Streptococcus pyogenes Ag Thrt PrThr Pt Ord IA.rapid",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "18481-2",
-        "description" : "Streptococcus pyogenes Ag Thrt PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "18481-2",
+        "description": "Streptococcus pyogenes Ag Thrt PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.StreptococcuspyogenesAgPrThrPtThrtOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "708099001",
-          "description" : "Rapid immunoassay technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "708099001",
+            "description": "Rapid immunoassay technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

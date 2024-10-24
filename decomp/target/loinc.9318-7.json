@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "9318-7",
-    "description" : "Albumin/Creatinine Urine MRto Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "9318-7",
+    "description": "Albumin/Creatinine Urine MRto Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.AlbuminCreatinineMCrtoPtUrineQn.v1.0.0.adls",
-  "children" : {
-    "14959-1" : {
-      "source" : {
-        "code" : "14959-1",
-        "description" : "Albumin/Creatinine Urine MRto Pt Qn Detection limit <= 20 mg/L",
-        "system" : "loinc"
+  "children": {
+    "14959-1": {
+      "source": {
+        "code": "14959-1",
+        "description": "Albumin/Creatinine Urine MRto Pt Qn Detection limit <= 20 mg/L",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "9318-7",
-        "description" : "Albumin/Creatinine Urine MRto Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "9318-7",
+        "description": "Albumin/Creatinine Urine MRto Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.AlbuminCreatinineMCrtoPtUrineQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "118184002",
-          "description" : "Laboratory test with detection limit of <20mg/L",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "118184002",
+            "description": "Laboratory test with detection limit of <20mg/L",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

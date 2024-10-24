@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "2692-2",
-    "description" : "Osmolality Ser/Plas Osmol Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "2692-2",
+    "description": "Osmolality Ser/Plas Osmol Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.OsmolalityOsmolPtSerPlasQn.v1.0.0.adls",
-  "children" : {
-    "18182-6" : {
-      "source" : {
-        "code" : "18182-6",
-        "description" : "Osmolality Ser/Plas Osmol Pt Qn Calculated",
-        "system" : "loinc"
+  "children": {
+    "18182-6": {
+      "source": {
+        "code": "18182-6",
+        "description": "Osmolality Ser/Plas Osmol Pt Qn Calculated",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "2692-2",
-        "description" : "Osmolality Ser/Plas Osmol Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "2692-2",
+        "description": "Osmolality Ser/Plas Osmol Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.OsmolalityOsmolPtSerPlasQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "117337005",
-          "description" : "Calculated laboratory test method",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "117337005",
+            "description": "Calculated laboratory test method",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

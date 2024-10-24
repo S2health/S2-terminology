@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "23679-4",
-    "description" : "Bovine respiratory syncytial virus Ag PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "23679-4",
+    "description": "Bovine respiratory syncytial virus Ag PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.BovinerespiratorysyncytialvirusAgPrThrPtXXXOrd.v1.0.0.adls",
-  "children" : {
-    "5876-8" : {
-      "source" : {
-        "code" : "5876-8",
-        "description" : "Respiratory syncytial virus Ag PrThr Pt Ord IA",
-        "system" : "loinc"
+  "children": {
+    "5876-8": {
+      "source": {
+        "code": "5876-8",
+        "description": "Respiratory syncytial virus Ag PrThr Pt Ord IA",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "23679-4",
-        "description" : "Bovine respiratory syncytial virus Ag PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "23679-4",
+        "description": "Bovine respiratory syncytial virus Ag PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.BovinerespiratorysyncytialvirusAgPrThrPtXXXOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "726449005",
-          "description" : "Immunoassay technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

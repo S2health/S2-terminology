@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105900-5",
-    "description" : "Bacteria Identification [Presence] in Isolate",
-    "system" : "loinc"
+  "target": {
+    "code": "105900-5",
+    "description": "Bacteria Identification [Presence] in Isolate",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.BacteriaidentificationtestPrThrPtIsolateOrd.v1.0.0.adls",
-  "children" : {
-    "45335-7" : {
-      "source" : {
-        "code" : "45335-7",
-        "description" : "Bacteria identification test Isolate PrThr Pt Ord Culture",
-        "system" : "loinc"
+  "children": {
+    "45335-7": {
+      "source": {
+        "code": "45335-7",
+        "description": "Bacteria identification test Isolate PrThr Pt Ord Culture",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105900-5",
-        "description" : "Bacteria Identification [Presence] in Isolate",
-        "system" : "loinc"
+      "target": {
+        "code": "105900-5",
+        "description": "Bacteria Identification [Presence] in Isolate",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.BacteriaidentificationtestPrThrPtIsolateOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703725008",
-          "description" : "Culture technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703725008",
+            "description": "Culture technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

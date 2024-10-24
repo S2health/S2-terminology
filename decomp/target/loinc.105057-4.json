@@ -1,46 +1,47 @@
 {
-  "target" : {
-    "code" : "105057-4",
-    "description" : "Plesiomonas shigelloides DNA [Presence] in Specimen",
-    "system" : "loinc"
+  "target": {
+    "code": "105057-4",
+    "description": "Plesiomonas shigelloides DNA [Presence] in Specimen",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.PlesiomonasshigelloidesDNAPrThrPtXXXOrd.v1.0.0.adls",
-  "children" : {
-    "82198-3" : {
-      "source" : {
-        "code" : "82198-3",
-        "description" : "Plesiomonas shigelloides DNA Stool PrThr Pt Ord Non-probe.amp.tar",
-        "system" : "loinc"
+  "children": {
+    "82198-3": {
+      "source": {
+        "code": "82198-3",
+        "description": "Plesiomonas shigelloides DNA Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105057-4",
-        "description" : "Plesiomonas shigelloides DNA [Presence] in Specimen",
-        "system" : "loinc"
+      "target": {
+        "code": "105057-4",
+        "description": "Plesiomonas shigelloides DNA [Presence] in Specimen",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.PlesiomonasshigelloidesDNAPrThrPtXXXOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31111000205104",
+            "description": "Non-probe target amplification technique",
+            "system": "snomed"
+          }
         },
-        "value" : {
-          "code" : "31111000205104",
-          "description" : "Non-probe target amplification technique",
-          "system" : "snomed"
+        {
+          "key": {
+            "code": "66746-9",
+            "description": "Specimen type",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "119339001",
+            "description": "Stool specimen",
+            "system": "snomed"
+          }
         }
-      }, {
-        "key" : {
-          "code" : "66746-9",
-          "description" : "Specimen type",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "119339001",
-          "description" : "Stool specimen",
-          "system" : "snomed"
-        }
-      } ]
+      ]
     }
   }
 }

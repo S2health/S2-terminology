@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "11230-0",
-    "description" : "Amobarbital Urine MCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "11230-0",
+    "description": "Amobarbital Urine MCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.AmobarbitalMCncPtUrineQn.v1.0.0.adls",
-  "children" : {
-    "16239-6" : {
-      "source" : {
-        "code" : "16239-6",
-        "description" : "Amobarbital Urine MCnc Pt Qn Confirm",
-        "system" : "loinc"
+  "children": {
+    "16239-6": {
+      "source": {
+        "code": "16239-6",
+        "description": "Amobarbital Urine MCnc Pt Qn Confirm",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "11230-0",
-        "description" : "Amobarbital Urine MCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "11230-0",
+        "description": "Amobarbital Urine MCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.AmobarbitalMCncPtUrineQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703690001",
-          "description" : "Confirmatory technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703690001",
+            "description": "Confirmatory technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

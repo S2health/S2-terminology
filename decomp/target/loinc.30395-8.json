@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "30395-8",
-    "description" : "Granulocytes/100 leukocytes Bld NFr Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "30395-8",
+    "description": "Granulocytes/100 leukocytes Bld NFr Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.Granulocytes100leukocytesNFrPtBldQn.v1.0.0.adls",
-  "children" : {
-    "19023-1" : {
-      "source" : {
-        "code" : "19023-1",
-        "description" : "Granulocytes/100 leukocytes Bld NFr Pt Qn Automated count",
-        "system" : "loinc"
+  "children": {
+    "19023-1": {
+      "source": {
+        "code": "19023-1",
+        "description": "Granulocytes/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "30395-8",
-        "description" : "Granulocytes/100 leukocytes Bld NFr Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "30395-8",
+        "description": "Granulocytes/100 leukocytes Bld NFr Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.Granulocytes100leukocytesNFrPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702659008",
-          "description" : "Automated count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

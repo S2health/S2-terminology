@@ -1,60 +1,61 @@
 {
-  "target" : {
-    "code" : "2339-0",
-    "description" : "Glucose Bld MCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "2339-0",
+    "description": "Glucose Bld MCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.GlucoseMCncPtBldQn.v1.0.0.adls",
-  "children" : {
-    "2340-8" : {
-      "source" : {
-        "code" : "2340-8",
-        "description" : "Glucose Bld MCnc Pt SemiQn Test strip.automated",
-        "system" : "loinc"
+  "children": {
+    "2340-8": {
+      "source": {
+        "code": "2340-8",
+        "description": "Glucose Bld MCnc Pt SemiQn Test strip.automated",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "2339-0",
-        "description" : "Glucose Bld MCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "2339-0",
+        "description": "Glucose Bld MCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.GlucoseMCncPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "737102004",
-          "description" : "Automated test strip technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "737102004",
+            "description": "Automated test strip technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     },
-    "2341-6" : {
-      "source" : {
-        "code" : "2341-6",
-        "description" : "Glucose Bld MCnc Pt Qn Test strip manual",
-        "system" : "loinc"
+    "2341-6": {
+      "source": {
+        "code": "2341-6",
+        "description": "Glucose Bld MCnc Pt Qn Test strip manual",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "2339-0",
-        "description" : "Glucose Bld MCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "2339-0",
+        "description": "Glucose Bld MCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.GlucoseMCncPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "737103009",
-          "description" : "Manual test strip technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "737103009",
+            "description": "Manual test strip technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

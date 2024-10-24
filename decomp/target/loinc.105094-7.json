@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105094-7",
-    "description" : "Candida sp rRNA [Presence] in Vaginal fluid",
-    "system" : "loinc"
+  "target": {
+    "code": "105094-7",
+    "description": "Candida sp rRNA [Presence] in Vaginal fluid",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.CandidasprRNAPrThrPtVagOrd.v1.0.0.adls",
-  "children" : {
-    "47000-5" : {
-      "source" : {
-        "code" : "47000-5",
-        "description" : "Candida sp rRNA Vag PrThr Pt Ord Probe",
-        "system" : "loinc"
+  "children": {
+    "47000-5": {
+      "source": {
+        "code": "47000-5",
+        "description": "Candida sp rRNA Vag PrThr Pt Ord Probe",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105094-7",
-        "description" : "Candida sp rRNA [Presence] in Vaginal fluid",
-        "system" : "loinc"
+      "target": {
+        "code": "105094-7",
+        "description": "Candida sp rRNA [Presence] in Vaginal fluid",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.CandidasprRNAPrThrPtVagOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702673004",
-          "description" : "Deoxyribonucleic acid probe technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702673004",
+            "description": "Deoxyribonucleic acid probe technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

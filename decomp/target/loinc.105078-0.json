@@ -1,46 +1,47 @@
 {
-  "target" : {
-    "code" : "105078-0",
-    "description" : "Human coronavirus OC43 RNA [Presence] in Specimen",
-    "system" : "loinc"
+  "target": {
+    "code": "105078-0",
+    "description": "Human coronavirus OC43 RNA [Presence] in Specimen",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.HumancoronavirusOC43RNAPrThrPtXXXOrd.v1.0.0.adls",
-  "children" : {
-    "41009-2" : {
-      "source" : {
-        "code" : "41009-2",
-        "description" : "Human coronavirus OC43 RNA PrThr Pt Ord Probe.amp.tar",
-        "system" : "loinc"
+  "children": {
+    "41009-2": {
+      "source": {
+        "code": "41009-2",
+        "description": "Human coronavirus OC43 RNA PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105078-0",
-        "description" : "Human coronavirus OC43 RNA [Presence] in Specimen",
-        "system" : "loinc"
+      "target": {
+        "code": "105078-0",
+        "description": "Human coronavirus OC43 RNA [Presence] in Specimen",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.HumancoronavirusOC43RNAPrThrPtXXXOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
         },
-        "value" : {
-          "code" : "702675006",
-          "description" : "Probe with target amplification technique technique",
-          "system" : "snomed"
+        {
+          "key": {
+            "code": "66746-9",
+            "description": "Specimen type",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "430304001",
+            "description": "Specimen from unspecified body site",
+            "system": "snomed"
+          }
         }
-      }, {
-        "key" : {
-          "code" : "66746-9",
-          "description" : "Specimen type",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "430304001",
-          "description" : "Specimen from unspecified body site",
-          "system" : "snomed"
-        }
-      } ]
+      ]
     }
   }
 }

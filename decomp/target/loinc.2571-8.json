@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "2571-8",
-    "description" : "Triglyceride Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "2571-8",
+    "description": "Triglyceride Ser/Plas MCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.TriglycerideMCncPtSerPlasQn.v1.0.0.adls",
-  "children" : {
-    "12951-0" : {
-      "source" : {
-        "code" : "12951-0",
-        "description" : "Triglyceride Ser/Plas MCnc Pt Qn Calculated",
-        "system" : "loinc"
+  "children": {
+    "12951-0": {
+      "source": {
+        "code": "12951-0",
+        "description": "Triglyceride Ser/Plas MCnc Pt Qn Calculated",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "2571-8",
-        "description" : "Triglyceride Ser/Plas MCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "2571-8",
+        "description": "Triglyceride Ser/Plas MCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.TriglycerideMCncPtSerPlasQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "117337005",
-          "description" : "Calculated laboratory test method",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "117337005",
+            "description": "Calculated laboratory test method",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

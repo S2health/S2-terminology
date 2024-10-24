@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "8065-5",
-    "description" : "Cardiolipin Ab.IgG Ser/Plas ACnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "8065-5",
+    "description": "Cardiolipin Ab.IgG Ser/Plas ACnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.CardiolipinAbIgGACncPtSerPlasQn.v1.0.0.adls",
-  "children" : {
-    "3181-5" : {
-      "source" : {
-        "code" : "3181-5",
-        "description" : "Cardiolipin Ab.IgG Ser ACnc Pt Qn IA",
-        "system" : "loinc"
+  "children": {
+    "3181-5": {
+      "source": {
+        "code": "3181-5",
+        "description": "Cardiolipin Ab.IgG Ser ACnc Pt Qn IA",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "8065-5",
-        "description" : "Cardiolipin Ab.IgG Ser/Plas ACnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "8065-5",
+        "description": "Cardiolipin Ab.IgG Ser/Plas ACnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.CardiolipinAbIgGACncPtSerPlasQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "726449005",
-          "description" : "Immunoassay technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

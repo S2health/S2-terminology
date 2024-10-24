@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "7912-9",
-    "description" : "Herpes simplex virus 2 Ab.IgG Ser ACnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "7912-9",
+    "description": "Herpes simplex virus 2 Ab.IgG Ser ACnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.Herpessimplexvirus2AbIgGACncPtSerQn.v1.0.0.adls",
-  "children" : {
-    "5209-2" : {
-      "source" : {
-        "code" : "5209-2",
-        "description" : "Herpes simplex virus 2 Ab.IgG Ser ACnc Pt Qn IA",
-        "system" : "loinc"
+  "children": {
+    "5209-2": {
+      "source": {
+        "code": "5209-2",
+        "description": "Herpes simplex virus 2 Ab.IgG Ser ACnc Pt Qn IA",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "7912-9",
-        "description" : "Herpes simplex virus 2 Ab.IgG Ser ACnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "7912-9",
+        "description": "Herpes simplex virus 2 Ab.IgG Ser ACnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.Herpessimplexvirus2AbIgGACncPtSerQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "726449005",
-          "description" : "Immunoassay technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

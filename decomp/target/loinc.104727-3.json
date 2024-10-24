@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "104727-3",
-    "description" : "Influenza virus A H1 2009 pandemic RNA [Presence] in Specimen by Molecular genetics method",
-    "system" : "loinc"
+  "target": {
+    "code": "104727-3",
+    "description": "Influenza virus A H1 2009 pandemic RNA [Presence] in Specimen by Molecular genetics method",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.InfluenzavirusAH12009pandemicRNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
-  "children" : {
-    "55465-9" : {
-      "source" : {
-        "code" : "55465-9",
-        "description" : "Influenza virus A H1 2009 pandemic RNA PrThr Pt Ord Probe.amp.tar",
-        "system" : "loinc"
+  "children": {
+    "55465-9": {
+      "source": {
+        "code": "55465-9",
+        "description": "Influenza virus A H1 2009 pandemic RNA PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "104727-3",
-        "description" : "Influenza virus A H1 2009 pandemic RNA [Presence] in Specimen by Molecular genetics method",
-        "system" : "loinc"
+      "target": {
+        "code": "104727-3",
+        "description": "Influenza virus A H1 2009 pandemic RNA [Presence] in Specimen by Molecular genetics method",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.InfluenzavirusAH12009pandemicRNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702675006",
-          "description" : "Probe with target amplification technique technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

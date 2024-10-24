@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "30341-2",
-    "description" : "Erythrocyte sedimentation rate Bld Vel Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "30341-2",
+    "description": "Erythrocyte sedimentation rate Bld Vel Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.ErythrocytesedimentationrateVelPtBldQn.v1.0.0.adls",
-  "children" : {
-    "4537-7" : {
-      "source" : {
-        "code" : "4537-7",
-        "description" : "Erythrocyte sedimentation rate Bld Vel Pt Qn Westergren",
-        "system" : "loinc"
+  "children": {
+    "4537-7": {
+      "source": {
+        "code": "4537-7",
+        "description": "Erythrocyte sedimentation rate Bld Vel Pt Qn Westergren",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "30341-2",
-        "description" : "Erythrocyte sedimentation rate Bld Vel Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "30341-2",
+        "description": "Erythrocyte sedimentation rate Bld Vel Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.ErythrocytesedimentationrateVelPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703459008",
-          "description" : "Westergren technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703459008",
+            "description": "Westergren technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

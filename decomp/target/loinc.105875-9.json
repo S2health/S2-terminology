@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105875-9",
-    "description" : "Bordetella pertussis DNA [Presence] in Specimen",
-    "system" : "loinc"
+  "target": {
+    "code": "105875-9",
+    "description": "Bordetella pertussis DNA [Presence] in Specimen",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.BordetellapertussisDNAPrThrPtXXXOrd.v1.0.0.adls",
-  "children" : {
-    "23826-1" : {
-      "source" : {
-        "code" : "23826-1",
-        "description" : "Bordetella pertussis DNA PrThr Pt Ord Probe.amp.tar",
-        "system" : "loinc"
+  "children": {
+    "23826-1": {
+      "source": {
+        "code": "23826-1",
+        "description": "Bordetella pertussis DNA PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105875-9",
-        "description" : "Bordetella pertussis DNA [Presence] in Specimen",
-        "system" : "loinc"
+      "target": {
+        "code": "105875-9",
+        "description": "Bordetella pertussis DNA [Presence] in Specimen",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.BordetellapertussisDNAPrThrPtXXXOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702675006",
-          "description" : "Probe with target amplification technique technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

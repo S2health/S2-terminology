@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "2842-3",
-    "description" : "Prolactin Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "2842-3",
+    "description": "Prolactin Ser/Plas MCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.ProlactinMCncPtSerPlasQn.v1.0.0.adls",
-  "children" : {
-    "49220-7" : {
-      "source" : {
-        "code" : "49220-7",
-        "description" : "Prolactin Ser/Plas MCnc Pt Qn 3rd IS",
-        "system" : "loinc"
+  "children": {
+    "49220-7": {
+      "source": {
+        "code": "49220-7",
+        "description": "Prolactin Ser/Plas MCnc Pt Qn 3rd IS",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "2842-3",
-        "description" : "Prolactin Ser/Plas MCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "2842-3",
+        "description": "Prolactin Ser/Plas MCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.ProlactinMCncPtSerPlasQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "30971000205100",
-          "description" : "Third immune stain technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "30971000205100",
+            "description": "Third immune stain technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

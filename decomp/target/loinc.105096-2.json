@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105096-2",
-    "description" : "Trichomonas vaginalis [Presence] in Urine sediment",
-    "system" : "loinc"
+  "target": {
+    "code": "105096-2",
+    "description": "Trichomonas vaginalis [Presence] in Urine sediment",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.TrichomonasvaginalisPrThrPtUrinesedOrd.v1.0.0.adls",
-  "children" : {
-    "5813-1" : {
-      "source" : {
-        "code" : "5813-1",
-        "description" : "Trichomonas vaginalis Urine sed PrThr Pt Ord Microscopy.light",
-        "system" : "loinc"
+  "children": {
+    "5813-1": {
+      "source": {
+        "code": "5813-1",
+        "description": "Trichomonas vaginalis Urine sed PrThr Pt Ord Microscopy.light",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105096-2",
-        "description" : "Trichomonas vaginalis [Presence] in Urine sediment",
-        "system" : "loinc"
+      "target": {
+        "code": "105096-2",
+        "description": "Trichomonas vaginalis [Presence] in Urine sediment",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.TrichomonasvaginalisPrThrPtUrinesedOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702661004",
-          "description" : "Light microscopy technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702661004",
+            "description": "Light microscopy technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

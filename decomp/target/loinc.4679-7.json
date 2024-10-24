@@ -1,60 +1,61 @@
 {
-  "target" : {
-    "code" : "4679-7",
-    "description" : "Reticulocytes/100 erythrocytes Bld NFr Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "4679-7",
+    "description": "Reticulocytes/100 erythrocytes Bld NFr Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.Reticulocytes100erythrocytesNFrPtBldQn.v1.0.0.adls",
-  "children" : {
-    "17849-1" : {
-      "source" : {
-        "code" : "17849-1",
-        "description" : "Reticulocytes/100 erythrocytes Bld NFr Pt Qn Automated count",
-        "system" : "loinc"
+  "children": {
+    "17849-1": {
+      "source": {
+        "code": "17849-1",
+        "description": "Reticulocytes/100 erythrocytes Bld NFr Pt Qn Automated count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "4679-7",
-        "description" : "Reticulocytes/100 erythrocytes Bld NFr Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "4679-7",
+        "description": "Reticulocytes/100 erythrocytes Bld NFr Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.Reticulocytes100erythrocytesNFrPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702659008",
-          "description" : "Automated count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     },
-    "31112-6" : {
-      "source" : {
-        "code" : "31112-6",
-        "description" : "Reticulocytes/100 erythrocytes Bld NFr Pt Qn Manual",
-        "system" : "loinc"
+    "31112-6": {
+      "source": {
+        "code": "31112-6",
+        "description": "Reticulocytes/100 erythrocytes Bld NFr Pt Qn Manual",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "4679-7",
-        "description" : "Reticulocytes/100 erythrocytes Bld NFr Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "4679-7",
+        "description": "Reticulocytes/100 erythrocytes Bld NFr Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.Reticulocytes100erythrocytesNFrPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "362943005",
-          "description" : "Manual method",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "362943005",
+            "description": "Manual method",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

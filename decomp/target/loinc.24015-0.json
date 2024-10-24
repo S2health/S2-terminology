@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "24015-0",
-    "description" : "Influenza virus A+B Ag PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "24015-0",
+    "description": "Influenza virus A+B Ag PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.InfluenzaVirusABAgACncPtXXXOrd.v1.0.0.adls",
-  "children" : {
-    "6437-8" : {
-      "source" : {
-        "code" : "6437-8",
-        "description" : "Influenza virus A+B Ag PrThr Pt Ord IA",
-        "system" : "loinc"
+  "children": {
+    "6437-8": {
+      "source": {
+        "code": "6437-8",
+        "description": "Influenza virus A+B Ag PrThr Pt Ord IA",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "24015-0",
-        "description" : "Influenza virus A+B Ag PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "24015-0",
+        "description": "Influenza virus A+B Ag PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.InfluenzaVirusABAgACncPtXXXOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "726449005",
-          "description" : "Immunoassay technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

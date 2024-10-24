@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "8302-2",
-    "description" : "Body height",
-    "system" : "loinc"
+  "target": {
+    "code": "8302-2",
+    "description": "Body height",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Direct_observation.height.v2.1.0.adls",
-  "children" : {
-    "3137-7" : {
-      "source" : {
-        "code" : "3137-7",
-        "description" : "Body height Measured",
-        "system" : "loinc"
+  "children": {
+    "3137-7": {
+      "source": {
+        "code": "3137-7",
+        "description": "Body height Measured",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "8302-2",
-        "description" : "Body height",
-        "system" : "loinc"
+      "target": {
+        "code": "8302-2",
+        "description": "Body height",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Direct_observation.height.v2.1.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "83844-1",
-          "description" : "Body height method",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "258104002",
-          "description" : "Measured",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "83844-1",
+            "description": "Body height method",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "258104002",
+            "description": "Measured",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

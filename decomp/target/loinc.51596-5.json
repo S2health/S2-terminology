@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "51596-5",
-    "description" : "Glucose BldC SCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "51596-5",
+    "description": "Glucose BldC SCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.GlucoseSCncPtBldCQn.v1.0.0.adls",
-  "children" : {
-    "14743-9" : {
-      "source" : {
-        "code" : "14743-9",
-        "description" : "Glucose BldC SCnc Pt Qn Glucometer",
-        "system" : "loinc"
+  "children": {
+    "14743-9": {
+      "source": {
+        "code": "14743-9",
+        "description": "Glucose BldC SCnc Pt Qn Glucometer",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "51596-5",
-        "description" : "Glucose BldC SCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "51596-5",
+        "description": "Glucose BldC SCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.GlucoseSCncPtBldCQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "166900001",
-          "description" : "Glucometer blood sugar",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "166900001",
+            "description": "Glucometer blood sugar",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

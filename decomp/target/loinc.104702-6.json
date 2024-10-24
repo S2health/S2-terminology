@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "104702-6",
-    "description" : "Rhinovirus+Enterovirus RNA [Presence] in Specimen by Molecular genetics method",
-    "system" : "loinc"
+  "target": {
+    "code": "104702-6",
+    "description": "Rhinovirus+Enterovirus RNA [Presence] in Specimen by Molecular genetics method",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.RhinovirusEnterovirusRNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
-  "children" : {
-    "40991-2" : {
-      "source" : {
-        "code" : "40991-2",
-        "description" : "Rhinovirus+Enterovirus RNA PrThr Pt Ord Probe.amp.tar",
-        "system" : "loinc"
+  "children": {
+    "40991-2": {
+      "source": {
+        "code": "40991-2",
+        "description": "Rhinovirus+Enterovirus RNA PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "104702-6",
-        "description" : "Rhinovirus+Enterovirus RNA [Presence] in Specimen by Molecular genetics method",
-        "system" : "loinc"
+      "target": {
+        "code": "104702-6",
+        "description": "Rhinovirus+Enterovirus RNA [Presence] in Specimen by Molecular genetics method",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.RhinovirusEnterovirusRNAPrThrPtXXXOrdMolgen.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702675006",
-          "description" : "Probe with target amplification technique technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105867-6",
-    "description" : "Neutrophil cytoplasmic Ab.perinuclear.atypical [Presence] in Serum",
-    "system" : "loinc"
+  "target": {
+    "code": "105867-6",
+    "description": "Neutrophil cytoplasmic Ab.perinuclear.atypical [Presence] in Serum",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.NeutrophilcytoplasmicAbperinuclearatypicalPrThrPtSerOrd.v1.0.0.adls",
-  "children" : {
-    "53029-5" : {
-      "source" : {
-        "code" : "53029-5",
-        "description" : "Neutrophil cytoplasmic Ab.perinuclear.atypical Ser PrThr Pt Ord IF",
-        "system" : "loinc"
+  "children": {
+    "53029-5": {
+      "source": {
+        "code": "53029-5",
+        "description": "Neutrophil cytoplasmic Ab.perinuclear.atypical Ser PrThr Pt Ord IF",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105867-6",
-        "description" : "Neutrophil cytoplasmic Ab.perinuclear.atypical [Presence] in Serum",
-        "system" : "loinc"
+      "target": {
+        "code": "105867-6",
+        "description": "Neutrophil cytoplasmic Ab.perinuclear.atypical [Presence] in Serum",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.NeutrophilcytoplasmicAbperinuclearatypicalPrThrPtSerOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "406867009",
-          "description" : "Immunofluorescent stain method",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "406867009",
+            "description": "Immunofluorescent stain method",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

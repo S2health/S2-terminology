@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "104783-6",
-    "description" : "Human papilloma virus E6+E7 mRNA [Presence] in Cervix by Molecular genetics method",
-    "system" : "loinc"
+  "target": {
+    "code": "104783-6",
+    "description": "Human papilloma virus E6+E7 mRNA [Presence] in Cervix by Molecular genetics method",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.Humanpapillomavirus1618313335394551525658596668E6E7mRNAPrThrPtCvxOrdMolgen.v1.0.0.adls",
-  "children" : {
-    "69002-4" : {
-      "source" : {
-        "code" : "69002-4",
-        "description" : "Human papilloma virus 16+18+31+33+35+39+45+51+52+56+58+59+66+68 E6+E7 mRNA Cvx PrThr Pt Ord Probe.amp.tar",
-        "system" : "loinc"
+  "children": {
+    "69002-4": {
+      "source": {
+        "code": "69002-4",
+        "description": "Human papilloma virus 16+18+31+33+35+39+45+51+52+56+58+59+66+68 E6+E7 mRNA Cvx PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "104783-6",
-        "description" : "Human papilloma virus E6+E7 mRNA [Presence] in Cervix by Molecular genetics method",
-        "system" : "loinc"
+      "target": {
+        "code": "104783-6",
+        "description": "Human papilloma virus E6+E7 mRNA [Presence] in Cervix by Molecular genetics method",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.Humanpapillomavirus1618313335394551525658596668E6E7mRNAPrThrPtCvxOrdMolgen.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702675006",
-          "description" : "Probe with target amplification technique technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

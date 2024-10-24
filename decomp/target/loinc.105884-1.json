@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105884-1",
-    "description" : "Chlamydophila pneumoniae DNA [Presence] in Specimen",
-    "system" : "loinc"
+  "target": {
+    "code": "105884-1",
+    "description": "Chlamydophila pneumoniae DNA [Presence] in Specimen",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.ChlamydophilapneumoniaeDNAPrThrPtXXXOrd.v1.0.0.adls",
-  "children" : {
-    "34645-2" : {
-      "source" : {
-        "code" : "34645-2",
-        "description" : "Chlamydophila pneumoniae DNA PrThr Pt Ord Probe.amp.tar",
-        "system" : "loinc"
+  "children": {
+    "34645-2": {
+      "source": {
+        "code": "34645-2",
+        "description": "Chlamydophila pneumoniae DNA PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105884-1",
-        "description" : "Chlamydophila pneumoniae DNA [Presence] in Specimen",
-        "system" : "loinc"
+      "target": {
+        "code": "105884-1",
+        "description": "Chlamydophila pneumoniae DNA [Presence] in Specimen",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.ChlamydophilapneumoniaeDNAPrThrPtXXXOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702675006",
-          "description" : "Probe with target amplification technique technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

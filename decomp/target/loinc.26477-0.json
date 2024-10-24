@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "26477-0",
-    "description" : "Lymphocytes.variant Bld NCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "26477-0",
+    "description": "Lymphocytes.variant Bld NCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.LymphocytesvariantNCncPtBldQn.v1.0.0.adls",
-  "children" : {
-    "734-4" : {
-      "source" : {
-        "code" : "734-4",
-        "description" : "Lymphocytes.variant Bld NCnc Pt Qn Manual count",
-        "system" : "loinc"
+  "children": {
+    "734-4": {
+      "source": {
+        "code": "734-4",
+        "description": "Lymphocytes.variant Bld NCnc Pt Qn Manual count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "26477-0",
-        "description" : "Lymphocytes.variant Bld NCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "26477-0",
+        "description": "Lymphocytes.variant Bld NCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.LymphocytesvariantNCncPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702663001",
-          "description" : "Manual count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702663001",
+            "description": "Manual count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

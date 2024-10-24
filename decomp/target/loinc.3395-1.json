@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "3395-1",
-    "description" : "Cocaine Ser/Plas PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "3395-1",
+    "description": "Cocaine Ser/Plas PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.CocainePrThrPtSerPlasOrd.v1.0.0.adls",
-  "children" : {
-    "8191-9" : {
-      "source" : {
-        "code" : "8191-9",
-        "description" : "Cocaine Ser/Plas PrThr Pt Ord Screen",
-        "system" : "loinc"
+  "children": {
+    "8191-9": {
+      "source": {
+        "code": "8191-9",
+        "description": "Cocaine Ser/Plas PrThr Pt Ord Screen",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "3395-1",
-        "description" : "Cocaine Ser/Plas PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "3395-1",
+        "description": "Cocaine Ser/Plas PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.CocainePrThrPtSerPlasOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "1287497009",
-          "description" : "Screening technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1287497009",
+            "description": "Screening technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

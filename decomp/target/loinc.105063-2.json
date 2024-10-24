@@ -1,60 +1,61 @@
 {
-  "target" : {
-    "code" : "105063-2",
-    "description" : "Streptococcus pyogenes [Presence] in Specimen",
-    "system" : "loinc"
+  "target": {
+    "code": "105063-2",
+    "description": "Streptococcus pyogenes [Presence] in Specimen",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.StreptococcuspyogenesPrThrPtXXXOrd.v1.0.0.adls",
-  "children" : {
-    "11268-0" : {
-      "source" : {
-        "code" : "11268-0",
-        "description" : "Streptococcus pyogenes Thrt PrThr Pt Ord Organism specific culture",
-        "system" : "loinc"
+  "children": {
+    "11268-0": {
+      "source": {
+        "code": "11268-0",
+        "description": "Streptococcus pyogenes Thrt PrThr Pt Ord Organism specific culture",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105063-2",
-        "description" : "Streptococcus pyogenes [Presence] in Specimen",
-        "system" : "loinc"
+      "target": {
+        "code": "105063-2",
+        "description": "Streptococcus pyogenes [Presence] in Specimen",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.StreptococcuspyogenesPrThrPtXXXOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703752003",
-          "description" : "Organism specific culture technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703752003",
+            "description": "Organism specific culture technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     },
-    "17656-0" : {
-      "source" : {
-        "code" : "17656-0",
-        "description" : "Streptococcus pyogenes PrThr Pt Ord Organism specific culture",
-        "system" : "loinc"
+    "17656-0": {
+      "source": {
+        "code": "17656-0",
+        "description": "Streptococcus pyogenes PrThr Pt Ord Organism specific culture",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105063-2",
-        "description" : "Streptococcus pyogenes [Presence] in Specimen",
-        "system" : "loinc"
+      "target": {
+        "code": "105063-2",
+        "description": "Streptococcus pyogenes [Presence] in Specimen",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.StreptococcuspyogenesPrThrPtXXXOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703752003",
-          "description" : "Organism specific culture technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703752003",
+            "description": "Organism specific culture technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

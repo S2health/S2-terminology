@@ -1,46 +1,47 @@
 {
-  "target" : {
-    "code" : "105066-5",
-    "description" : "SARS-CoV+SARS-CoV-2 (COVID-19) Ag [Presence] in Specimen",
-    "system" : "loinc"
+  "target": {
+    "code": "105066-5",
+    "description": "SARS-CoV+SARS-CoV-2 (COVID-19) Ag [Presence] in Specimen",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.SARScoronavirusSARScoronavirus2AgPrThrPtXXXOrd.v1.0.0.adls",
-  "children" : {
-    "95209-3" : {
-      "source" : {
-        "code" : "95209-3",
-        "description" : "SARS coronavirus+SARS coronavirus 2 Ag Respiratory System Specimen PrThr Pt Ord IA.rapid",
-        "system" : "loinc"
+  "children": {
+    "95209-3": {
+      "source": {
+        "code": "95209-3",
+        "description": "SARS coronavirus+SARS coronavirus 2 Ag Respiratory System Specimen PrThr Pt Ord IA.rapid",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105066-5",
-        "description" : "SARS-CoV+SARS-CoV-2 (COVID-19) Ag [Presence] in Specimen",
-        "system" : "loinc"
+      "target": {
+        "code": "105066-5",
+        "description": "SARS-CoV+SARS-CoV-2 (COVID-19) Ag [Presence] in Specimen",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.SARScoronavirusSARScoronavirus2AgPrThrPtXXXOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "708099001",
+            "description": "Rapid immunoassay technique",
+            "system": "snomed"
+          }
         },
-        "value" : {
-          "code" : "708099001",
-          "description" : "Rapid immunoassay technique",
-          "system" : "snomed"
+        {
+          "key": {
+            "code": "66746-9",
+            "description": "Specimen type",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "258603007",
+            "description": "Specimen from respiratory system",
+            "system": "snomed"
+          }
         }
-      }, {
-        "key" : {
-          "code" : "66746-9",
-          "description" : "Specimen type",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "258603007",
-          "description" : "Specimen from respiratory system",
-          "system" : "snomed"
-        }
-      } ]
+      ]
     }
   }
 }

@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "28073-5",
-    "description" : "7-Aminoclonazepam Urine MCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "28073-5",
+    "description": "7-Aminoclonazepam Urine MCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.7AminoclonazepamMCncPtUrineQn.v1.0.0.adls",
-  "children" : {
-    "51776-3" : {
-      "source" : {
-        "code" : "51776-3",
-        "description" : "7-Aminoclonazepam Urine MCnc Pt Qn Confirm",
-        "system" : "loinc"
+  "children": {
+    "51776-3": {
+      "source": {
+        "code": "51776-3",
+        "description": "7-Aminoclonazepam Urine MCnc Pt Qn Confirm",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "28073-5",
-        "description" : "7-Aminoclonazepam Urine MCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "28073-5",
+        "description": "7-Aminoclonazepam Urine MCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.7AminoclonazepamMCncPtUrineQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703690001",
-          "description" : "Confirmatory technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703690001",
+            "description": "Confirmatory technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

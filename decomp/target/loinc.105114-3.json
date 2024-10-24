@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "105114-3",
-    "description" : "Epithelial cells [Presence] in Urine sediment",
-    "system" : "loinc"
+  "target": {
+    "code": "105114-3",
+    "description": "Epithelial cells [Presence] in Urine sediment",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.EpithelialcellsPrThrPtUrinesedOrd.v1.0.0.adls",
-  "children" : {
-    "20453-7" : {
-      "source" : {
-        "code" : "20453-7",
-        "description" : "Epithelial cells Urine sed PrThr Pt Ord Microscopy.light",
-        "system" : "loinc"
+  "children": {
+    "20453-7": {
+      "source": {
+        "code": "20453-7",
+        "description": "Epithelial cells Urine sed PrThr Pt Ord Microscopy.light",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105114-3",
-        "description" : "Epithelial cells [Presence] in Urine sediment",
-        "system" : "loinc"
+      "target": {
+        "code": "105114-3",
+        "description": "Epithelial cells [Presence] in Urine sediment",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.EpithelialcellsPrThrPtUrinesedOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702661004",
-          "description" : "Light microscopy technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702661004",
+            "description": "Light microscopy technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

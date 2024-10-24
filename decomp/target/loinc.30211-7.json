@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "30211-7",
-    "description" : "Collection duration Specimen Time * Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "30211-7",
+    "description": "Collection duration Specimen Time * Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.CollectionDuration.v1.0.0.adls",
-  "children" : {
-    "13362-9" : {
-      "source" : {
-        "code" : "13362-9",
-        "description" : "Collection duration Urine Time * Qn",
-        "system" : "loinc"
+  "children": {
+    "13362-9": {
+      "source": {
+        "code": "13362-9",
+        "description": "Collection duration Urine Time * Qn",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "30211-7",
-        "description" : "Collection duration Specimen Time * Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "30211-7",
+        "description": "Collection duration Specimen Time * Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.CollectionDuration.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "66746-9",
-          "description" : "Specimen type",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "122575003",
-          "description" : "Urine specimen",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "66746-9",
+            "description": "Specimen type",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "122575003",
+            "description": "Urine specimen",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

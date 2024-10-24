@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "26464-8",
-    "description" : "Leukocytes Bld NCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "26464-8",
+    "description": "Leukocytes Bld NCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.LeukocytesNCncPtBldQn.v1.0.0.adls",
-  "children" : {
-    "6690-2" : {
-      "source" : {
-        "code" : "6690-2",
-        "description" : "Leukocytes Bld NCnc Pt Qn Automated count",
-        "system" : "loinc"
+  "children": {
+    "6690-2": {
+      "source": {
+        "code": "6690-2",
+        "description": "Leukocytes Bld NCnc Pt Qn Automated count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "26464-8",
-        "description" : "Leukocytes Bld NCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "26464-8",
+        "description": "Leukocytes Bld NCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.LeukocytesNCncPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702659008",
-          "description" : "Automated count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "2276-4",
-    "description" : "Ferritin Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "2276-4",
+    "description": "Ferritin Ser/Plas MCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.FerritinMCncPtSerPlasQn.v1.0.0.adls",
-  "children" : {
-    "20567-4" : {
-      "source" : {
-        "code" : "20567-4",
-        "description" : "Ferritin Ser/Plas MCnc Pt Qn IA",
-        "system" : "loinc"
+  "children": {
+    "20567-4": {
+      "source": {
+        "code": "20567-4",
+        "description": "Ferritin Ser/Plas MCnc Pt Qn IA",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "2276-4",
-        "description" : "Ferritin Ser/Plas MCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "2276-4",
+        "description": "Ferritin Ser/Plas MCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.FerritinMCncPtSerPlasQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "726449005",
-          "description" : "Immunoassay technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "31830-3",
-    "description" : "Giardia lamblia Ag Stool PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "31830-3",
+    "description": "Giardia lamblia Ag Stool PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.GiardialambliaAgPrThrPtStoolOrd.v1.0.0.adls",
-  "children" : {
-    "6412-1" : {
-      "source" : {
-        "code" : "6412-1",
-        "description" : "Giardia lamblia Ag Stool PrThr Pt Ord IA",
-        "system" : "loinc"
+  "children": {
+    "6412-1": {
+      "source": {
+        "code": "6412-1",
+        "description": "Giardia lamblia Ag Stool PrThr Pt Ord IA",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "31830-3",
-        "description" : "Giardia lamblia Ag Stool PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "31830-3",
+        "description": "Giardia lamblia Ag Stool PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.GiardialambliaAgPrThrPtStoolOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "726449005",
-          "description" : "Immunoassay technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

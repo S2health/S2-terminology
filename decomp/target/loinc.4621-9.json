@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "4621-9",
-    "description" : "Hemoglobin S Bld PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "4621-9",
+    "description": "Hemoglobin S Bld PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.HemoglobinSACncPtBldOrd.v1.0.0.adls",
-  "children" : {
-    "6864-3" : {
-      "source" : {
-        "code" : "6864-3",
-        "description" : "Hemoglobin S Bld PrThr Pt Ord Solubility test",
-        "system" : "loinc"
+  "children": {
+    "6864-3": {
+      "source": {
+        "code": "6864-3",
+        "description": "Hemoglobin S Bld PrThr Pt Ord Solubility test",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "4621-9",
-        "description" : "Hemoglobin S Bld PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "4621-9",
+        "description": "Hemoglobin S Bld PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.HemoglobinSACncPtBldOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "708070006",
-          "description" : "Solubility test technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "708070006",
+            "description": "Solubility test technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

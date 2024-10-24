@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "1825-9",
-    "description" : "Alpha 1 antitrypsin Ser/Plas MCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "1825-9",
+    "description": "Alpha 1 antitrypsin Ser/Plas MCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.Alpha1AntitrypsinMCncPtSerPlasQn.v1.0.0.adls",
-  "children" : {
-    "6771-0" : {
-      "source" : {
-        "code" : "6771-0",
-        "description" : "Alpha 1 antitrypsin Ser/Plas MCnc Pt Qn Nephelometry",
-        "system" : "loinc"
+  "children": {
+    "6771-0": {
+      "source": {
+        "code": "6771-0",
+        "description": "Alpha 1 antitrypsin Ser/Plas MCnc Pt Qn Nephelometry",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "1825-9",
-        "description" : "Alpha 1 antitrypsin Ser/Plas MCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "1825-9",
+        "description": "Alpha 1 antitrypsin Ser/Plas MCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.Alpha1AntitrypsinMCncPtSerPlasQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "359838000",
-          "description" : "Nephelometry",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "359838000",
+            "description": "Nephelometry",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

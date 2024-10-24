@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "19141-1",
-    "description" : "Propoxyphene Urine PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "19141-1",
+    "description": "Propoxyphene Urine PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.PropoxyphenePrThrPtUrineOrd.v1.0.0.adls",
-  "children" : {
-    "19429-0" : {
-      "source" : {
-        "code" : "19429-0",
-        "description" : "Propoxyphene Urine PrThr Pt Ord Screen",
-        "system" : "loinc"
+  "children": {
+    "19429-0": {
+      "source": {
+        "code": "19429-0",
+        "description": "Propoxyphene Urine PrThr Pt Ord Screen",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "19141-1",
-        "description" : "Propoxyphene Urine PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "19141-1",
+        "description": "Propoxyphene Urine PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.PropoxyphenePrThrPtUrineOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "1287497009",
-          "description" : "Screening technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1287497009",
+            "description": "Screening technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

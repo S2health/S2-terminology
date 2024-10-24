@@ -1,85 +1,87 @@
 {
-  "target" : {
-    "code" : "1977-8",
-    "description" : "Bilirubin.total [Presence] in Urine",
-    "system" : "loinc"
+  "target": {
+    "code": "1977-8",
+    "description": "Bilirubin.total [Presence] in Urine",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.BilirubinPrThrPtUrineOrd.v1.0.0.adls",
-  "children" : {
-    "58450-8" : {
-      "source" : {
-        "code" : "58450-8",
-        "description" : "Bilirubin Urine PrThr Pt Ord Confirm",
-        "system" : "loinc"
+  "children": {
+    "58450-8": {
+      "source": {
+        "code": "58450-8",
+        "description": "Bilirubin Urine PrThr Pt Ord Confirm",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "1977-8",
-        "description" : "Bilirubin.total [Presence] in Urine",
-        "system" : "loinc"
+      "target": {
+        "code": "1977-8",
+        "description": "Bilirubin.total [Presence] in Urine",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.BilirubinPrThrPtUrineOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "703690001",
-          "description" : "Confirmatory technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703690001",
+            "description": "Confirmatory technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     },
-    "5770-3" : {
-      "source" : {
-        "code" : "5770-3",
-        "description" : "Bilirubin Urine PrThr Pt Ord Test strip",
-        "system" : "loinc"
+    "5770-3": {
+      "source": {
+        "code": "5770-3",
+        "description": "Bilirubin Urine PrThr Pt Ord Test strip",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "1977-8",
-        "description" : "Bilirubin.total [Presence] in Urine",
-        "system" : "loinc"
+      "target": {
+        "code": "1977-8",
+        "description": "Bilirubin.total [Presence] in Urine",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.BilirubinPrThrPtUrineOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702660003",
-          "description" : "Test strip technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702660003",
+            "description": "Test strip technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     },
-    "50551-1" : {
-      "source" : {
-        "code" : "50551-1",
-        "description" : "Bilirubin Urine PrThr Pt Ord Test strip.automated",
-        "system" : "loinc"
+    "50551-1": {
+      "source": {
+        "code": "50551-1",
+        "description": "Bilirubin Urine PrThr Pt Ord Test strip.automated",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "1977-8",
-        "description" : "Bilirubin.total [Presence] in Urine",
-        "system" : "loinc"
+      "target": {
+        "code": "1977-8",
+        "description": "Bilirubin.total [Presence] in Urine",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.BilirubinPrThrPtUrineOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "737102004",
-          "description" : "Automated test strip technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "737102004",
+            "description": "Automated test strip technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

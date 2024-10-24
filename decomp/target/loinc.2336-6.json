@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "2336-6",
-    "description" : "Globulin Ser MCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "2336-6",
+    "description": "Globulin Ser MCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.GlobulinMCncPtSerQn.v1.0.0.adls",
-  "children" : {
-    "10834-0" : {
-      "source" : {
-        "code" : "10834-0",
-        "description" : "Globulin Ser MCnc Pt Qn Calculated",
-        "system" : "loinc"
+  "children": {
+    "10834-0": {
+      "source": {
+        "code": "10834-0",
+        "description": "Globulin Ser MCnc Pt Qn Calculated",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "2336-6",
-        "description" : "Globulin Ser MCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "2336-6",
+        "description": "Globulin Ser MCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.GlobulinMCncPtSerQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "117337005",
-          "description" : "Calculated laboratory test method",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "117337005",
+            "description": "Calculated laboratory test method",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "33800-4",
-    "description" : "DNA double strand Ab.IgG Ser ACnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "33800-4",
+    "description": "DNA double strand Ab.IgG Ser ACnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.DNADoubleStrandAbIgGACncPtSerQn.v1.0.0.adls",
-  "children" : {
-    "58465-6" : {
-      "source" : {
-        "code" : "58465-6",
-        "description" : "DNA double strand Ab.IgG Ser PrThr Pt Ord IA",
-        "system" : "loinc"
+  "children": {
+    "58465-6": {
+      "source": {
+        "code": "58465-6",
+        "description": "DNA double strand Ab.IgG Ser PrThr Pt Ord IA",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "33800-4",
-        "description" : "DNA double strand Ab.IgG Ser ACnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "33800-4",
+        "description": "DNA double strand Ab.IgG Ser ACnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.DNADoubleStrandAbIgGACncPtSerQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "726449005",
-          "description" : "Immunoassay technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

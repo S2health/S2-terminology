@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "104715-8",
-    "description" : "Hepatitis C virus RNA [Presence] in Serum or Plasma by Molecular genetics method",
-    "system" : "loinc"
+  "target": {
+    "code": "104715-8",
+    "description": "Hepatitis C virus RNA [Presence] in Serum or Plasma by Molecular genetics method",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.HepatitisCvirusRNAPrThrPtSerPlasOrdMolgen.v1.0.0.adls",
-  "children" : {
-    "11259-9" : {
-      "source" : {
-        "code" : "11259-9",
-        "description" : "Hepatitis C virus RNA Ser/Plas PrThr Pt Ord Probe.amp.tar",
-        "system" : "loinc"
+  "children": {
+    "11259-9": {
+      "source": {
+        "code": "11259-9",
+        "description": "Hepatitis C virus RNA Ser/Plas PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "104715-8",
-        "description" : "Hepatitis C virus RNA [Presence] in Serum or Plasma by Molecular genetics method",
-        "system" : "loinc"
+      "target": {
+        "code": "104715-8",
+        "description": "Hepatitis C virus RNA [Presence] in Serum or Plasma by Molecular genetics method",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.HepatitisCvirusRNAPrThrPtSerPlasOrdMolgen.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702675006",
-          "description" : "Probe with target amplification technique technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

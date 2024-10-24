@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "30400-6",
-    "description" : "Hypochromia Bld PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "30400-6",
+    "description": "Hypochromia Bld PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.HypochromiaPrThrPtBldOrd.v1.0.0.adls",
-  "children" : {
-    "728-6" : {
-      "source" : {
-        "code" : "728-6",
-        "description" : "Hypochromia Bld PrThr Pt Ord Microscopy.light",
-        "system" : "loinc"
+  "children": {
+    "728-6": {
+      "source": {
+        "code": "728-6",
+        "description": "Hypochromia Bld PrThr Pt Ord Microscopy.light",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "30400-6",
-        "description" : "Hypochromia Bld PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "30400-6",
+        "description": "Hypochromia Bld PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.HypochromiaPrThrPtBldOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702661004",
-          "description" : "Light microscopy technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702661004",
+            "description": "Light microscopy technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

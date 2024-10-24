@@ -1,46 +1,47 @@
 {
-  "target" : {
-    "code" : "105065-7",
-    "description" : "Shigella species+EIEC invasion plasmid antigen H ipaH gene [Presence] in Specimen",
-    "system" : "loinc"
+  "target": {
+    "code": "105065-7",
+    "description": "Shigella species+EIEC invasion plasmid antigen H ipaH gene [Presence] in Specimen",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.ShigellaspeciesEIECinvasionplasmidantigenHipaHgenePrThrPtXXXOrd.v1.0.0.adls",
-  "children" : {
-    "80350-2" : {
-      "source" : {
-        "code" : "80350-2",
-        "description" : "Shigella species+EIEC invasion plasmid antigen H (ipaH) gene Stool PrThr Pt Ord Non-probe.amp.tar",
-        "system" : "loinc"
+  "children": {
+    "80350-2": {
+      "source": {
+        "code": "80350-2",
+        "description": "Shigella species+EIEC invasion plasmid antigen H (ipaH) gene Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "105065-7",
-        "description" : "Shigella species+EIEC invasion plasmid antigen H ipaH gene [Presence] in Specimen",
-        "system" : "loinc"
+      "target": {
+        "code": "105065-7",
+        "description": "Shigella species+EIEC invasion plasmid antigen H ipaH gene [Presence] in Specimen",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.ShigellaspeciesEIECinvasionplasmidantigenHipaHgenePrThrPtXXXOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31111000205104",
+            "description": "Non-probe target amplification technique",
+            "system": "snomed"
+          }
         },
-        "value" : {
-          "code" : "31111000205104",
-          "description" : "Non-probe target amplification technique",
-          "system" : "snomed"
+        {
+          "key": {
+            "code": "66746-9",
+            "description": "Specimen type",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "119339001",
+            "description": "Stool specimen",
+            "system": "snomed"
+          }
         }
-      }, {
-        "key" : {
-          "code" : "66746-9",
-          "description" : "Specimen type",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "119339001",
-          "description" : "Stool specimen",
-          "system" : "snomed"
-        }
-      } ]
+      ]
     }
   }
 }

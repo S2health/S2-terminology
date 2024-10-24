@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "26524-9",
-    "description" : "Promyelocytes/100 leukocytes Bld NFr Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "26524-9",
+    "description": "Promyelocytes/100 leukocytes Bld NFr Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.Promyelocytes100leukocytesNFrPtBldQn.v1.0.0.adls",
-  "children" : {
-    "783-1" : {
-      "source" : {
-        "code" : "783-1",
-        "description" : "Promyelocytes/100 leukocytes Bld NFr Pt Qn Manual count",
-        "system" : "loinc"
+  "children": {
+    "783-1": {
+      "source": {
+        "code": "783-1",
+        "description": "Promyelocytes/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "26524-9",
-        "description" : "Promyelocytes/100 leukocytes Bld NFr Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "26524-9",
+        "description": "Promyelocytes/100 leukocytes Bld NFr Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.Promyelocytes100leukocytesNFrPtBldQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702663001",
-          "description" : "Manual count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702663001",
+            "description": "Manual count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

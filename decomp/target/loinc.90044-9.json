@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "90044-9",
-    "description" : "Epithelial cells.renal [Presence] in Urine sediment",
-    "system" : "loinc"
+  "target": {
+    "code": "90044-9",
+    "description": "Epithelial cells.renal [Presence] in Urine sediment",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.EpithelialcellsrenalPrThrPtUrinesedOrd.v1.0.0.adls",
-  "children" : {
-    "12248-1" : {
-      "source" : {
-        "code" : "12248-1",
-        "description" : "Epithelial cells.renal Urine sed PrThr Pt Ord Microscopy.light",
-        "system" : "loinc"
+  "children": {
+    "12248-1": {
+      "source": {
+        "code": "12248-1",
+        "description": "Epithelial cells.renal Urine sed PrThr Pt Ord Microscopy.light",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "90044-9",
-        "description" : "Epithelial cells.renal [Presence] in Urine sediment",
-        "system" : "loinc"
+      "target": {
+        "code": "90044-9",
+        "description": "Epithelial cells.renal [Presence] in Urine sediment",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.EpithelialcellsrenalPrThrPtUrinesedOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702661004",
-          "description" : "Light microscopy technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702661004",
+            "description": "Light microscopy technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

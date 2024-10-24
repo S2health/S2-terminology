@@ -1,60 +1,61 @@
 {
-  "target" : {
-    "code" : "2532-0",
-    "description" : "Lactate dehydrogenase Ser/Plas CCnc Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "2532-0",
+    "description": "Lactate dehydrogenase Ser/Plas CCnc Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.LactateDehydrogenaseCCncPtSerPlasQn.v1.0.0.adls",
-  "children" : {
-    "14805-6" : {
-      "source" : {
-        "code" : "14805-6",
-        "description" : "Lactate dehydrogenase Ser/Plas CCnc Pt Qn Reaction: pyruvate to lactate",
-        "system" : "loinc"
+  "children": {
+    "14805-6": {
+      "source": {
+        "code": "14805-6",
+        "description": "Lactate dehydrogenase Ser/Plas CCnc Pt Qn Reaction: pyruvate to lactate",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "2532-0",
-        "description" : "Lactate dehydrogenase Ser/Plas CCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "2532-0",
+        "description": "Lactate dehydrogenase Ser/Plas CCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.LactateDehydrogenaseCCncPtSerPlasQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "30951000205105",
-          "description" : "Pyruvate to lactate testing technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "30951000205105",
+            "description": "Pyruvate to lactate testing technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     },
-    "14804-9" : {
-      "source" : {
-        "code" : "14804-9",
-        "description" : "Lactate dehydrogenase Ser/Plas CCnc Pt Qn Reaction: lactate to pyruvate",
-        "system" : "loinc"
+    "14804-9": {
+      "source": {
+        "code": "14804-9",
+        "description": "Lactate dehydrogenase Ser/Plas CCnc Pt Qn Reaction: lactate to pyruvate",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "2532-0",
-        "description" : "Lactate dehydrogenase Ser/Plas CCnc Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "2532-0",
+        "description": "Lactate dehydrogenase Ser/Plas CCnc Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.LactateDehydrogenaseCCncPtSerPlasQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "30961000205108",
-          "description" : "Lactate to pyruvate testing technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "30961000205108",
+            "description": "Lactate to pyruvate testing technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

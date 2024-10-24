@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "30385-9",
-    "description" : "Erythrocyte distribution width RBC Ratio Pt Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "30385-9",
+    "description": "Erythrocyte distribution width RBC Ratio Pt Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.ErythrocyteDistributionWidthRatioPtRBCQn.v1.0.0.adls",
-  "children" : {
-    "788-0" : {
-      "source" : {
-        "code" : "788-0",
-        "description" : "Erythrocyte distribution width RBC Ratio Pt Qn Automated count",
-        "system" : "loinc"
+  "children": {
+    "788-0": {
+      "source": {
+        "code": "788-0",
+        "description": "Erythrocyte distribution width RBC Ratio Pt Qn Automated count",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "30385-9",
-        "description" : "Erythrocyte distribution width RBC Ratio Pt Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "30385-9",
+        "description": "Erythrocyte distribution width RBC Ratio Pt Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.ErythrocyteDistributionWidthRatioPtRBCQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "702659008",
-          "description" : "Automated count technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

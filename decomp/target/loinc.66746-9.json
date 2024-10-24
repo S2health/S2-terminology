@@ -1,60 +1,61 @@
 {
-  "target" : {
-    "code" : "66746-9",
-    "description" : "Specimen type Specimen Type Pt Nom",
-    "system" : "loinc"
+  "target": {
+    "code": "66746-9",
+    "description": "Specimen type Specimen Type Pt Nom",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.SpecimentypeTypePtSpecimenNom.v1.0.0.adls",
-  "children" : {
-    "47938-6" : {
-      "source" : {
-        "code" : "47938-6",
-        "description" : "Specimen source Body fld Prid Pt Nom",
-        "system" : "loinc"
+  "children": {
+    "47938-6": {
+      "source": {
+        "code": "47938-6",
+        "description": "Specimen source Body fld Prid Pt Nom",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "66746-9",
-        "description" : "Specimen type Specimen Type Pt Nom",
-        "system" : "loinc"
+      "target": {
+        "code": "66746-9",
+        "description": "Specimen type Specimen Type Pt Nom",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.SpecimentypeTypePtSpecimenNom.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "66746-9",
-          "description" : "Specimen type",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "309051001",
-          "description" : "Body fluid specimen",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "66746-9",
+            "description": "Specimen type",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "309051001",
+            "description": "Body fluid specimen",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     },
-    "31208-2" : {
-      "source" : {
-        "code" : "31208-2",
-        "description" : "Specimen source Prid Pt Nom",
-        "system" : "loinc"
+    "31208-2": {
+      "source": {
+        "code": "31208-2",
+        "description": "Specimen source Prid Pt Nom",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "66746-9",
-        "description" : "Specimen type Specimen Type Pt Nom",
-        "system" : "loinc"
+      "target": {
+        "code": "66746-9",
+        "description": "Specimen type Specimen Type Pt Nom",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.SpecimentypeTypePtSpecimenNom.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "66746-9",
-          "description" : "Specimen type",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "430304001",
-          "description" : "Specimen from unspecified body site",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "66746-9",
+            "description": "Specimen type",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "430304001",
+            "description": "Specimen from unspecified body site",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "104758-8",
-    "description" : "Gardnerella vaginalis DNA [Presence] in Vaginal fluid by Molecular genetics method",
-    "system" : "loinc"
+  "target": {
+    "code": "104758-8",
+    "description": "Gardnerella vaginalis DNA [Presence] in Vaginal fluid by Molecular genetics method",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.GardnerellavaginalisDNAPrThrPtVagOrdMolgen.v1.0.0.adls",
-  "children" : {
-    "54143-3" : {
-      "source" : {
-        "code" : "54143-3",
-        "description" : "Gardnerella vaginalis DNA Vag PrThr Pt Ord Probe.amp.sig",
-        "system" : "loinc"
+  "children": {
+    "54143-3": {
+      "source": {
+        "code": "54143-3",
+        "description": "Gardnerella vaginalis DNA Vag PrThr Pt Ord Probe.amp.sig",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "104758-8",
-        "description" : "Gardnerella vaginalis DNA [Presence] in Vaginal fluid by Molecular genetics method",
-        "system" : "loinc"
+      "target": {
+        "code": "104758-8",
+        "description": "Gardnerella vaginalis DNA [Presence] in Vaginal fluid by Molecular genetics method",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.GardnerellavaginalisDNAPrThrPtVagOrdMolgen.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "726451009",
-          "description" : "Signal amplification technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726451009",
+            "description": "Signal amplification technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

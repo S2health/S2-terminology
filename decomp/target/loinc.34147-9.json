@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "34147-9",
-    "description" : "Treponema pallidum Ab.IgG+IgM Ser PrThr Pt Ord",
-    "system" : "loinc"
+  "target": {
+    "code": "34147-9",
+    "description": "Treponema pallidum Ab.IgG+IgM Ser PrThr Pt Ord",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.TreponemapallidumAbIgGIgMPrThrPtSerOrd.v1.0.0.adls",
-  "children" : {
-    "47236-5" : {
-      "source" : {
-        "code" : "47236-5",
-        "description" : "Treponema pallidum Ab.IgG+IgM Ser PrThr Pt Ord IA",
-        "system" : "loinc"
+  "children": {
+    "47236-5": {
+      "source": {
+        "code": "47236-5",
+        "description": "Treponema pallidum Ab.IgG+IgM Ser PrThr Pt Ord IA",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "34147-9",
-        "description" : "Treponema pallidum Ab.IgG+IgM Ser PrThr Pt Ord",
-        "system" : "loinc"
+      "target": {
+        "code": "34147-9",
+        "description": "Treponema pallidum Ab.IgG+IgM Ser PrThr Pt Ord",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.TreponemapallidumAbIgGIgMPrThrPtSerOrd.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "726449005",
-          "description" : "Immunoassay technique",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }

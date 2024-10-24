@@ -1,35 +1,35 @@
 {
-  "target" : {
-    "code" : "21059-1",
-    "description" : "Albumin Urine MCnc 24H Qn",
-    "system" : "loinc"
+  "target": {
+    "code": "21059-1",
+    "description": "Albumin Urine MCnc 24H Qn",
+    "system": "loinc"
   },
-  "modelName" : "s2-EHR-Node.AlbuminMCnc24HUrineQn.v1.0.0.adls",
-  "children" : {
-    "30003-8" : {
-      "source" : {
-        "code" : "30003-8",
-        "description" : "Albumin Urine MCnc 24H Qn Detection limit <= 20 mg/L",
-        "system" : "loinc"
+  "children": {
+    "30003-8": {
+      "source": {
+        "code": "30003-8",
+        "description": "Albumin Urine MCnc 24H Qn Detection limit <= 20 mg/L",
+        "system": "loinc"
       },
-      "target" : {
-        "code" : "21059-1",
-        "description" : "Albumin Urine MCnc 24H Qn",
-        "system" : "loinc"
+      "target": {
+        "code": "21059-1",
+        "description": "Albumin Urine MCnc 24H Qn",
+        "system": "loinc"
       },
-      "model" : "s2-EHR-Node.AlbuminMCnc24HUrineQn.v1.0.0.adls",
-      "descriptors" : [ {
-        "key" : {
-          "code" : "85069-3",
-          "description" : "Lab test method [Type]",
-          "system" : "loinc"
-        },
-        "value" : {
-          "code" : "118184002",
-          "description" : "Laboratory test with detection limit of <20mg/L",
-          "system" : "snomed"
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "118184002",
+            "description": "Laboratory test with detection limit of <20mg/L",
+            "system": "snomed"
+          }
         }
-      } ]
+      ]
     }
   }
 }
