@@ -1,9 +1,8 @@
 name: Publish Decomp to Artifactory
 
 on:
-  push:
-    tags:
-      - '*'
+  pull_request:
+    branches: [ "main" ]
 
 permissions:
   contents: write
@@ -13,12 +12,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          tags: true
       - name: Extract tag version
         id: extract_tag
         run: |
-          TAG_VERSION=${GITHUB_REF#refs/tags/}
-          echo "VERSION=${TAG_VERSION}" >> $GITHUB_ENV
-        shell: bash
+          # Fetch all tags and get the latest one
+          LAST_TAG=$(git describe --tags `git rev-list --tags --max-count=1`)
+          echo "VERSION=$LAST_TAG" >> $GITHUB_ENV
       - name: Docker Login
         uses: docker/login-action@v3
         with:
