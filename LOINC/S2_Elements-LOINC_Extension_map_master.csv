@@ -17,6 +17,9 @@
 1043,Additional problems,Active,c24ce03e-918d-ef11-8872-6045bdc71c8b,Secondary problem/diagnosis list,Active,General,False,s2-EHR-Composition.problem_list.v1,id4,/content[id4],
 1741,Address,Active,99952-4,Address panel Entity - Pt -,Active,General,False,s2-ENTITY-Location_address_use.location_address_use_general.v1,id2,/description[id2],
 1752,Address,Active,99953-2,Address Entity Addr Pt Nom,Active,General,False,s2-ENTITY-Location_address_use.location_address_use_general.v1,id1,/,
+1910,Address,Active,106181-1,Address line Entity Addr Pt Nom,Active,General,False,s2-ENTITY-Info_node.location_address.v1,id2,/items[id2],s2-ENTITY-Info_node.structured_address.v1.0.0
+1912,Address location type,Active,99957-3,Address type Entity Type Pt Nom,Active,General,False,s2-ENTITY-Info_node.location_address.v1,id13,/items[id13],
+1911,Address purpose,Active,99958-1,Address use Entity Type Pt Nom,Active,General,False,s2-ENTITY-Info_node.location_address.v1,id12,/items[id12],
 1173,Administration details,Active,80565-5,Medication administration flowsheet {Setting} Find Pt Doc {Role},Active,Clinical Document,False,s2-EHR-Action.medication.v1,id141,/description[id141],
 1172,Administration device,Active,82307-0,Vendor device information panel {Device} - Pt -,Active,General,False,s2-EHR-Action.medication.v1,id145,/description[id141]/items[id145],s2-EHR-Entity_ref_node.device_ref.v1
 1313,Administration device,Active,82307-0,Vendor device information panel {Device} - Pt -,Active,General,False,s2-EHR-Order.medication_order.v4,id96,/activities[id2]/description[id96],s2-EHR-Entity_ref_node.device_ref.v1
@@ -62,7 +65,7 @@
 1419,Aspect,Active,9f59afc2-6c82-ef11-8870-6045bdc71c8b,Body site aspect,Active,General,False,s2-EHR-Info_node.anatomical_location_classical.v1,id0.65,/items[id0.65],
 1250,Associated Situation,Active,106168-8,Associated situation Patient Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.heart_rate.v1,id1053,/state[id1053],
 1485,Atmospheric pressure,Active,20053-5,Pressure Atmosphere Pres Pt Qn,Active,General,False,s2-EHR-Info_node.environmental_conditions.v0,id12,/items[id12],
-1842,Author,Active,52457-9,Provider Information,Retired,General,False,s2-EHR-Composition.allergies_intolerances_list.v1.0.0,id21,/author[id21],s2-EHR-Entity_ref_node.healthcare_professional_ref.v1
+1842,Author,Active,52457-9,Provider Information,Retired,General,False,s2-EHR-Composition.allergies_intolerances_list.v1,id21,/author[id21],s2-EHR-Entity_ref_node.healthcare_professional_ref.v1
 1844,Author,Active,52457-9,Provider Information,Retired,General,False,s2-EHR-Composition.family_history.v1,id21,/author[id21],s2-EHR-Entity_ref_node.healthcare_professional_ref.v1
 1845,Author,Active,52457-9,Provider Information,Retired,General,False,s2-EHR-Composition.medication_list.v1,id21,/author[id21],s2-EHR-Entity_ref_node.healthcare_professional_ref.v1
 1847,Author,Active,52457-9,Provider Information,Retired,General,False,s2-EHR-Composition.simple_medication_list.v1,id21,/author[id21],s2-EHR-Entity_ref_node.healthcare_professional_ref.v1
@@ -188,8 +191,13 @@
 1374,Comms address,Active,90054-8,Email address Organization EmailAddr Pt Nom,Active,General,False,s2-EHR-Entity_ref_node.organization_ref.v1,id0.5,/items[id5],
 1771,Comms addresses,Active,104902-2,Electronic communication information Patient Type Pt Nom,Active,General,False,s2-ENTITY-Person.person.v1,id2,/comms_addresses[id2],s2-ENTITY-Comms_address_use.comms_address_use_general.v1
 1829,Comms addresses,Active,90054-8,Email address Organization EmailAddr Pt Nom,Active,General,False,s2-ENTITY-Info_node.patient_contact.v1,id4,/items[id4],s2-ENTITY-Comms_address_use.comms_address_use_general.v1
+1905,Communication address string,Active,104917-0,Communication phone number or email address Person EmailAddr Pt Nom,Active,General,False,s2-ENTITY-Info_node.comms_address.v1,id10,/items[id10],
+1908,Communication technology,Active,99949-0,Telecommunication mode Entity Type Pt Nom,Active,General,False,s2-ENTITY-Info_node.comms_address.v1,id13,/items[id13],
 1740,"Communications address, including postal",Active,99953-2,Address Entity Addr Pt Nom,Active,General,False,s2-ENTITY-Comms_address_use.comms_address_use_general.v1,id1,/,
+1904,"Communications address, including postal",Active,99953-2,Address Entity Addr Pt Nom,Active,General,False,s2-ENTITY-Info_node.comms_address.v1,id1,/,
+1907,"Communications address, including postal/Communications purpose",Active,104911-3,Communication purpose Person Find Pt Nar,Active,General,False,s2-ENTITY-Info_node.comms_address.v1,id12,/items[id12],
 1768,Communications addresses,Active,99953-2,Address Entity Addr Pt Nom,Active,General,False,s2-ENTITY-Organization.organization.v1,id2,/comms_addresses[id2],s2-ENTITY-Comms_address_use.comms_address_use_general.v1
+1906,Communications platform,Active,512a53ca-db9a-ef11-8872-6045bdc71c8b,Communication platform,Active,General,False,s2-ENTITY-Info_node.comms_address.v1,id11,/items[id11],
 1894,Communications purpose,Active,104911-3,Communication purpose Person Find Pt Nar,Active,General,False,s2-ENTITY-Comms_address_use.comms_address_use_general.v1,id4,/purposes[id4],
 1188,Confounding factors,Active,106176-1,Confounding factors Patient Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id1053,/state[id1053],
 1218,Confounding factors,Active,106176-1,Confounding factors Patient Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.body_mass_index.v2,id12,/state[id12],
@@ -324,6 +332,7 @@
 1068,Family member name,Active,54138-3,Name Family member,Active,General,False,s2-EHR-Assessment.family_history.v2,id5,/data[id4]/items[id5],
 1812,Family name,Active,97847-8,Last name Person Pn Pt Nom,Active,General,False,s2-ENTITY-Info_node.structured_name.v1,id6,/items[id6],
 1857,Family name,Active,97847-8,Last name Person Pn Pt Nom,Active,General,False,s2-ENTITY-Party_identity.person_structured_name.v1,id6,/items[id6],
+1902,Family name,Active,97847-8,Last name Person Pn Pt Nom,Active,General,False,s2-ENTITY-Info_node.person_structured_name.v1,id6,/items[id20]/items[id6],
 1496,Family prevalence,Active,104979-0,Problem family prevalence details Patient Pn Pt Nom,Active,General,False,s2-EHR-Info_node.family_prevalence.v1,id1,/,
 1498,FiO2,Active,71835-3,Oxygen/Gas.total Inhl gas VFr.DF Pt Qn,Active,General,False,s2-EHR-Info_node.inspired_oxygen.v1,id53,/items[id53],
 1497,Flow rate,Active,3151-8,Oxygen inhaled Inhl gas VRat Pt Qn,Active,General,False,s2-EHR-Info_node.inspired_oxygen.v1,id52,/items[id52],
@@ -339,6 +348,7 @@
 1747,Geolocation code,Active,104912-1,Geolocation code Person ID Pt Nom,Active,General,False,s2-ENTITY-Location_address_use.location_address_use_general.v1,id22,/description[id22],
 1811,Given name,Active,97848-6,First name Person Pn Pt Nom,Active,General,False,s2-ENTITY-Info_node.structured_name.v1,id3,/items[id3],
 1856,Given name,Active,97848-6,First name Person Pn Pt Nom,Active,General,False,s2-ENTITY-Party_identity.person_structured_name.v1,id3,/items[id3],
+1901,Given name,Active,97848-6,First name Person Pn Pt Nom,Active,General,False,s2-ENTITY-Info_node.person_structured_name.v1,id3,/items[id20]/items[id3],
 1567,Globulin Plas MCnc Pt Qn,Active,13536-8,Globulin Plas MCnc Pt Qn,Active,Lab Test,False,s2-EHR-Info_node.GlobulinMCncPtPlasQnLabObs.v1,id1.1.1,/,
 1568,Globulin Ser MCnc Pt Qn,Active,2336-6,Globulin Ser MCnc Pt Qn,Active,Lab Test,False,s2-EHR-Info_node.GlobulinMCncPtSerQnLabObs.v1,id1.1.1,/,
 1569,Glomerular filtration rate/1.73 sq M.predicted Ser/Plas/Bld ArVRat Pt Qn,Active,69405-9,Glomerular filtration rate/1.73 sq M.predicted Ser/Plas/Bld ArVRat Pt Qn,Active,Lab Test,False,s2-EHR-Info_node.Glomerularfiltrationrate173sqMpredictedArVRatPtSerPlasBldQnLabObs.v1,id1.1.1,/,
@@ -374,7 +384,7 @@
 1050,inactive status,Active,a7affd63-6682-ef11-8870-6045bdc71c8b,Adverse reaction status,Active,General,False,s2-EHR-Assessment.adverse_reaction_risk.v2,id131,/data[id131],
 1006,Incoming referral id,Active,93ff9f33-5274-ef11-8870-6045bdc71c8b,Incoming referral identifier,Active,General,False,s2-ADMIN-Billing_encounter.encounter_general.v1,id8,/other_details[id8],
 1399,Information source,Active,48766-0,Information source {system} Type Pt Nom,Active,Clinical Document,False,s2-EHR-Info_node.adverse_reaction_event.v1,id24,/items[id24],
-1615,Inhaled oxygen flow rate,Active,3150-0,Oxygen/Gas.total Inhl gas VFr Pt Qn,Active,General,False,s2-EHR-Info_node.inhaled_oxygen_flow_rate.v1,id1.1.1,/,
+1615,Inhaled oxygen flow rate,Active,3151-8,Oxygen inhaled Inhl gas VRat Pt Qn,Active,General,False,s2-EHR-Info_node.inhaled_oxygen_flow_rate.v1,id1.1.1,/,
 1489,Inheritance type,Active,104909-7,Inheritance type Patient Find Pt Nar,Active,General,False,s2-EHR-Info_node.family_prevalence.v1,id57,/items[id57],
 1391,Initial exposure,Active,94652-5,Known exposure date Patient Date Pt Qn,Active,General,False,s2-EHR-Info_node.adverse_reaction_event.v1,id16,/items[id16],
 1287,Inspired oxygen,Active,19996-8,Oxygen/Inspired gas On ventilator Respiratory system VFr Pt Qn,Active,General,False,s2-EHR-Direct_observation.pulse_oximetry.v1,id16,/state[id16],s2-EHR-Info_node.inspired_oxygen.v1
@@ -398,7 +408,6 @@
 1662,Key order dates,Active,6629d5ec-7182-ef11-8870-6045bdc71c8b,Medication key order date(s),Active,General,False,s2-EHR-Info_node.medication_order_summary.v0,id3,/items[id3],
 1508,Lab analyte result structure,Active,cbfb8ff4-7082-ef11-8870-6045bdc71c8b,Lab result detais panel,Active,General,False,s2-EHR-Info_node.lab_analyte.v0,id1,/,
 1377,Lab organization ref,Active,106205-8,Performing laboratory panel Patient - Pt -,Active,General,False,s2-EHR-Entity_ref_node.lab_organization_ref.v1,id1.1.1,/,
-1897,Lab panel,Active,104922-0,Laboratory test details panel Patient - Pt -,Active,General,False,s2-EHR-Composition.t_lab_report-generic.v1,id0.1,/content[id0.1],
 1038,Lab report,Active,c6368655-6682-ef11-8870-6045bdc71c8b,"Lab report, structured",Active,General,False,s2-EHR-Composition.lab_report.v1,id1,/,
 1818,Lab report - Author,Active,52457-9,Provider Information,Retired,General,False,s2-EHR-Composition.lab_report.v1,id21,/author[id21],s2-EHR-Entity_ref_node.healthcare_professional_ref.v1
 1515,Lab result with coded ordinal value,Active,8dbff427-318e-ef11-8872-6045bdc71c8b,Ordinal laboratory test details panel,Active,General,False,s2-EHR-Info_node.lab_analyte_ordinal.v0,id1.1,/,
@@ -503,6 +512,8 @@
 1378,Name,Active,90d847a8-6c82-ef11-8870-6045bdc71c8b,Simple person name,Active,General,False,s2-EHR-Entity_ref_node.person_ref.v1,id0.2,/items[id2],
 1638,Name,Active,74058-9,Manufacturer name of Medication,Active,General,False,s2-EHR-Info_node.medication.v3,id133,/items[id133],
 1823,Name,Active,52458-7,Name Provider,Active,General,False,s2-EHR-Entity_ref_node.healthcare_professional_ref.v1,id0.2,/items[id2],
+1897,Name of a person and use,Active,97845-2,Name panel Person - Pt -,Active,General,False,s2-ENTITY-Info_node.person_structured_name.v1,id1,/,
+1900,Name usage,Active,97846-0,Name use Person Find Pt Nom,Active,General,False,s2-ENTITY-Info_node.person_structured_name.v1,id21,/items[id21],
 1439,Negative aspects of change,Active,22ba4be4-6e82-ef11-8870-6045bdc71c8b,Negative aspects of change,Active,General,False,s2-EHR-Info_node.change.v0,id10,/items[id10],
 1437,Negative aspects of current behaviour,Active,717f4fd5-6e82-ef11-8870-6045bdc71c8b,Negative aspects of current behavior,Active,General,False,s2-EHR-Info_node.change.v0,id7,/items[id7],
 1451,Network address,Active,a4aa4467-6f82-ef11-8870-6045bdc71c8b,Device network address,Active,General,False,s2-EHR-Info_node.device_details.v0,id26,/items[id26],
@@ -585,6 +596,7 @@
 1782,Photo,Active,72170-4,Photographic image {Setting} Find Pt Doc {Role},Active,Clinical Document,False,s2-ENTITY-Person.person.v1,id10,/other_details[id10],
 1372,Physical address,Active,90052-2,Address Organization Addr Pt Nom,Active,General,False,s2-EHR-Entity_ref_node.organization_ref.v1,id0.3,/items[id3],
 1772,Physical address,Active,99953-2,Address Entity Addr Pt Nom,Active,General,False,s2-ENTITY-Person.person.v1,id6,/location_addresses[id6],s2-ENTITY-Location_address_use.location_address_use_general.v1
+1909,Physical address information,Active,99953-2,Address Entity Addr Pt Nom,Active,General,False,s2-ENTITY-Info_node.location_address.v1,id1,/,
 1769,Physical adresses,Active,90052-2,Address Organization Addr Pt Nom,Active,General,False,s2-ENTITY-Organization.organization.v1,id3,/location_addresses[id3],s2-ENTITY-Location_address_use.location_address_use_general.v1
 1776,Place of birth,Active,21842-0,Birthplace Patient Loc Pt Nom,Active,General,False,s2-ENTITY-Person.person.v1,id9,/other_details[id9],
 1002,Planned end time,Active,106180-3,End date and time Patient Date Pt Qn,Active,General,False,s2-ADMIN-Billing_encounter.encounter_general.v1,id4,/other_details[id4],
@@ -756,7 +768,8 @@
 1232,Structured measurement location,Active,72369-2,Body site identification panel Patient - Pt -,Active,General,False,s2-EHR-Direct_observation.body_temperature.v2,id65,/qualifiers[id65],s2-EHR-Info_node.anatomical_location.v1
 1773,Structured name,Active,97845-2,Name panel Person - Pt -,Active,General,False,s2-ENTITY-Person.person.v1,id3,/identities[id7]/description[id3],s2-ENTITY-Info_node.structured_name.v1
 1854,Structured name,Active,97845-2,Name panel Person - Pt -,Active,General,False,s2-ENTITY-Party_identity.person_structured_name.v1,id1,/,
-1814,Structured name of a person,Active,97845-2,Name panel Person - Pt -,Active,General,False,s2-ENTITY-Info_node.structured_name.v1,id1,/,
+1899,Structured name,Active,97845-2,Name panel Person - Pt -,Active,General,False,s2-ENTITY-Info_node.person_structured_name.v1,id20,/items[id20],
+1814,Structured name of a person,Active,287fc033-da9a-ef11-8872-6045bdc71c8b,Person name and name use information panel,Active,General,False,s2-ENTITY-Info_node.structured_name.v1,id1,/,
 1874,Subject,Active,106184-5,Focal subject Entity Find Pt Nom,Active,General,False,s2-EHR-Assessment.adverse_reaction_risk.v2,id8000,/subject[id8000],s2-EHR-Entity_ref_node.party_ref.v1
 1875,Subject,Active,106184-5,Focal subject Entity Find Pt Nom,Active,General,False,s2-EHR-Assessment.family_history.v2,id8000,/subject[id8000],s2-EHR-Entity_ref_node.party_ref.v1
 1876,Subject,Active,106184-5,Focal subject Entity Find Pt Nom,Active,General,False,s2-EHR-Assessment.goal.v1,id8000,/subject[id8000],s2-EHR-Entity_ref_node.party_ref.v1
@@ -777,6 +790,7 @@
 1163,Substitution reason,Active,8161fa14-6782-ef11-8870-6045bdc71c8b,Medication substitution reason,Active,General,False,s2-EHR-Action.medication.v1,id134,/description[id134],
 1813,Suffix,Active,97850-2,Name suffix Person Pn Pt Nom,Active,General,False,s2-ENTITY-Info_node.structured_name.v1,id7,/items[id7],
 1858,Suffix,Active,97850-2,Name suffix Person Pn Pt Nom,Active,General,False,s2-ENTITY-Party_identity.person_structured_name.v1,id7,/items[id7],
+1903,Suffix,Active,97850-2,Name suffix Person Pn Pt Nom,Active,General,False,s2-ENTITY-Info_node.person_structured_name.v1,id7,/items[id20]/items[id7],
 1063,Summary,Active,10157-6,History of family member diseases Family member Hx Pt Nar,Active,General,False,s2-EHR-Assessment.family_history.v2,id3,/data[id3],
 1060,Supporting clinical record information,Active,104987-3,Supporting clinical information Patient ID Pt Nom,Active,General,False,s2-EHR-Assessment.adverse_reaction_risk.v2,id48,/qualifiers[id48],
 1400,Supporting clinical record information,Active,efbdc97b-988d-ef11-8872-6045bdc71c8b,Supporting clinical record information,Active,General,False,s2-EHR-Info_node.adverse_reaction_event.v1,id26,/items[id26],
@@ -806,6 +820,7 @@
 1723,Timing description,Active,263ddcca-7282-ef11-8870-6045bdc71c8b,Non-daily timing description,Active,General,False,s2-EHR-Info_node.timing_nondaily.v1,id22,/items[id22],
 1810,Title,Active,97849-4,Name prefix Person Pn Pt Nom,Active,General,False,s2-ENTITY-Info_node.structured_name.v1,id2,/items[id2],
 1855,Title,Active,97849-4,Name prefix Person Pn Pt Nom,Active,General,False,s2-ENTITY-Party_identity.person_structured_name.v1,id2,/items[id2],
+1898,Title,Active,97849-4,Name prefix Person Pn Pt Nom,Active,General,False,s2-ENTITY-Info_node.person_structured_name.v1,id2,/items[id20]/items[id2],
 1327,Total daily amount,Active,104810-7,Medication total daily amount Medication Num 24H Qn,Active,General,False,s2-EHR-Order.medication_order.v4,id152,/activities[id2]/description[id63]/items[id151]/items[id152],
 1328,Total daily effective dose,Active,104775-2,Medication total daily effective dose Medication Dosage Pt Qn,Active,General,False,s2-EHR-Order.medication_order.v4,id151,/activities[id2]/description[id63]/items[id151],
 1742,Town,Active,68997-6,City,Active,General,False,s2-ENTITY-Location_address_use.location_address_use_general.v1,id3,/description[id3],
