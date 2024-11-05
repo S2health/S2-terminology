@@ -120,3 +120,4 @@ s2-ADMIN-Billing_encounter.encounter_general.v1.0.0,ac8010,http://s2health.org/i
 s2-ENTITY-Party_relationship.patient.v1.0.0,ac8010,http://s2health.org/id/s2.PartyRelationshipDomainType
 s2-ENTITY-Person.person.v1.0.0,ac8010,http://s2health.org/id/s2.PartyDomainType
 s2-ENTITY-Organization.organization.v1.0.0,ac8010,http://s2health.org/id/s2.PartyDomainType
+s2-ENTITY-Info_node.location_address.v1.0.0,ac2,http://s2health.org/id/s2.AddressUse
