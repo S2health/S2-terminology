@@ -121,3 +121,4 @@ s2-ENTITY-Party_relationship.patient.v1.0.0,ac8010,http://s2health.org/id/s2.Par
 s2-ENTITY-Person.person.v1.0.0,ac8010,http://s2health.org/id/s2.PartyDomainType
 s2-ENTITY-Organization.organization.v1.0.0,ac8010,http://s2health.org/id/s2.PartyDomainType
 s2-ENTITY-Info_node.location_address.v1.0.0,ac2,http://s2health.org/id/s2.AddressUse
+s2-ENTITY-Info_node.person_structured_name.v1.0.0,ac1,http://s2health.org/id/PersonNameUse
