@@ -1,0 +1,51 @@
+{
+  "id" : "s2.PersonNameUse",
+  "creationDate" : "2024-11-08T11:53:17-0500",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "PersonNameUse",
+    "description" : "Person name use",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "30051000205106",
+      "description" : "Anonymous ",
+      "system" : "snomed"
+    }, {
+      "code" : "72906007",
+      "description" : "Common",
+      "system" : "snomed"
+    }, {
+      "code" : "30021000205100",
+      "description" : "Maiden name qualifier value",
+      "system" : "snomed"
+    }, {
+      "code" : "30031000205103",
+      "description" : "Nickname",
+      "system" : "snomed"
+    }, {
+      "code" : "30041000205108",
+      "description" : "Official",
+      "system" : "snomed"
+    }, {
+      "code" : "70753007",
+      "description" : "Old",
+      "system" : "snomed"
+    }, {
+      "code" : "429086007",
+      "description" : "Patient alias name",
+      "system" : "snomed"
+    }, {
+      "code" : "408676007",
+      "description" : "Patient preferred name",
+      "system" : "snomed"
+    }, {
+      "code" : "276208004",
+      "description" : "Temporary type",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 9,
+    "isComplete" : true
+  }
+}
