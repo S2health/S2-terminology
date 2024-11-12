@@ -497,7 +497,7 @@
 1308,Medication details,Active,74078-7,Medication or other substance details panel [AHRQ],Active,General,False,s2-EHR-Order.medication_order.v4,id144,/activities[id2]/description[id144],s2-EHR-Info_node.medication.v3
 1652,Medication details,Active,74078-7,Medication or other substance details panel [AHRQ],Active,General,False,s2-EHR-Info_node.medication.v3,id1,/,
 1362,Medication history,Active,a591c089-6982-ef11-8870-6045bdc71c8b,Medication history information panel,Active,General,False,s2-EHR-Section.medication_history_heading.v1,id1,/,
-1158,Medication item,Active,74060-5,Brand name of Medication,Active,General,False,s2-EHR-Action.medication.v1,id21,/description[id21],
+1158,Medication item,Active,104717-4,Medication name Medication ID Pt Nom,Active,General,False,s2-EHR-Action.medication.v1,id21,/description[id21],
 1307,Medication item,Active,104717-4,Medication name Medication ID Pt Nom,Active,General,False,s2-EHR-Order.medication_order.v4,id71,/activities[id2]/description[id71],
 1039,Medication List,Active,104207-6,Medication administration list Pharmacy ID Episode Nom,Active,General,False,s2-EHR-Composition.medication_list.v1,id1,/,
 1180,Medication management,Active,d4effea9-ec6e-ef11-8870-6045bdc71c8b,Medication management information panel,Active,General,False,s2-EHR-Action.medication.v1,id1,/,
