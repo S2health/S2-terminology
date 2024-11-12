@@ -200,7 +200,7 @@ s2-EHR-Direct_observation.body_mass_index.v2,id5,59574-4
 s2-EHR-Direct_observation.body_mass_index.v2,id7,106191-0
 s2-EHR-Direct_observation.body_mass_index.v2,id8000,106184-5
 s2-EHR-Direct_observation.body_temperature.v2,id1,8310-5
-s2-EHR-Direct_observation.body_temperature.v2,id22,39111-0
+s2-EHR-Direct_observation.body_temperature.v2,id22,72369-2
 s2-EHR-Direct_observation.body_temperature.v2,id31,b18e717a-6882-ef11-8870-6045bdc71c8b
 s2-EHR-Direct_observation.body_temperature.v2,id42,57476e83-6882-ef11-8870-6045bdc71c8b
 s2-EHR-Direct_observation.body_temperature.v2,id5,8310-5
@@ -224,7 +224,7 @@ s2-EHR-Direct_observation.heart_rate.v1,id1,8867-4
 s2-EHR-Direct_observation.heart_rate.v1,id1006,41de0bac-6882-ef11-8870-6045bdc71c8b
 s2-EHR-Direct_observation.heart_rate.v1,id1026,82307-0
 s2-EHR-Direct_observation.heart_rate.v1,id1031,f3f6ed70-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.heart_rate.v1,id1036,106191-0
+s2-EHR-Direct_observation.heart_rate.v1,id1036,8886-4
 s2-EHR-Direct_observation.heart_rate.v1,id1053,106168-8
 s2-EHR-Direct_observation.heart_rate.v1,id1060,64110-0
 s2-EHR-Direct_observation.heart_rate.v1,id15,39111-0
@@ -258,7 +258,7 @@ s2-EHR-Direct_observation.pulse_oximetry.v1,id8000,106184-5
 s2-EHR-Direct_observation.respiratory_rate.v1,id1,9279-1
 s2-EHR-Direct_observation.respiratory_rate.v1,id1026,82307-0
 s2-EHR-Direct_observation.respiratory_rate.v1,id1031,f3f6ed70-6782-ef11-8870-6045bdc71c8b
-s2-EHR-Direct_observation.respiratory_rate.v1,id1036,106191-0
+s2-EHR-Direct_observation.respiratory_rate.v1,id1036,9275-9
 s2-EHR-Direct_observation.respiratory_rate.v1,id1060,64110-0
 s2-EHR-Direct_observation.respiratory_rate.v1,id5,9279-1
 s2-EHR-Direct_observation.respiratory_rate.v1,id8000,106184-5
@@ -758,7 +758,7 @@ s2-ENTITY-Info_node.device_details.v0,id9,cdbfbc7c-6f82-ef11-8870-6045bdc71c8b
 s2-ENTITY-Info_node.location_address.v1,id1,99953-2
 s2-ENTITY-Info_node.location_address.v1,id12,99958-1
 s2-ENTITY-Info_node.location_address.v1,id13,99957-3
-s2-ENTITY-Info_node.location_address.v1,id2,106181-1
+s2-ENTITY-Info_node.location_address.v1,id2,99952-4
 s2-ENTITY-Info_node.patient_contact.v1,id1,42efa0c7-338e-ef11-8872-6045bdc71c8b
 s2-ENTITY-Info_node.patient_contact.v1,id2,44767-2
 s2-ENTITY-Info_node.patient_contact.v1,id3,97845-2
