@@ -1,5 +1,6 @@
 ﻿SourceCode,SourceDescription,SourceTermStatus,TargetSourceCode,TargetDescription,TargetTermStatus,TargetDomain,IsRestricted,Source Archetype ID,Source Archetype Node ID,Source Archetype path,Source Archetype reference ID
 1207,24 hour average,Active,97844-5,Blood pressure panel Patient Pres 24H Mean Qn,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id1043,/data_series[id1043],
+1213,24 hour average,Active,97844-5,Blood pressure panel Patient Pres 24H Mean Qn,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id1043,/state_series[id1043],
 1510,ABO group Bld Type Pt Nom,Active,883-9,ABO group Bld Type Pt Nom,Active,Lab Test,False,s2-EHR-Info_node.ABOGroupTypePtBldNomLabObs.v1,id1.1.1,/,
 1460,Accuracy,Active,fcce039b-6f82-ef11-8870-6045bdc71c8b,Defvice accuracy,Active,General,False,s2-EHR-Info_node.device_details.v0,id14,/items[id14],
 1799,Accuracy,Active,fcce039b-6f82-ef11-8870-6045bdc71c8b,Defvice accuracy,Active,General,False,s2-ENTITY-Artifact_kind.imaging_device.v1,id0.0.14,/items[id0.0.14],
@@ -18,7 +19,7 @@
 1043,Additional problems,Active,c24ce03e-918d-ef11-8872-6045bdc71c8b,Secondary problem/diagnosis list,Active,General,False,s2-EHR-Composition.problem_list.v1,id4,/content[id4],
 1741,Address,Active,99952-4,Address panel Entity - Pt -,Active,General,False,s2-ENTITY-Location_address_use.location_address_use_general.v1,id2,/description[id2],
 1752,Address,Active,99953-2,Address Entity Addr Pt Nom,Active,General,False,s2-ENTITY-Location_address_use.location_address_use_general.v1,id1,/,
-1910,Address,Active,106181-1,Address line Entity Addr Pt Nom,Active,General,False,s2-ENTITY-Info_node.location_address.v1,id2,/items[id2],s2-ENTITY-Info_node.structured_address.v1.0.0
+1910,Address,Active,99952-4,Address panel Entity - Pt -,Active,General,False,s2-ENTITY-Info_node.location_address.v1,id2,/items[id2],s2-ENTITY-Info_node.structured_address.v1.0.0
 1912,Address location type,Active,99957-3,Address type Entity Type Pt Nom,Active,General,False,s2-ENTITY-Info_node.location_address.v1,id13,/items[id13],
 1911,Address purpose,Active,99958-1,Address use Entity Type Pt Nom,Active,General,False,s2-ENTITY-Info_node.location_address.v1,id12,/items[id12],
 1173,Administration details,Active,80565-5,Medication administration flowsheet {Setting} Find Pt Doc {Role},Active,Clinical Document,False,s2-EHR-Action.medication.v1,id141,/description[id141],
@@ -201,6 +202,7 @@
 1906,Communications platform,Active,512a53ca-db9a-ef11-8872-6045bdc71c8b,Communication platform,Active,General,False,s2-ENTITY-Info_node.comms_address.v1,id11,/items[id11],
 1894,Communications purpose,Active,104911-3,Communication purpose Person Find Pt Nar,Active,General,False,s2-ENTITY-Comms_address_use.comms_address_use_general.v1,id4,/purposes[id4],
 1188,Confounding factors,Active,106176-1,Confounding factors Patient Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id1053,/state[id1053],
+1209,Confounding factors,Active,106176-1,Confounding factors Patient Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id1053,/state_series[id1043]/items[id1053],
 1218,Confounding factors,Active,106176-1,Confounding factors Patient Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.body_mass_index.v2,id12,/state[id12],
 1228,Confounding factors,Active,106176-1,Confounding factors Patient Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.body_temperature.v2,id67,/state[id67],
 1238,Confounding factors,Active,106176-1,Confounding factors Patient Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.body_weight.v2,id26,/state[id26],
@@ -321,6 +323,7 @@
 1706,Exact timing critical?,Active,4fe26062-7282-ef11-8870-6045bdc71c8b,Timing criticality indicator,Active,General,False,s2-EHR-Info_node.timing_daily.v1,id24,/items[id24],
 1625,Exercise intensity,Active,4fbbd615-7182-ef11-8870-6045bdc71c8b,Exercise intensity information panel,Active,General,False,s2-EHR-Info_node.level_of_exertion.v0,id11,/items[id11],
 1189,Exertion,Active,f3f6ed70-6782-ef11-8870-6045bdc71c8b,Exertion Phase,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id1031,/state[id1031],s2-EHR-Info_node.level_of_exertion.v0
+1210,Exertion,Active,f3f6ed70-6782-ef11-8870-6045bdc71c8b,Exertion Phase,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id1031,/state_series[id1043]/items[id1031],
 1230,Exertion,Active,f3f6ed70-6782-ef11-8870-6045bdc71c8b,Exertion Phase,Active,General,False,s2-EHR-Direct_observation.body_temperature.v2,id58,/state[id58],s2-EHR-Info_node.level_of_exertion.v0
 1251,Exertion,Active,f3f6ed70-6782-ef11-8870-6045bdc71c8b,Exertion Phase,Active,General,False,s2-EHR-Direct_observation.heart_rate.v1,id1031,/state[id1031],s2-EHR-Info_node.level_of_exertion.v0
 1286,Exertion,Active,f3f6ed70-6782-ef11-8870-6045bdc71c8b,Exertion Phase,Active,General,False,s2-EHR-Direct_observation.pulse_oximetry.v1,id35,/state[id35],s2-EHR-Info_node.level_of_exertion.v0
@@ -442,7 +445,7 @@
 1929,Location,Active,36f01760-6f82-ef11-8870-6045bdc71c8b,Device location,Active,General,False,s2-ENTITY-Info_node.device_details.v0,id25,/items[id25],
 1830,Location addresses,Active,99952-4,Address panel Entity - Pt -,Active,General,False,s2-ENTITY-Info_node.patient_contact.v1,id5,/items[id5],s2-ENTITY-Location_address_use.location_address_use_general.v1
 1193,Location of measurement,Active,39111-0,Body site Patient Anat Pt Nom,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id15,/qualifiers[id15],
-1231,Location of measurement,Active,39111-0,Body site Patient Anat Pt Nom,Active,General,False,s2-EHR-Direct_observation.body_temperature.v2,id22,/qualifiers[id22],
+1231,Location of measurement,Active,72369-2,Body site identification panel Patient - Pt -,Active,General,False,s2-EHR-Direct_observation.body_temperature.v2,id22,/qualifiers[id22],
 1253,Location of measurement,Active,39111-0,Body site Patient Anat Pt Nom,Active,General,False,s2-EHR-Direct_observation.heart_rate.v1,id15,/qualifiers[id15],
 1385,Manifestation,Active,104950-1,Associated sign or symptom Patient Find Pt Nom,Active,General,False,s2-EHR-Info_node.adverse_reaction_event.v1,id7,/items[id7],
 1369,Manufacturer,Active,74719-6,Manufacturer name {Device} ID Pt Nom,Active,General,False,s2-EHR-Entity_ref_node.device_ref.v1,id5,/items[id5],
@@ -508,9 +511,9 @@
 1672,Medication supply amount,Active,540c1425-7282-ef11-8870-6045bdc71c8b,Medication supply panel,Active,General,False,s2-EHR-Info_node.medication_supply_amount.v0,id1,/,
 1195,Method,Active,8357-6,Blood pressure method Patient Type Pt Nom *,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id1036,/qualifiers[id1036],
 1219,Method,Active,106191-0,General method Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.body_mass_index.v2,id7,/qualifiers[id7],
-1254,Method,Active,106191-0,General method Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.heart_rate.v1,id1036,/qualifiers[id1036],
+1254,Method,Active,8886-4,Heart rate method Heart rate measure Type Pt Nom *,Active,General,False,s2-EHR-Direct_observation.heart_rate.v1,id1036,/qualifiers[id1036],
 1270,Method,Active,83844-1,Body height method Type Pt Nom *,Active,General,False,s2-EHR-Direct_observation.height.v2,id40,/qualifiers[id40],
-1298,Method,Active,106191-0,General method Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.respiratory_rate.v1,id1036,/qualifiers[id1036],
+1298,Method,Active,9275-9,Breath rate method Breath rate measurement Type Pt Nom *,Active,General,False,s2-EHR-Direct_observation.respiratory_rate.v1,id1036,/qualifiers[id1036],
 1501,Method of oxygen delivery,Active,df90d9cb-7082-ef11-8870-6045bdc71c8b,Oxygen delivery method,Active,General,False,s2-EHR-Info_node.inspired_oxygen.v1,id55,/items[id55],
 1657,Minimum interval between refills,Active,b88dccce-7182-ef11-8870-6045bdc71c8b,Refill interval,Active,General,False,s2-EHR-Info_node.medication_authorisation.v0,id47,/items[id47],
 1619,Mode,Active,91878-9,Mode of communication Event Type Pt Nom,Active,General,False,s2-EHR-Info_node.language.v1,id7,/items[id7],
@@ -623,6 +626,7 @@
 1598,Platelet mean volume Bld EntVol Pt Qn,Active,28542-9,Platelet mean volume Bld EntVol Pt Qn,Active,Lab Test,False,s2-EHR-Info_node.PlateletMeanVolumeEntVolPtBldQnLabObs.v1,id1.1.1,/,
 1600,Platelets Bld NCnc Pt Qn,Active,26515-7,Platelets Bld NCnc Pt Qn,Active,Lab Test,False,s2-EHR-Info_node.PlateletsNCncPtBldQnLabObs.v1,id1.1.1,/,
 1187,Position,Active,8361-8,Body position with respect to gravity Patient Type Pt Nom *,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id9,/state[id9],
+1208,Position,Active,8361-8,Body position with respect to gravity Patient Type Pt Nom *,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id9,/state_series[id1043]/items[id9],
 1267,Position,Active,8361-8,Body position with respect to gravity Patient Type Pt Nom *,Active,General,False,s2-EHR-Direct_observation.height.v2,id15,/state[id15],
 1422,Position frame of reference,Active,a8a2a4f7-6c82-ef11-8870-6045bdc71c8b,Position frame of reference,Active,General,False,s2-EHR-Info_node.anatomical_location_precise.v1,id0.2,/items[id0.2],
 1438,Positive aspects of change,Active,80fad5dc-6e82-ef11-8870-6045bdc71c8b,Positive aspects of change,Active,General,False,s2-EHR-Info_node.change.v0,id9,/items[id9],
@@ -739,6 +743,7 @@
 1777,Sex,Active,46098-0,Sex Patient Type Pt Nom,Active,General,False,s2-ENTITY-Person.person.v1,id12,/other_details[id12],
 1046,Simple medication List,Active,104207-6,Medication administration list Pharmacy ID Episode Nom,Active,General,False,s2-EHR-Composition.simple_medication_list.v1,id1,/,
 1190,Sleep status,Active,41de0bac-6882-ef11-8870-6045bdc71c8b,Sleep status,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id1044,/state[id1044],
+1211,Sleep status,Active,41de0bac-6882-ef11-8870-6045bdc71c8b,Sleep status,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id1044,/state_series[id1043]/items[id1044],
 1252,Sleep Status,Active,41de0bac-6882-ef11-8870-6045bdc71c8b,Sleep status,Active,General,False,s2-EHR-Direct_observation.heart_rate.v1,id1006,/state[id1006],
 1609,Sodium Ser/Plas SCnc Pt Qn,Active,2951-2,Sodium Ser/Plas SCnc Pt Qn,Active,Lab Test,False,s2-EHR-Info_node.SodiumSCncPtSerPlasQnLabObs.v1,id1.1.1,/,
 1756,Software version,Active,55081-4,Product version code Software,Active,General,False,s2-ENTITY-Material_entity.artifact.v1,id26,/individual_attributes[id26],
@@ -838,6 +843,7 @@
 1701,Therapeutic direction,Active,8a93e549-7282-ef11-8870-6045bdc71c8b,Therapeutic direction panel,Active,General,False,s2-EHR-Info_node.therapeutic_direction.v1,id1,/,
 1334,Therapeutic intent,Active,104803-2,Therapeutic intent Patient Imp Pt Nar,Active,General,False,s2-EHR-Order.medication_order.v4,id149,/activities[id2]/description[id149],
 1191,Tilt,Active,8360-0,Body position head tilt Patient Angle Pt Qn *,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id1006,/state[id1006],
+1212,Tilt,Active,8360-0,Body position head tilt Patient Angle Pt Qn *,Active,General,False,s2-EHR-Direct_observation.blood_pressure.v3,id1006,/state_series[id1043]/items[id1006],
 1725,Time offset,Active,a1a1bd7c-7282-ef11-8870-6045bdc71c8b,Timing event offset,Active,General,False,s2-EHR-Info_node.timing_nondaily.v1,id10,/items[id7]/items[id10],
 1716,Timing - daily,Active,22c0179b-7282-ef11-8870-6045bdc71c8b,Medication daily timing panel,Active,General,False,s2-EHR-Info_node.timing_daily.v1,id1,/,
 1731,Timing - non-daily,Active,88ef7c02-7382-ef11-8870-6045bdc71c8b,Medication non-daily timing panel,Active,General,False,s2-EHR-Info_node.timing_nondaily.v1,id1,/,
