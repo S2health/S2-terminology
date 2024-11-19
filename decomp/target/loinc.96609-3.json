@@ -1,0 +1,129 @@
+{
+  "target" : {
+    "code" : "96609-3",
+    "description" : "Diastolic blood pressure mean",
+    "system" : "loinc"
+  },
+  "children" : {
+    "8470-7" : {
+      "source" : {
+        "code" : "8470-7",
+        "description" : "Diastolic blood pressure 10 hour mean",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "96609-3",
+        "description" : "Diastolic blood pressure mean",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "9ec0ee2b-5a9d-ef11-8872-6045bdc71c8b",
+          "description" : "Elapsed time for average measurement",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31761000205101",
+          "description" : "10 hours  (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8471-5" : {
+      "source" : {
+        "code" : "8471-5",
+        "description" : "Diastolic blood pressure 12 hour mean",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "96609-3",
+        "description" : "Diastolic blood pressure mean",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "9ec0ee2b-5a9d-ef11-8872-6045bdc71c8b",
+          "description" : "Elapsed time for average measurement",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1.23035007E8",
+          "description" : "12 hours (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8468-1" : {
+      "source" : {
+        "code" : "8468-1",
+        "description" : "Diastolic blood pressure 1 hour mean",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "96609-3",
+        "description" : "Diastolic blood pressure mean",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "9ec0ee2b-5a9d-ef11-8872-6045bdc71c8b",
+          "description" : "Elapsed time for average measurement",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31771000205109",
+          "description" : "1 hour (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8472-3" : {
+      "source" : {
+        "code" : "8472-3",
+        "description" : "Diastolic blood pressure 24 hour mean",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "96609-3",
+        "description" : "Diastolic blood pressure mean",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "9ec0ee2b-5a9d-ef11-8872-6045bdc71c8b",
+          "description" : "Elapsed time for average measurement",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1.23027009E8",
+          "description" : "24 hours (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8469-9" : {
+      "source" : {
+        "code" : "8469-9",
+        "description" : "Diastolic blood pressure 8 hour mean",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "96609-3",
+        "description" : "Diastolic blood pressure mean",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "9ec0ee2b-5a9d-ef11-8872-6045bdc71c8b",
+          "description" : "Elapsed time for average measurement",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1.23034006E8",
+          "description" : "8 hours (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}
