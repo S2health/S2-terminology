@@ -1,0 +1,441 @@
+{
+  "target" : {
+    "code" : "9279-1",
+    "description" : "Respiratory rate",
+    "system" : "loinc"
+  },
+  "children" : {
+    "9303-9" : {
+      "source" : {
+        "code" : "9303-9",
+        "description" : "Respiratory rate --resting",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "63678003",
+          "description" : "At rest (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "11291-2" : {
+      "source" : {
+        "code" : "11291-2",
+        "description" : "Respiratory rate at First encounter",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "769681006",
+          "description" : "First patient encounter",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "89279-4" : {
+      "source" : {
+        "code" : "89279-4",
+        "description" : "Respiratory rate --during anesthesia",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "421642003",
+          "description" : "Under anesthesia (finding)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "9299-9" : {
+      "source" : {
+        "code" : "9299-9",
+        "description" : "Respiratory rate --pre bronchoscopy",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31621000205103",
+          "description" : "Pre-bronchoscopy",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "9300-5" : {
+      "source" : {
+        "code" : "9300-5",
+        "description" : "Respiratory rate --pre cardioversion",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31641000205106",
+          "description" : "Pre-cardioversion",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "89274-5" : {
+      "source" : {
+        "code" : "89274-5",
+        "description" : "Respiratory rate --W exercise",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "f3f6ed70-6782-ef11-8870-6045bdc71c8b",
+          "description" : "Exertion phase",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "309604004",
+          "description" : "During exercise",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "76270-8" : {
+      "source" : {
+        "code" : "76270-8",
+        "description" : "Respiratory rate by Impedance.transthoracic",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "9275-9",
+          "description" : "Breath rate method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "276857005",
+          "description" : "Thoracic impedance (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "9295-7" : {
+      "source" : {
+        "code" : "9295-7",
+        "description" : "Respiratory rate --post bronchoscopy",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31631000205101",
+          "description" : "Post-bronchoscopy",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "9296-5" : {
+      "source" : {
+        "code" : "9296-5",
+        "description" : "Respiratory rate --post cardioversion",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31651000205109",
+          "description" : "Post-cardioversion",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "9302-1" : {
+      "source" : {
+        "code" : "9302-1",
+        "description" : "Respiratory rate --pre inhalation therapy",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31661000205107",
+          "description" : "Pre-inhalation therapy",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "76172-6" : {
+      "source" : {
+        "code" : "76172-6",
+        "description" : "Respiratory rate by Carbon dioxide measurement",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "9275-9",
+          "description" : "Breath rate method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31681000205102",
+          "description" : "Calculated via CO2 measurement method",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "76174-2" : {
+      "source" : {
+        "code" : "76174-2",
+        "description" : "Respiratory rate by Pulse oximetry.plethysmograph",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "9275-9",
+          "description" : "Breath rate method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708065004",
+          "description" : "Pulse oximetry technique (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "40441-8" : {
+      "source" : {
+        "code" : "40441-8",
+        "description" : "Respiratory rate --post exercise",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "f3f6ed70-6782-ef11-8870-6045bdc71c8b",
+          "description" : "Exertion phase",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "255214003",
+          "description" : "After exercise (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "9298-1" : {
+      "source" : {
+        "code" : "9298-1",
+        "description" : "Respiratory rate --post inhalation therapy",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31671000205104",
+          "description" : "Post inhalation therapy",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "76171-8" : {
+      "source" : {
+        "code" : "76171-8",
+        "description" : "Respiratory rate by Airway flow measurement",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "9275-9",
+          "description" : "Breath rate method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1231393002",
+          "description" : "Spirometry service (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "76173-4" : {
+      "source" : {
+        "code" : "76173-4",
+        "description" : "Respiratory rate by Non-airway pressure measurement",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "9275-9",
+          "description" : "Breath rate method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31691000205100",
+          "description" : "Via non-airway presssure measurement method",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "19842-4" : {
+      "source" : {
+        "code" : "19842-4",
+        "description" : "Respiratory rate --at maximum voluntary ventilation",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "251901004",
+          "description" : "Maximum voluntary ventilation",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "9301-3" : {
+      "source" : {
+        "code" : "9301-3",
+        "description" : "Respiratory rate --pre conscious sedation",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Respiratory rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31701000205100",
+          "description" : "Before conscious sedataion",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

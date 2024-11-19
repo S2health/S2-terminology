@@ -1,0 +1,321 @@
+{
+  "target" : {
+    "code" : "8310-5",
+    "description" : "Body temperature",
+    "system" : "loinc"
+  },
+  "children" : {
+    "11289-6" : {
+      "source" : {
+        "code" : "11289-6",
+        "description" : "Body temperature at First encounter",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8310-5",
+        "description" : "Body temperature",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "769681006",
+          "description" : "First patient encounter",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8309-7" : {
+      "source" : {
+        "code" : "8309-7",
+        "description" : "Body temperature from Pediatric incubator",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8310-5",
+        "description" : "Body temperature",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8326-1",
+          "description" : "Type of Body temperature device",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "73027007",
+          "description" : "Infant incubator, device (physical object)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "75539-7" : {
+      "source" : {
+        "code" : "75539-7",
+        "description" : "Body temperature - Temporal artery",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8310-5",
+        "description" : "Body temperature",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8327-9",
+          "description" : "Body temperature measurement site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "15672000",
+          "description" : "Structure of superficial temporal artery (body structure)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8334-5" : {
+      "source" : {
+        "code" : "8334-5",
+        "description" : "Body temperature - Urinary bladder",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8310-5",
+        "description" : "Body temperature",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8327-9",
+          "description" : "Body temperature measurement site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "89837001",
+          "description" : "Urinary bladder structure (body structure)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8328-7" : {
+      "source" : {
+        "code" : "8328-7",
+        "description" : "Axillary temperature",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8310-5",
+        "description" : "Body temperature",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8327-9",
+          "description" : "Body temperature measurement site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "91470000",
+          "description" : "Axillary region structure (body structure)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "76011-6" : {
+      "source" : {
+        "code" : "76011-6",
+        "description" : "Ear temperature",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8310-5",
+        "description" : "Body temperature",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8327-9",
+          "description" : "Body temperature measurement site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "42859004",
+          "description" : "Tympanic membrane structure (body structure)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "60836-4" : {
+      "source" : {
+        "code" : "60836-4",
+        "description" : "Esophageal temperature",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8310-5",
+        "description" : "Body temperature",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8327-9",
+          "description" : "Body temperature measurement site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "32849002",
+          "description" : "Esophageal structure (body structure)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8331-1" : {
+      "source" : {
+        "code" : "8331-1",
+        "description" : "Oral temperature",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8310-5",
+        "description" : "Body temperature",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8327-9",
+          "description" : "Body temperature measurement site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "74262004",
+          "description" : "Oral cavity structure (body structure)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8332-9" : {
+      "source" : {
+        "code" : "8332-9",
+        "description" : "Rectal temperature",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8310-5",
+        "description" : "Body temperature",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8327-9",
+          "description" : "Body temperature measurement site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "34402009",
+          "description" : "Rectum structure (body structure)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "60833-1" : {
+      "source" : {
+        "code" : "60833-1",
+        "description" : "Toe temperature",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8310-5",
+        "description" : "Body temperature",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8327-9",
+          "description" : "Body temperature measurement site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "29707007",
+          "description" : "Toe structure (body structure)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8333-7" : {
+      "source" : {
+        "code" : "8333-7",
+        "description" : "Tympanic membrane temperature",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8310-5",
+        "description" : "Body temperature",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8327-9",
+          "description" : "Body temperature measurement site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "42859004",
+          "description" : "Tympanic membrane structure (body structure)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "76010-8" : {
+      "source" : {
+        "code" : "76010-8",
+        "description" : "Nasal temperature",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8310-5",
+        "description" : "Body temperature",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8327-9",
+          "description" : "Body temperature measurement site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "45206002",
+          "description" : "Nasal structure (body structure)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "50400-1" : {
+      "source" : {
+        "code" : "50400-1",
+        "description" : "Body temperature --after transfusion reaction",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8310-5",
+        "description" : "Body temperature",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "707764005",
+          "description" : "After transfusion reaction (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}
