@@ -66,6 +66,7 @@
 1406,Aspect,Active,9f59afc2-6c82-ef11-8870-6045bdc71c8b,Body site aspect,Active,General,False,s2-EHR-Info_node.anatomical_location.v1,id65,/items[id65],
 1419,Aspect,Active,9f59afc2-6c82-ef11-8870-6045bdc71c8b,Body site aspect,Active,General,False,s2-EHR-Info_node.anatomical_location_classical.v1,id0.65,/items[id0.65],
 1250,Associated Situation,Active,106168-8,Associated situation Patient Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.heart_rate.v1,id1053,/state[id1053],
+1938,Associated Situation,Active,106168-8,Associated situation Patient Find Pt Nom,Active,General,False,s2-EHR-Direct_observation.respiratory_rate.v1,id20,/state[id20],
 1485,Atmospheric pressure,Active,20053-5,Pressure Atmosphere Pres Pt Qn,Active,General,False,s2-EHR-Info_node.environmental_conditions.v1,id12,/items[id12],
 1842,Author,Active,52457-9,Provider Information,Retired,General,False,s2-EHR-Composition.allergies_intolerances_list.v1,id21,/author[id21],s2-EHR-Entity_ref_node.healthcare_professional_ref.v1
 1844,Author,Active,52457-9,Provider Information,Retired,General,False,s2-EHR-Composition.family_history.v1,id21,/author[id21],s2-EHR-Entity_ref_node.healthcare_professional_ref.v1
@@ -81,6 +82,7 @@
 1532,Base excess BldA SCnc Pt Qn Calculated,Active,1925-7,Base excess BldA SCnc Pt Qn Calculated,Active,Lab Test,False,s2-EHR-Info_node.BaseExcessSCncPtBldAQnLabObs.v1,id1.1.1,/,
 1533,Base excess BldV SCnc Pt Qn Calculated,Active,1927-3,Base excess BldV SCnc Pt Qn Calculated,Active,Lab Test,False,s2-EHR-Info_node.BaseExcessSCncPtBldVQnLabObs.v1,id1.1.1,/,
 1644,Batch ID,Active,74714-7,Lot or batch number {Device} ID Pt Nom,Active,General,False,s2-EHR-Info_node.medication.v3,id151,/items[id151],
+1940,Batch ID,Active,74714-7,Lot or batch number {Device} ID Pt Nom,Active,General,False,s2-ENTITY-Material_entity.medication.v1,id2,/lot_information[id2],
 1759,Batch/Lot number,Active,74714-7,Lot or batch number {Device} ID Pt Nom,Active,General,False,s2-ENTITY-Material_entity.artifact.v1,id7,/lot_information[id7],
 1536,Benzoylecgonine Urine MCnc Pt Qn,Active,3394-4,Benzoylecgonine Urine MCnc Pt Qn,Active,Lab Test,False,s2-EHR-Info_node.BenzoylecgonineMCncPtUrineQnLabObs.v1,id1.1.1,/,
 1537,Bicarbonate BldA SCnc Pt Qn,Active,1960-4,Bicarbonate BldA SCnc Pt Qn,Active,Lab Test,False,s2-EHR-Info_node.BicarbonateSCncPtBldAQnLabObs.v1,id1.1.1,/,
@@ -329,6 +331,7 @@
 1286,Exertion,Active,f3f6ed70-6782-ef11-8870-6045bdc71c8b,Exertion Phase,Active,General,False,s2-EHR-Direct_observation.pulse_oximetry.v1,id35,/state[id35],s2-EHR-Info_node.level_of_exertion.v0
 1297,Exertion,Active,f3f6ed70-6782-ef11-8870-6045bdc71c8b,Exertion Phase,Active,General,False,s2-EHR-Direct_observation.respiratory_rate.v1,id1031,/state[id1031],s2-EHR-Info_node.level_of_exertion.v0
 1645,Expiry,Active,74066-2,Expiration date of Medication [AHRQ],Active,General,False,s2-EHR-Info_node.medication.v3,id4,/items[id4],
+1941,Expiry,Active,74066-2,Expiration date of Medication [AHRQ],Active,General,False,s2-ENTITY-Material_entity.medication.v1,id4,/lot_information[id4],
 1394,Exposure description,Active,104964-2,Exposure description Patient Find Pt Nar,Active,General,False,s2-EHR-Info_node.adverse_reaction_event.v1,id19,/items[id19],
 1395,Exposure details,Active,ae4d3052-6f82-ef11-8870-6045bdc71c8b,Citation information panel,Active,General,False,s2-EHR-Info_node.adverse_reaction_event.v1,id20,/items[id20],s2-EHR-Info_node.citation.v0
 1092,Family history,Active,8670-2,History of family member diseases Family member Hx Pt Nom,Active,General,False,s2-EHR-Assessment.family_history.v2,id1,/,
@@ -497,6 +500,7 @@
 1308,Medication details,Active,74078-7,Medication or other substance details panel [AHRQ],Active,General,False,s2-EHR-Order.medication_order.v4,id144,/activities[id2]/description[id144],s2-EHR-Info_node.medication.v3
 1652,Medication details,Active,74078-7,Medication or other substance details panel [AHRQ],Active,General,False,s2-EHR-Info_node.medication.v3,id1,/,
 1362,Medication history,Active,a591c089-6982-ef11-8870-6045bdc71c8b,Medication history information panel,Active,General,False,s2-EHR-Section.medication_history_heading.v1,id1,/,
+1939,Medication inventory,Active,74078-7,Medication or other substance details panel [AHRQ],Active,General,False,s2-ENTITY-Material_entity.medication.v1,id1,/,
 1158,Medication item,Active,104717-4,Medication name Medication ID Pt Nom,Active,General,False,s2-EHR-Action.medication.v1,id21,/description[id21],
 1307,Medication item,Active,104717-4,Medication name Medication ID Pt Nom,Active,General,False,s2-EHR-Order.medication_order.v4,id71,/activities[id2]/description[id71],
 1039,Medication List,Active,104207-6,Medication administration list Pharmacy ID Episode Nom,Active,General,False,s2-EHR-Composition.medication_list.v1,id1,/,
