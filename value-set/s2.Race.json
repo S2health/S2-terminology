@@ -1,0 +1,47 @@
+{
+  "id" : "s2.Race",
+  "creationDate" : "2024-12-02T20:27:15+0100",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "Race",
+    "description" : "Race",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "413464008",
+      "description" : "African race",
+      "system" : "snomed"
+    }, {
+      "code" : "413491005",
+      "description" : "American Indian race",
+      "system" : "snomed"
+    }, {
+      "code" : "413582008",
+      "description" : "Asian race",
+      "system" : "snomed"
+    }, {
+      "code" : "413773004",
+      "description" : "Caucasian",
+      "system" : "snomed"
+    }, {
+      "code" : "414408004",
+      "description" : "Hispanic",
+      "system" : "snomed"
+    }, {
+      "code" : "414752008",
+      "description" : "Mixed racial group",
+      "system" : "snomed"
+    }, {
+      "code" : "1336109002",
+      "description" : "Pacific islander",
+      "system" : "snomed"
+    }, {
+      "code" : "415794004",
+      "description" : "Unknown racial group",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 8,
+    "isComplete" : true
+  }
+}
