@@ -7,6 +7,7 @@
 1917,Accuracy,Active,fcce039b-6f82-ef11-8870-6045bdc71c8b,Defvice accuracy,Active,General,False,s2-ENTITY-Info_node.device_details.v0,id14,/items[id14],
 1361,Action history,Active,11492282-6982-ef11-8870-6045bdc71c8b,Medication action history list,Active,General,False,s2-EHR-Section.medication_history_heading.v1,id3,/items[id3],
 1027,Actions,Active,e8b31e31-6682-ef11-8870-6045bdc71c8b,Intervention action,Active,General,False,s2-EHR-Composition.care_plan.v0,id10,/content[id6]/items[id7]/items[id10],s2-EHR-Action.medication.v1
+1945,Active ingredient,Active,31258fe3-bc8f-ef11-8872-6045bdc71c8b,Medication constituent,Active,General,False,s2-ENTITY-Entity_ref_node.medication_type_ref.v1,id3,/items[id3],
 1675,Active/Inactive?,Active,99493-9,Condition clinical status Patient Find Pt Nom,Active,General,False,s2-EHR-Info_node.problem_qualifier.v2,id4,/items[id4],
 1719,Activities per time period,Active,fe164fb1-7282-ef11-8870-6045bdc71c8b,Non-daily timing activities per time period,Active,General,False,s2-EHR-Info_node.timing_nondaily.v1,id23,/items[id23],
 1174,Additional details,Active,46696-1,Additional comments [RFC],Active,General,False,s2-EHR-Action.medication.v1,id54,/description[id54],s2-EHR-Info_node.medication_authorisation.v0
@@ -129,6 +130,7 @@
 1023,Care plan Goals,Active,bc7f4b0f-6682-ef11-8870-6045bdc71c8b,Health care goal list,Active,General,False,s2-EHR-Composition.care_plan.v0,id4,/content[id4],
 1890,Care plan/Author,Active,52457-9,Provider Information,Retired,General,False,s2-EHR-Composition.care_plan.v0,id21,/author[id21],s2-EHR-Entity_ref_node.healthcare_professional_ref.v1.0.0
 1024,Care plan/Plan description,Active,95235e1b-6682-ef11-8870-6045bdc71c8b,Plan of care description,Active,General,False,s2-EHR-Composition.care_plan.v0,id5,/content[id5],
+1951,Care-relevant disabilities,Active,496e35a2-b2b1-ef11-8872-6045bdc71c8b,Care relevant disabilities,Active,General,False,s2-ENTITY-Party_relationship.patient.v1,id8,/other_details[id8],
 1789,Catalogue number,Active,104927-9,Catalog number {Device} ID Pt Nom,Active,General,False,s2-ENTITY-Artifact_kind.device_general.v1,id23,/items[id23],
 1053,Category,Active,104948-5,Adverse reaction category Patient Find Pt Nom,Active,General,False,s2-EHR-Assessment.adverse_reaction_risk.v2,id121,/data[id121],
 1640,Category,Active,74075-3,Medication type [AHRQ],Active,General,False,s2-EHR-Info_node.medication.v3,id143,/items[id143],
@@ -186,12 +188,13 @@
 1401,Comment,Active,106173-8,General comment Patient Find Pt Nar,Active,General,False,s2-EHR-Info_node.adverse_reaction_event.v1,id25,/items[id25],
 1441,Comment,Active,106173-8,General comment Patient Find Pt Nar,Active,General,False,s2-EHR-Info_node.change.v0,id12,/items[id12],
 1446,Comment,Active,106173-8,General comment Patient Find Pt Nar,Active,General,False,s2-EHR-Info_node.citation.v0,id4,/items[id4],
-1620,Comment,Active,106173-8,General comment Patient Find Pt Nar,Active,General,False,s2-EHR-Info_node.language.v1,id5,/items[id5],
+1620,Comment,Active,106173-8,General comment Patient Find Pt Nar,Active,General,False,s2-EHR-Info_node.language.v2,id10,/items[id10],
 1636,Comment,Active,106173-8,General comment Patient Find Pt Nar,Active,General,False,s2-EHR-Info_node.media_file.v2,id8,/items[id8],
 1686,Comment,Active,106173-8,General comment Patient Find Pt Nar,Active,General,False,s2-EHR-Info_node.problem_qualifier.v2,id111,/items[id111],
 1760,Comment,Active,106173-8,General comment Patient Find Pt Nar,Active,General,False,s2-ENTITY-Material_entity.artifact.v1,id9,/use_details[id9],
 1783,Comment,Active,48767-8,Annotation comment {system} Imp Pt Nar,Active,Clinical Document,False,s2-ENTITY-Person.person.v1,id11,/other_details[id11],
 1794,Comment,Active,106173-8,General comment Patient Find Pt Nar,Active,General,False,s2-ENTITY-Artifact_kind.device_general.v1,id9,/items[id9],
+1955,Comment,Active,106173-8,General comment Patient Find Pt Nar,Active,General,False,s2-ENTITY-Party_relationship.patient.v1,id10,/other_details[id8]/items[id9]/items[id10],
 1374,Comms address,Active,90054-8,Email address Organization EmailAddr Pt Nom,Active,General,False,s2-EHR-Entity_ref_node.organization_ref.v1,id0.5,/items[id5],
 1771,Comms addresses,Active,104902-2,Electronic communication information Patient Type Pt Nom,Active,General,False,s2-ENTITY-Person.person.v1,id2,/comms_addresses[id2],s2-ENTITY-Comms_address_use.comms_address_use_general.v1
 1829,Comms addresses,Active,90054-8,Email address Organization EmailAddr Pt Nom,Active,General,False,s2-ENTITY-Info_node.patient_contact.v1,id4,/items[id4],s2-ENTITY-Comms_address_use.comms_address_use_general.v1
@@ -281,6 +284,7 @@
 1430,Direction,Active,81e123a6-6e82-ef11-8870-6045bdc71c8b,Direction from landmark,Active,General,False,s2-EHR-Info_node.anatomical_location_relative.v2,id0.7,/items[id0.21]/items[id0.7],
 1694,Direction duration,Active,104793-5,Therapeutic direction duration Patient Time Pt Qn,Active,General,False,s2-EHR-Info_node.therapeutic_direction.v1,id67,/items[id67],
 1692,Direction sequence,Active,104824-8,Therapeutic direction sequence Patient Find Pt Nom,Active,General,False,s2-EHR-Info_node.therapeutic_direction.v1,id58,/items[id58],
+1952,Disability,Active,95377-8,Disability Patient Type Pt Nom,Active,General,False,s2-ENTITY-Party_relationship.patient.v1,id9,/other_details[id8]/items[id9],
 1009,Discharge diagnosis,Active,8651-2,Hospital discharge Dx Patient Imp Pt Nom,Active,General,False,s2-ADMIN-Billing_encounter.encounter_general.v1,id18,/other_details[id18],
 1010,Discharge disposition,Active,55128-3,Discharge disposition,Active,General,False,s2-ADMIN-Billing_encounter.encounter_general.v1,id19,/other_details[id19],
 1014,Discharge instructions,Active,74213-0,Discharge instructions {Setting} Find Pt Doc {Role},Active,Clinical Document,False,s2-ADMIN-Billing_encounter.encounter_general.v1,id23,/other_details[id23],
@@ -321,6 +325,7 @@
 1564,Erythrocyte mean corpuscular hemoglobin RBC EntMass Pt Qn,Active,28539-5,Erythrocyte mean corpuscular hemoglobin RBC EntMass Pt Qn,Active,Lab Test,False,s2-EHR-Info_node.ErythrocyteMeanCorpuscularHemoglobinEntMassPtRBCQnLabObs.v1,id1.1.1,/,
 1565,Erythrocyte mean corpuscular volume RBC EntVol Pt Qn,Active,30428-7,Erythrocyte mean corpuscular volume RBC EntVol Pt Qn,Active,Lab Test,False,s2-EHR-Info_node.ErythrocytemeancorpuscularvolumeEntVolPtRBCQnLabObs.v1,id1.1.1,/,
 1566,Erythrocytes Bld NCnc Pt Qn,Active,26453-1,Erythrocytes Bld NCnc Pt Qn,Active,Lab Test,False,s2-EHR-Info_node.ErythrocytesNCncPtBldQnLabObs.v1,id1.1.1,/,
+1957,Ethnicity,Active,80908-7,Ethnicity [CDC],Active,General,False,s2-ENTITY-Person.person.v1,id21,/other_details[id21],
 1724,Event name,Active,f082e473-7282-ef11-8870-6045bdc71c8b,Timing event name,Active,General,False,s2-EHR-Info_node.timing_nondaily.v1,id6,/items[id7]/items[id6],
 1706,Exact timing critical?,Active,4fe26062-7282-ef11-8870-6045bdc71c8b,Timing criticality indicator,Active,General,False,s2-EHR-Info_node.timing_daily.v1,id24,/items[id24],
 1625,Exercise intensity,Active,4fbbd615-7182-ef11-8870-6045bdc71c8b,Exercise intensity information panel,Active,General,False,s2-EHR-Info_node.level_of_exertion.v0,id11,/items[id11],
@@ -430,7 +435,11 @@
 1816,Laboratory organization,Active,106205-8,Performing laboratory panel Patient - Pt -,Active,General,False,s2-EHR-Composition.lab_report.v1,id18,/context[id2]/health_care_facility[id18],s2-EHR-Entity_ref_node.lab_organization_ref.v1
 1427,Landmark name,Active,106185-2,Landmark description Patient Find Pt Nom,Active,General,False,s2-EHR-Info_node.anatomical_location_relative.v2,id0.22,/items[id0.21]/items[id0.22],
 1621,Language,Active,104916-2,Language of communication information Person Type Pt Nom,Active,General,False,s2-EHR-Info_node.language.v1,id1,/,
+1949,Language capabilities,Active,104957-6,Communication capability per language Person Find Pt Nar,Active,General,False,s2-ENTITY-Party_relationship.patient.v1,id6,/other_details[id6],
+1942,Language Capability,Active,104957-6,Communication capability per language Person Find Pt Nar,Active,General,False,s2-EHR-Info_node.language.v2,id4,/items[id4],
+1950,Language description,Active,104916-2,Language of communication information Person Type Pt Nom,Active,General,False,s2-ENTITY-Party_relationship.patient.v1,id7,/other_details[id6]/items[id7],s2-EHR-Info_node.language.v2.0.0
 1617,Language name,Active,54505-3,Language,Active,General,False,s2-EHR-Info_node.language.v1,id2,/items[id2],
+1943,Language proficiency,Active,7c65c8ec-b0b1-ef11-8872-6045bdc71c8b,Language proficiency,Active,General,False,s2-EHR-Info_node.language.v2,id6,/items[id4]/items[id6],
 1059,Last updated,Active,106177-9,Date and time of last update of data Patient Date Pt Qn,Active,General,False,s2-EHR-Assessment.adverse_reaction_risk.v2,id63,/qualifiers[id63],
 1090,Last Updated,Active,106177-9,Date and time of last update of data Patient Date Pt Qn,Active,General,False,s2-EHR-Assessment.family_history.v2,id27,/qualifiers[id27],
 1111,Last updated,Active,106177-9,Date and time of last update of data Patient Date Pt Qn,Active,General,False,s2-EHR-Assessment.goal.v1,id30,/qualifiers[id30],
@@ -520,13 +529,15 @@
 1298,Method,Active,9275-9,Breath rate method Breath rate measurement Type Pt Nom *,Active,General,False,s2-EHR-Direct_observation.respiratory_rate.v1,id1036,/qualifiers[id1036],
 1501,Method of oxygen delivery,Active,df90d9cb-7082-ef11-8870-6045bdc71c8b,Oxygen delivery method,Active,General,False,s2-EHR-Info_node.inspired_oxygen.v1,id55,/items[id55],
 1657,Minimum interval between refills,Active,b88dccce-7182-ef11-8870-6045bdc71c8b,Refill interval,Active,General,False,s2-EHR-Info_node.medication_authorisation.v0,id47,/items[id47],
-1619,Mode,Active,91878-9,Mode of communication Event Type Pt Nom,Active,General,False,s2-EHR-Info_node.language.v1,id7,/items[id7],
+1619,Mode,Active,91878-9,Mode of communication Event Type Pt Nom,Active,General,False,s2-EHR-Info_node.language.v2,id5,/items[id4]/items[id5],
 1790,Model number,Active,74717-0,Vendor model number {Device} ID Pt Nom,Active,General,False,s2-ENTITY-Artifact_kind.device_general.v1,id24,/items[id24],
 1030,Monitoring,Active,08a63943-6682-ef11-8870-6045bdc71c8b,Care plan monitoring,Active,General,False,s2-EHR-Composition.care_plan.v0,id11,/content[id11],
 1332,Monitoring instruction,Active,78fbdb06-6982-ef11-8870-6045bdc71c8b,Monitoring instruction,Active,General,False,s2-EHR-Order.medication_order.v4,id108,/activities[id2]/description[id108],
 1089,Multimedia,Active,d9eea4aa-7182-ef11-8870-6045bdc71c8b,Media file panel,Active,General,False,s2-EHR-Assessment.family_history.v2,id54,/data[id54],s2-EHR-Info_node.media_file.v1
 1793,Multimedia,Active,d9eea4aa-7182-ef11-8870-6045bdc71c8b,Media file panel,Active,General,False,s2-ENTITY-Artifact_kind.device_general.v1,id28,/items[id28],s2-EHR-Info_node.media_file.v1
 1409,Multimedia representation,Active,d9eea4aa-7182-ef11-8870-6045bdc71c8b,Media file panel,Active,General,False,s2-EHR-Info_node.anatomical_location.v1,id55,/items[id55],s2-EHR-Info_node.media_file.v1
+1947,Multiple birth indicator,Active,2934ca74-a1b1-ef11-8872-6045bdc71c8b,Multiple birth indicator,Active,General,False,s2-ENTITY-Party_relationship.patient.v1,id4,/other_details[id4],
+1948,Multiple birth order number,Active,73771-8,Birth order,Active,General,False,s2-ENTITY-Party_relationship.patient.v1,id5,/other_details[id5],
 1371,Name,Active,76469-6,Name Organization ID Pt Nom,Active,General,False,s2-EHR-Entity_ref_node.organization_ref.v1,id0.2,/items[id2],
 1378,Name,Active,90d847a8-6c82-ef11-8870-6045bdc71c8b,Simple person name,Active,General,False,s2-EHR-Entity_ref_node.person_ref.v1,id0.2,/items[id2],
 1638,Name,Active,74058-9,Manufacturer name of Medication,Active,General,False,s2-EHR-Info_node.medication.v3,id133,/items[id133],
@@ -577,7 +588,9 @@
 1770,Organization,Active,90055-5,Organization contact information panel Organization - Pt -,Active,General,False,s2-ENTITY-Organization.organization.v1,id1,/,
 1448,Organization identifier,Active,76468-8,National provider ID Organization ID Pt Nom,Active,General,False,s2-EHR-Info_node.device_details.v0,id2,/items[id2],
 1923,Organization identifier,Active,76468-8,National provider ID Organization ID Pt Nom,Active,General,False,s2-ENTITY-Info_node.device_details.v0,id2,/items[id2],
+1946,Organization name,Active,76469-6,Name Organization ID Pt Nom,Active,General,False,s2-ENTITY-Organization.organization.v1,id4,/identities[id4],
 1375,Organization ref,Active,90055-5,Organization contact information panel Organization - Pt -,Active,General,False,s2-EHR-Entity_ref_node.organization_ref.v1,id1.1,/,
+1954,Organization/Organization name,Active,76469-6,Name Organization ID Pt Nom,Active,General,False,s2-ENTITY-Organization.organization.v1,id4,/identities[id4],
 1735,Origin,Active,28e9512b-7382-ef11-8870-6045bdc71c8b,Waveform observation/Origin,Active,General,False,s2-EHR-Info_node.waveform.v0,id8,/items[id7]/items[id8],
 1164,Original scheduled date/time,Active,0974bb1b-6782-ef11-8870-6045bdc71c8b,Scheduled start date/time,Active,General,False,s2-EHR-Action.medication.v1,id44,/description[id44],
 1758,Other identifier,Active,104960-0,Device identifier of unspecified type Patient ID Pt Nom,Active,General,False,s2-ENTITY-Material_entity.artifact.v1,id25,/individual_attributes[id25],
@@ -639,6 +652,7 @@
 1601,Potassium Ser/Plas SCnc Pt Qn,Active,2823-3,Potassium Ser/Plas SCnc Pt Qn,Active,Lab Test,False,s2-EHR-Info_node.PotassiumSCncPtSerPlasQnLabObs.v1,id1.1.1,/,
 1290,Pre/post-ductal,Active,81b001d6-6882-ef11-8870-6045bdc71c8b,Pre/post-ductal,Active,General,False,s2-EHR-Direct_observation.pulse_oximetry.v1,id62,/qualifiers[id62],
 1426,Precise anatomical location,Active,109b0e9f-6e82-ef11-8870-6045bdc71c8b,Precise anatomic location panel,Active,General,False,s2-EHR-Info_node.anatomical_location_precise.v1,id1.1,/,
+1953,Preferred indicator,Active,7e104b40-b1b1-ef11-8872-6045bdc71c8b,Preferred indicator,Active,General,False,s2-EHR-Info_node.language.v2,id7,/items[id7],
 1659,Prescriber endorsement,Active,b9d481db-7182-ef11-8870-6045bdc71c8b,Prescriber endorsement,Active,General,False,s2-EHR-Info_node.medication_authorisation.v0,id81,/items[id81],
 1019,Primary problem,Active,67492-9,Primary problem Patient Imp Pt Nom NEMSIS,Active,General,False,s2-EHR-Composition.care_plan.v0,id2,/content[id2],
 1018,Primary problem/Problem / diagnoses,Active,3ae85dde-6582-ef11-8870-6045bdc71c8b,Primary Problem/Diagnosis list,Active,General,False,s2-EHR-Composition.care_plan.v0,id12,/content[id2]/items[id12],s2-EHR-Assessment.problem_diagnosis.v1
@@ -673,6 +687,7 @@
 1326,Purpose,Active,72d04cf1-6882-ef11-8870-6045bdc71c8b,Total daily effective dose - Purpose,Active,General,False,s2-EHR-Order.medication_order.v4,id166,/activities[id2]/description[id63]/items[id151]/items[id166],
 1895,Purpose,Active,99958-1,Address use Entity Type Pt Nom,Active,General,False,s2-ENTITY-Location_address_use.location_address_use_general.v1,id14,/purposes[id14],
 1524,Quantitative lab analyte result,Active,43f93831-318e-ef11-8872-6045bdc71c8b,Quantitative laboratory test details panel,Active,General,False,s2-EHR-Info_node.lab_analyte_quantitative.v0,id1.1,/,
+1956,Race,Active,32624-9,Race Patient Type Pt Nom,Active,General,False,s2-ENTITY-Person.person.v1,id20,/other_details[id20],
 1459,Range,Active,a5ce039b-6f82-ef11-8870-6045bdc71c8b,Device capable range,Active,General,False,s2-EHR-Info_node.device_details.v0,id13,/items[id13],
 1798,Range,Active,a5ce039b-6f82-ef11-8870-6045bdc71c8b,Device capable range,Active,General,False,s2-ENTITY-Artifact_kind.imaging_device.v1,id0.0.13,/items[id0.0.13],
 1916,Range,Active,a5ce039b-6f82-ef11-8870-6045bdc71c8b,Device capable range,Active,General,False,s2-ENTITY-Info_node.device_details.v0,id13,/items[id13],
@@ -780,6 +795,7 @@
 1642,Strength (concentration),Active,74057-1,Medication strength,Active,General,False,s2-EHR-Info_node.medication.v3,id116,/items[id116],
 1641,Strength (formulation),Active,6a8a94b8-624f-ef11-886e-6045bdc71c8b,Medication strength (formulation),Active,General,False,s2-EHR-Info_node.medication.v3,id153,/items[id153],
 1852,Strength (formulation),Active,6a8a94b8-624f-ef11-886e-6045bdc71c8b,Medication strength (formulation),Active,General,False,s2-ENTITY-Entity_ref_node.medication_type_ref.v1,id153,/items[id153],
+1944,Strength (per unit),Active,74057-1,Medication strength,Active,General,False,s2-ENTITY-Entity_ref_node.medication_type_ref.v1,id116,/items[id116],
 1809,Structured address,Active,99952-4,Address panel Entity - Pt -,Active,General,False,s2-ENTITY-Info_node.structured_address.v1,id1,/,
 1832,Structured address/Address line,Active,106181-1,Address line Entity Addr Pt Nom,Active,General,False,s2-ENTITY-Info_node.structured_address.v1,id2,/items[id2],
 1831,Structured address/Altitude,Active,41905-1,Altitude Patient Len Pt Qn,Active,General,False,s2-ENTITY-Info_node.structured_address.v1,id10,/items[id10],
