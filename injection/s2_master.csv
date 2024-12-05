@@ -74,6 +74,9 @@ s2-ADMIN-Billing_encounter.t_encounter_general-test.v1.0.0,ac21,http://s2health.
 s2-EHR-Info_node.anatomical_location.v1.2.3,ac2,http://s2health.org/id/s2.BodyLocationAspect
 s2-EHR-Info_node.anatomical_location.v1.2.3,ac1,http://s2health.org/id/s2.Laterality
 s2-EHR-Info_node.anatomical_location.v1.2.3,ac3,http://s2health.org/id/s2.AnatomicalLine
+s2-EHR-Info_node.t_medication-anatomical_location-1.v1.0.0,ac0.1,http://s2health.org/id/s2.Laterality
+s2-EHR-Info_node.t_medication-anatomical_location-1.v1.0.0,ac0.2,http://s2health.org/id/s2.BodyLocationAspect
+s2-EHR-Info_node.t_medication-anatomical_location-1.v1.0.0,ac0.3,http://s2health.org/id/s2.AnatomicalLine
 s2-EHR-Info_node.problem_qualifier.v2.0.0,ac1,http://s2health.org/id/s2.DiagnosticStatus
 s2-EHR-Info_node.problem_qualifier.v2.0.0,ac2,http://s2health.org/id/s2.CurrentPastIndicator
 s2-EHR-Info_node.problem_qualifier.v2.0.0,ac4,http://s2health.org/id/s2.LevelOfControl
@@ -121,4 +124,7 @@ s2-ENTITY-Party_relationship.patient.v1.0.0,ac8010,http://s2health.org/id/s2.Par
 s2-ENTITY-Person.person.v1.0.0,ac8010,http://s2health.org/id/s2.PartyDomainType
 s2-ENTITY-Organization.organization.v1.0.0,ac8010,http://s2health.org/id/s2.PartyDomainType
 s2-ENTITY-Info_node.location_address.v1.0.0,ac2,http://s2health.org/id/s2.AddressUse
-s2-ENTITY-Info_node.person_structured_name.v1.0.0,ac1,http://s2health.org/id/PersonNameUse
+s2-ENTITY-Info_node.person_structured_name.v1.0.0,ac1,http://s2health.org/id/s2.PersonNameUse
+s2-EHR-Info_node.language.v2.0.0,ac1,http://s2health.org/id/s2.LanguageCommunicationMode
+s2-EHR-Info_node.language.v2.0.0,ac3,http://s2health.org/id/s2.LanguageProficiency
+s2-ENTITY-Party_relationship.t_patient-test.v1.0.0,ac1,http://s2health.org/id/s2.DisabilityRelatedToCare
