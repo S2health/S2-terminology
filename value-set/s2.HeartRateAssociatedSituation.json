@@ -1,0 +1,19 @@
+{
+  "id" : "s2.HeartRateAssociatedSituation",
+  "creationDate" : "2024-12-05T17:04:31+0100",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "HeartRateAssociatedSituation",
+    "description" : "Heart rate associated situation",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "48694002",
+      "description" : "Anxiety",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 1,
+    "isComplete" : true
+  }
+}
