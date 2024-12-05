@@ -1,0 +1,35 @@
+{
+  "id" : "s2.LanguageCommunicationMode",
+  "creationDate" : "2024-12-05T17:04:30+0100",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "LanguageCommunicationMode",
+    "description" : "Language communication mode",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "50360004",
+      "description" : "Reading",
+      "system" : "snomed"
+    }, {
+      "code" : "87335007",
+      "description" : "Speaking",
+      "system" : "snomed"
+    }, {
+      "code" : "31781000205106",
+      "description" : "Tactile reading",
+      "system" : "snomed"
+    }, {
+      "code" : "415807006",
+      "description" : "Using sign language",
+      "system" : "snomed"
+    }, {
+      "code" : "12261009",
+      "description" : "Writing",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 5,
+    "isComplete" : true
+  }
+}
