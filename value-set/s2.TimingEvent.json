@@ -1,0 +1,39 @@
+{
+  "id" : "s2.TimingEvent",
+  "creationDate" : "2024-12-09T18:13:22+0100",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "TimingEvent",
+    "description" : "Timing event",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "21029003",
+      "description" : "Bedtime",
+      "system" : "snomed"
+    }, {
+      "code" : "307160001",
+      "description" : "Breakfast time",
+      "system" : "snomed"
+    }, {
+      "code" : "307163004",
+      "description" : "Evening meal",
+      "system" : "snomed"
+    }, {
+      "code" : "307162009",
+      "description" : "Lunch time",
+      "system" : "snomed"
+    }, {
+      "code" : "309611000",
+      "description" : "Mealtimes",
+      "system" : "snomed"
+    }, {
+      "code" : "255377004",
+      "description" : "Waking",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 6,
+    "isComplete" : true
+  }
+}
