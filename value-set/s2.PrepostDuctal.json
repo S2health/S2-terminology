@@ -1,0 +1,27 @@
+{
+  "id" : "s2.PrepostDuctal",
+  "creationDate" : "2025-01-02T15:38:58-0500",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "PrepostDuctal",
+    "description" : "Prepost ductal",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "82334004",
+      "description" : "Indeterminate",
+      "system" : "snomed"
+    }, {
+      "code" : "60835009",
+      "description" : "Structure of postductal region of aortic arch",
+      "system" : "snomed"
+    }, {
+      "code" : "75397005",
+      "description" : "Structure of preductal region of aortic arch",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 3,
+    "isComplete" : true
+  }
+}
