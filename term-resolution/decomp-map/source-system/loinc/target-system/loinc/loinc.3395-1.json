@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "3395-1",
+    "description": "Cocaine Ser/Plas PrThr Pt Ord",
+    "system": "loinc"
+  },
+  "children": {
+    "8191-9": {
+      "source": {
+        "code": "8191-9",
+        "description": "Cocaine Ser/Plas PrThr Pt Ord Screen",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "3395-1",
+        "description": "Cocaine Ser/Plas PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1287497009",
+            "description": "Screening technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

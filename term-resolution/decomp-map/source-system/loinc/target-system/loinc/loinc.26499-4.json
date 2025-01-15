@@ -1,0 +1,61 @@
+{
+  "target": {
+    "code": "26499-4",
+    "description": "Neutrophils Bld NCnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "751-8": {
+      "source": {
+        "code": "751-8",
+        "description": "Neutrophils Bld NCnc Pt Qn Automated count",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "26499-4",
+        "description": "Neutrophils Bld NCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "753-4": {
+      "source": {
+        "code": "753-4",
+        "description": "Neutrophils Bld NCnc Pt Qn Manual count",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "26499-4",
+        "description": "Neutrophils Bld NCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702663001",
+            "description": "Manual count technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

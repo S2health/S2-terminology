@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "30538-3",
+    "description": "Neutrophil cytoplasmic Ab.classic Ser PrThr Pt Ord",
+    "system": "loinc"
+  },
+  "children": {
+    "17353-4": {
+      "source": {
+        "code": "17353-4",
+        "description": "Neutrophil cytoplasmic Ab.classic Ser PrThr Pt Ord IF",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "30538-3",
+        "description": "Neutrophil cytoplasmic Ab.classic Ser PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "406867009",
+            "description": "Immunofluorescent stain method",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

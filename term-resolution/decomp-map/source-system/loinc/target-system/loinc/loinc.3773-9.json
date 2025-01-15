@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "3773-9",
+    "description": "Methadone Urine PrThr Pt Ord",
+    "system": "loinc"
+  },
+  "children": {
+    "19550-3": {
+      "source": {
+        "code": "19550-3",
+        "description": "Methadone Urine PrThr Pt Ord Screen",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "3773-9",
+        "description": "Methadone Urine PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1287497009",
+            "description": "Screening technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

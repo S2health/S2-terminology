@@ -1,0 +1,518 @@
+{
+  "target" : {
+    "code" : "8867-4",
+    "description" : "Heart rate",
+    "system" : "loinc"
+  },
+  "children" : {
+    "76476-1" : {
+      "source" : {
+        "code" : "76476-1",
+        "description" : "Heart rate by Transthoracic impedance",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8886-4",
+          "description" : "Heart rate method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "276857005",
+          "description" : "Thoracic impedance (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "11328-2" : {
+      "source" : {
+        "code" : "11328-2",
+        "description" : "Heart rate at First encounter",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "769681006",
+          "description" : "First patient encounter",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8889-8" : {
+      "source" : {
+        "code" : "8889-8",
+        "description" : "Heart rate by Pulse oximetry",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8886-4",
+          "description" : "Heart rate method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "708065004",
+          "description" : "Pulse oximetry technique (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8890-6" : {
+      "source" : {
+        "code" : "8890-6",
+        "description" : "Heart rate Cardiac apex by Auscultation",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8886-4",
+          "description" : "Heart rate method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "129436005",
+          "description" : "Auscultation - action (qualifier value)",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "39111-0",
+          "description" : "Body site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "13383001",
+          "description" : "Structure of apex of heart (body structure)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8891-4" : {
+      "source" : {
+        "code" : "8891-4",
+        "description" : "Heart rate Cardiac apex by palpation",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8886-4",
+          "description" : "Heart rate method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "129434008",
+          "description" : "Palpation - action (qualifier value)",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "39111-0",
+          "description" : "Body site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "13383001",
+          "description" : "Structure of apex of heart (body structure)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8893-0" : {
+      "source" : {
+        "code" : "8893-0",
+        "description" : "Heart rate Peripheral artery by palpation",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8886-4",
+          "description" : "Heart rate method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "129434008",
+          "description" : "Palpation - action (qualifier value)",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "39111-0",
+          "description" : "Body site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "840581000",
+          "description" : "Structure of peripheral artery (body structure)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "67129-7" : {
+      "source" : {
+        "code" : "67129-7",
+        "description" : "Heart rate Peripheral artery by palpation --resting",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8886-4",
+          "description" : "Heart rate method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "129434008",
+          "description" : "Palpation - action (qualifier value)",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "39111-0",
+          "description" : "Body site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "840581000",
+          "description" : "Structure of peripheral artery (body structure)",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "f3f6ed70-6782-ef11-8870-6045bdc71c8b",
+          "description" : "Exertion phase",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "263678003",
+          "description" : "At rest (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "60978-4" : {
+      "source" : {
+        "code" : "60978-4",
+        "description" : "Heart rate Intra arterial line by Invasive",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8886-4",
+          "description" : "Heart rate method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "10179008",
+          "description" : "Invasive",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "39111-0",
+          "description" : "Body site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "58100008",
+          "description" : "Intra-arterial route (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "40443-4" : {
+      "source" : {
+        "code" : "40443-4",
+        "description" : "Heart rate --resting",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "f3f6ed70-6782-ef11-8870-6045bdc71c8b",
+          "description" : "Exertion phase",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "63678003",
+          "description" : "At rest (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "69000-8" : {
+      "source" : {
+        "code" : "69000-8",
+        "description" : "Heart rate --sitting",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8361-8",
+          "description" : "Body position with respect to gravity Patient Type Pt Nom *",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "33586001",
+          "description" : "Sitting position (finding)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "68999-2" : {
+      "source" : {
+        "code" : "68999-2",
+        "description" : "Heart rate --supine",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8361-8",
+          "description" : "Body position with respect to gravity Patient Type Pt Nom *",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "40199007",
+          "description" : "Supine body position (finding)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "89278-6" : {
+      "source" : {
+        "code" : "89278-6",
+        "description" : "Heart rate --during anesthesia",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "421642003",
+          "description" : "Under anesthesia (finding)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8892-2" : {
+      "source" : {
+        "code" : "8892-2",
+        "description" : "Heart rate Peripheral artery by US.doppler",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8886-4",
+          "description" : "Heart rate method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1172737007",
+          "description" : "Doppler ultrasound - action (qualifier value)",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "39111-0",
+          "description" : "Body site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "840581000",
+          "description" : "Structure of peripheral artery (body structure)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "69001-6" : {
+      "source" : {
+        "code" : "69001-6",
+        "description" : "Heart rate --standing",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8361-8",
+          "description" : "Body position with respect to gravity Patient Type Pt Nom *",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "10904000",
+          "description" : "Standing position",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "89282-8" : {
+      "source" : {
+        "code" : "89282-8",
+        "description" : "Heart rate --post bronchodilation",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "255273002",
+          "description" : "Post-bronchodilation (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "40442-6" : {
+      "source" : {
+        "code" : "40442-6",
+        "description" : "Heart rate --post exercise",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "f3f6ed70-6782-ef11-8870-6045bdc71c8b",
+          "description" : "Exertion phase",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "255214003",
+          "description" : "After exercise (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "89273-7" : {
+      "source" : {
+        "code" : "89273-7",
+        "description" : "Heart rate --W exercise",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "f3f6ed70-6782-ef11-8870-6045bdc71c8b",
+          "description" : "Exertion phase",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "309604004",
+          "description" : "During exercise",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "76477-9" : {
+      "source" : {
+        "code" : "76477-9",
+        "description" : "Heart rate by Noninvasive",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8886-4",
+          "description" : "Heart rate method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "22762002",
+          "description" : "Non-invasive",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

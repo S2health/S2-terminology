@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "5195-3",
+    "description": "Hepatitis B virus surface Ag Ser PrThr Pt Ord",
+    "system": "loinc"
+  },
+  "children": {
+    "5196-1": {
+      "source": {
+        "code": "5196-1",
+        "description": "Hepatitis B virus surface Ag Ser/Plas PrThr Pt Ord IA",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "5195-3",
+        "description": "Hepatitis B virus surface Ag Ser PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

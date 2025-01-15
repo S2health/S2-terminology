@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "104753-9",
+    "description": "Burr cells [Presence] in Blood",
+    "system": "loinc"
+  },
+  "children": {
+    "7790-9": {
+      "source": {
+        "code": "7790-9",
+        "description": "Burr cells Bld PrThr Pt Ord Microscopy.light",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "104753-9",
+        "description": "Burr cells [Presence] in Blood",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702661004",
+            "description": "Light microscopy technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

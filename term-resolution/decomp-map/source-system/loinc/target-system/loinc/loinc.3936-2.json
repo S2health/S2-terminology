@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "3936-2",
+    "description": "Phencyclidine Urine PrThr Pt Ord",
+    "system": "loinc"
+  },
+  "children": {
+    "19659-2": {
+      "source": {
+        "code": "19659-2",
+        "description": "Phencyclidine Urine PrThr Pt Ord Screen",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "3936-2",
+        "description": "Phencyclidine Urine PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1287497009",
+            "description": "Screening technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "104731-5",
+    "description": "Clostridioides difficile toxin genes [Presence] in Stool by Molecular genetics method",
+    "system": "loinc"
+  },
+  "children": {
+    "54067-4": {
+      "source": {
+        "code": "54067-4",
+        "description": "Clostridioides difficile toxin genes Stool PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "104731-5",
+        "description": "Clostridioides difficile toxin genes [Presence] in Stool by Molecular genetics method",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

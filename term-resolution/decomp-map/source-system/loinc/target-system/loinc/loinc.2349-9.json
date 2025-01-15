@@ -1,0 +1,61 @@
+{
+  "target": {
+    "code": "2349-9",
+    "description": "Glucose [Presence] in Urine",
+    "system": "loinc"
+  },
+  "children": {
+    "25428-4": {
+      "source": {
+        "code": "25428-4",
+        "description": "Glucose Urine PrThr Pt Ord Test strip",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "2349-9",
+        "description": "Glucose [Presence] in Urine",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702660003",
+            "description": "Test strip technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "50555-2": {
+      "source": {
+        "code": "50555-2",
+        "description": "Glucose Urine PrThr Pt Ord Test strip.automated",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "2349-9",
+        "description": "Glucose [Presence] in Urine",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "737102004",
+            "description": "Automated test strip technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

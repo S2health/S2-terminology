@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "105869-2",
+    "description": "Band form neutrophils [Presence] in Blood",
+    "system": "loinc"
+  },
+  "children": {
+    "34524-9": {
+      "source": {
+        "code": "34524-9",
+        "description": "Neutrophils.band form Bld PrThr Pt Ord Automated count",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105869-2",
+        "description": "Band form neutrophils [Presence] in Blood",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

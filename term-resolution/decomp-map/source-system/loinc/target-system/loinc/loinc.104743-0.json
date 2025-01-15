@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "104743-0",
+    "description": "Epstein Barr virus DNA [#/volume] in Specimen by Molecular genetics method",
+    "system": "loinc"
+  },
+  "children": {
+    "32585-2": {
+      "source": {
+        "code": "32585-2",
+        "description": "Epstein Barr virus DNA NCnc Pt Qn Probe.amp.tar",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "104743-0",
+        "description": "Epstein Barr virus DNA [#/volume] in Specimen by Molecular genetics method",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

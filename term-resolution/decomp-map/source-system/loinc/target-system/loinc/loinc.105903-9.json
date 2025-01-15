@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "105903-9",
+    "description": "Escherichia coli enteroaggregative pAA plasmid aggR+aatA genes [Presence] in Stool",
+    "system": "loinc"
+  },
+  "children": {
+    "80349-4": {
+      "source": {
+        "code": "80349-4",
+        "description": "Escherichia coli enteroaggregative pAA plasmid aggR+aatA genes Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105903-9",
+        "description": "Escherichia coli enteroaggregative pAA plasmid aggR+aatA genes [Presence] in Stool",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31111000205104",
+            "description": "Non-probe target amplification technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "target" : {
+    "code" : "29463-7",
+    "description" : "Body weight",
+    "system" : "loinc"
+  },
+  "children" : {
+    "3141-9" : {
+      "source" : {
+        "code" : "3141-9",
+        "description" : "Body weight Measured",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "29463-7",
+        "description" : "Body weight",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106191-0",
+          "description" : "General method Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "258104002",
+          "description" : "Measured (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "3142-7" : {
+      "source" : {
+        "code" : "3142-7",
+        "description" : "Body weight Stated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "29463-7",
+        "description" : "Body weight",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106191-0",
+          "description" : "General method Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "733985002",
+          "description" : "Reported (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8335-2" : {
+      "source" : {
+        "code" : "8335-2",
+        "description" : "Body weight Estimated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "29463-7",
+        "description" : "Body weight",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106191-0",
+          "description" : "General method Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "414135002",
+          "description" : "Estimated (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "75292-3" : {
+      "source" : {
+        "code" : "75292-3",
+        "description" : "Body weight - Reported --usual",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "29463-7",
+        "description" : "Body weight",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106191-0",
+          "description" : "General method Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "733985002",
+          "description" : "Reported (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8350-1" : {
+      "source" : {
+        "code" : "8350-1",
+        "description" : "Body weight Measured --with clothes",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "29463-7",
+        "description" : "Body weight",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8352-7",
+          "description" : "Clothing worn during measure",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1303297007",
+          "description" : "Fully dressed with shoes",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8351-9" : {
+      "source" : {
+        "code" : "8351-9",
+        "description" : "Body weight Measured --without clothes",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "29463-7",
+        "description" : "Body weight",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8352-7",
+          "description" : "Clothing worn during measure",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "248160001",
+          "description" : "Undressed",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

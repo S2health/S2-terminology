@@ -1,0 +1,191 @@
+{
+  "target": {
+    "code": "69405-9",
+    "description": "Glomerular filtration rate/1.73 sq M.predicted Ser/Plas/Bld ArVRat Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "88293-6": {
+      "source": {
+        "code": "88293-6",
+        "description": "Glomerular filtration rate/1.73 sq M.predicted.black Ser/Plas/Bld ArVRat Pt Qn Creatinine-based formula (CKD-EPI)",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "69405-9",
+        "description": "Glomerular filtration rate/1.73 sq M.predicted Ser/Plas/Bld ArVRat Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31081000205108",
+            "description": "Creatinine-based formula chronic kidney disease - epidemiology technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "77147-7": {
+      "source": {
+        "code": "77147-7",
+        "description": "Glomerular filtration rate/1.73 sq M.predicted Ser/Plas/Bld ArVRat Pt Qn Creatinine-based formula (MDRD)",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "69405-9",
+        "description": "Glomerular filtration rate/1.73 sq M.predicted Ser/Plas/Bld ArVRat Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31091000205105",
+            "description": "Creatinine based formula modified diet for renal disease testing technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "62238-1": {
+      "source": {
+        "code": "62238-1",
+        "description": "Glomerular filtration rate/1.73 sq M.predicted Ser/Plas/Bld ArVRat Pt Qn Creatinine-based formula (CKD-EPI)",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "69405-9",
+        "description": "Glomerular filtration rate/1.73 sq M.predicted Ser/Plas/Bld ArVRat Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31081000205108",
+            "description": "Creatinine-based formula chronic kidney disease - epidemiology technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "33914-3": {
+      "source": {
+        "code": "33914-3",
+        "description": "Glomerular filtration rate/1.73 sq M.predicted Ser/Plas ArVRat Pt Qn Creatinine-based formula (MDRD)",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "69405-9",
+        "description": "Glomerular filtration rate/1.73 sq M.predicted Ser/Plas/Bld ArVRat Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31091000205105",
+            "description": "Creatinine based formula modified diet for renal disease testing technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "48643-1": {
+      "source": {
+        "code": "48643-1",
+        "description": "Glomerular filtration rate/1.73 sq M.predicted.black Ser/Plas/Bld ArVRat Pt Qn Creatinine-based formula (MDRD)",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "69405-9",
+        "description": "Glomerular filtration rate/1.73 sq M.predicted Ser/Plas/Bld ArVRat Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31091000205105",
+            "description": "Creatinine based formula modified diet for renal disease testing technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "88294-4": {
+      "source": {
+        "code": "88294-4",
+        "description": "Glomerular filtration rate/1.73 sq M.predicted.non black Ser/Plas/Bld ArVRat Pt Qn Creatinine-based formula (CKD-EPI)",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "69405-9",
+        "description": "Glomerular filtration rate/1.73 sq M.predicted Ser/Plas/Bld ArVRat Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31081000205108",
+            "description": "Creatinine-based formula chronic kidney disease - epidemiology technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "48642-3": {
+      "source": {
+        "code": "48642-3",
+        "description": "Glomerular filtration rate/1.73 sq M.predicted.non black Ser/Plas/Bld ArVRat Pt Qn Creatinine-based formula (MDRD)",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "69405-9",
+        "description": "Glomerular filtration rate/1.73 sq M.predicted Ser/Plas/Bld ArVRat Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31091000205105",
+            "description": "Creatinine based formula modified diet for renal disease testing technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "28540-3",
+    "description": "Erythrocyte mean corpuscular hemoglobin concentration RBC MCnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "786-4": {
+      "source": {
+        "code": "786-4",
+        "description": "Erythrocyte mean corpuscular hemoglobin concentration RBC MCnc Pt Qn Automated count",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "28540-3",
+        "description": "Erythrocyte mean corpuscular hemoglobin concentration RBC MCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

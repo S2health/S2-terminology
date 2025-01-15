@@ -1,0 +1,61 @@
+{
+  "target": {
+    "code": "2089-1",
+    "description": "Cholesterol.in LDL Ser/Plas MCnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "13457-7": {
+      "source": {
+        "code": "13457-7",
+        "description": "Cholesterol.in LDL Ser/Plas MCnc Pt Qn Calculated",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "2089-1",
+        "description": "Cholesterol.in LDL Ser/Plas MCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "117337005",
+            "description": "Calculated laboratory test method",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "18262-6": {
+      "source": {
+        "code": "18262-6",
+        "description": "Cholesterol.in LDL Ser/Plas MCnc Pt Qn Direct assay",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "2089-1",
+        "description": "Cholesterol.in LDL Ser/Plas MCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702669002",
+            "description": "Direct assay technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

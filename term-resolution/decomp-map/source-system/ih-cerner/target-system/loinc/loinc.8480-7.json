@@ -1,0 +1,197 @@
+{
+  "target" : {
+    "code" : "8480-7",
+    "description" : "Systolic blood pressure",
+    "system" : "loinc"
+  },
+  "children" : {
+    "7832357921" : {
+      "source" : {
+        "code" : "7832357921",
+        "description" : "Right Arm SBP Cuff",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "8480-7",
+        "description" : "Systolic blood pressure",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "41901-0",
+          "description" : "Type of Blood pressure device",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1287473000",
+          "description" : "Automatic inflation electronic blood pressure monitor",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "39111-0",
+          "description" : "Body site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "17137000",
+          "description" : "Brachial artery",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "63930-2",
+          "description" : "Laterality Patient Find Pt Nom PhenX",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "24028007",
+          "description" : "Right (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "7832358185" : {
+      "source" : {
+        "code" : "7832358185",
+        "description" : "Right Leg SBP Cuff",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "8480-7",
+        "description" : "Systolic blood pressure",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "41901-0",
+          "description" : "Type of Blood pressure device",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1287473000",
+          "description" : "Automatic inflation electronic blood pressure monitor",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "39111-0",
+          "description" : "Body site",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "7657000",
+          "description" : "Structure of femoral artery",
+          "system" : "snomed"
+        }
+      }, {
+        "key" : {
+          "code" : "63930-2",
+          "description" : "Laterality Patient Find Pt Nom PhenX",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "24028007",
+          "description" : "Right (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "3066342613" : {
+      "source" : {
+        "code" : "3066342613",
+        "description" : "SBP, Doppler",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "8480-7",
+        "description" : "Systolic blood pressure",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8357-6",
+          "description" : "Blood pressure method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1172737007",
+          "description" : "Doppler ultrasound - action (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "34642587" : {
+      "source" : {
+        "code" : "34642587",
+        "description" : "SBP, Palp",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "8480-7",
+        "description" : "Systolic blood pressure",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8357-6",
+          "description" : "Blood pressure method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "129434008",
+          "description" : "Palpation - action",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "2203725955" : {
+      "source" : {
+        "code" : "2203725955",
+        "description" : "Systolic Blood Pressure (Home Device)",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "8480-7",
+        "description" : "Systolic blood pressure",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "41901-0",
+          "description" : "Type of Blood pressure device",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31751000205104",
+          "description" : "Home blood pressure monitor",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "236154007" : {
+      "source" : {
+        "code" : "236154007",
+        "description" : "Systolic Blood Pressure Doppler",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "8480-7",
+        "description" : "Systolic blood pressure",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8357-6",
+          "description" : "Blood pressure method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "1172737007",
+          "description" : "Doppler ultrasound - action (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

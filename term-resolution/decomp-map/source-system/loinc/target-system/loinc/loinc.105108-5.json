@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "105108-5",
+    "description": "Erythrocytes [#/volume] in Urine sediment",
+    "system": "loinc"
+  },
+  "children": {
+    "5808-1": {
+      "source": {
+        "code": "5808-1",
+        "description": "Erythrocytes Urine sed NCnc Pt Qn Microscopy.light.HPF",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105108-5",
+        "description": "Erythrocytes [#/volume] in Urine sediment",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702662006",
+            "description": "High power field light microscopy",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

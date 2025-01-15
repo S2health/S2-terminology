@@ -1,0 +1,61 @@
+{
+  "target": {
+    "code": "26450-7",
+    "description": "Eosinophils/100 leukocytes Bld NFr Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "713-8": {
+      "source": {
+        "code": "713-8",
+        "description": "Eosinophils/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "26450-7",
+        "description": "Eosinophils/100 leukocytes Bld NFr Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "714-6": {
+      "source": {
+        "code": "714-6",
+        "description": "Eosinophils/100 leukocytes Bld NFr Pt Qn Manual count",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "26450-7",
+        "description": "Eosinophils/100 leukocytes Bld NFr Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702663001",
+            "description": "Manual count technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "target": {
+    "code": "49779-2",
+    "description": "Ketones [Mass/volume] in Urine",
+    "system": "loinc"
+  },
+  "children": {
+    "50557-8": {
+      "source": {
+        "code": "50557-8",
+        "description": "Ketones Urine MCnc Pt SemiQn Test strip.automated",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "49779-2",
+        "description": "Ketones [Mass/volume] in Urine",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "737102004",
+            "description": "Automated test strip technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "5797-6": {
+      "source": {
+        "code": "5797-6",
+        "description": "Ketones Urine MCnc Pt SemiQn Test strip",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "49779-2",
+        "description": "Ketones [Mass/volume] in Urine",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702660003",
+            "description": "Test strip technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

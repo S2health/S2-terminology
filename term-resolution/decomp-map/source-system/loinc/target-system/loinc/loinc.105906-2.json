@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "105906-2",
+    "description": "Blood [Presence] in Urine",
+    "system": "loinc"
+  },
+  "children": {
+    "53963-5": {
+      "source": {
+        "code": "53963-5",
+        "description": "Blood Urine PrThr Pt Ord Visual",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105906-2",
+        "description": "Blood [Presence] in Urine",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "255374006",
+            "description": "Visual",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

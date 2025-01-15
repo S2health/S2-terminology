@@ -1,0 +1,61 @@
+{
+  "target": {
+    "code": "3427-2",
+    "description": "Cannabinoids Urine PrThr Pt Ord",
+    "system": "loinc"
+  },
+  "children": {
+    "70145-8": {
+      "source": {
+        "code": "70145-8",
+        "description": "Cannabinoids Urine PrThr Pt Ord Screen>50 ng/mL",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "3427-2",
+        "description": "Cannabinoids Urine PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31001000205102",
+            "description": "Greater than 50ng/mL screening test technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "18282-4": {
+      "source": {
+        "code": "18282-4",
+        "description": "Cannabinoids Urine PrThr Pt Ord Screen",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "3427-2",
+        "description": "Cannabinoids Urine PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1287497009",
+            "description": "Screening technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "105100-2",
+    "description": "Benzodiazepines tested for in Urine",
+    "system": "loinc"
+  },
+  "children": {
+    "19279-9": {
+      "source": {
+        "code": "19279-9",
+        "description": "Benzodiazepines tested for Urine Prid Pt Nom Screen",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105100-2",
+        "description": "Benzodiazepines tested for in Urine",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1287497009",
+            "description": "Screening technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "104714-1",
+    "description": "Hepatitis C virus RNA [log units/volume] in Serum or Plasma by Molecular genetics method",
+    "system": "loinc"
+  },
+  "children": {
+    "38180-6": {
+      "source": {
+        "code": "38180-6",
+        "description": "Hepatitis C virus RNA Ser/Plas LaCnc Pt Qn Probe.amp.tar",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "104714-1",
+        "description": "Hepatitis C virus RNA [log units/volume] in Serum or Plasma by Molecular genetics method",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

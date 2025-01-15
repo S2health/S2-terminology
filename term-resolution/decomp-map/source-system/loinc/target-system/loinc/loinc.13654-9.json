@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "13654-9",
+    "description": "Epithelial cells.squamous Urine sed NCnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "51486-9": {
+      "source": {
+        "code": "51486-9",
+        "description": "Epithelial cells.squamous Urine NCnc Pt Qn Automated count",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "13654-9",
+        "description": "Epithelial cells.squamous Urine sed NCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}
