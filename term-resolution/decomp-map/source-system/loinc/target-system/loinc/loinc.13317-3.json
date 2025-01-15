@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "13317-3",
+    "description": "Staphylococcus aureus.methicillin resistant isolate PrThr Pt Ord Organism specific culture",
+    "system": "loinc"
+  },
+  "children": {
+    "52969-3": {
+      "source": {
+        "code": "52969-3",
+        "description": "Staphylococcus aureus.methicillin resistant isolate Nose PrThr Pt Ord Organism specific culture",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "13317-3",
+        "description": "Staphylococcus aureus.methicillin resistant isolate PrThr Pt Ord Organism specific culture",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "66746-9",
+            "description": "Specimen type",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "447154002",
+            "description": "Specimen from nose",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

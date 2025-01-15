@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "105069-9",
+    "description": "Fungus [Presence] in Specimen",
+    "system": "loinc"
+  },
+  "children": {
+    "55305-7": {
+      "source": {
+        "code": "55305-7",
+        "description": "Fungus PrThr Pt Ord KOH preparation",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105069-9",
+        "description": "Fungus [Presence] in Specimen",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "708075001",
+            "description": "Potassium hydroxide preparation technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

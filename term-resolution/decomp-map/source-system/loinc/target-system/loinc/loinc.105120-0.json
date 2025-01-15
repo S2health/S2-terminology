@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "105120-0",
+    "description": "Epithelial cells.squamous [Presence] in Urine sediment",
+    "system": "loinc"
+  },
+  "children": {
+    "12258-0": {
+      "source": {
+        "code": "12258-0",
+        "description": "Epithelial cells.squamous Urine sed PrThr Pt Ord Microscopy.light",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105120-0",
+        "description": "Epithelial cells.squamous [Presence] in Urine sediment",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702661004",
+            "description": "Light microscopy technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

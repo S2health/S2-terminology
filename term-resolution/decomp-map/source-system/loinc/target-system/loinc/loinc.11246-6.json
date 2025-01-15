@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "11246-6",
+    "description": "OxyCODONE Urine MCnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "16249-5": {
+      "source": {
+        "code": "16249-5",
+        "description": "OxyCODONE Urine MCnc Pt Qn Confirm",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "11246-6",
+        "description": "OxyCODONE Urine MCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703690001",
+            "description": "Confirmatory technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

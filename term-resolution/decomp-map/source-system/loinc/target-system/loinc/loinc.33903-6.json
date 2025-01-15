@@ -1,0 +1,61 @@
+{
+  "target": {
+    "code": "33903-6",
+    "description": "Ketones [Presence] in Urine",
+    "system": "loinc"
+  },
+  "children": {
+    "2514-8": {
+      "source": {
+        "code": "2514-8",
+        "description": "Ketones Urine PrThr Pt SemiQn Test strip",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "33903-6",
+        "description": "Ketones [Presence] in Urine",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702660003",
+            "description": "Test strip technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "57734-6": {
+      "source": {
+        "code": "57734-6",
+        "description": "Ketones Urine PrThr Pt Ord Test strip.automated",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "33903-6",
+        "description": "Ketones [Presence] in Urine",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "737102004",
+            "description": "Automated test strip technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

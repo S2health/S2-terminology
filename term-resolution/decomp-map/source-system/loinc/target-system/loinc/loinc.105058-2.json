@@ -1,0 +1,47 @@
+{
+  "target": {
+    "code": "105058-2",
+    "description": "Norovirus genogroup I+II RNA [Presence] in Specimen",
+    "system": "loinc"
+  },
+  "children": {
+    "82211-4": {
+      "source": {
+        "code": "82211-4",
+        "description": "Norovirus genogroup I+II RNA Stool PrThr Pt Ord Non-probe.amp.tar",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105058-2",
+        "description": "Norovirus genogroup I+II RNA [Presence] in Specimen",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31111000205104",
+            "description": "Non-probe target amplification technique",
+            "system": "snomed"
+          }
+        },
+        {
+          "key": {
+            "code": "66746-9",
+            "description": "Specimen type",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "119339001",
+            "description": "Stool specimen",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

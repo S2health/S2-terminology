@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "40715-5",
+    "description": "Granulocytes.immature Bld PrThr Pt Ord",
+    "system": "loinc"
+  },
+  "children": {
+    "34165-1": {
+      "source": {
+        "code": "34165-1",
+        "description": "Granulocytes.immature Bld PrThr Pt Ord Automated count",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "40715-5",
+        "description": "Granulocytes.immature Bld PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

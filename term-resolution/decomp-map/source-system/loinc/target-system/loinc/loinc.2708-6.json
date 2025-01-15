@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "2708-6",
+    "description": "Oxygen saturation BldA MFr Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "51733-4": {
+      "source": {
+        "code": "51733-4",
+        "description": "Oxygen saturation BldA MFr Pt Qn Calculated from oxygen partial pressure",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "2708-6",
+        "description": "Oxygen saturation BldA MFr Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703463001",
+            "description": "Calculation from oxygen partial pressure",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

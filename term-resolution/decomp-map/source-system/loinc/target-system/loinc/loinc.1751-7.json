@@ -1,0 +1,87 @@
+{
+  "target": {
+    "code": "1751-7",
+    "description": "Albumin Ser/Plas MCnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "2862-1": {
+      "source": {
+        "code": "2862-1",
+        "description": "Albumin Ser/Plas MCnc Pt Qn Electrophoresis",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "1751-7",
+        "description": "Albumin Ser/Plas MCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703450007",
+            "description": "Electrophoresis technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "61151-7": {
+      "source": {
+        "code": "61151-7",
+        "description": "Albumin Ser/Plas MCnc Pt Qn BCG",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "1751-7",
+        "description": "Albumin Ser/Plas MCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1303770001",
+            "description": "Bromocresol green dye binding technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "61152-5": {
+      "source": {
+        "code": "61152-5",
+        "description": "Albumin Ser/Plas MCnc Pt Qn BCP",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "1751-7",
+        "description": "Albumin Ser/Plas MCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1303771002",
+            "description": "Bromocresol purple dye binding technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

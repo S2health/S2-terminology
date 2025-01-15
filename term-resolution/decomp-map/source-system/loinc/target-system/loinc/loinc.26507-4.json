@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "26507-4",
+    "description": "Neutrophils.band form Bld NCnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "763-3": {
+      "source": {
+        "code": "763-3",
+        "description": "Neutrophils.band form Bld NCnc Pt Qn Manual count",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "26507-4",
+        "description": "Neutrophils.band form Bld NCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702663001",
+            "description": "Manual count technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

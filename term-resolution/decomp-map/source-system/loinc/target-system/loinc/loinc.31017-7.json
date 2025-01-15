@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "31017-7",
+    "description": "Tissue transglutaminase Ab.IgA Ser ACnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "46128-5": {
+      "source": {
+        "code": "46128-5",
+        "description": "Tissue transglutaminase Ab.IgA Ser ACnc Pt Qn IA",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "31017-7",
+        "description": "Tissue transglutaminase Ab.IgA Ser ACnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "8047-3",
+    "description": "Varicella zoster virus Ab.IgG Ser ACnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "17763-4": {
+      "source": {
+        "code": "17763-4",
+        "description": "Varicella zoster virus Ab.IgG Ser ACnc Pt Qn IF",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "8047-3",
+        "description": "Varicella zoster virus Ab.IgG Ser ACnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "406867009",
+            "description": "Immunofluorescent stain method",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

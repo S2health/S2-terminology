@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "1920-8",
+    "description": "Aspartate aminotransferase Ser/Plas CCnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "30239-8": {
+      "source": {
+        "code": "30239-8",
+        "description": "Aspartate aminotransferase Ser/Plas CCnc Pt Qn With P-5'-P",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "1920-8",
+        "description": "Aspartate aminotransferase Ser/Plas CCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "30921000205104",
+            "description": "Addition of pyridoxal-5'-phosphate technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "target": {
+    "code": "105077-2",
+    "description": "Human papilloma virus DNA [Presence] in Specimen",
+    "system": "loinc"
+  },
+  "children": {
+    "49891-5": {
+      "source": {
+        "code": "49891-5",
+        "description": "Human papilloma virus DNA PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105077-2",
+        "description": "Human papilloma virus DNA [Presence] in Specimen",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
+        },
+        {
+          "key": {
+            "code": "66746-9",
+            "description": "Specimen type",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "430304001",
+            "description": "Specimen from unspecified body site",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

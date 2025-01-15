@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "726-0",
+    "description": "Hemoglobin Urine MCnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "50559-4": {
+      "source": {
+        "code": "50559-4",
+        "description": "Hemoglobin Urine MCnc Pt SemiQn Test strip.automated",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "726-0",
+        "description": "Hemoglobin Urine MCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "737102004",
+            "description": "Automated test strip technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

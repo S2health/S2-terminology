@@ -1,0 +1,61 @@
+{
+  "target": {
+    "code": "28542-9",
+    "description": "Platelet mean volume Bld EntVol Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "776-5": {
+      "source": {
+        "code": "776-5",
+        "description": "Platelet mean volume Bld EntVol Pt Qn Rees-Ecker",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "28542-9",
+        "description": "Platelet mean volume Bld EntVol Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31061000205103",
+            "description": "Rees-Ecker testing technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "32623-1": {
+      "source": {
+        "code": "32623-1",
+        "description": "Platelet mean volume Bld EntVol Pt Qn Automated count",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "28542-9",
+        "description": "Platelet mean volume Bld EntVol Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

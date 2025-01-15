@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "3520-4",
+    "description": "CycloSPORINE Bld MCnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "55805-6": {
+      "source": {
+        "code": "55805-6",
+        "description": "CycloSPORINE Bld MCnc Pt Qn LC/MS/MS",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "3520-4",
+        "description": "CycloSPORINE Bld MCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "31031000205109",
+            "description": "Liquid chromatograhpy - mass spectrometery - mass spectrometry testing technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

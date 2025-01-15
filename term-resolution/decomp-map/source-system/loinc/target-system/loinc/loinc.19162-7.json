@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "19162-7",
+    "description": "Varicella zoster virus Ab.IgG Ser PrThr Pt Ord",
+    "system": "loinc"
+  },
+  "children": {
+    "15410-4": {
+      "source": {
+        "code": "15410-4",
+        "description": "Varicella zoster virus Ab.IgG Ser PrThr Pt Ord IA",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "19162-7",
+        "description": "Varicella zoster virus Ab.IgG Ser PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

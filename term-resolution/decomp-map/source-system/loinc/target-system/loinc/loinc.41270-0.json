@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "41270-0",
+    "description": "Drugs identified Urine Prid Pt Nom",
+    "system": "loinc"
+  },
+  "children": {
+    "12286-1": {
+      "source": {
+        "code": "12286-1",
+        "description": "Drugs identified Urine Prid Pt Nom Screen",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "41270-0",
+        "description": "Drugs identified Urine Prid Pt Nom",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1287497009",
+            "description": "Screening technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

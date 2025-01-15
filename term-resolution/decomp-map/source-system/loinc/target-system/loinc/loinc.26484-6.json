@@ -1,0 +1,61 @@
+{
+  "target": {
+    "code": "26484-6",
+    "description": "Monocytes Bld NCnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "742-7": {
+      "source": {
+        "code": "742-7",
+        "description": "Monocytes Bld NCnc Pt Qn Automated count",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "26484-6",
+        "description": "Monocytes Bld NCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "743-5": {
+      "source": {
+        "code": "743-5",
+        "description": "Monocytes Bld NCnc Pt Qn Manual count",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "26484-6",
+        "description": "Monocytes Bld NCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702663001",
+            "description": "Manual count technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

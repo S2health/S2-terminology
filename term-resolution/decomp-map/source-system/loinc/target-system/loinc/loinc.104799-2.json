@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "104799-2",
+    "description": "Alpha 2 globulin [Mass/volume] in Serum or Plasma",
+    "system": "loinc"
+  },
+  "children": {
+    "2868-8": {
+      "source": {
+        "code": "2868-8",
+        "description": "Alpha 2 globulin Ser/Plas MCnc Pt Qn Electrophoresis",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "104799-2",
+        "description": "Alpha 2 globulin [Mass/volume] in Serum or Plasma",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703450007",
+            "description": "Electrophoresis technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

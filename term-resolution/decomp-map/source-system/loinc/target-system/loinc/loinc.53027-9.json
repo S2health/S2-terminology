@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "53027-9",
+    "description": "Cyclic citrullinated peptide Ab Ser ACnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "32218-0": {
+      "source": {
+        "code": "32218-0",
+        "description": "Cyclic citrullinated peptide Ab Ser ACnc Pt Qn IA",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "53027-9",
+        "description": "Cyclic citrullinated peptide Ab Ser ACnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "726449005",
+            "description": "Immunoassay technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

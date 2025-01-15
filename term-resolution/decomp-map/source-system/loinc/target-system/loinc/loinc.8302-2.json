@@ -1,0 +1,153 @@
+{
+  "target" : {
+    "code" : "8302-2",
+    "description" : "Body height",
+    "system" : "loinc"
+  },
+  "children" : {
+    "3137-7" : {
+      "source" : {
+        "code" : "3137-7",
+        "description" : "Body height Measured",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8302-2",
+        "description" : "Body height",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "83844-1",
+          "description" : "Body height method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "258104002",
+          "description" : "Measured (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "3138-5" : {
+      "source" : {
+        "code" : "3138-5",
+        "description" : "Body height Stated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8302-2",
+        "description" : "Body height",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "83844-1",
+          "description" : "Body height method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "733985002",
+          "description" : "Reported (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8306-3" : {
+      "source" : {
+        "code" : "8306-3",
+        "description" : "Body height --lying",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8302-2",
+        "description" : "Body height",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8361-8",
+          "description" : "Body position with respect to gravity Patient Type Pt Nom *",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "102538003",
+          "description" : "Lying position",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "92999-2" : {
+      "source" : {
+        "code" : "92999-2",
+        "description" : "Body height --sitting",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8302-2",
+        "description" : "Body height",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8361-8",
+          "description" : "Body position with respect to gravity Patient Type Pt Nom *",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "33586001",
+          "description" : "Sitting position (finding)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8301-4" : {
+      "source" : {
+        "code" : "8301-4",
+        "description" : "Body height Estimated",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8302-2",
+        "description" : "Body height",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "83844-1",
+          "description" : "Body height method",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "414135002",
+          "description" : "Estimated (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "8308-9" : {
+      "source" : {
+        "code" : "8308-9",
+        "description" : "Body height --standing",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "8302-2",
+        "description" : "Body height",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "8361-8",
+          "description" : "Body position with respect to gravity Patient Type Pt Nom *",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "10904000",
+          "description" : "Standing position",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "14196-0",
+    "description": "Reticulocytes Bld NCnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "60474-4": {
+      "source": {
+        "code": "60474-4",
+        "description": "Reticulocytes Bld NCnc Pt Qn Automated count",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "14196-0",
+        "description": "Reticulocytes Bld NCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702659008",
+            "description": "Automated count technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

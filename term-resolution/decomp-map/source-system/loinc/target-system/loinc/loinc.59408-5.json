@@ -1,0 +1,297 @@
+{
+  "target" : {
+    "code" : "59408-5",
+    "description" : "Oxygen saturation in Arterial blood by Pulse oximetry",
+    "system" : "loinc"
+  },
+  "children" : {
+    "89277-8" : {
+      "source" : {
+        "code" : "89277-8",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry --during anesthesia",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "59408-5",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "421642003",
+          "description" : "Under anesthesia (finding)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "89272-9" : {
+      "source" : {
+        "code" : "89272-9",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry --during apnea",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "59408-5",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "25491000205102",
+          "description" : "During apneic episode",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "59409-3" : {
+      "source" : {
+        "code" : "59409-3",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry --during treatment",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "59408-5",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31731000205107",
+          "description" : "During treatment",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "59410-1" : {
+      "source" : {
+        "code" : "59410-1",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry --on room air",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "59408-5",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "722742002",
+          "description" : "Breathing room air",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "59411-9" : {
+      "source" : {
+        "code" : "59411-9",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry --post bronchodilation",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "59408-5",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "255273002",
+          "description" : "Post-bronchodilation",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "59412-7" : {
+      "source" : {
+        "code" : "59412-7",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry --post exercise",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "59408-5",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "f3f6ed70-6782-ef11-8870-6045bdc71c8b",
+          "description" : "Exertion phase",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "255214003",
+          "description" : "After exercise (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "59413-5" : {
+      "source" : {
+        "code" : "59413-5",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry --post treatment",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "59408-5",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31721000205105",
+          "description" : "After treatment",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "59414-3" : {
+      "source" : {
+        "code" : "59414-3",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry --pre bronchodilation",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "59408-5",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "255274008",
+          "description" : "Pre-bronchodilation",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "59415-0" : {
+      "source" : {
+        "code" : "59415-0",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry --pre physiotherapy",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "59408-5",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31741000205102",
+          "description" : "Pre-physiotherapy",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "59416-8" : {
+      "source" : {
+        "code" : "59416-8",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry --pre treatment",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "59408-5",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "106168-8",
+          "description" : "Associated situation Patient Find Pt Nom",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "31711000205103",
+          "description" : "Before treatment",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "59417-6" : {
+      "source" : {
+        "code" : "59417-6",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry --resting",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "59408-5",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "f3f6ed70-6782-ef11-8870-6045bdc71c8b",
+          "description" : "Exertion phase",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "63678003",
+          "description" : "At rest (qualifier value)",
+          "system" : "snomed"
+        }
+      } ]
+    },
+    "89276-0" : {
+      "source" : {
+        "code" : "89276-0",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry --W exercise",
+        "system" : "loinc"
+      },
+      "target" : {
+        "code" : "59408-5",
+        "description" : "Oxygen saturation in Arterial blood by Pulse oximetry",
+        "system" : "loinc"
+      },
+      "descriptors" : [ {
+        "key" : {
+          "code" : "f3f6ed70-6782-ef11-8870-6045bdc71c8b",
+          "description" : "Exertion phase",
+          "system" : "loinc"
+        },
+        "value" : {
+          "code" : "309604004",
+          "description" : "During exercise",
+          "system" : "snomed"
+        }
+      } ]
+    }
+  }
+}

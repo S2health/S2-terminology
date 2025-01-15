@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "104757-0",
+    "description": "Staphylococcus aureus DNA [Presence] in Specimen by Molecular genetics method",
+    "system": "loinc"
+  },
+  "children": {
+    "61404-0": {
+      "source": {
+        "code": "61404-0",
+        "description": "Staphylococcus aureus DNA PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "104757-0",
+        "description": "Staphylococcus aureus DNA [Presence] in Specimen by Molecular genetics method",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

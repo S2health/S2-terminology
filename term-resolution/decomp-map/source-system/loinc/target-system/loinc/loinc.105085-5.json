@@ -1,0 +1,61 @@
+{
+  "target": {
+    "code": "105085-5",
+    "description": "Neisseria gonorrhoeae rRNA [Presence] in Specimen",
+    "system": "loinc"
+  },
+  "children": {
+    "5028-6": {
+      "source": {
+        "code": "5028-6",
+        "description": "Neisseria gonorrhoeae rRNA PrThr Pt Ord Probe",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105085-5",
+        "description": "Neisseria gonorrhoeae rRNA [Presence] in Specimen",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702673004",
+            "description": "Deoxyribonucleic acid probe technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "43305-2": {
+      "source": {
+        "code": "43305-2",
+        "description": "Neisseria gonorrhoeae rRNA PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105085-5",
+        "description": "Neisseria gonorrhoeae rRNA [Presence] in Specimen",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

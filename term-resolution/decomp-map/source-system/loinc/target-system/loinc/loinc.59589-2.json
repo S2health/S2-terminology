@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "59589-2",
+    "description": "1-Hydroxymidazolam Urine MCnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "59590-0": {
+      "source": {
+        "code": "59590-0",
+        "description": "1-Hydroxymidazolam Urine MCnc Pt Qn Confirm",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "59589-2",
+        "description": "1-Hydroxymidazolam Urine MCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703690001",
+            "description": "Confirmatory technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "105887-4",
+    "description": "Adenovirus DNA [Presence] in Specimen",
+    "system": "loinc"
+  },
+  "children": {
+    "39528-5": {
+      "source": {
+        "code": "39528-5",
+        "description": "Adenovirus DNA PrThr Pt Ord Probe.amp.tar",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105887-4",
+        "description": "Adenovirus DNA [Presence] in Specimen",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702675006",
+            "description": "Probe with target amplification technique technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

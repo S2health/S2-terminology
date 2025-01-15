@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "105109-3",
+    "description": "Coarse Granular Casts [#/area] in Urine sediment",
+    "system": "loinc"
+  },
+  "children": {
+    "33393-0": {
+      "source": {
+        "code": "33393-0",
+        "description": "Granular casts.coarse Urine sed Naric Pt Qn Microscopy.light.LPF",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105109-3",
+        "description": "Coarse Granular Casts [#/area] in Urine sediment",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703451006",
+            "description": "Low power field light microscopy technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

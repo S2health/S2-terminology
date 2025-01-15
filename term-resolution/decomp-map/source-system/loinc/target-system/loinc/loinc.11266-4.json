@@ -1,0 +1,113 @@
+{
+  "target": {
+    "code": "11266-4",
+    "description": "Streptococcus agalactiae Ag PrThr Pt Ord",
+    "system": "loinc"
+  },
+  "children": {
+    "582-7": {
+      "source": {
+        "code": "582-7",
+        "description": "Streptococcus agalactiae Genital PrThr Pt Ord Organism specific culture",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "11266-4",
+        "description": "Streptococcus agalactiae Ag PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703752003",
+            "description": "Organism specific culture technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "585-0": {
+      "source": {
+        "code": "585-0",
+        "description": "Streptococcus agalactiae Thrt PrThr Pt Ord Organism specific culture",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "11266-4",
+        "description": "Streptococcus agalactiae Ag PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703752003",
+            "description": "Organism specific culture technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "586-8": {
+      "source": {
+        "code": "586-8",
+        "description": "Streptococcus agalactiae PrThr Pt Ord Organism specific culture",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "11266-4",
+        "description": "Streptococcus agalactiae Ag PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703752003",
+            "description": "Organism specific culture technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "72607-5": {
+      "source": {
+        "code": "72607-5",
+        "description": "Streptococcus agalactiae Vag+Rectum PrThr Pt Ord Organism specific culture",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "11266-4",
+        "description": "Streptococcus agalactiae Ag PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703752003",
+            "description": "Organism specific culture technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

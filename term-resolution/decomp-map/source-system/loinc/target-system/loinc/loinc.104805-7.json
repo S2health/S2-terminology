@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "104805-7",
+    "description": "Creatinine renal clearance predicted",
+    "system": "loinc"
+  },
+  "children": {
+    "35591-7": {
+      "source": {
+        "code": "35591-7",
+        "description": "Creatinine renal clearance.predicted Ser/Plas VRat Pt Qn Cockcroft-Gault formula",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "104805-7",
+        "description": "Creatinine renal clearance predicted",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703462006",
+            "description": "Cockcroft-Gault formula",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

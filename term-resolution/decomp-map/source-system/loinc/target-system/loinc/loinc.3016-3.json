@@ -1,0 +1,61 @@
+{
+  "target": {
+    "code": "3016-3",
+    "description": "Thyrotropin Ser/Plas ACnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "11580-8": {
+      "source": {
+        "code": "11580-8",
+        "description": "Thyrotropin Ser/Plas ACnc Pt Qn Detection limit <= 0.005 mIU/L",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "3016-3",
+        "description": "Thyrotropin Ser/Plas ACnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703436002",
+            "description": "Detection limit equal to or less than 0.005 mIU/L",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "11579-0": {
+      "source": {
+        "code": "11579-0",
+        "description": "Thyrotropin Ser/Plas ACnc Pt Qn Detection limit <= 0.05 mIU/L",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "3016-3",
+        "description": "Thyrotropin Ser/Plas ACnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703438001",
+            "description": "Detection limit equal to or less than 0.05 mIU/L",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "30436-0",
+    "description": "Monocytes+Macrophages/100 leukocytes CSF NFr Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "23904-6": {
+      "source": {
+        "code": "23904-6",
+        "description": "Monocytes+Macrophages/100 leukocytes CSF NFr Pt Qn Manual count",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "30436-0",
+        "description": "Monocytes+Macrophages/100 leukocytes CSF NFr Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702663001",
+            "description": "Manual count technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

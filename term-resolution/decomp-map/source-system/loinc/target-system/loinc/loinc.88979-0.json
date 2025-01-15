@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "88979-0",
+    "description": "Mucus [Presence] in Urine sediment",
+    "system": "loinc"
+  },
+  "children": {
+    "8247-9": {
+      "source": {
+        "code": "8247-9",
+        "description": "Mucus Urine sed PrThr Pt Ord Microscopy.light",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "88979-0",
+        "description": "Mucus [Presence] in Urine sediment",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "702661004",
+            "description": "Light microscopy technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

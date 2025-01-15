@@ -1,0 +1,111 @@
+{
+  "target": {
+    "code": "105059-0",
+    "description": "Microscopic observation [Identifier] in Specimen",
+    "system": "loinc"
+  },
+  "children": {
+    "648-6": {
+      "source": {
+        "code": "648-6",
+        "description": "Microscopic observation Sputum Prid Pt Nom Gram stain",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105059-0",
+        "description": "Microscopic observation [Identifier] in Specimen",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "708061008",
+            "description": "Gram stain",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "676-7": {
+      "source": {
+        "code": "676-7",
+        "description": "Microscopic observation Prid Pt Nom Rhodamine-auramine fluorochrome stain",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105059-0",
+        "description": "Microscopic observation [Identifier] in Specimen",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1303848006",
+            "description": "Rhodamine-auramine fluorochrome stain technique",
+            "system": "snomed"
+          }
+        },
+        {
+          "key": {
+            "code": "66746-9",
+            "description": "Specimen type",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "430304001",
+            "description": "Specimen from unspecified body site",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "14361-0": {
+      "source": {
+        "code": "14361-0",
+        "description": "Microscopic observation Vag Prid Pt Nom Gram stain",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "105059-0",
+        "description": "Microscopic observation [Identifier] in Specimen",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "708061008",
+            "description": "Gram stain",
+            "system": "snomed"
+          }
+        },
+        {
+          "key": {
+            "code": "66746-9",
+            "description": "Specimen type",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "119394009",
+            "description": "Specimen from vagina",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "target": {
+    "code": "3349-8",
+    "description": "Amphetamines Urine PrThr Pt Ord",
+    "system": "loinc"
+  },
+  "children": {
+    "19343-3": {
+      "source": {
+        "code": "19343-3",
+        "description": "Amphetamine Urine PrThr Pt Ord Screen",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "3349-8",
+        "description": "Amphetamines Urine PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1287497009",
+            "description": "Screening technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "19261-7": {
+      "source": {
+        "code": "19261-7",
+        "description": "Amphetamines Urine PrThr Pt Ord Screen",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "3349-8",
+        "description": "Amphetamines Urine PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "1287497009",
+            "description": "Screening technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "14309-9": {
+      "source": {
+        "code": "14309-9",
+        "description": "Amphetamines Urine PrThr Pt Ord Confirm>200 ng/mL",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "3349-8",
+        "description": "Amphetamines Urine PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "30981000205103",
+            "description": "Greater than 200 ng/mL confirmatory testing technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    },
+    "14308-1": {
+      "source": {
+        "code": "14308-1",
+        "description": "Amphetamines Urine PrThr Pt Ord Screen>1000 ng/mL",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "3349-8",
+        "description": "Amphetamines Urine PrThr Pt Ord",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "30991000205101",
+            "description": "Greater than 1000 ng/mL screening testing technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

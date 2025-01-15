@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "95135-0",
+    "description": "Noroxycodone Urine MCnc Pt Qn",
+    "system": "loinc"
+  },
+  "children": {
+    "61425-5": {
+      "source": {
+        "code": "61425-5",
+        "description": "Noroxycodone Urine MCnc Pt Qn Confirm",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "95135-0",
+        "description": "Noroxycodone Urine MCnc Pt Qn",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "703690001",
+            "description": "Confirmatory technique",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}

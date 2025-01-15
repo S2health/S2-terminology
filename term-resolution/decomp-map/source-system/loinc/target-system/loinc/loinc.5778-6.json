@@ -1,0 +1,35 @@
+{
+  "target": {
+    "code": "5778-6",
+    "description": "Color Urine Type Pt Nom",
+    "system": "loinc"
+  },
+  "children": {
+    "50553-7": {
+      "source": {
+        "code": "50553-7",
+        "description": "Color Urine Type Pt Nom Auto",
+        "system": "loinc"
+      },
+      "target": {
+        "code": "5778-6",
+        "description": "Color Urine Type Pt Nom",
+        "system": "loinc"
+      },
+      "descriptors": [
+        {
+          "key": {
+            "code": "85069-3",
+            "description": "Lab test method [Type]",
+            "system": "loinc"
+          },
+          "value": {
+            "code": "8359006",
+            "description": "Automated",
+            "system": "snomed"
+          }
+        }
+      ]
+    }
+  }
+}
