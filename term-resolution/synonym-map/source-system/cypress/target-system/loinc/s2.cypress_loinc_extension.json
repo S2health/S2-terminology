@@ -1,0 +1,990 @@
+{
+  "id" : "s2.cypress_loinc_extension",
+  "creationDate" : "2025-01-29T16:20:16-0500",
+  "source" : "symedical",
+  "map" : {
+    "mapId" : "cypress_loinc_extension",
+    "sourceSystem" : "cypress",
+    "targetSystem" : "loinc",
+    "members" : [ {
+      "source" : {
+        "code" : "URIC",
+        "description" : "URIC",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "14934-4",
+        "description" : "Urate Urine SCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "UMIC",
+        "description" : "UMIC",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "24365-9",
+        "description" : "Urinalysis microscopic panel Urine sed - Pt -",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "UMAC",
+        "description" : "UMAC",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "24357-6",
+        "description" : "Urinalysis macro (dipstick) panel Urine - Pt -",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "UA",
+        "description" : "UA",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "24357-6",
+        "description" : "Urinalysis macro (dipstick) panel Urine - Pt -",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "TESTFB",
+        "description" : "TESTFB",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "1751-7",
+        "description" : "Albumin Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "PSA2",
+        "description" : "PSA2",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "97149-9",
+        "description" : "Pro prostate specific Ag isoform 2 Ser/Plas MCnc Pt Qn IA",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "LIPID",
+        "description" : "LIPID",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "24331-1",
+        "description" : "Lipid 1996 panel Ser/Plas - Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "K",
+        "description" : "K",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2823-3",
+        "description" : "Potassium Ser/Plas SCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "IIBC",
+        "description" : "IIBC",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "50190-8",
+        "description" : "Iron & Iron binding capacity panel Ser/Plas - Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "HCTO",
+        "description" : "HCTO",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "20570-8",
+        "description" : "Hematocrit Bld VFr Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "GLYHGB",
+        "description" : "GLYHGB",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "41995-2",
+        "description" : "Hemoglobin A1c Bld MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "FER",
+        "description" : "FER",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2276-4",
+        "description" : "Ferritin Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "DAUTO",
+        "description" : "DAUTO",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "57023-4",
+        "description" : "Auto Differential panel Bld - Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "COV19T",
+        "description" : "COV19T",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "94500-6",
+        "description" : "SARS coronavirus 2 RNA Respiratory System Specimen PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "CMP",
+        "description" : "CMP",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "24323-8",
+        "description" : "Comprehensive metabolic 2000 panel Ser/Plas - Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "CBCA",
+        "description" : "CBCA",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "58410-2",
+        "description" : "Complete blood count panel Bld - Pt - Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "CBC",
+        "description" : "CBC",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "58410-2",
+        "description" : "Complete blood count panel Bld - Pt - Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "CAPTH",
+        "description" : "CAPTH",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "17861-6",
+        "description" : "Calcium Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "BMP",
+        "description" : "BMP",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "70219-1",
+        "description" : "Basic metabolic 2008 panel with ionized calcium Ser/Plas - Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "94500-6",
+        "description" : "CV19A1",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "94500-6",
+        "description" : "SARS coronavirus 2 RNA Respiratory System Specimen PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "9318-7",
+        "description" : "ALBCRE",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "9318-7",
+        "description" : "Albumin/Creatinine Urine MRto Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "9279-1",
+        "description" : "Resp rate",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "9279-1",
+        "description" : "Breaths Respiratory system NRat Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "8867-4",
+        "description" : "Heart rate",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "8867-4",
+        "description" : "Heart rate NRat Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "8480-6",
+        "description" : "BP sys",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "8480-6",
+        "description" : "Intravascular systolic Arterial system Pres Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "8478-0",
+        "description" : "BP mean",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "8478-0",
+        "description" : "Intravascular mean Arterial system Pres Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "8462-4",
+        "description" : "BP dias",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "8462-4",
+        "description" : "Intravascular diastolic Arterial system Pres Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "8310-5",
+        "description" : "Body temperature",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "8310-5",
+        "description" : "Body temperature Patient Temp Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "8302-2",
+        "description" : "Body Height",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "8302-2",
+        "description" : "Body height Patient Len Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "789-8",
+        "description" : "RBC",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "789-8",
+        "description" : "Erythrocytes Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "788-0",
+        "description" : "RDW",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "788-0",
+        "description" : "Erythrocyte distribution width RBC Ratio Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "787-2",
+        "description" : "MCV",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "787-2",
+        "description" : "Erythrocyte mean corpuscular volume RBC EntVol Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "786-4",
+        "description" : "MCHC",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "786-4",
+        "description" : "Erythrocyte mean corpuscular hemoglobin concentration RBC MCnc Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "785-6",
+        "description" : "MCH",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "785-6",
+        "description" : "Erythrocyte mean corpuscular hemoglobin RBC EntMass Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "777-3",
+        "description" : "PLT",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "777-3",
+        "description" : "Platelets Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "770-8",
+        "description" : "NEUTP",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "770-8",
+        "description" : "Neutrophils/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "751-8",
+        "description" : "NEUTA",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "751-8",
+        "description" : "Neutrophils Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "74774-1",
+        "description" : "GLU",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "74774-1",
+        "description" : "Glucose Ser/Plas/Bld MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "742-7",
+        "description" : "MONOA",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "742-7",
+        "description" : "Monocytes Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "736-9",
+        "description" : "LYMA",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "736-9",
+        "description" : "Lymphocytes/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "731-0",
+        "description" : "LYMPHA",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "731-0",
+        "description" : "Lymphocytes Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "718-7",
+        "description" : "HGB",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "718-7",
+        "description" : "Hemoglobin Bld MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "711-2",
+        "description" : "Eosinophil # Bld Auto",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "711-2",
+        "description" : "Eosinophils Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "704-7",
+        "description" : "Basophils # Bld Auto",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "704-7",
+        "description" : "Basophils Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "703516",
+        "description" : "Diastolic Blood Pressure",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "8462-4",
+        "description" : "Intravascular diastolic Arterial system Pres Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "6768-6",
+        "description" : "ALP SerPl-cCnc",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "6768-6",
+        "description" : "Alkaline phosphatase Ser/Plas CCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "6690-2",
+        "description" : "WBC",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "6690-2",
+        "description" : "Leukocytes Bld NCnc Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "5905-5",
+        "description" : "MONOP",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "5905-5",
+        "description" : "Monocytes/100 leukocytes Bld NFr Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "5821-4",
+        "description" : "WBCUR",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "5821-4",
+        "description" : "Leukocytes Urine sed Naric Pt Qn Microscopy.light.HPF",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "5797-6",
+        "description" : "Ketones Ur Strip-mCnc",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "5797-6",
+        "description" : "Ketones Urine MCnc Pt SemiQn Test strip",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "5794-3",
+        "description" : "Hgb Ur Ql Strip",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "5794-3",
+        "description" : "Hemoglobin Urine PrThr Pt Ord Test strip",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "5792-7",
+        "description" : "Glucose Ur Strip-mCnc",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "5792-7",
+        "description" : "Glucose Urine MCnc Pt SemiQn Test strip",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "4548-4",
+        "description" : "A1C",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "4548-4",
+        "description" : "Hemoglobin A1c/Hemoglobin.total Bld MFr Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "41276-7",
+        "description" : "ANGAP",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "41276-7",
+        "description" : "Anion gap Bld SCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "39156-5",
+        "description" : "BMI",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "39156-5",
+        "description" : "Body mass index Patient Ratio Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "33914-3",
+        "description" : "GFR",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "33914-3",
+        "description" : "Glomerular filtration rate/1.73 sq M.predicted Ser/Plas ArVRat Pt Qn Creatinine-based formula (MDRD)",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "32623-1",
+        "description" : "MPV",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "32623-1",
+        "description" : "Platelet mean volume Bld EntVol Pt Qn Automated count",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "3137-7",
+        "description" : "Bdy height Measured",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "3137-7",
+        "description" : "Body height Patient Len Pt Qn Measured",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "3094-0",
+        "description" : "BUN",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "3094-0",
+        "description" : "Urea nitrogen Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "3087-4",
+        "description" : "Urate:MRat:24H:Urine:Qn",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "3087-4",
+        "description" : "Urate Urine MRat 24H Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "3084-1",
+        "description" : "Urate:MCnc:Pt:Ser/Plas:Qn",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "3084-1",
+        "description" : "Urate Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2965-2",
+        "description" : "SGUDS",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2965-2",
+        "description" : "Specific gravity Urine Rden Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2951-2",
+        "description" : "NA",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2951-2",
+        "description" : "Sodium Ser/Plas SCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "29463-7",
+        "description" : "Weight",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "29463-7",
+        "description" : "Body weight Patient Mass Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2885-2",
+        "description" : "PR",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2885-2",
+        "description" : "Protein Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2857-1",
+        "description" : "PSA SerPl-mCnc",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2857-1",
+        "description" : "Prostate specific Ag Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2823-3",
+        "description" : "K",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2823-3",
+        "description" : "Potassium Ser/Plas SCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "27353-2",
+        "description" : "Est. average glucose Bld gHb Est-mCnc",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "27353-2",
+        "description" : "Estimated average glucose Bld MCnc Pt Qn Estimated from glycated hemoglobin",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2571-8",
+        "description" : "TRIG",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2571-8",
+        "description" : "Triglyceride Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2502-3",
+        "description" : "ISAT",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2502-3",
+        "description" : "Iron saturation Ser/Plas MFr Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2500-7",
+        "description" : "TIBC",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2500-7",
+        "description" : "Iron binding capacity Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2498-4",
+        "description" : "IRON",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2498-4",
+        "description" : "Iron Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2276-4",
+        "description" : "FER",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2276-4",
+        "description" : "Ferritin Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2162-6",
+        "description" : "Creat 24h Ur-mRate",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2162-6",
+        "description" : "Creatinine Urine MRat 24H Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2160-0",
+        "description" : "CR",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2160-0",
+        "description" : "Creatinine Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "21587-1",
+        "description" : "Urate:MCnc:24H:Urine:Qn",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "21587-1",
+        "description" : "Urate Urine MCnc 24H Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2093-3",
+        "description" : "CHOL",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2093-3",
+        "description" : "Cholesterol Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2085-9",
+        "description" : "HDL",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2085-9",
+        "description" : "Cholesterol.in HDL Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2075-0",
+        "description" : "CL",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2075-0",
+        "description" : "Chloride Ser/Plas SCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "20570-8",
+        "description" : "HCT",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "20570-8",
+        "description" : "Hematocrit Bld VFr Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2028-9",
+        "description" : "CO2",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "2028-9",
+        "description" : "Carbon dioxide Ser/Plas SCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "1975-2",
+        "description" : "BILTDA",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "1975-2",
+        "description" : "Bilirubin Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "1920-8",
+        "description" : "AST",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "1920-8",
+        "description" : "Aspartate aminotransferase Ser/Plas CCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "17861-6",
+        "description" : "CA",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "17861-6",
+        "description" : "Calcium Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "1754-1",
+        "description" : "ALBAU",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "1754-1",
+        "description" : "Albumin Urine MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "1751-7",
+        "description" : "ALB",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "1751-7",
+        "description" : "Albumin Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "1742-6",
+        "description" : "ALT",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "1742-6",
+        "description" : "Alanine aminotransferase Ser/Plas CCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "13945-1",
+        "description" : "RBCUR",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "13945-1",
+        "description" : "Erythrocytes Urine sed Naric Pt Qn Microscopy.light.HPF",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "13457-7",
+        "description" : "LDL",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "13457-7",
+        "description" : "Cholesterol.in LDL Ser/Plas MCnc Pt Qn Calculated",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "10466-1",
+        "description" : "AGAP",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "10466-1",
+        "description" : "Anion gap 3 Ser/Plas SCnc Pt Qn",
+        "system" : "loinc"
+      }
+    } ]
+  }
+}
