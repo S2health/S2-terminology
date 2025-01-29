@@ -1,0 +1,539 @@
+{
+  "id" : "s2.cypress_snomed_ct_extension",
+  "creationDate" : "2025-01-29T16:19:43-0500",
+  "source" : "symedical",
+  "map" : {
+    "mapId" : "cypress_snomed_ct_extension",
+    "sourceSystem" : "cypress",
+    "targetSystem" : "snomed",
+    "members" : [ {
+      "source" : {
+        "code" : "ug/dL",
+        "description" : "ug/dL",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258800008",
+        "description" : "ug/dL",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "U/L",
+        "description" : "U/L",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258947003",
+        "description" : "U/L",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "pg",
+        "description" : "pg",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258687006",
+        "description" : "pg",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "ng/mL",
+        "description" : "ng/mL",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258806002",
+        "description" : "ng/mL",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "mmol/L",
+        "description" : "mmol/L",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258813002",
+        "description" : "mmol/L",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "mm[Hg]",
+        "description" : "mm[Hg]",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258673006",
+        "description" : "mm",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "mL/min/1.73 sq m",
+        "description" : "mL/min/1.73 sq m",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "419236008",
+        "description" : "mL/min/SA",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "mg/g Cre",
+        "description" : "mg/g Cre",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258927006",
+        "description" : "Milligram per gram of creatinine",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "mg/dL",
+        "description" : "mg/dL",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258797006",
+        "description" : "mg/dL",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "mg/d",
+        "description" : "mg/d",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258835005",
+        "description" : "mg/day",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "M/uL",
+        "description" : "M/uL",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "1287853001",
+        "description" : "x10^6/microliter",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "L",
+        "description" : "L",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "420296000",
+        "description" : "l",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "kg/m^2",
+        "description" : "kg/m^2",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258896009",
+        "description" : "kg/sq. m",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "kg",
+        "description" : "kg",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258683005",
+        "description" : "kg",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "K/uL",
+        "description" : "K/uL",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "1287856009",
+        "description" : "x10^3/microliter",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "H",
+        "description" : "H",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "257988000",
+        "description" : "h",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "g/dL",
+        "description" : "g/dL",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258795003",
+        "description" : "g/dL",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "g/(24.h)",
+        "description" : "g/(24.h)",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258682000",
+        "description" : "g",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "fL",
+        "description" : "fL",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258775009",
+        "description" : "fL",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "d00301",
+        "description" : "midazolam (mida2anes)",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "373476007",
+        "description" : "Midazolam",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "cm",
+        "description" : "cm",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258672001",
+        "description" : "cm",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "Cel",
+        "description" : "Cel",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258710007",
+        "description" : "degrees C",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "89331010",
+        "description" : "Coronary artery disease",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "53741008",
+        "description" : "Coronary arteriosclerosis",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "81429015",
+        "description" : "Bradycardia",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "48867003",
+        "description" : "Bradycardia",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "80201014",
+        "description" : "Hypogonadism",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "48130008",
+        "description" : "Hypogonadism",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "51969018",
+        "description" : "Ureteral stone",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "31054009",
+        "description" : "Ureteric stone",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "485846015",
+        "description" : "Hematuria",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "34436003",
+        "description" : "Blood in urine",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "4573660018",
+        "description" : "History of implantation of penile prosthesis",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "1156320004",
+        "description" : "History of implantation of penile prosthesis",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "442185015",
+        "description" : "Normocytic anemia",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "300980002",
+        "description" : "Normocytic anemia",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "396731012",
+        "description" : "Benign prostatic hypertrophy",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "266569009",
+        "description" : "Benign prostatic hyperplasia",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "3902357013",
+        "description" : "Disease caused by 2019 novel coronavirus",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "840539006",
+        "description" : "COVID-19",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "353815010",
+        "description" : "Incisional hernia",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "236037000",
+        "description" : "Incisional hernia",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "3039369013",
+        "description" : "History of radical prostatectomy",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "690511000119109",
+        "description" : "History of radical prostatectomy",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "2691800013",
+        "description" : "History of adenomatous polyp of colon",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "429047008",
+        "description" : "History of adenomatous polyp of colon",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "221079019",
+        "description" : "Nocturia",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "139394000",
+        "description" : "Nocturia",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "16976011",
+        "description" : "Prostatitis",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "9713002",
+        "description" : "Prostatitis",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "158296018",
+        "description" : "Kidney stones",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "95570007",
+        "description" : "Kidney stone",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "139690015",
+        "description" : "Fatigue",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "84229001",
+        "description" : "Fatigue",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "129889015",
+        "description" : "Obstructive sleep apnea syndrome",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "78275009",
+        "description" : "Obstructive sleep apnea syndrome",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "123",
+        "description" : "mmHg",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "259018001",
+        "description" : "mmHg",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "1215744012",
+        "description" : "Hypertension",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "38341003",
+        "description" : "Hypertensive disorder",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "1209706018",
+        "description" : "Dyslipidemia",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "370992007",
+        "description" : "Dyslipidemia",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "116509010",
+        "description" : "Hemorrhoid",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "70153002",
+        "description" : "Hemorrhoids",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "113765010",
+        "description" : "Colonic polyp",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "68496003",
+        "description" : "Polyp of colon",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "10*3/uL",
+        "description" : "10*3/uL",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "1287856009",
+        "description" : "x10^3/microliter",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "%",
+        "description" : "%",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "118582008",
+        "description" : "Percent",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "/min",
+        "description" : "/min",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "1156209001",
+        "description" : "minute",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "/hpf",
+        "description" : "/hpf",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "259034003",
+        "description" : "/HPF",
+        "system" : "snomed"
+      }
+    } ]
+  }
+}

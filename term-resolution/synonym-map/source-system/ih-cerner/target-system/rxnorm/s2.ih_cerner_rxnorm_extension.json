@@ -1,0 +1,1562 @@
+{
+  "id" : "s2.ih_cerner_rxnorm_extension",
+  "creationDate" : "2025-01-29T16:22:36-0500",
+  "source" : "symedical",
+  "map" : {
+    "mapId" : "ih_cerner_rxnorm_extension",
+    "sourceSystem" : "ih-cerner",
+    "targetSystem" : "rxnorm",
+    "members" : [ {
+      "source" : {
+        "code" : "993770",
+        "description" : "Acetaminophen 300 MG / Codeine Phosphate 15 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "993770",
+        "description" : "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "979492",
+        "description" : "losartan potassium 50 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "979492",
+        "description" : "losartan potassium 50 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "978950",
+        "description" : "Natazia 28 Day Pack",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "978950",
+        "description" : "{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Natazia 28 Day]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "904419",
+        "description" : "Alendronic acid 10 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "904419",
+        "description" : "alendronic acid 10 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "896209",
+        "description" : "60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "896209",
+        "description" : "60 ACTUAT fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "895994",
+        "description" : "120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "895994",
+        "description" : "120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "861467",
+        "description" : "Meperidine Hydrochloride 50 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "861467",
+        "description" : "meperidine hydrochloride 50 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "857005",
+        "description" : "Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "857005",
+        "description" : "acetaminophen 325 MG / hydrocodone bitartrate 7.5 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "856987",
+        "description" : "Acetaminophen 300 MG / Hydrocodone Bitartrate 5 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "856987",
+        "description" : "acetaminophen 300 MG / hydrocodone bitartrate 5 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "849574",
+        "description" : "Naproxen sodium 220 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "849574",
+        "description" : "naproxen sodium 220 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "835603",
+        "description" : "tramadol hydrochloride 50 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "835603",
+        "description" : "tramadol hydrochloride 50 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "834357",
+        "description" : "3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "834357",
+        "description" : "3 ML amiodarone hydrochloride 50 MG/ML Prefilled Syringe",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "834102",
+        "description" : "Penicillin V Potassium 500 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "834102",
+        "description" : "penicillin V potassium 500 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "834101",
+        "description" : "Penicillin V Potassium 500 MG",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "834101",
+        "description" : "penicillin V potassium 500 MG",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "834061",
+        "description" : "Penicillin V Potassium 250 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "834061",
+        "description" : "penicillin V potassium 250 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "834060",
+        "description" : "Penicillin V Potassium 250 MG",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "834060",
+        "description" : "penicillin V potassium 250 MG",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "833036",
+        "description" : "Captopril 25 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "317173",
+        "description" : "captopril 25 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "831533",
+        "description" : "Errin 28 Day Pack",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "831533",
+        "description" : "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "807283",
+        "description" : "Mirena 52 MG Intrauterine System",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "807283",
+        "description" : "levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "757594",
+        "description" : "Jolivette 28 Day Pack",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "757594",
+        "description" : "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "752899",
+        "description" : "0.25 ML Leuprolide Acetate 30 MG/ML Prefilled Syringe",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "752899",
+        "description" : "0.25 ML leuprolide acetate 30 MG/ML Prefilled Syringe",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "751905",
+        "description" : "Trinessa 28 Day Pack",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "751905",
+        "description" : "{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Trinessa 28 Day]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "749882",
+        "description" : "Norinyl 1+50 28 Day Pack",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "749882",
+        "description" : "{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "749785",
+        "description" : "Ortho Tri-Cyclen 28 Day Pack",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "749785",
+        "description" : "{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Ortho Tri-Cyclen 28 Day]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "749762",
+        "description" : "Seasonique 91 Day Pack",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "749762",
+        "description" : "{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "748962",
+        "description" : "Camila 28 Day Pack",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "748962",
+        "description" : "{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "748879",
+        "description" : "Levora 0.15/30 28 Day Pack",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "748879",
+        "description" : "{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "748856",
+        "description" : "Yaz 28 Day Pack",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "748856",
+        "description" : "{24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "705129",
+        "description" : "Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "705129",
+        "description" : "nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "665078",
+        "description" : "Loratadine 5 MG Chewable Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "665078",
+        "description" : "loratadine 5 MG Chewable Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "608680",
+        "description" : "Acetaminophen 160 MG",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "315253",
+        "description" : "acetaminophen 160 MG",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "583214",
+        "description" : "Paclitaxel 100 MG Injection",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "583214",
+        "description" : "paclitaxel 100 MG Injection",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "564666",
+        "description" : "Nitroglycerin 0.4 MG/ACTUAT [Nitrolingual]",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "564666",
+        "description" : "nitroglycerin 0.4 MG/ACTUAT [Nitrolingual]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "562251",
+        "description" : "Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "562251",
+        "description" : "amoxicillin 250 MG / clavulanate 125 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "477045",
+        "description" : "Chlorpheniramine Maleate 2 MG/ML Oral Solution",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "477045",
+        "description" : "chlorpheniramine maleate 2 MG/ML Oral Solution",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "389221",
+        "description" : "Etonogestrel 68 MG Drug Implant",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "389221",
+        "description" : "etonogestrel 68 MG Drug Implant",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "314231",
+        "description" : "Simvastatin 10 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "314231",
+        "description" : "simvastatin 10 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "314077",
+        "description" : "lisinopril 20 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "314077",
+        "description" : "lisinopril 20 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "314076",
+        "description" : "lisinopril 10 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "314076",
+        "description" : "lisinopril 10 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "313988",
+        "description" : "Furosemide 40 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "313988",
+        "description" : "furosemide 40 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "313820",
+        "description" : "Acetaminophen 160 MG Chewable Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "313820",
+        "description" : "acetaminophen 160 MG Chewable Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "313782",
+        "description" : "Acetaminophen 325 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "313782",
+        "description" : "acetaminophen 325 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "312961",
+        "description" : "Simvastatin 20 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "312961",
+        "description" : "simvastatin 20 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "312617",
+        "description" : "predniSONE 5 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "312617",
+        "description" : "prednisone 5 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "311989",
+        "description" : "Nitrofurantoin 5 MG/ML Oral Suspension",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "311989",
+        "description" : "nitrofurantoin 5 MG/ML Oral Suspension",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "310965",
+        "description" : "Ibuprofen 200 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "310965",
+        "description" : "ibuprofen 200 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "310798",
+        "description" : "Hydrochlorothiazide 25 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "310798",
+        "description" : "hydrochlorothiazide 25 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "310325",
+        "description" : "ferrous sulfate 325 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "310325",
+        "description" : "ferrous sulfate 325 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "309362",
+        "description" : "Clopidogrel 75 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "309362",
+        "description" : "clopidogrel 75 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "309097",
+        "description" : "Cefuroxime 250 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "309097",
+        "description" : "cefuroxime 250 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "308971",
+        "description" : "Carbamazepine[Tegretol]",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2002",
+        "description" : "carbamazepine",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "308192",
+        "description" : "Amoxicillin 500 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "308192",
+        "description" : "amoxicillin 500 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "308182",
+        "description" : "Amoxicillin 250 MG Oral Capsule",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "308182",
+        "description" : "amoxicillin 250 MG Oral Capsule",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "308136",
+        "description" : "amLODIPine 2.5 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "308136",
+        "description" : "amlodipine 2.5 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2678930",
+        "description" : "sotatercept",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2678930",
+        "description" : "sotatercept",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2677894",
+        "description" : "resmetirom",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2677894",
+        "description" : "resmetirom",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2677789",
+        "description" : "pemivibart",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2677789",
+        "description" : "pemivibart",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2670554",
+        "description" : "meningococcal group B vaccine / Neisseria meningitidis serogroup A capsular polysaccharide tetanus toxoid protein conjugate vaccine / Neisseria meningitidis serogroup C capsular polysaccharide tetanus toxoid protein conjugate vaccine / Neisseria meningiti",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2670554",
+        "description" : "meningococcal group B vaccine / Neisseria meningitidis serogroup A capsular polysaccharide tetanus toxoid protein conjugate vaccine / Neisseria meningitidis serogroup C capsular polysaccharide tetanus toxoid protein conjugate vaccine / Neisseria meningitidis serogroup W-135 capsular polysaccharide tetanus toxoid protein conjugate vaccine / Neisseria meningitidis serogroup Y capsular polysaccharide tetanus toxoid protein conjugate vaccine",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2670285",
+        "description" : "ADAMTS13, recombinant",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2670285",
+        "description" : "ADAMTS13, recombinant",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2670179",
+        "description" : "fruquintinib",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2670179",
+        "description" : "fruquintinib",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2669406",
+        "description" : "toripalimab",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2669406",
+        "description" : "toripalimab",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2668384",
+        "description" : "mirikizumab",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2668384",
+        "description" : "mirikizumab",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2668193",
+        "description" : "adapalene / benzoyl peroxide / clindamycin",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2668193",
+        "description" : "adapalene / benzoyl peroxide / clindamycin",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2667433",
+        "description" : "cipaglucosidase alfa",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2667433",
+        "description" : "cipaglucosidase alfa",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2665204",
+        "description" : "momelotinib",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2665204",
+        "description" : "momelotinib",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2644447",
+        "description" : "talquetamab",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2644447",
+        "description" : "talquetamab",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2644436",
+        "description" : "nadofaragene firadenovec",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2644436",
+        "description" : "nadofaragene firadenovec",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2641675",
+        "description" : "delandistrogene moxeparvovec",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2641675",
+        "description" : "delandistrogene moxeparvovec",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2641595",
+        "description" : "ritlecitinib",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2641595",
+        "description" : "ritlecitinib",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2639948",
+        "description" : "efgartigimod alfa / hyaluronidase",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2639948",
+        "description" : "efgartigimod alfa / hyaluronidase",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2639782",
+        "description" : "glofitamab",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2639782",
+        "description" : "glofitamab",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2639155",
+        "description" : "rezafungin",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2639155",
+        "description" : "rezafungin",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2638675",
+        "description" : "sotagliflozin",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2638675",
+        "description" : "sotagliflozin",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2637446",
+        "description" : "pegunigalsidase alfa",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2637446",
+        "description" : "pegunigalsidase alfa",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "263744",
+        "description" : "pegunigalsidase alfa",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2637446",
+        "description" : "pegunigalsidase alfa",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2637392",
+        "description" : "epcoritamab",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2637392",
+        "description" : "epcoritamab",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2637134",
+        "description" : "fezolinetant",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2637134",
+        "description" : "fezolinetant",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2633005",
+        "description" : "leniolisib",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2633005",
+        "description" : "leniolisib",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2632852",
+        "description" : "trofinetide",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2632852",
+        "description" : "trofinetide",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2632021",
+        "description" : "albuterol / budesonide",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2632021",
+        "description" : "albuterol / budesonide",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2631931",
+        "description" : "omaveloxolone",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2631931",
+        "description" : "omaveloxolone",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2631084",
+        "description" : "antihemophilic factor (recombinant), Fc-VWF-XTEN fusion protein",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2631084",
+        "description" : "antihemophilic factor (recombinant), Fc-VWF-XTEN fusion protein",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2630535",
+        "description" : "sparsentan",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2630535",
+        "description" : "sparsentan",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2629338",
+        "description" : "pirtobrutinib",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2629338",
+        "description" : "pirtobrutinib",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2628469",
+        "description" : "elacestrant",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2628469",
+        "description" : "elacestrant",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2628190",
+        "description" : "futibatinib",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2628190",
+        "description" : "futibatinib",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2627044",
+        "description" : "bexagliflozin",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2627044",
+        "description" : "bexagliflozin",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2626724",
+        "description" : "fecal microbiota, live",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2626724",
+        "description" : "fecal microbiota, live",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2626349",
+        "description" : "ublituximab",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2626349",
+        "description" : "ublituximab",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2626143",
+        "description" : "lecanemab",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2626143",
+        "description" : "lecanemab",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2625882",
+        "description" : "adagrasib",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2625882",
+        "description" : "adagrasib",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2621548",
+        "description" : "mirvetuximab soravtansine",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2621548",
+        "description" : "mirvetuximab soravtansine",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2619426",
+        "description" : "teclistamab",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2619426",
+        "description" : "teclistamab",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2619313",
+        "description" : "tremelimumab",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2619313",
+        "description" : "tremelimumab",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2611256",
+        "description" : "bupropion / dextromethorphan",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2611256",
+        "description" : "bupropion / dextromethorphan",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2610417",
+        "description" : "spesolimab",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2610417",
+        "description" : "spesolimab",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2604689",
+        "description" : "ganaxolone",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2604689",
+        "description" : "ganaxolone",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2604577",
+        "description" : "vonoprazan",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2604577",
+        "description" : "vonoprazan",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2603505",
+        "description" : "measles virus vaccine live, attenuated Schwarz strain / mumps virus vaccine live, Jeryl Lynn strain / rubella virus vaccine live (Wistar RA 27-3 strain)",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2603505",
+        "description" : "measles virus vaccine live, attenuated Schwarz strain / mumps virus vaccine live, Jeryl Lynn strain / rubella virus vaccine live (Wistar RA 27-3 strain)",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2602286",
+        "description" : "tapinarof",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2602286",
+        "description" : "tapinarof",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2601723",
+        "description" : "tirzepatide",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2601723",
+        "description" : "tirzepatide",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2600867",
+        "description" : "mavacamten",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2600867",
+        "description" : "mavacamten",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "259255",
+        "description" : "Atorvastatin 80 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "259255",
+        "description" : "atorvastatin 80 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "245314",
+        "description" : "albuterol 5 MG/ML Inhalation Solution",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "245314",
+        "description" : "albuterol 5 MG/ML Inhalation Solution",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "243670",
+        "description" : "Aspirin 81 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "243670",
+        "description" : "aspirin 81 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "242969",
+        "description" : "4 ML norepinephrine 1 MG/ML Injection",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "242969",
+        "description" : "4 ML norepinephrine 1 MG/ML Injection",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2123111",
+        "description" : "NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2123111",
+        "description" : "NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "209387",
+        "description" : "Acetaminophen 325 MG Oral Tablet [Tylenol]",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "209387",
+        "description" : "acetaminophen 325 MG Oral Tablet [Tylenol]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "206905",
+        "description" : "Ibuprofen 400 MG Oral Tablet [Ibu]",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "206905",
+        "description" : "ibuprofen 400 MG Oral Tablet [Ibu]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "205532",
+        "description" : "Pulmozyme (Dornase Alfa)",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "74704",
+        "description" : "Pulmozyme",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "204892",
+        "description" : "clonazePAM 0.25 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "204892",
+        "description" : "clonazepam 0.25 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "2001499",
+        "description" : "Vitamin B 12 5 MG/ML Injectable Solution",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2001499",
+        "description" : "vitamin B12 5 MG/ML Injectable Solution",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "200033",
+        "description" : "carvedilol 25 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "200033",
+        "description" : "carvedilol 25 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "199224",
+        "description" : "anastrozole 1 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "199224",
+        "description" : "anastrozole 1 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "198767",
+        "description" : "Pancreatin 600 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "198767",
+        "description" : "pancreatin 600 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "198405",
+        "description" : "Ibuprofen 100 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "198405",
+        "description" : "ibuprofen 100 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "197591",
+        "description" : "Diazepam 5 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "197591",
+        "description" : "diazepam 5 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "197361",
+        "description" : "Amlodipine 5 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "197361",
+        "description" : "amlodipine 5 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1946840",
+        "description" : "Verzenio 100 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1946840",
+        "description" : "abemaciclib 100 MG Oral Tablet [Verzenio]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1870230",
+        "description" : "NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1870230",
+        "description" : "NDA020800 0.3 ML epinephrine 1 MG/ML Auto-Injector",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1860491",
+        "description" : "12 HR Hydrocodone Bitartrate 10 MG Extended Release Oral Capsule",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1860491",
+        "description" : "12 HR hydrocodone bitartrate 10 MG Extended Release Oral Capsule",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1860480",
+        "description" : "1 ML DOCEtaxel 20 MG/ML Injection",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1860480",
+        "description" : "1 ML docetaxel 20 MG/ML Injection",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1860154",
+        "description" : "Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1860154",
+        "description" : "Abuse-Deterrent 12 HR oxycodone hydrochloride 15 MG Extended Release Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1856546",
+        "description" : "Kyleena 19.5 MG Intrauterine System",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1856546",
+        "description" : "levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1807510",
+        "description" : "150 ML vancomycin 5 MG/ML Injection",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1807510",
+        "description" : "150 ML vancomycin 5 MG/ML Injection",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1804799",
+        "description" : "Alteplase 100 MG Injection",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1804799",
+        "description" : "alteplase 100 MG Injection",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1719286",
+        "description" : "10 ML Furosemide 10 MG/ML Injection",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1719286",
+        "description" : "10 ML furosemide 10 MG/ML Injection",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1660014",
+        "description" : "1 ML Epinephrine 1 MG/ML Injection",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1660014",
+        "description" : "1 ML epinephrine 1 MG/ML Injection",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1659131",
+        "description" : "piperacillin 2000 MG / tazobactam 250 MG Injection",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1659131",
+        "description" : "piperacillin 2000 MG / tazobactam 250 MG Injection",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1656354",
+        "description" : "sacubitril 97 MG / valsartan 103 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1656354",
+        "description" : "sacubitril 97 MG / valsartan 103 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1605257",
+        "description" : "Liletta 52 MG Intrauterine System",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1605257",
+        "description" : "levonorgestrel 0.000813 MG/HR Intrauterine System [Liletta]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1534809",
+        "description" : "168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1534809",
+        "description" : "168 HR ethinyl estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1190795",
+        "description" : "Atropine Sulfate 1 MG/ML Injectable Solution",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1668034",
+        "description" : "atropine sulfate 1 MG/ML Injection",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1094107",
+        "description" : "Phenazopyridine hydrochloride 100 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1094107",
+        "description" : "phenazopyridine hydrochloride 100 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "106258",
+        "description" : "Hydrocortisone 10 MG/ML Topical Cream",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "106258",
+        "description" : "hydrocortisone 10 MG/ML Topical Cream",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1049630",
+        "description" : "diphenhydrAMINE Hydrochloride 25 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1049630",
+        "description" : "diphenhydramine hydrochloride 25 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1049625",
+        "description" : "Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet]",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1049625",
+        "description" : "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet [Percocet]",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1049221",
+        "description" : "Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1049221",
+        "description" : "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1043400",
+        "description" : "Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1043400",
+        "description" : "acetaminophen 21.7 MG/ML / dextromethorphan hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1014676",
+        "description" : "cetirizine hydrochloride 5 MG Oral Tablet",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1014676",
+        "description" : "cetirizine hydrochloride 5 MG Oral Tablet",
+        "system" : "rxnorm"
+      }
+    }, {
+      "source" : {
+        "code" : "1000126",
+        "description" : "1 ML medroxyprogesterone acetate 150 MG/ML Injection",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1000126",
+        "description" : "1 ML medroxyprogesterone acetate 150 MG/ML Injection",
+        "system" : "rxnorm"
+      }
+    } ]
+  }
+}
