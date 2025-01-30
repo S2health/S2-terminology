@@ -1,0 +1,319 @@
+{
+  "id" : "s2.ReligiousAffiliation",
+  "creationDate" : "2025-01-30T13:44:06-0500",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "ReligiousAffiliation",
+    "description" : "Religious affiliation",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "427963008",
+      "description" : "Advaitin Hindu, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "160567004",
+      "description" : "Agnostic",
+      "system" : "snomed"
+    }, {
+      "code" : "428815009",
+      "description" : "Ahmadi, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428315004",
+      "description" : "Anabaptist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "271448006",
+      "description" : "Anglican",
+      "system" : "snomed"
+    }, {
+      "code" : "444870008",
+      "description" : "Apostolic Pentecostalist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428816005",
+      "description" : "Armenian Catholic, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428347009",
+      "description" : "Arya Samaj Hindu, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "81706006",
+      "description" : "Ashkenazi Jew, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "160542002",
+      "description" : "Atheist",
+      "system" : "snomed"
+    }, {
+      "code" : "429732005",
+      "description" : "Baha'i, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "160557009",
+      "description" : "Baptist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "309687009",
+      "description" : "Buddhist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429539003",
+      "description" : "Calvinist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "160566008",
+      "description" : "Christadelphian, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "160544001",
+      "description" : "Christian Scientist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428504005",
+      "description" : "Christian Spiritualist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "160549006",
+      "description" : "Christian, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "224080001",
+      "description" : "Committed Christian, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "427874000",
+      "description" : "Congregationalist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428373004",
+      "description" : "Coptic Orthodox, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428506007",
+      "description" : "Druid, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428376007",
+      "description" : "Eastern Catholic, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "427729003",
+      "description" : "Elim Pentecostalist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428378008",
+      "description" : "Ethiopian Orthodox Tewahedo, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "160563000",
+      "description" : "Evangelist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429158002",
+      "description" : "Greek Orthodox",
+      "system" : "snomed"
+    }, {
+      "code" : "427950002",
+      "description" : "Haredi Jew, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "360984002",
+      "description" : "Hasidic Jew, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "160545000",
+      "description" : "Hindu, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428801007",
+      "description" : "Ismaili Muslim, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429787006",
+      "description" : "Jain, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "80587008",
+      "description" : "Jehovah's Witness, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "160543007",
+      "description" : "Jewish, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "427754003",
+      "description" : "Liberal Jew, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "427755002",
+      "description" : "Lutheran, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429533002",
+      "description" : "Mahayana Buddhist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429534008",
+      "description" : "Masorti Jew, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "160558004",
+      "description" : "Methodist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "309884000",
+      "description" : "Muslim, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429527006",
+      "description" : "New Kadampa Tradition Buddhist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428666001",
+      "description" : "Nichiren Buddhist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "276119007",
+      "description" : "Nonconformist",
+      "system" : "snomed"
+    }, {
+      "code" : "715167002",
+      "description" : "Open Episcopal Church, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428503004",
+      "description" : "Orthodox Christian, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429644000",
+      "description" : "Orthodox Jew, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "160562005",
+      "description" : "Pentecostalist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "160560002",
+      "description" : "Presbyterian, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "309885004",
+      "description" : "Protestant, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428820009",
+      "description" : "Pure Land Buddhist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "309886003",
+      "description" : "Quaker, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "248544006",
+      "description" : "Rastafarian, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429509008",
+      "description" : "Reform Jew, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "160540005",
+      "description" : "Roman Catholic, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429544005",
+      "description" : "Russian Orthodox, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "160234004",
+      "description" : "Salvation Army member",
+      "system" : "snomed"
+    }, {
+      "code" : "429545006",
+      "description" : "Sanatana Dharma, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "51616000",
+      "description" : "Sephardic Jew, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428821008",
+      "description" : "Seventh Day Adventist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428410008",
+      "description" : "Shakti Hindu, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "28010004",
+      "description" : "Shiite muslim, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429547003",
+      "description" : "Shinto, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429379008",
+      "description" : "Shiva Hindu, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "366740002",
+      "description" : "Sikh, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428620006",
+      "description" : "Smarta Hindu, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429171004",
+      "description" : "Spiritualist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "64988008",
+      "description" : "Sunni muslim, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429543004",
+      "description" : "Taoist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428407001",
+      "description" : "Theravada Buddhist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428496003",
+      "description" : "Tibetan Buddhist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429708003",
+      "description" : "Unitarian, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429511004",
+      "description" : "Vaishnava Hindu, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "18205005",
+      "description" : "Wesleyan Methodist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "428408006",
+      "description" : "Wiccan, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "427981006",
+      "description" : "Zen Buddhist, follower of religion",
+      "system" : "snomed"
+    }, {
+      "code" : "429790000",
+      "description" : "Zoroastrian, follower of religion",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 76,
+    "isComplete" : true
+  }
+}

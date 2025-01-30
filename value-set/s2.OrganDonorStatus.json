@@ -1,0 +1,23 @@
+{
+  "id" : "s2.OrganDonorStatus",
+  "creationDate" : "2025-01-30T13:44:06-0500",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "OrganDonorStatus",
+    "description" : "Organ donor status",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "161034004",
+      "description" : "Not willing to be a donor",
+      "system" : "snomed"
+    }, {
+      "code" : "105461009",
+      "description" : "Organ donor",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 2,
+    "isComplete" : true
+  }
+}
