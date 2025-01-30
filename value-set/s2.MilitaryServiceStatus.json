@@ -1,0 +1,23 @@
+{
+  "id" : "s2.MilitaryServiceStatus",
+  "creationDate" : "2025-01-30T13:44:06-0500",
+  "source" : "symedical",
+  "set" : {
+    "issuer" : "s2",
+    "code" : "MilitaryServiceStatus",
+    "description" : "Military service status",
+    "type" : "vset",
+    "system" : "snomed",
+    "members" : [ {
+      "code" : "702348006",
+      "description" : "Active duty military",
+      "system" : "snomed"
+    }, {
+      "code" : "105493001",
+      "description" : "Retired",
+      "system" : "snomed"
+    } ],
+    "totalMembers" : 2,
+    "isComplete" : true
+  }
+}
