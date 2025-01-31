@@ -128,6 +128,7 @@ s2-ENTITY-Info_node.person_structured_name.v1.0.0,ac1,http://s2health.org/id/s2.
 s2-EHR-Info_node.language.v2.0.0,ac1,http://s2health.org/id/s2.LanguageCommunicationMode
 s2-EHR-Info_node.language.v2.0.0,ac3,http://s2health.org/id/s2.LanguageProficiency
 s2-ENTITY-Party_relationship.patient.v1.1.0,ac1,http://s2health.org/id/s2.DisabilityRelatedToCare
-s2-ENTITY-Info_node.person_other_demographics-us.v0.0.1,ac1,http://s2health.org/id/s2.OrganDonorStatus
-s2-ENTITY-Info_node.person_other_demographics-us.v0.0.1,ac2,http://s2health.org/id/s2.ReligiousAffiliation
-s2-ENTITY-Info_node.person_other_demographics-us.v0.0.1,ac3,http://s2health.org/id/s2.MilitaryServiceStatus
+2-ENTITY-Person.person.v1.1.0,ac9,http://s2health.org/id/s2.OrganDonorStatus
+s2-ENTITY-Info_node.person_other_demographics-us.v0.0.1,ac0.1,http://s2health.org/id/s2.ReligiousAffiliation
+s2-ENTITY-Info_node.person_other_demographics-us.v0.0.1,ac0.2,http://s2health.org/id/s2.MilitaryServiceStatus
+s2-ENTITY-Info_node.person_other_demographics-us.v0.0.1,ac0.3,http://iso.org/code_sets/iso_3166-1-alpha2
