@@ -1,6 +1,6 @@
 {
   "id" : "s2.cypress_loinc_extension",
-  "creationDate" : "2025-01-29T16:20:16-0500",
+  "creationDate" : "2025-03-03T10:00:55-0500",
   "source" : "symedical",
   "map" : {
     "mapId" : "cypress_loinc_extension",
@@ -59,6 +59,17 @@
       "target" : {
         "code" : "1751-7",
         "description" : "Albumin Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "Systolic Blood Pressure",
+        "description" : "Systolic Blood Pressure",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "8480-6",
+        "description" : "Intravascular systolic Arterial system Pres Pt Qn",
         "system" : "loinc"
       }
     }, {
