@@ -1,6 +1,6 @@
 {
   "id" : "s2.ih_cerner_lnc_extension",
-  "creationDate" : "2025-01-29T16:20:57-0500",
+  "creationDate" : "2025-03-03T10:01:05-0500",
   "source" : "symedical",
   "map" : {
     "mapId" : "ih_cerner_lnc_extension",
@@ -1581,6 +1581,17 @@
       }
     }, {
       "source" : {
+        "code" : "703498",
+        "description" : "Oxygen Saturation",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "28642-7",
+        "description" : "Oxygen saturation BldCoA MFr Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "6883591849",
         "description" : "Egg Whole IgE",
         "system" : "ih-cerner"
@@ -2483,6 +2494,17 @@
       }
     }, {
       "source" : {
+        "code" : "55883627",
+        "description" : "Specimen Source T Cell Clonality",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "31208-2",
+        "description" : "Specimen source Prid Pt Nom",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "55883603",
         "description" : "Specimen Source Glucose",
         "system" : "ih-cerner"
@@ -2505,8 +2527,30 @@
       }
     }, {
       "source" : {
+        "code" : "55883585",
+        "description" : "Specimen Source HHV6",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "31208-2",
+        "description" : "Specimen source Prid Pt Nom",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "55883573",
         "description" : "Specimen Source OPRM1",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "31208-2",
+        "description" : "Specimen source Prid Pt Nom",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "55883567",
+        "description" : "Specimen Source B Cell Clonality",
         "system" : "ih-cerner"
       },
       "target" : {
@@ -2527,8 +2571,107 @@
       }
     }, {
       "source" : {
+        "code" : "55883543",
+        "description" : "Specimen Source CYP2D6",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "31208-2",
+        "description" : "Specimen source Prid Pt Nom",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "55883519",
+        "description" : "Specimen Source BCR ABL",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "31208-2",
+        "description" : "Specimen source Prid Pt Nom",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "55883489",
         "description" : "Specimen Source RF",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "31208-2",
+        "description" : "Specimen source Prid Pt Nom",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "55883483",
+        "description" : "Specimen Source Alpha 1 Anti Trypsin",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "31208-2",
+        "description" : "Specimen source Prid Pt Nom",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "55883477",
+        "description" : "Specimen Source HSV",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "31208-2",
+        "description" : "Specimen source Prid Pt Nom",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "55883429",
+        "description" : "Specimen Source EBVQ",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "31208-2",
+        "description" : "Specimen source Prid Pt Nom",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "55883423",
+        "description" : "Specimen Source Alpha Galact",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "31208-2",
+        "description" : "Specimen source Prid Pt Nom",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "55883411",
+        "description" : "Specimen Source Fragile X",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "31208-2",
+        "description" : "Specimen source Prid Pt Nom",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "55883399",
+        "description" : "Specimen Source HFE",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "31208-2",
+        "description" : "Specimen source Prid Pt Nom",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "55883387",
+        "description" : "Specimen Source Eosinophils Smear",
         "system" : "ih-cerner"
       },
       "target" : {
@@ -2571,6 +2714,28 @@
       }
     }, {
       "source" : {
+        "code" : "55883303",
+        "description" : "Specimen Source UGT1A1 Genotype",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "19803-6",
+        "description" : "Specimen site * Type Stdy Nar",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "55883291",
+        "description" : "Specimen Source West Nile Virus",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "31208-2",
+        "description" : "Specimen source Prid Pt Nom",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "5576815273",
         "description" : "HCV by Quant NAAT (ARUP)",
         "system" : "ih-cerner"
@@ -2589,6 +2754,17 @@
       "target" : {
         "code" : "77202-0",
         "description" : "Laboratory comment Report Txt Pt Nar",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "54419117",
+        "description" : "CSF Cell Count with Differential",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "34564-5",
+        "description" : "Cell count & Differential panel CSF - Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -2853,6 +3029,17 @@
       "target" : {
         "code" : "29463-7",
         "description" : "Body weight Patient Mass Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "53086955",
+        "description" : "Xanthochromia BF",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "12273-9",
+        "description" : "Xanthochromia Body fld PrThr Pt Ord",
         "system" : "loinc"
       }
     }, {
@@ -7268,6 +7455,17 @@
       }
     }, {
       "source" : {
+        "code" : "43570463",
+        "description" : "Zinc Level, Urine",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "30930-2",
+        "description" : "Zinc Urine MCnc Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "43570457",
         "description" : "Zinc Level, Serum or Plasma",
         "system" : "ih-cerner"
@@ -10832,6 +11030,17 @@
       }
     }, {
       "source" : {
+        "code" : "43566497",
+        "description" : "Hepatitis Panel, Acute (ARUP)",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "24363-4",
+        "description" : "Acute hepatitis 2000 panel Ser - Pt -",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "43566491",
         "description" : "Hepatitis E Virus Antibody, IgM",
         "system" : "ih-cerner"
@@ -11004,6 +11213,17 @@
       "target" : {
         "code" : "94537-8",
         "description" : "Hemoglobin panel Bld - Pt - HPLC",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "43566311",
+        "description" : "Hematocrit, Body Fluid",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "11153-4",
+        "description" : "Hematocrit Body fld VFr Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -12082,6 +12302,17 @@
       "target" : {
         "code" : "22295-0",
         "description" : "Epstein Barr virus early Ab.IgG Ser PrThr Pt Ord",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "43565065",
+        "description" : "Drugs Of Abuse 9, Meconium",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "49046-6",
+        "description" : "Drugs of abuse panel Meconium - Pt -",
         "system" : "loinc"
       }
     }, {
@@ -13175,6 +13406,39 @@
       }
     }, {
       "source" : {
+        "code" : "43563817",
+        "description" : "CSF Profile  (Protein, Glucose, Cell Cou",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "54230-8",
+        "description" : "Cell count & Differential panel with Glucose & Protein CSF - Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "43563811",
+        "description" : "CSF Differential",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "29584-0",
+        "description" : "Differential panel CSF - Pt -",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "43563805",
+        "description" : "CSF Cell Count",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "34563-7",
+        "description" : "Cell count panel CSF - Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "43563787",
         "description" : "CMV, IgG/M",
         "system" : "ih-cerner"
@@ -14132,6 +14396,17 @@
       }
     }, {
       "source" : {
+        "code" : "43562817",
+        "description" : "Alkaline Phosphatase Isoenzyme",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "12805-8",
+        "description" : "Alkaline phosphatase isoenzyme Ser/Plas ACnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "43562811",
         "description" : "Aldosterone/Renin Activity Ratio",
         "system" : "ih-cerner"
@@ -14143,6 +14418,17 @@
       }
     }, {
       "source" : {
+        "code" : "43562805",
+        "description" : "Aldosterone, Urine",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1764-0",
+        "description" : "Aldosterone Urine MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "43562799",
         "description" : "Aldosterone, Serum",
         "system" : "ih-cerner"
@@ -14150,6 +14436,17 @@
       "target" : {
         "code" : "1763-2",
         "description" : "Aldosterone Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "43562787",
+        "description" : "Albumin/Creatinine Ratio, Urine",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "32294-1",
+        "description" : "Albumin/Creatinine Urine Ratio Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -14352,6 +14649,17 @@
       }
     }, {
       "source" : {
+        "code" : "43562523",
+        "description" : "17 Hydroxycorticosteroids",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1666-7",
+        "description" : "17-Hydroxycorticosteroids Urine MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "43562517",
         "description" : "11-Deoxycorticosterone, Serum/Plasma",
         "system" : "ih-cerner"
@@ -14370,6 +14678,17 @@
       "target" : {
         "code" : "1657-6",
         "description" : "11-Deoxycortisol Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "43562505",
+        "description" : "1,3 Beta D Glucan (Fungitell)",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "62468-4",
+        "description" : "1,3 beta glucan MCnc Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -18675,6 +18994,17 @@
       }
     }, {
       "source" : {
+        "code" : "41432089",
+        "description" : "Francisella tularensis Antibody,IgM",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "7890-7",
+        "description" : "Francisella tularensis Ab.IgM Ser PrThr Pt Ord",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "41432083",
         "description" : "Amphetamine cutoff 100 ng/mL",
         "system" : "ih-cerner"
@@ -19023,6 +19353,17 @@
       "target" : {
         "code" : "34473-9",
         "description" : "Neutrophils.vacuolated+Segmented Bld PrThr Pt Ord",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "41431825",
+        "description" : "Lysozyme",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "10971-0",
+        "description" : "Lysozyme Urine MCnc Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -23977,6 +24318,17 @@
       }
     }, {
       "source" : {
+        "code" : "41427805",
+        "description" : "Arsenic, Methylated",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "53779-5",
+        "description" : "Arsenic.methylated Urine MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "41427799",
         "description" : "Coxsackie A Serotype 9",
         "system" : "ih-cerner"
@@ -26738,6 +27090,17 @@
       }
     }, {
       "source" : {
+        "code" : "41425519",
+        "description" : "Arsenic, Organic",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "53778-7",
+        "description" : "Arsenic.organic Urine MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "41425513",
         "description" : "Lipoprotein-Associated Phospholipase A2",
         "system" : "ih-cerner"
@@ -27592,6 +27955,17 @@
       "target" : {
         "code" : "41005-0",
         "description" : "Human coronavirus NL63 RNA PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "41424883",
+        "description" : "Neoplastic cells",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "55437-8",
+        "description" : "Neoplastic cells/100 leukocytes CSF NFr Pt Qn Manual count",
         "system" : "loinc"
       }
     }, {
@@ -32084,6 +32458,17 @@
       }
     }, {
       "source" : {
+        "code" : "41421349",
+        "description" : "Noroxymorphone",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "89302-4",
+        "description" : "Noroxymorphone Urine PrThr Pt Ord Screen",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "41421343",
         "description" : "Rocky Mt Spotted Fever, IgM",
         "system" : "ih-cerner"
@@ -32883,6 +33268,17 @@
       "target" : {
         "code" : "38349-7",
         "description" : "Herpes virus 6 DNA NCnc Pt Qn Probe.amp.tar",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "41420719",
+        "description" : "Activated Clotting Time (Kaolin)",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "80659-6",
+        "description" : "Activated clotting time.kaolin induced Bld Time Pt Qn Coag",
         "system" : "loinc"
       }
     }, {
@@ -33928,6 +34324,28 @@
       "target" : {
         "code" : "56634-9",
         "description" : "Nuclear Ab.IgG Ser Titr Pt SemiQn IF",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "39929361",
+        "description" : "Hemoglobin A1c (POCT)",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "41995-2",
+        "description" : "Hemoglobin A1c Bld MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "39928331",
+        "description" : "Hemoglobin (POCT)",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "718-7",
+        "description" : "Hemoglobin Bld MCnc Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -39718,6 +40136,17 @@
       }
     }, {
       "source" : {
+        "code" : "31715763",
+        "description" : "Hepatitis Panel, Acute (ARUP)",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "24363-4",
+        "description" : "Acute hepatitis 2000 panel Ser - Pt -",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "31715755",
         "description" : "Hepatitis Delta Antigen by ELISA (ARUP)",
         "system" : "ih-cerner"
@@ -40543,6 +40972,17 @@
       }
     }, {
       "source" : {
+        "code" : "31714369",
+        "description" : "Drugs Of Abuse 9, Meconium",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "49046-6",
+        "description" : "Drugs of abuse panel Meconium - Pt -",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "31714353",
         "description" : "Drug Analysis, Hair (Quest Diagnostics)",
         "system" : "ih-cerner"
@@ -40979,6 +41419,17 @@
       "target" : {
         "code" : "64017-7",
         "description" : "Chlamydia trachomatis & Neisseria gonorrhoeae rRNA panel - Pt - Probe.amp.tar",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "31713841",
+        "description" : "CSF Profile  (Protein, Glucose, Cell Cou",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "54230-8",
+        "description" : "Cell count & Differential panel with Glucose & Protein CSF - Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -42721,6 +43172,17 @@
       }
     }, {
       "source" : {
+        "code" : "31711523",
+        "description" : "Alkaline Phosphatase Isoenzyme (ARUP)",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "12805-8",
+        "description" : "Alkaline phosphatase isoenzyme Ser/Plas ACnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "31711515",
         "description" : "Aldosterone/Renin Activity Ratio (ARUP)",
         "system" : "ih-cerner"
@@ -42728,6 +43190,17 @@
       "target" : {
         "code" : "55151-5",
         "description" : "Aldosterone & renin activity panel Plas - Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "31711507",
+        "description" : "Aldosterone, Urine (ARUP)",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1764-0",
+        "description" : "Aldosterone Urine MCnc Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -42981,6 +43454,17 @@
       "target" : {
         "code" : "1668-3",
         "description" : "17-Hydroxyprogesterone Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "31711113",
+        "description" : "17 Hydroxycorticosteroids (ARUP)",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "1666-7",
+        "description" : "17-Hydroxycorticosteroids Urine MCnc Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -44085,6 +44569,17 @@
       }
     }, {
       "source" : {
+        "code" : "31558651",
+        "description" : "CSF Differential Only",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "29584-0",
+        "description" : "Differential panel CSF - Pt -",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "31558539",
         "description" : "Calcium, Ionized (Whole Blood)",
         "system" : "ih-cerner"
@@ -44147,6 +44642,17 @@
       "target" : {
         "code" : "3349-8",
         "description" : "Amphetamines Urine PrThr Pt Ord",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "31558395",
+        "description" : "Albumin/Creatinine Ratio, Urine",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "32294-1",
+        "description" : "Albumin/Creatinine Urine Ratio Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -44239,6 +44745,17 @@
       }
     }, {
       "source" : {
+        "code" : "31558111",
+        "description" : "Hematocrit, Body Fluid",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "11153-4",
+        "description" : "Hematocrit Body fld VFr Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "31558103",
         "description" : "HPYL",
         "system" : "ih-cerner"
@@ -44290,6 +44807,17 @@
       "target" : {
         "code" : "3520-4",
         "description" : "CycloSPORINE Bld MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "31558025",
+        "description" : "CSF Cell Count Only",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "34563-7",
+        "description" : "Cell count panel CSF - Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -45449,6 +45977,17 @@
       }
     }, {
       "source" : {
+        "code" : "2922550",
+        "description" : "Direct Antiglobulin Test",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "51006-5",
+        "description" : "Direct antiglobulin test reagent RBC PrThr Pt Ord",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "2922536",
         "description" : "ABO/Rh Type",
         "system" : "ih-cerner"
@@ -45900,6 +46439,17 @@
       }
     }, {
       "source" : {
+        "code" : "2921470",
+        "description" : "Comprehensive Metabolic Panel",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "24323-8",
+        "description" : "Comprehensive metabolic 2000 panel Ser/Plas - Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "2921462",
         "description" : "Cholesterol Total",
         "system" : "ih-cerner"
@@ -45907,6 +46457,28 @@
       "target" : {
         "code" : "2093-3",
         "description" : "Cholesterol Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2921452",
+        "description" : "CSF Cell Count with Differential",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "34564-5",
+        "description" : "Cell count & Differential panel CSF - Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2921450",
+        "description" : "Cell Count w/ Diff Body Fluid",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "34557-9",
+        "description" : "Cell count & Differential panel Body fld - Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -46065,6 +46637,17 @@
       }
     }, {
       "source" : {
+        "code" : "2921288",
+        "description" : "Basic Metabolic Panel",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "24321-2",
+        "description" : "Basic metabolic 2000 panel Ser/Plas - Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "2921285",
         "description" : "Carboxyhemoglobin Level (Lab)",
         "system" : "ih-cerner"
@@ -46127,6 +46710,17 @@
       "target" : {
         "code" : "2951-2",
         "description" : "Sodium Ser/Plas SCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2921244",
+        "description" : "Electrolyte Panel",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "55231-5",
+        "description" : "Electrolytes panel Bld - Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -46384,6 +46978,17 @@
       }
     }, {
       "source" : {
+        "code" : "28967278831",
+        "description" : "Borrelia Burgdorferi Ab, IgM/IgG by IB,",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "18203-0",
+        "description" : "Borrelia burgdorferi Ab.IgG+IgM Ser PrThr Pt Ord IB",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "28967272807",
         "description" : "Deamidated Gliadin Peptide (DGP) Ab, IgG",
         "system" : "ih-cerner"
@@ -46446,6 +47051,17 @@
       "target" : {
         "code" : "11502-2",
         "description" : "Laboratory report Patient Find Pt Doc",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "28966761647",
+        "description" : "Borrelia Burgdorferi Ab, IgM/IgG by IB,",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "18203-0",
+        "description" : "Borrelia burgdorferi Ab.IgG+IgM Ser PrThr Pt Ord IB",
         "system" : "loinc"
       }
     }, {
@@ -47517,6 +48133,17 @@
       }
     }, {
       "source" : {
+        "code" : "28345108069",
+        "description" : "Basic Metabolic Panel (Piccolo)",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "24321-2",
+        "description" : "Basic metabolic 2000 panel Ser/Plas - Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "28345098601",
         "description" : "Piccolo Amylase",
         "system" : "ih-cerner"
@@ -47524,6 +48151,17 @@
       "target" : {
         "code" : "1798-8",
         "description" : "Amylase Ser/Plas CCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "28344813301",
+        "description" : "Comprehensive Metabolic Panel (Piccolo)",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "24323-8",
+        "description" : "Comprehensive metabolic 2000 panel Ser/Plas - Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -47568,6 +48206,17 @@
       "target" : {
         "code" : "31201-7",
         "description" : "HIV 1+2 Ab Ser/Plas PrThr Pt Ord IA",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "2820736",
+        "description" : "Temperature (Route Not Specified)",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "58681-8",
+        "description" : "Temperature Urine Temp Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -48881,6 +49530,17 @@
       }
     }, {
       "source" : {
+        "code" : "25348461",
+        "description" : "O2 Flow Rate",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "71835-3",
+        "description" : "Oxygen/Gas.total Inhl gas VFr.DF Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "25088043545",
         "description" : "TOTAL PSA with RFLX TO FREE PSA",
         "system" : "ih-cerner"
@@ -49893,6 +50553,17 @@
       }
     }, {
       "source" : {
+        "code" : "23257033",
+        "description" : "Renal Function Panel",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "24362-6",
+        "description" : "Renal function 2000 panel Ser/Plas - Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "23257029",
         "description" : "RPR Titer",
         "system" : "ih-cerner"
@@ -49933,6 +50604,28 @@
       "target" : {
         "code" : "2829-0",
         "description" : "Potassium Urine SRat 24H Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "23257009",
+        "description" : "Potassium Level.",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "32336-0",
+        "description" : "Potassium SCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "23257007",
+        "description" : "Platelets.",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "26515-7",
+        "description" : "Platelets Bld NCnc Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -50058,6 +50751,17 @@
       }
     }, {
       "source" : {
+        "code" : "23256687",
+        "description" : "Hepatic Function Panel",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "24325-3",
+        "description" : "Hepatic function 2000 panel Ser/Plas - Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "23256685",
         "description" : "Hemoglobin and Hematocrit",
         "system" : "ih-cerner"
@@ -50124,6 +50828,28 @@
       }
     }, {
       "source" : {
+        "code" : "23256171",
+        "description" : "Electrolyte Panel",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "55231-5",
+        "description" : "Electrolytes panel Bld - Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "23256169",
+        "description" : "Drug Screen Urine",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "69739-1",
+        "description" : "Drugs of abuse panel Urine - Pt - Screen",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "23256165",
         "description" : "Digoxin Level.",
         "system" : "ih-cerner"
@@ -50142,6 +50868,17 @@
       "target" : {
         "code" : "35674-1",
         "description" : "Creatinine Urine MCnc Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "23256135",
+        "description" : "Comprehensive Metabolic Panel",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "24323-8",
+        "description" : "Comprehensive metabolic 2000 panel Ser/Plas - Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -50175,6 +50912,17 @@
       "target" : {
         "code" : "2075-0",
         "description" : "Chloride Ser/Plas SCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "23256117",
+        "description" : "Cell Count w/ Diff Body Fluid",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "34557-9",
+        "description" : "Cell count & Differential panel Body fld - Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -50230,6 +50978,17 @@
       "target" : {
         "code" : "1975-2",
         "description" : "Bilirubin Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "23256063",
+        "description" : "Basic Metabolic Panel",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "24321-2",
+        "description" : "Basic metabolic 2000 panel Ser/Plas - Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -50443,6 +51202,17 @@
       }
     }, {
       "source" : {
+        "code" : "230441021",
+        "description" : "Pseudomonas aeruginosa",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "100908-3",
+        "description" : "Pseudomonas aeruginosa Respiratory system specimen.lower PrThr Pt Ord Organism specific culture",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "230422127",
         "description" : "Neisseria meningitidis (encapsulated)",
         "system" : "ih-cerner"
@@ -50461,6 +51231,17 @@
       "target" : {
         "code" : "61366-1",
         "description" : "Haemophilus influenzae DNA PrThr Pt Ord Probe.amp.tar",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "230338575",
+        "description" : "Escherichia coli",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "87317-4",
+        "description" : "Escherichia coli Water NCnc Pt Qn Viability count",
         "system" : "loinc"
       }
     }, {
@@ -50725,6 +51506,17 @@
       "target" : {
         "code" : "4049-3",
         "description" : "Theophylline Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "22789226",
+        "description" : "Renal Function Panel",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "24362-6",
+        "description" : "Renal function 2000 panel Ser/Plas - Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -51264,6 +52056,17 @@
       "target" : {
         "code" : "4024-6",
         "description" : "Salicylates Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "22348067",
+        "description" : "Acetaminophen Level",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "12442-0",
+        "description" : "Acetaminophen MCnc Pt Qn",
         "system" : "loinc"
       }
     }, {
@@ -52533,6 +53336,17 @@
       }
     }, {
       "source" : {
+        "code" : "21705644",
+        "description" : "Cortisol",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "2143-6",
+        "description" : "Cortisol Ser/Plas MCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
         "code" : "21705636",
         "description" : "Hep Be Ab",
         "system" : "ih-cerner"
@@ -53145,6 +53959,17 @@
       "target" : {
         "code" : "26454-9",
         "description" : "Erythrocytes CSF NCnc Pt Qn",
+        "system" : "loinc"
+      }
+    }, {
+      "source" : {
+        "code" : "21705406",
+        "description" : "Transferrin",
+        "system" : "ih-cerner"
+      },
+      "target" : {
+        "code" : "3034-6",
+        "description" : "Transferrin Ser/Plas MCnc Pt Qn",
         "system" : "loinc"
       }
     }, {

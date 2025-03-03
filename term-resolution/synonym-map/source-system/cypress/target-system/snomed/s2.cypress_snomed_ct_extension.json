@@ -1,6 +1,6 @@
 {
   "id" : "s2.cypress_snomed_ct_extension",
-  "creationDate" : "2025-01-29T16:19:43-0500",
+  "creationDate" : "2025-03-03T10:00:56-0500",
   "source" : "symedical",
   "map" : {
     "mapId" : "cypress_snomed_ct_extension",
@@ -48,6 +48,17 @@
       "target" : {
         "code" : "258806002",
         "description" : "ng/mL",
+        "system" : "snomed"
+      }
+    }, {
+      "source" : {
+        "code" : "mmol/L test",
+        "description" : "mmol/L",
+        "system" : "cypress"
+      },
+      "target" : {
+        "code" : "258813002",
+        "description" : "mmol/L",
         "system" : "snomed"
       }
     }, {
