@@ -1,0 +1,35 @@
+{
+    "target": {
+      "code": "105107-7",
+      "description": "Erythrocytes Naric Pt Urine sed Qn",
+      "system": "loinc"
+    },
+    "children": {
+      "20509-6": {
+        "source": {
+          "code": "13945-1",
+          "description": "Erythrocytes Naric Pt Urine sed Qn Microscopy.light.HPF",
+          "system": "loinc"
+        },
+        "target": {
+          "code": "105107-7",
+          "description": "Erythrocytes Naric Pt Urine sed Qn",
+          "system": "loinc"
+        },
+        "descriptors": [
+          {
+            "key": {
+              "code": "85069-3",
+              "description": "Lab test method [Type]",
+              "system": "loinc"
+            },
+            "value": {
+              "code": "702661004",
+              "description": "Light microscopy technique",
+              "system": "snomed"
+            }
+          }
+        ]
+      }
+    }
+  }
