@@ -24,8 +24,8 @@
             "system": "loinc"
           },
           "value": {
-            "code": "31071000205106",
-            "description": "Oximetry testing technique",
+            "code": "10041010000105",
+            "description": "Oximetry technique",
             "system": "snomed"
           }
         }

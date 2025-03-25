@@ -50,8 +50,8 @@
             "system": "loinc"
           },
           "value": {
-            "code": "362943005",
-            "description": "Manual method",
+            "code": "702663001",
+            "description": "Manual count technique",
             "system": "snomed"
           }
         }

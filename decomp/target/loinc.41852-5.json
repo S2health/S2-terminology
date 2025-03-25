@@ -24,8 +24,8 @@
             "system": "loinc"
           },
           "value": {
-            "code": "703725008",
-            "description": "Culture technique",
+            "code": "702658000",
+            "description": "Microbial culture technique",
             "system": "snomed"
           }
         }

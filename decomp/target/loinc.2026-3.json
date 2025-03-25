@@ -24,8 +24,8 @@
             "system": "loinc"
           },
           "value": {
-            "code": "117337005",
-            "description": "Calculated laboratory test method",
+            "code": "702873001",
+            "description": "Calculated technique",
             "system": "snomed"
           }
         }

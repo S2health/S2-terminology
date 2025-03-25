@@ -24,8 +24,8 @@
               "system": "loinc"
             },
             "value": {
-              "code": "702661004",
-              "description": "Light microscopy technique",
+              "code": "702662006",
+              "description": "High power field light microscopy technique",
               "system": "snomed"
             }
           }
