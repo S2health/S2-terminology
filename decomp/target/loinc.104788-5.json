@@ -24,8 +24,8 @@
             "system": "loinc"
           },
           "value": {
-            "code": "702673004",
-            "description": "Deoxyribonucleic acid probe technique",
+            "code": "702674005",
+            "description": "Nucleic acid hybridization probe technique",
             "system": "snomed"
           }
         }

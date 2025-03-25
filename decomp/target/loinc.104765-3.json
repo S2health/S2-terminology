@@ -25,7 +25,7 @@
           },
           "value": {
             "code": "702675006",
-            "description": "Probe with target amplification technique technique",
+            "description": "Probe with target amplification technique",
             "system": "snomed"
           }
         },
@@ -36,8 +36,8 @@
             "system": "loinc"
           },
           "value": {
-            "code": "430304001",
-            "description": "Specimen from unspecified body site",
+            "code": "123038009",
+            "description": "Specimen",
             "system": "snomed"
           }
         }
@@ -63,7 +63,7 @@
           },
           "value": {
             "code": "702675006",
-            "description": "Probe with target amplification technique technique",
+            "description": "Probe with target amplification technique",
             "system": "snomed"
           }
         },
@@ -101,7 +101,7 @@
           },
           "value": {
             "code": "702675006",
-            "description": "Probe with target amplification technique technique",
+            "description": "Probe with target amplification technique",
             "system": "snomed"
           }
         },

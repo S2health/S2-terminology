@@ -24,8 +24,8 @@
             "system": "loinc"
           },
           "value": {
-            "code": "703725008",
-            "description": "Culture technique",
+            "code": "702658000",
+            "description": "Microbial culture technique",
             "system": "snomed"
           }
         },
@@ -74,8 +74,8 @@
             "system": "loinc"
           },
           "value": {
-            "code": "430304001",
-            "description": "Specimen from unspecified body site",
+            "code": "123038009",
+            "description": "Specimen",
             "system": "snomed"
           }
         }

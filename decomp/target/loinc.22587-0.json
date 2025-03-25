@@ -24,8 +24,8 @@
             "system": "loinc"
           },
           "value": {
-            "code": "406867009",
-            "description": "Immunofluorescent stain method",
+            "code": "703444002",
+            "description": "Immunofluorescence technique",
             "system": "snomed"
           }
         }

@@ -25,7 +25,7 @@
           },
           "value": {
             "code": "702675006",
-            "description": "Probe with target amplification technique technique",
+            "description": "Probe with target amplification technique",
             "system": "snomed"
           }
         },
@@ -36,8 +36,8 @@
             "system": "loinc"
           },
           "value": {
-            "code": "734337004",
-            "description": "Specimen from mass of nasopharynx",
+            "code": "430248009",
+            "description": "Specimen from nasopharyngeal structure (specimen)",
             "system": "snomed"
           }
         }

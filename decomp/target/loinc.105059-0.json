@@ -62,8 +62,8 @@
             "system": "loinc"
           },
           "value": {
-            "code": "430304001",
-            "description": "Specimen from unspecified body site",
+            "code": "123038009",
+            "description": "Specimen",
             "system": "snomed"
           }
         }
