@@ -436,6 +436,7 @@ s2-EHR-Info_node.anatomical_location_classical.v1,id1.1,72369-2
 s2-EHR-Info_node.anatomical_location_precise.v1,id0.2,a8a2a4f7-6c82-ef11-8870-6045bdc71c8b
 s2-EHR-Info_node.anatomical_location_precise.v1,id0.3,096cef88-6e82-ef11-8870-6045bdc71c8b
 s2-EHR-Info_node.anatomical_location_precise.v1,id0.4,b3090190-6e82-ef11-8870-6045bdc71c8b
+s2-EHR-Info_node.anatomical_location_precise.v1,id0.5,f545b596-6e82-ef11-8870-6045bdc71c8b
 s2-EHR-Info_node.anatomical_location_precise.v1,id1.1,109b0e9f-6e82-ef11-8870-6045bdc71c8b
 s2-EHR-Info_node.anatomical_location_relative.v2,id0.21,035dbdaf-6e82-ef11-8870-6045bdc71c8b
 s2-EHR-Info_node.anatomical_location_relative.v2,id0.22,106185-2
@@ -537,13 +538,13 @@ s2-EHR-Info_node.level_of_exertion.v0,id12,74008-4
 s2-EHR-Info_node.level_of_exertion.v0,id17,107132-3
 s2-EHR-Info_node.level_of_exertion.v0,id6,107126-5
 s2-EHR-Info_node.media_file.v2,id1,107134-9
-s2-EHR-Info_node.media_file.v2,id11,c9beaf97-5f86-ef11-8870-6045bdc71c8b
+s2-EHR-Info_node.media_file.v2,id11,107137-2
 s2-EHR-Info_node.media_file.v2,id12,82307-0
 s2-EHR-Info_node.media_file.v2,id13,104976-6
 s2-EHR-Info_node.media_file.v2,id14,107136-4
-s2-EHR-Info_node.media_file.v2,id2,c0b9e266-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.media_file.v2,id3,0764e579-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.media_file.v2,id5,f76feb90-7182-ef11-8870-6045bdc71c8b
+s2-EHR-Info_node.media_file.v2,id2,107135-6
+s2-EHR-Info_node.media_file.v2,id3,107134-9
+s2-EHR-Info_node.media_file.v2,id5,107133-1
 s2-EHR-Info_node.media_file.v2,id6,104973-3
 s2-EHR-Info_node.media_file.v2,id8,106173-8
 s2-EHR-Info_node.medication.v3,id1,74078-7
@@ -568,7 +569,7 @@ s2-EHR-Info_node.medication_authorisation.v0,id74,71573-0
 s2-EHR-Info_node.medication_authorisation.v0,id79,2b5f8cc6-7182-ef11-8870-6045bdc71c8b
 s2-EHR-Info_node.medication_authorisation.v0,id80,825f8cc6-7182-ef11-8870-6045bdc71c8b
 s2-EHR-Info_node.medication_authorisation.v0,id81,b9d481db-7182-ef11-8870-6045bdc71c8b
-s2-EHR-Info_node.medication_order_summary.v0,id1,eb2c16f7-7182-ef11-8870-6045bdc71c8b
+s2-EHR-Info_node.medication_order_summary.v0,id1,56445-0
 s2-EHR-Info_node.medication_order_summary.v0,id2,d521bae4-7182-ef11-8870-6045bdc71c8b
 s2-EHR-Info_node.medication_order_summary.v0,id29,90089-4
 s2-EHR-Info_node.medication_order_summary.v0,id3,6629d5ec-7182-ef11-8870-6045bdc71c8b
@@ -653,7 +654,7 @@ s2-EHR-Order.medication_order.v4,id10,104818-0
 s2-EHR-Order.medication_order.v4,id106,74772-5
 s2-EHR-Order.medication_order.v4,id107,104763-8
 s2-EHR-Order.medication_order.v4,id108,107150-5
-s2-EHR-Order.medication_order.v4,id113,8fc58633-6982-ef11-8870-6045bdc71c8b
+s2-EHR-Order.medication_order.v4,id113,56445-0
 s2-EHR-Order.medication_order.v4,id114,ee02613c-6982-ef11-8870-6045bdc71c8b
 s2-EHR-Order.medication_order.v4,id12,104784-4
 s2-EHR-Order.medication_order.v4,id13,95895-9
@@ -856,7 +857,7 @@ s2-ENTITY-Substance_kind.medication.v1,id1,74078-7
 s2-ENTITY-Substance_kind.medication.v1,id116,74057-1
 s2-ENTITY-Substance_kind.medication.v1,id128,104723-2
 s2-ENTITY-Substance_kind.medication.v1,id133,74058-9
-s2-ENTITY-Substance_kind.medication.v1,id134,1c814f9b-cbe7-ee11-8869-6045bdc71c8b
+s2-ENTITY-Substance_kind.medication.v1,id134,107132-3
 s2-ENTITY-Substance_kind.medication.v1,id139,31258fe3-bc8f-ef11-8872-6045bdc71c8b
 s2-ENTITY-Substance_kind.medication.v1,id140,82767-5
 s2-ENTITY-Substance_kind.medication.v1,id142,d78806bb-7182-ef11-8870-6045bdc71c8b
@@ -864,4 +865,3 @@ s2-ENTITY-Substance_kind.medication.v1,id143,e55abf1c-7282-ef11-8870-6045bdc71c8
 s2-ENTITY-Substance_kind.medication.v1,id149,104823-0
 s2-ENTITY-Substance_kind.medication.v1,id152,74719-6
 s2-ENTITY-Substance_kind.medication.v1,id153,6a8a94b8-624f-ef11-886e-6045bdc71c8b
-s2-ENTITY-Substance_kind.medication.v1,id72,74055-5
