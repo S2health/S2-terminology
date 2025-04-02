@@ -1,6 +1,6 @@
 {
   "target" : {
-    "code" : "8480-7",
+    "code" : "8480-6",
     "description" : "Systolic blood pressure",
     "system" : "loinc"
   },
@@ -12,7 +12,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -36,7 +36,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -60,7 +60,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -84,7 +84,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -108,7 +108,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -132,7 +132,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -156,7 +156,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -180,7 +180,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -204,7 +204,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -228,7 +228,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -252,7 +252,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -276,7 +276,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -300,7 +300,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -324,7 +324,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -348,7 +348,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -372,7 +372,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -407,7 +407,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -442,7 +442,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -477,7 +477,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -512,7 +512,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -547,7 +547,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -582,7 +582,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -606,7 +606,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -641,7 +641,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -676,7 +676,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -711,7 +711,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
@@ -746,7 +746,7 @@
         "system" : "loinc"
       },
       "target" : {
-        "code" : "8480-7",
+        "code" : "8480-6",
         "description" : "Systolic blood pressure",
         "system" : "loinc"
       },
