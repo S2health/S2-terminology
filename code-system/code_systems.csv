@@ -1,15 +1,15 @@
-issuer,code_namespace,terminology_uri,terminology_code_uri_root,description
-iso,iso_3166-1-alpha2,http://iso.org/code_sets/iso_3166-1-alpha2,http://iso.org/code_sets/iso_3166-1-alpha2/,2-character ISO country codes
-iso,iso_3166-1-alpha3,http://iso.org/code_sets/iso_3166-1-alpha3,http://iso.org/code_sets/iso_3166-1-alpha3/,3-character ISO country codes
-iso,iso_639-1,http://iso.org/code_sets/iso_639-1,http://iso.org/code_sets/iso_639-1/,2-character ISO language codes
-iso,iso_639-3,http://iso.org/code_sets/iso_639-3,http://iso.org/code_sets/iso_639-3/,3-character ISO language codes
-iana,iana_media-types,http://iana.org/code_sets/media-types,http://iana.org/code_sets/media-types/,IANA media types
-iana,iana_character-sets,http://iana.org/code_sets/character-sets,http://iana.org/code_sets/character-sets/,IANA character sets
-loinc,loinc,http://loinc.org,http://loinc.org/,LOINC terminology system (Regenstrief)
-snomed,snomed,http://snomed.info/sct,http://snomed.info/id/,SNOMED terminology system (SNOMED International)
-rxnorm,rxnorm,http://www.nlm.nih.gov/research/umls/rxnorm,http://www.nlm.nih.gov/research/umls/rxnorm/,RxNorm medications terminology (NLM)
-hl7,cvx,http://hl7.org/fhir/sid/cvx,http://hl7.org/fhir/sid/cvx/,CDC CVX vaccine terminology (HL7)
-hl7,ndc,http://hl7.org/fhir/sid/ndc,http://hl7.org/fhir/sid/ndc/,FDA NDC drug codes terminology (HL7)
-openehr,openehr,http://openehr.org,http://openehr.org/id/,openEHR terminology and value sets (openEHR International)
-ucum,ucum,http://ucum.org,http://ucum.org/id/,Unified Code for Units of Measure (Regenstrief)
-s2,s2,http://s2health.org,http://s2health.org/id/,S2 terminology and value sets (s2health.org / Graphite)
+issuer,code_namespace,terminology_uri,terminology_code_uri_root,description,map-fhir
+iso,iso_3166-1-alpha2,http://iso.org/code_sets/iso_3166-1-alpha2,http://iso.org/code_sets/iso_3166-1-alpha2/,2-character ISO country codes,http://hl7.org/fhir/ValueSet/iso3166-1-2
+iso,iso_3166-1-alpha3,http://iso.org/code_sets/iso_3166-1-alpha3,http://iso.org/code_sets/iso_3166-1-alpha3/,3-character ISO country codes,http://hl7.org/fhir/ValueSet/iso3166-1-3
+iso,iso_639-1,http://iso.org/code_sets/iso_639-1,http://iso.org/code_sets/iso_639-1/,2-character ISO language codes,http://terminology.hl7.org/CodeSystem/iso639-1
+iso,iso_639-3,http://iso.org/code_sets/iso_639-3,http://iso.org/code_sets/iso_639-3/,3-character ISO language codes,http://terminology.hl7.org/CodeSystem/iso639-3
+iana,iana_media-types,http://iana.org/code_sets/media-types,http://iana.org/code_sets/media-types/,IANA media types,http://terminology.hl7.org/CodeSystem/v3-mediaType
+iana,iana_character-sets,http://iana.org/code_sets/character-sets,http://iana.org/code_sets/character-sets/,IANA character sets,http://terminology.hl7.org/CodeSystem/v3-Charset
+loinc,loinc,http://loinc.org,http://loinc.org/,LOINC terminology system (Regenstrief),
+snomed,snomed,http://snomed.info/sct,http://snomed.info/id/,SNOMED terminology system (SNOMED International),
+rxnorm,rxnorm,http://www.nlm.nih.gov/research/umls/rxnorm,http://www.nlm.nih.gov/research/umls/rxnorm/,RxNorm medications terminology (NLM),
+hl7,cvx,http://hl7.org/fhir/sid/cvx,http://hl7.org/fhir/sid/cvx/,CDC CVX vaccine terminology (HL7),http://hl7.org/fhir/sid/cvx/
+hl7,ndc,http://hl7.org/fhir/sid/ndc,http://hl7.org/fhir/sid/ndc/,FDA NDC drug codes terminology (HL7),http://hl7.org/fhir/sid/ndc/
+openehr,openehr,http://openehr.org,http://openehr.org/id/,openEHR terminology and value sets (openEHR International),
+ucum,ucum,http://ucum.org,http://ucum.org/id/,Unified Code for Units of Measure (Regenstrief),
+s2,s2,http://s2health.org,http://s2health.org/id/,S2 terminology and value sets (s2health.org / Graphite),
