@@ -31,8 +31,8 @@ jobs:
       uses: docker/login-action@v3
       with:
         registry: ${{ vars.CONTAINER_REGISTRY }}
-        username: ${{ secrets.JFROG_USER }}
-        password: ${{ secrets.JFROG_TOKEN }}
+        username: ${{ secrets.ACR_USER }}
+        password: ${{ secrets.ACR_PASS }}
 
     - name: Set Docker Metadata
       uses: docker/metadata-action@v5
