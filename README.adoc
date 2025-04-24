@@ -2,11 +2,37 @@
 
 == Code systems
 
-The directory code_systems contains files providing standard meta-data about terminologies, incuding:
+The directory `code-systems` contains a table of terminology meta-data, including:
 
-* S2 namespace
+* namespace
 * URI identifying the terminology
 * URI pattern for creating a code URI in the terminology
 * (others in future)
+
+== LOINC
+
+The directory `LOINC` contains master files of LOINC codes, definition and mapping to S2 model elements
+
+== Code sets
+
+The directory `code-set` contains terminologies whose codes are meaningful and are usually used rather than their descriptions. These include ISO languages, territories, IANA mime types and similar terminologies. They are maintained here because there is currently no recognised online computable form available from their publishers.
+
+== Value sets
+
+The directory `value-set` contains terminology value sets, formed from the codes of terminologies such as SNOMED CT, RxNorm and others.
+
+== Decomp maps
+
+The `decomp` directory contains terminology'decomposition' maps, i.e. mappings of specific to general (parent) codes within LOINC and some other terminologies.
+
+== Injection files
+
+The `injection` directory contains files that may be injected into the S2 models using the adlc CLI (part of the ADL Workbench software).
+
+== Term resolution maps
+
+The `term-resolution` directory contains maps from source system codes or text to various terminologies.
+
+
 
 
